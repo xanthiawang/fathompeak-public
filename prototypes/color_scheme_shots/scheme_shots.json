@@ -1,0 +1,243 @@
+{
+ "A": {
+  "info": {
+   "x": 147,
+   "y": 489.375,
+   "w": 1146,
+   "h": 431.375,
+   "nav_h": 69,
+   "h1_top": 161,
+   "scheme": "A",
+   "pressed": [
+    "schemeA=true",
+    "schemeB=false",
+    "schemeC=false"
+   ],
+   "paint": 3,
+   "sh": 5422,
+   "sw": 1440,
+   "iw": 1440,
+   "title": "沐仞品牌色彩 Demo"
+  },
+  "js_errors": [],
+  "log": [],
+  "png": "scheme_A_desktop_1440.png",
+  "hero_png": "scheme_A_hero.png",
+  "hero_band": {
+   "left_to_right": [
+    "#EFF5F7",
+    "#E3ECEF",
+    "#EFF5F7",
+    "#668491",
+    "#DFEFF2"
+   ],
+   "top_to_bottom": [
+    "#F6FBFB",
+    "#DBEEF1",
+    "#8EA4AE",
+    "#7F909B",
+    "#F1F5F6"
+   ],
+   "max_adjacent_col_dE": 29.01,
+   "max_adjacent_row_dE": 19.46,
+   "p99_col_dE": 3.74,
+   "p99_row_dE": 5.61
+  },
+  "background": {
+   "bottom_strip_L2R": {
+    "stops": [
+     "#E2ECEE",
+     "#EBF2F4",
+     "#FBFCFC",
+     "#E9EBEE",
+     "#FBFCFC"
+    ],
+    "max_adjacent_dE": 0.84,
+    "mean_adjacent_dE": 0.203,
+    "total_dE": 232.9
+   },
+   "left_gutter_T2B": {
+    "stops": [
+     "#F2F9FA",
+     "#F5FAFA",
+     "#EDF4F5",
+     "#E6EEF0",
+     "#E1EBEE"
+    ],
+    "max_adjacent_dE": 1.25,
+    "mean_adjacent_dE": 0.515,
+    "total_dE": 183.8
+   }
+  },
+  "overflow": false
+ },
+ "B": {
+  "info": {
+   "x": 147,
+   "y": 510.8125,
+   "w": 1146,
+   "h": 431.375,
+   "nav_h": 69,
+   "h1_top": 161,
+   "scheme": "B",
+   "pressed": [
+    "schemeA=false",
+    "schemeB=true",
+    "schemeC=false"
+   ],
+   "paint": 3,
+   "sh": 6925,
+   "sw": 1440,
+   "iw": 1440,
+   "title": "沐仞品牌色彩 Demo"
+  },
+  "js_errors": [],
+  "log": [],
+  "png": "scheme_B_desktop_1440.png",
+  "hero_png": "scheme_B_hero.png",
+  "hero_band": {
+   "left_to_right": [
+    "#F1F0F6",
+    "#E7E7ED",
+    "#F5F4F5",
+    "#848391",
+    "#F1EDEC"
+   ],
+   "top_to_bottom": [
+    "#FAFAFB",
+    "#EFEBEC",
+    "#A3A3B1",
+    "#8F8F99",
+    "#F4F2F6"
+   ],
+   "max_adjacent_col_dE": 27.67,
+   "max_adjacent_row_dE": 19.6,
+   "p99_col_dE": 3.62,
+   "p99_row_dE": 6.54
+  },
+  "background": {
+   "bottom_strip_L2R": {
+    "stops": [
+     "#E8E2EC",
+     "#F0EBF2",
+     "#FBFCFC",
+     "#EAECEE",
+     "#FBFCFC"
+    ],
+    "max_adjacent_dE": 0.84,
+    "mean_adjacent_dE": 0.184,
+    "total_dE": 210.4
+   },
+   "left_gutter_T2B": {
+    "stops": [
+     "#F2F6FC",
+     "#F5F6FB",
+     "#F2EFF5",
+     "#EBE6EE",
+     "#E7E1EB"
+    ],
+    "max_adjacent_dE": 1.22,
+    "mean_adjacent_dE": 0.446,
+    "total_dE": 159.2
+   }
+  },
+  "overflow": false
+ },
+ "C": {
+  "info": {
+   "x": 147,
+   "y": 532.25,
+   "w": 1146,
+   "h": 585.375,
+   "nav_h": 69,
+   "h1_top": 315,
+   "scheme": "C",
+   "pressed": [
+    "schemeA=false",
+    "schemeB=false",
+    "schemeC=true"
+   ],
+   "paint": 3,
+   "sh": 7367,
+   "sw": 1440,
+   "iw": 1440,
+   "title": "沐仞品牌色彩 Demo"
+  },
+  "js_errors": [],
+  "log": [],
+  "png": "scheme_C_desktop_1440.png",
+  "hero_png": "scheme_C_hero.png",
+  "hero_band": {
+   "left_to_right": [
+    "#E6ECE7",
+    "#D9E0DB",
+    "#EBEEEB",
+    "#919F95",
+    "#E0E6E1"
+   ],
+   "top_to_bottom": [
+    "#B2BEB6",
+    "#E1E6DC",
+    "#A2AEA6",
+    "#9CA6A0",
+    "#FBFBFC"
+   ],
+   "max_adjacent_col_dE": 19.68,
+   "max_adjacent_row_dE": 31.7,
+   "p99_col_dE": 2.31,
+   "p99_row_dE": 6.53
+  },
+  "background": {
+   "bottom_strip_L2R": {
+    "stops": [
+     "#FFFFFF",
+     "#FFFFFF",
+     "#FBFCFC",
+     "#EAECEE",
+     "#FBFCFC"
+    ],
+    "max_adjacent_dE": 0.84,
+    "mean_adjacent_dE": 0.06,
+    "total_dE": 69.1
+   },
+   "left_gutter_T2B": {
+    "stops": [
+     "#567D62",
+     "#F1F5F0",
+     "#FFFFFF",
+     "#FFFFFF",
+     "#FFFFFF"
+    ],
+    "max_adjacent_dE": 1.45,
+    "mean_adjacent_dE": 0.178,
+    "total_dE": 90.9
+   },
+   "paint_band_L2R": {
+    "stops": [
+     "#BECEC0",
+     "#C0CCC0",
+     "#DBE2D8",
+     "#DFE4DB",
+     "#BBCBBC"
+    ],
+    "max_adjacent_dE": 0.89,
+    "mean_adjacent_dE": 0.164,
+    "total_dE": 187.8
+   },
+   "paint_band_fade_T2B": {
+    "stops": [
+     "#567D62",
+     "#B8CAB9",
+     "#E5ECE4",
+     "#FFFFFF",
+     "#FFFFFF"
+    ],
+    "max_adjacent_dE": 1.45,
+    "mean_adjacent_dE": 0.336,
+    "total_dE": 80.4
+   }
+  },
+  "overflow": false
+ },
+ "captured_at": "2026-10-12 18:10:00 +0800"
+}
