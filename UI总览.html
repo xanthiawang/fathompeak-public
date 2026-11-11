@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>沐仞 · UI 总览</title>
+<style>
+:root{--bg:#F8F8F8;--card:#FFFFFF;--ink:#212021;--ink-70:rgba(33,32,33,.7);--blue:#2F63B8;--dusk:#3D314F;--line:rgba(61,49,79,.14)}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(180deg,#EEF3FB 0,#F8F8F8 420px);color:var(--ink);font:15px/1.6 "DM Sans","PingFang SC","Hiragino Sans GB",system-ui,sans-serif}
+main{max-width:1080px;margin:0 auto;padding:56px 24px 96px}
+h1{font:400 44px/1.1 Georgia,"Songti SC","STSong",serif;letter-spacing:-.02em;margin:0 0 10px}
+.lead{color:var(--ink-70);margin:0 0 40px;max-width:720px}
+h2{font:400 26px/1.2 Georgia,"Songti SC","STSong",serif;margin:44px 0 6px}
+.sub{color:var(--ink-70);margin:0 0 16px;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+a.c{display:block;padding:16px 18px;background:rgba(255,255,255,.86);border:1px solid var(--line);border-radius:16px;color:inherit;text-decoration:none;transition:background-color .15s,border-color .15s}
+a.c:hover{background:#fff;border-color:rgba(47,99,184,.45)}
+a.c b{display:block;font-weight:500;margin-bottom:2px}
+a.c span{display:block;color:var(--ink-70);font-size:13px;line-height:1.5}
+a.c i{font-style:normal;font:12px/1 "DM Mono",Menlo,monospace;color:var(--blue)}
+code{font:13px "DM Mono",Menlo,monospace;background:rgba(61,49,79,.07);padding:1px 6px;border-radius:6px}
+@media (max-width:600px){main{padding:36px 16px 64px}h1{font-size:34px}}
+</style>
+</head>
+<body>
+<main>
+<h1>沐仞 · UI 总览</h1>
+<p class="lead">这个仓库里所有能打开的界面，点开就能看。需要先在仓库根目录运行 <code>python3 -m http.server 8000</code>，再打开 <code>http://localhost:8000/UI总览.html</code>（直接双击本地文件，部分页面的字体和图片会加载不了）。</p>
+
+<h2>官网与后台（现行版本）</h2>
+<p class="sub">2026-11-06 的官网，加入应用页之前的版本，另补「认证有礼」。后台预览是浏览器内存里的空账户，不连接真实接口。</p>
+<div class="grid">
+<a class="c" href="site/projects/website/index.html"><b>官网首页</b><span>首页、产品、定价、行业方案等全部页面</span></a>
+<a class="c" href="site/projects/website/index.html#console-preview"><b>后台 · 个人账户</b><span>概览、模型 API、体验中心、Key、钱包与账单（认证有礼）、实名认证</span></a>
+<a class="c" href="site/projects/website/index.html#console-preview-admin"><b>后台 · 企业管理员</b><span>成员、组织钱包、企业认证</span></a>
+<a class="c" href="site/projects/website/index.html#console-preview-member"><b>后台 · 企业成员</b><span>成员视角的后台</span></a>
+<a class="c" href="site/projects/website/index.html#console-preview-root"><b>后台 · 超级管理员</b><span>平台运营后台</span></a>
+<a class="c" href="site/projects/website/mini-preview/index.html"><b>小程序预览</b><span>微信小程序界面</span></a>
+<a class="c" href="site/projects/website/design/palette-type.html"><b>色卡与文字规范</b><span>色值、字体样张、后台组件参数</span></a>
+<a class="c" href="site/projects/website/design/type-zh-options.html"><b>中文字体选项</b><span>中文标题与正文字体对比</span></a>
+</div>
+
+<h2>总则与品牌</h2>
+<div class="grid">
+<a class="c" href="总则/README.md"><b>UI 总则与视觉总则</b><span>文字版总则（Markdown）</span></a>
+<a class="c" href="总则/色彩过渡研究_2026-10-13.html"><b>色彩过渡研究</b><span>渐变与色彩过渡定稿</span></a>
+<a class="c" href="总则/配色渐变方案_Aetherfield映射_2026-10-14.html"><b>配色渐变方案</b><span>渐变配色映射</span></a>
+<a class="c" href="brand/logo/层叠峰面_中英字标统一_v31_2026-10-20/预览.html"><b>Logo v31 预览</b><span>主标、圆形、方形、中英字标、微信头像</span></a>
+<a class="c" href="brand/品牌表达/沐仞品牌叙事页_v4_2026-10-13.html"><b>品牌叙事页 v4</b><span>品牌表达</span></a>
+<a class="c" href="site/projects/visual-materials/index.html"><b>视觉素材库</b><span>色彩字体、图标、插画背景、品牌标识、截图、公众号视觉</span></a>
+</div>
+
+<h2>公众号与对外介绍</h2>
+<div class="grid">
+<a class="c" href="site/projects/visual-materials/09_公众号视觉/2026-10-20/article-compute-energy/index.html"><b>公司介绍文章</b><span>算力与能源，含配图</span></a>
+<a class="c" href="site/projects/visual-materials/recruitment/index.html"><b>招聘文章</b><span>丝网拼贴版</span></a>
+<a class="c" href="site/projects/visual-materials/cctv/index.html"><b>央视报道文章</b><span>报道照片与头尾视觉</span></a>
+<a class="c" href="site/projects/visual-materials/09_公众号视觉/2026-10-20/index.html"><b>公众号头尾卡片</b><span>开头主视觉、结尾介绍卡</span></a>
+<a class="c" href="site/publications/business/index.html"><b>业务与合作介绍</b><span>晨蓝版画开篇、业务邮票拼贴、合作联系卡</span></a>
+<a class="c" href="site/publications/seedance-comparison/index.html"><b>Seedance 2.0 对照</b><span>移动供应商与官方，原片与计时</span></a>
+</div>
+
+<h2>交互原型</h2>
+<p class="sub">每个原型只保留最后一轮。</p>
+<div class="grid">
+<a class="c" href="prototypes/首页文案与合作方_2026-10-28/site_r11/index.html"><i>10-28</i><b>首页文案与合作方</b><span>第 11 轮</span></a>
+<a class="c" href="prototypes/行业解决方案_2026-10-29/site_v22/index.html"><i>10-29</i><b>行业解决方案</b><span>第 22 轮</span></a>
+<a class="c" href="prototypes/产品页总览_every风格_2026-10-29/site_A/index.html"><i>10-29</i><b>产品页总览 · A</b><span>every 风格</span></a>
+<a class="c" href="prototypes/产品页总览_every风格_2026-10-29/site_B/index.html"><i>10-29</i><b>产品页总览 · B</b><span>every 风格</span></a>
+<a class="c" href="prototypes/产品页总览_every风格_2026-10-29/site_C/index.html"><i>10-29</i><b>产品页总览 · C</b><span>every 风格</span></a>
+<a class="c" href="prototypes/产品页总览动画_2026-10-29/ov-anim.html"><i>10-29</i><b>产品页总览动画</b><span>四层图动画</span></a>
+<a class="c" href="prototypes/设置密码预览_2026-10-28/site/index.html"><i>10-28</i><b>设置密码</b><span>登录后设置密码流程</span></a>
+<a class="c" href="prototypes/合作方logo统一高度_2026-10-30/合作方logo统一高度_对比_2026-10-30.html"><i>10-30</i><b>合作方 logo 统一高度</b><span>前后对比</span></a>
+<a class="c" href="prototypes/绿洲进控制台_2026-10-17/绿洲进控制台预览_2026-10-17.html"><i>10-17</i><b>绿洲进控制台</b><span>用户后台里的绿洲养成页</span></a>
+<a class="c" href="prototypes/企业去认证_2026-10-15/企业去认证预览_2026-10-15.html"><i>10-15</i><b>企业认证</b><span>企业去认证流程</span></a>
+<a class="c" href="prototypes/后台按身份分开_2026-10-15/全站预览_2026-10-15.html"><i>10-15</i><b>后台按身份分开 · 全站</b><span>登录入口与各身份入口</span></a>
+<a class="c" href="prototypes/后台按身份分开_2026-10-15/后台_登录入口_2026-10-15.html"><i>10-15</i><b>后台 · 登录入口</b><span></span></a>
+<a class="c" href="prototypes/后台按身份分开_2026-10-15/后台_个人版_2026-10-15.html"><i>10-15</i><b>后台 · 个人版</b><span></span></a>
+<a class="c" href="prototypes/后台按身份分开_2026-10-15/后台_企业管理员版_2026-10-15.html"><i>10-15</i><b>后台 · 企业管理员版</b><span></span></a>
+<a class="c" href="prototypes/后台按身份分开_2026-10-15/后台_企业成员版_2026-10-15.html"><i>10-15</i><b>后台 · 企业成员版</b><span></span></a>
+<a class="c" href="prototypes/后台按身份分开_2026-10-15/后台_超管版_2026-10-15.html"><i>10-15</i><b>后台 · 超管版</b><span></span></a>
+<a class="c" href="prototypes/官网与登录页最新UI_2026-10-27/"><i>10-27</i><b>官网与登录页最新 UI</b><span>截图：各页、小程序四栏、登录页中英与手机</span></a>
+<a class="c" href="prototypes/新logo替换预览_2026-10-19/"><i>10-19</i><b>新 Logo 替换</b><span>截图：替换位置、比例检查、公众号二维码</span></a>
+<a class="c" href="prototypes/color_scheme_shots/"><b>配色方案截图</b><span></span></a>
+<a class="c" href="prototypes/type_specimen_shots/"><b>字体样张截图</b><span></span></a>
+</div>
+
+<h2>历史版本方案（加入应用页之前）</h2>
+<div class="grid">
+<a class="c" href="历史版本方案/energy-draft/index.html"><b>能源青与暖金版</b><span></span></a>
+<a class="c" href="历史版本方案/pine-draft/index.html"><b>松绿油画版</b><span></span></a>
+<a class="c" href="历史版本方案/purple-draft/index.html"><b>紫与青版</b><span></span></a>
+<a class="c" href="历史版本方案/branches/website-logo-exploration/index.html"><b>官网 Logo 探索分支</b><span></span></a>
+<a class="c" href="历史版本方案/early-website/README.md"><b>最早的整站初稿</b><span>React + Vite 项目，要先 <code>npm install</code> 再 <code>npm run dev</code> 才能看</span></a>
+</div>
+
+<h2>调研</h2>
+<div class="grid">
+<a class="c" href="research/四家竞品对比_打印精简版_2026-10-14.html"><b>四家竞品对比</b><span></span></a>
+<a class="c" href="research/全部竞品_产品收费与定价_2026-10-21.html"><b>全部竞品产品收费与定价</b><span></span></a>
+<a class="c" href="research/竞品产品线与定价_2026-11-02/沐仞竞品产品线定价与销路报告_2026-11-02.html"><b>竞品产品线定价与销路</b><span></span></a>
+<a class="c" href="research/硅基流动与海外同类/硅基流动与海外同类_业务市场营销调研_2026-10-14.html"><b>硅基流动与海外同类</b><span>业务、市场与营销</span></a>
+<a class="c" href="research/品牌与界面调研/竞品品牌视觉调研板_2026-10-12.html"><b>竞品品牌视觉调研板</b><span></span></a>
+<a class="c" href="research/品牌与界面调研/五家竞品品牌逻辑拆解_2026-10-13.html"><b>五家竞品品牌逻辑拆解</b><span></span></a>
+<a class="c" href="research/品牌与界面调研/竞品调研图文板_2026-10-12.html"><b>竞品调研图文板</b><span></span></a>
+<a class="c" href="research/品牌与界面调研/ToB_ToC结构与Dia逐页走查_2026-10-12.html"><b>ToB / ToC 结构与 Dia 逐页走查</b><span></span></a>
+<a class="c" href="research/小程序界面/小程序UX评审_2026-10-18.html"><b>小程序 UX 评审</b><span></span></a>
+</div>
+</main>
+</body>
+</html>
