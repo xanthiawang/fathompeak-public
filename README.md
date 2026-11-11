@@ -6,7 +6,7 @@
 - 只收公开也没关系的东西。公司内部资料（BP、融资、合作协议、内部定价与成本等）不在这里，已另行交接。
 - 和公司原来的私有仓库分开，互不影响。
 
-**[UI 总览](UI总览.html)**：仓库里所有能打开的界面汇总在一页（先在仓库根目录运行 `python3 -m http.server 8000`，再打开 http://localhost:8000/UI总览.html）。
+**在线打开：[UI 总览](https://xanthiawang.github.io/fathompeak-public/UI总览.html)**，仓库里所有能打开的界面汇总在一页。
 
 ## 目录
 
@@ -28,18 +28,19 @@
 
 `site/projects/website` 是 **2026-11-06 的官网**（提交 `1405e9f`，加入「应用页」之前），另外补上了后台「认证有礼」：个人账户还没实名认证时，进「钱包与账单」弹一次，完成实名认证到账 ¥15 体验金，所有模型可用，30 天内有效。实名认证服务还没接入，目前不实际发放。
 
+### 在线打开
+
+- 官网：https://xanthiawang.github.io/fathompeak-public/site/projects/website/
+- 后台预览（个人）：https://xanthiawang.github.io/fathompeak-public/site/projects/website/#console-preview
+- 其他身份：在后台预览地址后面换成 `#console-preview-admin`（企业管理员）、`#console-preview-member`（企业成员）、`#console-preview-root`（超级管理员）
+
 ### 本地打开
 
 ```bash
-cd site/projects/website
 python3 -m http.server 8000
 ```
 
-然后打开：
-
-- 官网：http://localhost:8000/
-- 后台预览（个人）：http://localhost:8000/#console-preview
-- 其他身份：`#console-preview-admin`（企业管理员）、`#console-preview-member`（企业成员）、`#console-preview-root`（超级管理员）
+在仓库根目录运行，然后打开 http://localhost:8000/UI总览.html 。
 
 后台预览是只在浏览器内存里的空账户，不连接真实接口、不写入数据。
 
