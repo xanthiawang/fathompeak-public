@@ -1,0 +1,1364 @@
+[p1] This summary aims to give you an overview of the information contained in this document. As
+this is a summary, it does not contain all the information that may be important to you. You should
+read the entire document carefully before you decide to [REDACTED] in the [REDACTED]. In
+particular, we are a Specialist Technology Company seeking [REDACTED] on the Main Board of
+the Stock Exchange under Chapter 18C of the Listing Rules because we are unable to meet the
+requirements under Rule 8.05 (1), (2) or (3) of the Listing Rules. There are unique challenges, risks
+and uncertainties associated with [REDACTED] in companies such as ours. In addition, we are a
+Pre-Commercial Company (as defined in Chapter 18C of the Listing Rules). Pre-Commercial
+Companies are Specialist Technology Companies that cannot meet the revenue requirement as set
+out in Rule 18C.03(4) of the Listing Rules, and so are subject to a higher risk of corporate failure
+if they are unable to secure sufficient external funding and/or cannot generate sufficient revenue to
+sustain their operations after [REDACTED]. In addition, we have incurred net losses since our
+inception, and we may incur net losses for the foreseeable future. We had negative net cash flow from
+operating activities during the Track Record Period. We did not declare or pay any dividends during
+the Track Record Period and may not pay any dividends in the foreseeable future. Your
+[REDACTED] decision should be made in light of these considerations.
+Moreover, there are risks associated with any [REDACTED]. Some of the particular risks in
+[REDACTED] in the [REDACTED] are set out in “Risk Factors.” You should read that section
+carefully before you decide to [REDACTED] in the [REDACTED].
+Our Company was incorporated on August 29, 2023. For the purpose of this document and for
+ease of reference, unless the context otherwise requires, any reference to our financial or operating
+data “in 2023” refers to the period from August 29, 2023 to December 31, 2023.
+OVERVIEW
+We are a leading open, independent token supply platform in China, operating at the forefront of an
+era defined by the rapid deployment and application of AI models across enterprises. As AI models become
+increasingly integrated into everyday workflows, the demand for tokens is growing exponentially, while
+the need for high-quality token supply, characterized by accuracy, generation speed, cost efficiency,
+stability and security, is becoming increasingly critical. By connecting computing resources and AI models
+with system software capabilities, our token supply platform offers one-stop AI infrastructure services,
+enabling high-quality token delivery at scale.
+In China, we are the largest independent ecosystem token supplier and one of the top five players
+among all token suppliers, as measured by annual token throughput in 2025, according to Frost & Sullivan.
+Powered by our proprietary inference engine and computing resource orchestration system, we effectively
+aggregate, optimize, and orchestrate heterogeneous computing resources across diverse hardware
+architectures from different vendors, thereby converting underlying computing power into standardized,
+reliable and scalable token supply. This enables seamless access to and deployment of AI capabilities
+across a broad range of state-of-the-art models with industry-leading performance-to-cost efficiency. To
+capture diversified commercial demands, we deliver our core capabilities primarily through public
+cloud-based services and on-premise deployment solutions, serving customers across a wide range of
+sectors.
+The diagram below illustrates our token supply platform:
+Applications
+Serving 10 million+ users, 13, 000+ enterprise customers
+Public Cloud-Based
+Services
+Computing
+Resource
+Orchestration
+Inference
+Engine
+Token Services
+On-Premise
+Deployment
+Solutions
+Agents
+Content
+Creation
+AI Models
+Computing Resources
+Coding
+Data
+Analysis
+System Software
+…
+Energy
+Storage
+Photovoltaic
+Hydropower
+Wind
+Power
+Energy
+…
+Public Cloud-Based
+Services
+Inference
+Engine
+On-Premise
+Deployment
+Solutions
+Computing
+Resource
+Orchestration
+Electricity
+Tokens
+…
+NVIDIA
+AMD
+Token Supply Platform
+SUMMARY
+– 1 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] As of April 30, 2026, our platform had over 10 million registered users. We recorded average daily
+token throughput of approximately 578.5 billion and peak daily token throughput of approximately
+1,071.4 billion in April 2026. As of the Latest Practicable Date, we had served over 13,000 enterprise
+customers, and our platform had supported a cumulative total of over 170 models. The following chart
+highlights some of our key achievements to date:
+Largest independent
+ecosystem token supplier
+and one of top five 
+players among all token
+suppliers in China(2)
+Global leader in:
+• token throughput
+• registered users 
+• monthly active users
+Globally leading in overseas 
+platform downloads and token
+throughput on authoritative 
+platforms
+No. 1 in China
+High Adoption
+Global Leadership
+Among the few companies 
+globally to have launched 
+and commercially 
+deployed proprietary 
+inference engine at scale
+No. 1 in cross-chip and 
+multi-model adaptation 
+capabilities globally(3)
+Industry-leading 
+capability to orchestrate 
+computing
+resources at scale
+Pioneer
+No. 1 Globally
+Industry Leader
+Our revenue increased 
+more than sevenfold from 
+2024 to 2025
+Strong coverage
+across key industry players
+(e.g., AI, internet,
+energy, finance and
+telecommunications)
+Sevenfold
+Rapid Growth
+Strong Coverage
+Leading
+Industry
+Position(1)
+Top-tier
+Technical
+Capabilities(1)
+Commercialization
+Capabilities
+Average daily token 
+throughput:
+• Dec. 2024: 47.8 billion
+• Dec. 2025: 163.1 billion
+• Apr. 2026: 578.5 billion
+Notes:
+(1)
+According to Frost & Sullivan
+(2)
+As measured by annual token throughput in 2025
+(3)
+Measured by the number of supported chips and models
+Our Value Propositions
+As a critical system software pillar within the AI technology stack, we bridge computing resources
+and models with AI applications, offering a compelling set of value propositions to participants across the
+AI industry value chain. We provide enterprise customers across a broad range of industries with one-stop
+access to diverse AI models and infrastructure capabilities, enabling more efficient and cost-effective
+deployment of AI applications. For ecosystem partners, our open, independent platform enables chip
+designers, computing resource providers, model developers, and toolchain and application creators to
+collaborate through a unified system software. By providing cross-chip and multi-model adaptation,
+inference optimization, heterogeneous resource orchestration and standardized token delivery capabilities,
+we help ecosystem partners improve commercialization efficiency, expand deployment opportunities and
+accelerate AI adoption.
+Our Commercialization and Financial Performance
+Leveraging our open, independent positioning, inference optimization technologies and diversified
+product offerings, we have rapidly scaled our commercial operations. Following our inception in August
+2023, our revenue grew significantly, surging more than sevenfold from RMB7.3 million in 2024 to
+RMB55.3 million in 2025.
+SUMMARY
+– 2 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] We have established relationships with leading customers across key sectors, including AI, internet,
+energy, finance and telecommunications, as well as ecosystem partners, such as chip designers and model
+developers. In the public cloud market, we have become a widely recognized AI infrastructure platform
+within the developer community. In the private cloud market, we have established deep integration with
+China’s domestic computing ecosystem through large-scale deployments across leading domestic chip
+platforms, including Ascend, MetaX and Moore Threads. We believe our ability to combine technological
+innovation, large-scale engineering deployment and ecosystem collaboration positions us strongly to
+capture the growing token demand and sustain our long-term growth trajectory.
+OUR MARKET OPPORTUNITIES AND COMPETITION
+Explosive growth characterizes China’s emerging token supply market as it transitions to the rapid
+scaling of large-scale AI inference demand, driven by the evolution of AI applications toward continuous
+task execution and increasingly complex multi-step workflows. The size of China’s token supply market,
+as measured by token throughput, grew by 1,602.6% from 2024 to 2025, and is expected to reach
+approximately 53.2 quintillion tokens by 2030, representing a CAGR of 638.3% from 2025 to 2030.
+We differentiate ourselves as an independent ecosystem token supply platform. Unlike closed
+ecosystems that restrict users to their proprietary computing resources and models, we maintain a neutral
+and open position. We connect diverse, heterogeneous computing resources and multi-model ecosystems
+without directly competing with downstream application vendors. Through our deep technical capabilities
+in cross-chip, multi-model adaptation, inference engine optimization, and heterogeneous computing
+resource orchestration, we maximize token production efficiency and ensure stable, scalable delivery
+across multiple deployment modes. In 2025, we were the fourth largest token supply platform in China in
+terms of annual token throughput, with a market share of 1.5% and ranked first among all independent
+ecosystem token supply platforms in China.
+See “Industry Overview” for details.
+OUR STRENGTHS
+We believe that the following competitive strengths contribute to our success and differentiate us
+from our competitors in the industry: (i) open, independent platform serving as a critical infrastructure
+layer in the AI value chain; (ii) full-stack inference engine with cross-chip, multi-model adaptation
+capabilities; (iii) heterogeneous compatibility supporting diverse AI chips; (iv) flexible computing
+resource orchestration and maximized token production efficiency; (v) strong customer acquisition and
+retention driven by product capabilities and diverse application scenarios; and (vi) a strong engineering
+culture rooted in technical excellence.
+OUR STRATEGIES
+We intend to capitalize on our competitive strengths by pursuing the following strategies: (i) enhance
+token production efficiency and broaden token application use cases through sustained investment in
+research and development; (ii) expand our coverage of key customers and enhance our market presence;
+(iii) strengthen computing resource supply capabilities and supply chain resilience; (iv) advance our global
+expansion strategy by leveraging overseas ecosystems and our technological advantages; and (v) cultivate
+a globally competitive talent and management platform.
+SUMMARY
+– 3 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p4] OUR PRODUCTS AND SERVICES
+Our business comprises two complementary product and service lines designed to address a wide
+range of customer deployment and usage needs: public cloud-based services and on-premise deployment
+solutions.
+Shared
+(multi-customer sharing)
+Resources shared among multiple customers,
+pay-as-you-go
+Dedicated computing capacity
+on public cloud infrastructure
+Exclusive access to computing resources and meet
+requirements for performance, stability and supply
+assurance
+Dedicated computing capacity, stable,
+low latency, high throughput
+Customers’ private
+computing environments  
+Full data sovereignty, robust compliance, and full 
+operational flexibility
+Tailored to customers’
+on-premise deployment
+requirements
+Public Cloud-Based Services
+Shared computing capacity
+plug-and-play
+Serverless Token Services
+Dedicated Instances
+On-Premise Deployment Solutions
+Public Cloud-Based Services. Our public cloud-based services are designed to deliver standardized,
+high-quality tokens at scale through a single standard interface supporting a cumulative total of over 170
+models. The services support a broad range of application scenarios — including coding, agents and
+multimodal applications — providing customers with unified, flexible access to AI capabilities. We
+launched our serverless token services in May 2024, marking the commencement of large-scale
+commercialization. The platform supports two complementary service offerings: serverless token services
+on a shared-resource basis and dedicated instances providing reserved computing capacity.
+•
+Serverless token services. We provide token services on a shared-resource basis, charging fees
+according to token consumption. These services are primarily designed for developers, small-
+and medium-sized enterprises and other customers seeking flexible, cost-effective access to AI
+capabilities. We generally adopt a prepaid model for customers, where credits are purchased in
+advance and deducted based on token usage, and a postpaid model with monthly settlement for
+certain recurring enterprise customers.
+•
+Dedicated instances. We offer reserved computing capacity on public cloud infrastructure,
+providing customers with exclusive or prioritized specified resources. These services are
+designed for customers with heightened requirements for performance, stability or supply
+assurance including those running latency-sensitive or high-throughput AI workloads.
+On-Premise Deployment Solutions. We deploy our inference engine and computing resource
+orchestration system within the customers’ own data center or private computing environment. This
+enables customers to use tokens across a wide range of models on their own computing resources.
+On-premise deployment solutions primarily target large enterprise customers and institutional clients. Fees
+are structured as a combination of a software licensing fee, a professional implementation fee, and, where
+applicable a maintenance fee, each determined based on factors such as deployment scale, system
+configuration and customer requirements. Our on-premise deployment solutions are built on a
+standardized, modular platform architecture, with only limited customization required to accommodate
+customers’ specific deployment environments or operational requirements.
+SUMMARY
+– 4 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p5] Our public cloud-based services and on-premise deployment solutions form an integrated
+commercial system that addresses diverse and evolving customer needs. The public cloud platform enables
+us to serve a broad customer base, support proof-of-concept and initial deployment use cases, and
+facilitate validation across diverse application scenarios. As customers grow their usage or require greater
+control over performance, stability, physical location of data, network boundaries, and supply chain
+assurance, they may opt for dedicated instances or on-premise solutions — deepening engagement and
+expanding revenue opportunities across the customer lifecycle.
+OUR BUSINESS AND REVENUE MODEL
+Our Sales and Pricing Model
+The following table sets forth the sales model and pricing strategy of our products and services:
+Public Cloud-Based Services
+On-Premise Deployment
+Serverless Token Services
+Dedicated Instances
+Sales Model Consumption-based
+Combination of
+subscription-based and
+consumption-based
+Combination of
+subscription-based and
+transaction-based
+Customer Types  Customers seeking
+flexible and cost-
+effective access to AI
+capabilities, including
+developers and small-
+and-medium sized
+enterprises
+Customers with higher
+requirements for
+performance, stability
+or supply assurance, as
+well as those with
+large and steady
+demand for computing
+resources, including
+enterprise users
+running latency-
+sensitive, high-
+throughput AI
+workloads
+Customers with their own
+computing resources,
+heightened
+requirements for
+physical location of
+data, network
+boundaries and supply
+assurance, or system
+integration, including
+major players in AI,
+internet, energy,
+finance and
+telecommunications
+industries
+Pricing Strategy Primarily pre-paid, under
+which customers
+purchase credits in
+advance and usage is
+deducted based on
+tokens consumed. Post-
+paid arrangement may
+be offered with
+monthly settlement due
+at the end of each
+billing cycle
+Either (i) a fixed
+subscription fee for the
+reserved period, or (ii)
+usage-based charges
+measured in tokens
+consumed within the
+exclusive instances
+Subscription-based or
+perpetual buyout, with
+fees structured as a
+combination of a
+software licensing fee
+(on a subscription or
+one-time basis), a
+professional
+implementation fee
+and, where applicable,
+a maintenance fee,
+each determined based
+on factors such as
+deployment scale,
+system configuration
+and customer
+requirements
+SUMMARY
+– 5 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p6] Our Revenue Model
+During the Track Record Period, our revenue was derived from two primary sources: (i) public
+cloud-based services, and (ii) on-premise deployment solutions. Each revenue stream reflects a distinct
+monetization pathway aligned with our AI infrastructure strategy, allowing us to serve a diverse customer
+base ranging from individual users to enterprise customers.
+The following table sets forth the breakdown of our revenue by business line, in absolute amounts
+and as a percentage of our total revenue, for the periods indicated:
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Public cloud-based services 
+–
+–
+1,069
+14.6
+29,261
+52.9
+On-premise deployment
+solutions 
+6
+100.0
+6,277
+85.4
+26,069
+47.1
+Total
+6
+100.0
+7,346
+100.0
+55,330
+100.0
+Public cloud-based services. We provide scalable AI infrastructure to individual users and enterprise
+customers through our public cloud platform. This revenue stream is further categorized into serverless
+token services and dedicated instances.
+•
+Serverless token services. In 2023, 2024 and 2025, revenue generated from our serverless token
+services amounted to nil, RMB455 thousand and RMB14.3 million, respectively. We provide
+these services on a shared-resource basis, allowing customers to access AI capabilities by
+consuming tokens. Monetization is driven by usage-based charges measured in tokens
+consumed, with customers generally purchasing prepaid credits or, for certain recurring
+enterprise customers, settling on postpaid monthly terms. Revenue is recognized at a point in
+time based on the customer’s utilization of the tokens.
+•
+Dedicated instances. In 2023, 2024 and 2025, revenue generated from our dedicated instances
+amounted to nil, RMB614 thousand and RMB15.0 million, respectively. We offer dedicated
+instances providing reserved computing capacity on a public cloud basis, where computing
+resources are allocated exclusively to specific customers and are not shared with other users.
+Monetization is driven by either a fixed fee for the reserved period or usage-based charges
+measured in tokens consumed. For the fixed fee arrangement, revenue is recognized over time
+on a straight-line basis over the contractual service period, while for the usage-based
+arrangement, revenue is recognized at a point in time based on the customer’s utilization of the
+tokens.
+On-premise deployment solutions. We provide on-premise deployment solutions, which comprise
+software licensing and/or customized services according to the customers’ specific instructions and needs
+at their own infrastructure. Pricing typically comprises a combination of a software licensing fee (on a
+subscription or one-time basis), a professional implementation fee and, where applicable, a maintenance
+fee, each determined based on factors such as deployment scale, system configuration and customer
+requirements. Revenue is recognized at a point in time when control of the relevant software license or
+service is transferred to the customer, which generally occurs upon delivery and acceptance.
+SUMMARY
+– 6 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p7] Key Operating Metrics
+The following table sets forth our key operating metrics for the year/period indicated.
+As of/For the Year Ended
+December 31,
+As of/For the
+Four Months
+Ended April 30,
+2024
+2025
+2026
+Public cloud-based services
+– Average daily token throughput in last
+month of the period (in billions) (1) 
+47.8
+163.1
+578.5
+– Number of registered users (2) 
+127,133
+9,197,439
+10,282,431
+– Serverless token services:
+– Number of active users(3)(4) 
+57,431
+5,452,952
+1,453,923
+– Number of serverless token services
+customers(3)(5) 
+2,455
+716,012
+642,866
+– Dedicated instances:
+– Number of dedicated instance customers(3) 
+7
+49
+20
+– Average revenue per dedicated instance
+customer (in RMB) 
+87,669
+305,353
+N/A
+On-premise deployment solutions
+– Number of on-premise deployment
+customers(3) 
+28
+20
+5
+– Average revenue per on-premise deployment
+customer (in RMB) 
+224,184
+1,303,448
+N/A
+Notes:
+*
+The operating metrics as of/for the year ended December 31, 2023 were not available as our Company was incorporated
+in August 2023 and did not generate material revenue in 2023.
+(1)
+Average daily token throughput in the last month of the period is calculated by dividing the total number of tokens
+processed in that month by the number of calendar days in the month. For this purpose, “tokens” include both input
+tokens submitted by users and output tokens used by the models, both produced by us.
+(2)
+Represents a cumulative number as of the period end.
+(3)
+Represents the numbers in 2024 and 2025 and the four months ended April 30, 2026. The number for the four months
+ended April 30, 2026 was not annualized and therefore was lower.
+(4)
+Active users refer to the users who used our serverless token services in the year/period indicated.
+(5)
+Serverless token services customers refer to the users who purchased our serverless token services in the year/period
+indicated.
+Our key operating metrics reflect the rapid expansion of our business across both our public
+cloud-based services and on-premise deployment solutions during the Track Record Period and into 2026.
+Public Cloud-Based Services. Our platform experienced rapid growth in both user scale and token
+throughput. Our average daily token throughput grew by 241.1% from December 2024 to December 2025,
+and by a further 254.7% from December 2025 to April 2026. Our cumulative registered user base expanded
+by approximately 72-fold from December 31, 2024 to December 31, 2025, and continued to grow into
+2026, reflecting broadening adoption of our platform driven by the rapid proliferation of AI applications
+and the expanding ecosystem of developers and enterprises utilizing token supply services. Specifically:
+•
+For our serverless token services, the number of active users increased by approximately
+95-fold from 2024 to 2025, while the number of paying customers grew by approximately
+292-fold over the same period. This growth was primarily driven by the increasing adoption of
+AI applications across industries and the growing recognition of our platform’s capabilities,
+which together attracted a significant influx of developers and enterprise users. The number of
+paying customers for the four months ended April 30, 2026 approached the full-year 2025
+level, underscoring the continued strong momentum in user monetization into 2026.
+SUMMARY
+– 7 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p8] •
+For our dedicated instances, the number of customers increased by 600.0% from 2024 to 2025,
+as enterprise customers with growing token consumption and heightened requirements for
+greater performance and stability transitioned into reserved computing resources. Average
+revenue per dedicated instance customer increased by 248.3% from 2024 to 2025, reflecting
+deeper commercial engagement and higher contract values as our enterprise relationships
+matured.
+On-Premise Deployment Solutions. Our on-premise deployment solution is project-based in nature.
+The number of on-premise deployment customers decreased by 28.6% from 2024 to 2025, while average
+revenue per customer increased significantly by 481.4% over the same period, reflecting a shift toward
+larger-scale enterprise deployments with higher contract values.
+OUR CORE TECHNOLOGIES
+Our core technology foundation comprises our proprietary inference engine and computing resource
+orchestration system, which together form an integrated technology stack purpose-built for AI inference
+workloads. Our technology enables the efficient orchestration of heterogeneous computing resources and
+the transformation of underlying computing power into high-throughput, low-latency and cost-efficient
+token production, supporting scalable and reliable AI inference across diverse models, computing
+architectures and deployment environments.
+We have established a comprehensive AI infrastructure technology system encompassing smart
+routing and observability of model APIs, high-performance inference for models, and underlying
+scheduling. This enables our AI computing infrastructure to operate with high performance, high
+reliability, and high scalability in large-scale production environments. Our core technologies cover
+multiple key areas, aiming to address the computing power bottlenecks in the commercialization of models
+and providing customers with a low-latency, high-concurrency, and cost-effective computing foundation.
+For details, see “Business — Our Core Technologies.”
+RESEARCH AND DEVELOPMENT
+Our ability to develop new technologies, provide new services, and enhance existing services is
+critical for strengthening our market position. All of the R&D activities relating to our Specialist
+Technology Products were conducted in-house. We have full ownership of all intellectual property rights
+arising from such R&D activities. We do not rely on any material in-licensed third-party technologies for
+the development of our Specialist Technology Products. We did not outsource any R&D activities to third
+parties, nor did we engage in any collaboration with third parties that was material to our Specialist
+Technology Products during the Track Record Period and up to the Latest Practicable Date. We have
+established interdisciplinary R&D capabilities that draw upon a diverse range of fields, such as computer
+science,
+applied
+mathematics,
+deep
+learning
+algorithms,
+distributed
+systems,
+low-level
+system
+optimization, AI framework engineering, and AI infrastructure development. During the Track Record
+Period, all of our research and development expenses were incurred for our Specialist Technology
+Products and amounted to RMB10.8 million, RMB64.5 million and RMB209.2 million in 2023, 2024 and
+2025, respectively. As of the Latest Practicable Date, we are not aware of any pending or threatened legal
+claims, arbitral or administrative proceedings that may have a material influence on our research and
+development activities for any of our key Specialist Technology Products.
+Our Early Trading and R&D Activities
+From our incorporation on August 29, 2023 through our first revenue generation in December 2023,
+we were primarily engaged in substantive R&D of our inference engine and related technologies. These
+activities constituted the core foundation of our trading operations during this period and were not mere
+preparatory activities. See “Business — Research and Development” for details.
+SUMMARY
+– 8 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p9] INTELLECTUAL PROPERTY
+As of the Latest Practicable Date, we owned 11 registered patents and 34 patent applications, 17
+software copyrights, and six registered trademarks in China. As of the same date, we also owned one
+registered trademark in Hong Kong, two in Singapore, one in Japan and one in the United States. As of
+the Latest Practicable Date, we owned all our patents as well as patent applications and had no
+co-ownership or co-sharing arrangements of our patents and patent applications with third parties.
+For material intellectual property rights in relation to each Specialist Technology Product, see
+“Appendix IV — Statutory and General Information — B. Further Information about Our Business — 2.
+Intellectual Property Rights” for details on the material patents for our core technologies in relation to our
+Specialist Technology Products. During the Track Record Period and up to the Latest Practicable Date, we
+had not been involved in any material legal, arbitral, or administrative proceedings or claims of
+infringement of any intellectual property rights, in which we may be a claimant or a respondent. Our
+Directors confirm that they are not aware of any material legal, arbitral or administrative proceedings for
+infringement of any third party’s intellectual property rights by us as of the Latest Practicable Date.
+SALES AND MARKETING
+As of December 31, 2025, we had established a sales and marketing team of 21 personnel with
+coverage across both the PRC and overseas markets. Our business development and sales teams work
+closely with our research and development team to ensure that our technical capabilities can be effectively
+communicated to customers and translated into commercial engagements.
+We primarily sell our products and services through direct sales and channel partnerships. Given that
+our commercial model centers on delivering token services over the cloud or through software licensing,
+we do not rely on physical product distribution or traditional reseller channels. We have also expanded our
+overseas presence by listing our serverless token services on a leading AI model routing platform.
+Our marketing strategy is anchored in our independent ecosystem strategy, through which we have
+established a multi-tiered market development framework spanning developers, enterprise customers, and
+industry partners. At the developer level, we expand user reach and drive product adoption through
+developer events, content marketing, and media outreach, attracting developers and innovative teams to
+our platform and growing our token volume. At the enterprise customer level, we showcase our technical
+capabilities and industry use cases through technology summits, industry events, and tailored solution
+promotions. We also actively engage in ecosystem collaboration with model providers, chip designers,
+cloud service providers, and other industry partners through joint promotions and co-development of
+ecosystem initiatives.
+We consider after-sales service a core component of our customer experience and platform reliability
+management. For public cloud customers, we maintain continuous real-time monitoring of platform
+availability, latency, and throughput. For on-premise deployment customers, we manage post-deployment
+issues through a structured service protocol, with commitments to respond within one to four hours and
+resolve incidents within 12 to 48 hours depending on severity for major customers. During the Track
+Record Period, we did not experience any customer contract terminations or major customer complaints.
+See “Business – Sales and Marketing” for more details.
+OUR CUSTOMERS AND SUPPLIERS
+Our customers primarily consist of technology companies, research institutions, and enterprises that
+procure our products and services through on-premise deployment solutions, dedicated instances, or
+serverless token services. In 2023, 2024 and 2025, our aggregate revenue from the five largest customers
+in each year during the Track Record Period was RMB6 thousand, RMB6.2 million and RMB24.9 million,
+respectively, accounting for 100.0%, 85.0% and 45.0% of our total revenue for the respective years. In the
+same years, our revenue from the single largest customer was RMB5 thousand, RMB4.5 million and
+RMB7.5 million, accounting for 83.3%, 61.1% and 13.6% of our total revenue for the respective years.
+The declining concentration across the Track Record Period reflects the broadening of our customer base
+as our business scaled. To the best of our knowledge, all of our five largest customers in each year during
+the Track Record Period were independent third parties.
+SUMMARY
+– 9 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p10] Our major suppliers are computing resource and cloud service providers. In 2023, 2024 and 2025,
+our aggregate purchase from the five largest suppliers in each year during the Track Record Period was
+RMB2.2 million, RMB11.4 million and RMB117.3 million, accounting for 100.0%, 87.6% and 70.8% of
+our total purchase for the respective years. In the same years, our purchase from the single largest supplier
+amounted to RMB2.2 million, RMB6.8 million and RMB33.8 million, accounting for 100.0%, 52.1% and
+20.4% of our total purchase for the respective years. The significant growth in procurement reflects our
+rapid expansion in computing resource consumption to support increasing service demand. To the best of
+our knowledge, except for Supplier A and Supplier I, all of our five largest suppliers in each year during
+the Track Record Period were independent third parties.
+During the Track Record Period, to the best knowledge and belief of our Directors, two of our major
+business partners served as both customers and suppliers to us. See “Business — Customers,” “—
+Suppliers” and “— Overlapping Customers and Suppliers” for more details.
+SUMMARY OF HISTORICAL FINANCIAL INFORMATION
+The following tables set forth summary financial data from our consolidated financial information
+for the Track Record Period, extracted from the Accountant’s Report set out in Appendix I to this
+document. You should read this summary in conjunction with our consolidated financial information
+included in the Accountant’s Report set out in Appendix I to this document, including the accompanying
+notes, and the information set forth in “Financial Information.” Since our Company was incorporated on
+August 29, 2023, the financial information for the year ended December 31, 2023 only covers the period
+from August 29 to December 31, 2023. Our financial statements in respect of the period from August 29
+to December 31, 2023 were presented to and approved by Shareholders in our Company’s general meeting.
+Summary of Consolidated Statements of Profit or Loss
+The following table sets forth a summary of our consolidated statements of profit or loss, in absolute
+amounts and as a percentage of our total revenue, for the periods indicated.
+For the Period from
+August 29 to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+% of
+Revenue
+RMB
+% of
+Revenue
+RMB
+% of
+Revenue
+(in thousands, except for percentages)
+Revenue 
+6
+100.0
+7,346
+100.0
+55,330
+100.0
+Cost of revenue 
+(1)
+(16.7)
+(4,452)
+(60.6)
+(68,632)
+(124.0)
+Gross profit/(loss)
+5
+83.3
+2,894
+39.4
+(13,302)
+(24.0)
+Selling and
+marketing
+expenses 
+(110)
+(1,833.3)
+(6,392)
+(87.0)
+(83,743)
+(151.4)
+General and
+administrative
+expenses 
+(1,219)
+(20,316.7)
+(9,094)
+(123.8)
+(21,843)
+(39.5)
+Research and
+development
+expenses 
+(10,841) (180,683.3)
+(64,475)
+(877.7)
+(209,176)
+(378.1)
+Net impairment
+losses on
+financial assets
+–
+–
+(91)
+(1.2)
+(306)
+(0.6)
+Other income and
+(losses)/gains –
+net
+–
+–
+(100)
+(1.4)
+5,020
+9.1
+Operating losses 
+(12,165) (202,750.0)
+(77,258)
+(1,051.7)
+(323,350)
+(584.4)
+SUMMARY
+– 10 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p11] For the Period from
+August 29 to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+% of
+Revenue
+RMB
+% of
+Revenue
+RMB
+% of
+Revenue
+(in thousands, except for percentages)
+Finance income 
+–
+–
+422
+5.7
+1,420
+2.6
+Finance costs
+(58)
+(966.7)
+(5,079)
+(69.1)
+(23,561)
+(42.6)
+Finance costs –
+net 
+(58)
+(966.7)
+(4,657)
+(63.4)
+(22,141)
+(40.0)
+Loss before
+income tax 
+(12,223) (203,716.7)
+(81,915)
+(1,115.1)
+(345,491)
+(624.4)
+Income tax
+expense 
+–
+–
+–
+–
+–
+–
+Loss for the
+period/year 
+(12,223) (203,716.7)
+(81,915)
+(1,115.1)
+(345,491)
+(624.4)
+Non-IFRS Measures
+We use adjusted net loss (non-IFRS measure), which is a non-IFRS financial measure, in evaluating
+our operating results and for financial and operational decision-making purposes. We believe that adjusted
+net loss (non-IFRS measure) provides useful information about our results of operations, enhances the
+overall understanding of our past performance and future prospects and allows for greater visibility with
+respect to key metrics used by our management in its financial and operational decision-making.
+Adjusted net loss (non-IFRS measure) should not be considered in isolation or construed as an
+alternative to net loss or any other measure of performance or as an indicator of our operating
+performance. Adjusted net loss (non-IFRS measure) presented here may not be comparable to similarly
+titled measures presented by other companies. Other companies may calculate similarly titled measures
+differently, limiting their usefulness as comparative measures to our data. We encourage [REDACTED]
+and others to review our financial information in its entirety and not rely on a single financial measure.
+We define our adjusted net loss (non-IFRS measure) as net loss adjusted by adding back (i)
+share-based payment expenses, which are non-cash in nature and represent expenses arising from the grant
+of restricted interests to our employees, and (ii) interest expenses on redemption liabilities, which
+represent the interest expenses accrued on the redemption liabilities arising from the special rights granted
+to pre-[REDACTED] investors that will be terminated upon [REDACTED].
+The following table presents our non-IFRS financial measure for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Loss for the period/year 
+(12,223)
+(81,915)
+(345,491)
+Adjusted for:
+Share-based payment expenses 
+–
+22,885
+135,338
+Interest expenses on redemption liabilities
+23
+5,020
+23,076
+Adjusted net loss (non-IFRS measure) for the
+period/year 
+(12,200)
+(54,010)
+(187,077)
+SUMMARY
+– 11 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p12] We recorded RMB12.2 million, RMB81.9 million and RMB345.5 million in loss for the period/year
+in 2023, 2024 and 2025, respectively, primarily due to significant initial investments in computing
+resources and research and development to scale our AI infrastructure, substantial share-based
+compensation expenses, and interest expenses on redemption liabilities.
+Key Items on Consolidated Statements of Financial Position
+The table below sets forth selected information from our consolidated statements of financial
+position as of the dates indicated.
+As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Total non-current assets 
+1,989
+6,703
+7,381
+Total current assets 
+5,320
+57,585
+297,656
+Total assets 
+7,309
+64,288
+305,037
+Net current assets 
+2,898
+28,356
+118,697
+Total non-current liabilities 
+5,665
+112,887
+514,765
+Total current liabilities 
+2,422
+29,229
+178,959
+Total liabilities 
+8,087
+142,116
+693,724
+Net liabilities
+778
+77,828
+388,687
+Our net current assets increased from RMB2.9 million as of December 31, 2023 to RMB28.4 million
+as of December 31, 2024. This change was primarily due to the increase in current assets, which
+outweighed the increase in current liabilities. Our current assets increased from RMB5.3 million as of
+December 31, 2023 to RMB57.6 million as of December 31, 2024, primarily due to an increase in cash
+and cash equivalents of RMB44.9 million. Our current liabilities increased from RMB2.4 million as of
+December 31, 2023 to RMB29.2 million as of December 31, 2024, primarily due to (i) an increase in the
+current portion of share-based compensation liabilities of RMB12.5 million, and (ii) an increase in trade
+and other payables of RMB11.7 million.
+Our net current assets increased from RMB28.4 million as of December 31, 2024 to RMB118.7
+million as of December 31, 2025. This change was primarily due to the increase in current assets, which
+outweighed the increase in current liabilities. Our current assets increased from RMB57.6 million as of
+December 31, 2024 to RMB297.7 million as of December 31, 2025, primarily due to (i) an increase in cash
+and cash equivalents of RMB121.8 million and (ii) an increase in time deposits of RMB100.0 million. Our
+current liabilities increased from RMB29.2 million as of December 31, 2024 to RMB179.0 million as of
+December 31, 2025, primarily due to (i) an increase in the current portion of share-based compensation
+liabilities of RMB80.0 million, and (ii) an increase in borrowings of RMB40.0 million.
+We had net liabilities of RMB0.8 million, RMB77.8 million and RMB388.7 million as of December
+31, 2023, 2024 and 2025, respectively. As of December 31, 2025, we had net liabilities of RMB388.7
+million primarily because of the recognition of redemption liabilities totaling RMB498.6 million issued
+to our pre-[REDACTED] investors. Nevertheless, as the special rights attached to the pre-[REDACTED]
+investments will be terminated and these redemption liabilities will be re-designated from financial
+liabilities to equity upon [REDACTED], our net liabilities position is expected to turn into a net assets
+position.
+Our net liabilities increased from RMB0.8 million as of December 31, 2023 to RMB77.8 million as
+of December 31, 2024, primarily due to (i) an increase of RMB81.9 million in the loss for the year, and
+(ii) the recognition of redemption liabilities of RMB102.2 million, partially offset by capital contributions
+from shareholders of RMB93.7 million.
+SUMMARY
+– 12 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p13] Our net liabilities increased from RMB77.8 million as of December 31, 2024 to RMB388.7 million
+as of December 31, 2025, primarily due to (i) an increase of RMB345.5 million in the loss for the year,
+and (ii) the recognition of redemption liabilities of RMB391.4 million, partially offset by (i) capital
+contributions from shareholders of RMB360.4 million, and (ii) an increase of RMB42.5 million in
+share-based payment reserves.
+Summary of the Consolidated Statements of Cash Flows
+The following table sets forth our cash flows for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Net cash used in operating activities 
+(298)
+(46,510)
+(172,402)
+Net cash used in investing activities 
+(28)
+(651)
+(101,866)
+Net cash from financing activities
+5,200
+92,024
+396,064
+Net increase in cash and cash equivalents 
+4,874
+44,863
+121,796
+Cash and cash equivalents at the beginning of
+the period/year 
+–
+4,874
+49,737
+Exchange effect on cash and cash equivalents 
+–
+–
+–
+Cash and cash equivalents at the end of the
+period/year 
+4,874
+49,737
+171,533
+During the Track Record Period, we recorded net cash outflows used in operating activities,
+primarily reflecting our position as an R&D-intensive Specialist Technology Company in the early stages
+of commercialization. In particular, our operating cash outflows were mainly attributable to (i) significant
+research and development expenses, including substantial computing resource costs required for adapting
+new AI models and chip architectures, advancing large-scale inference technologies, developing our
+computing resource orchestration system, and conducting rigorous testing and validation for large-scale
+token production and related services, as well as staff costs for our R&D personnel, (ii) our early stage
+of commercialization, resulting in an initial revenue base that had not yet outpaced the massive upfront
+computing resource costs required to secure sufficient capacity and maintain high service availability for
+our rapidly expanding user base, and (iii) other significant operating cash outflows to support our rapid
+business expansion, including promotional computing resource costs (such as the distribution of free token
+vouchers) to acquire and onboard individual developers and enterprise customers, workforce expansion
+across all operational functions, and general and administrative expenses.
+Our cash burn rate refers to the average monthly aggregate amount of (i) net cash used in operating
+activities, (ii) capital expenditures (including payments for purchase of property, plant and equipment and
+intangible assets), and (iii) payments of lease liabilities. Our historical monthly average cash burn rate was
+RMB81.5 thousand, RMB4.0 million and RMB14.8 million in 2023, 2024 and 2025, respectively. We had
+cash and cash equivalents of RMB171.5 million and time deposits of RMB100.0 million as of December
+31, 2025. We estimate that we will receive net [REDACTED] of approximately HK$[REDACTED]
+million after deducting the [REDACTED] expenses payable by us in the [REDACTED], assuming no
+[REDACTED] is exercised and assuming an [REDACTED] of HK$[REDACTED] per [REDACTED],
+being the low-end of the indicative [REDACTED] in this document.
+Assuming an expected average future monthly cash burn of RMB[REDACTED] million, taking into
+account (i) net cash used in operating activities, (ii) capital expenditures (including payments for the
+purchase of property, plant and equipment and intangible assets), and (iii) payments of lease liabilities,
+representing approximately [REDACTED] times our average monthly cash burn for the twelve months
+ended December 31, 2025, and based on the following principal assumptions: (i) we will continue to
+SUMMARY
+– 13 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p14] expand our headcount, particularly our R&D personnel, in line with our planned business scale-up,
+technology roadmap and operational needs, (ii) our capital expenditures and payments of lease liabilities
+relating to computing resources will be incurred in accordance with our business expansion plan and
+commercialization roadmap, and (iii) part of the expected increase in future R&D costs and operating
+expenditures will be offset by cash inflows generated from sales of our Specialist Technology Products,
+we estimate that our cash and cash equivalents and time deposits as of May 31, 2026 (based on our
+management account) will be able to maintain our financial viability for approximately [REDACTED]
+months or, if we take into account [REDACTED]% of the estimated net [REDACTED] from the
+[REDACTED] (namely, the portion allocated for our working capital and other general purposes and
+based on the low-end of the indicative [REDACTED]), approximately [REDACTED] months or, if we
+take into account [REDACTED]% of the estimated net [REDACTED] (based on the low-end of the
+indicative [REDACTED]) from the [REDACTED], for approximately [REDACTED] months. Our
+Directors and our management will continue to monitor our working capital, cash flows, and our business
+development status.
+Key Financial Ratios
+The following table sets forth our selected financial indicators for the periods and as of the dates
+indicated.
+As of/For the
+Period from
+August 29 to
+December 31,
+As of/For the Year Ended
+December 31,
+2023
+2024
+2025
+Growth Indicators
+Revenue growth(1) 
+N/A
+122,333.3%
+653.2%
+Profitability and Efficiency Indicators
+Gross margin(2) 
+83.3%
+39.4%
+(24.0)%
+R&D ratio(3) 
+N/A
+877.7%
+378.1%
+Liquidity Indicator
+Current ratio(4)
+2.2
+2.0
+1.7
+Notes:
+(1)
+Revenue growth equals the difference between revenue for the current year and revenue for the previous period/year,
+divided by revenue for the previous period/year.
+(2)
+Gross margin equals gross profit/(loss) divided by revenue for the respective period/year.
+(3)
+R&D ratio equals research and development expenses divided by revenue for the respective period/year. The R&D ratio
+for 2023 is not presented as the revenue recognized in 2023 was nominal during our initial stage of commercialization.
+(4)
+Current ratio is calculated by dividing total current assets by total current liabilities as of the end of the respective
+period/year.
+PATH TO COMMERCIALIZATION AND BUSINESS SUSTAINABILITY
+We are a Pre-Commercial Company defined under Chapter 18C of the Listing Rules. We expect that
+we will satisfy the revenue requirement for a commercial company defined under Chapter 18C of the
+Listing Rules (“Commercial Company”) by the end of 2026.
+During the Track Record Period, we successfully transitioned to the initial commercialization stage,
+experiencing rapid top-line growth. Our revenue increased significantly from RMB6 thousand in 2023 to
+RMB7.3 million in 2024, and further increased by 653.2% to RMB55.3 million in 2025. This growth was
+primarily driven by the expansion of our customer base across both our public cloud-based services and
+on-premise deployment solutions.
+Despite this rapid revenue growth, our cost of revenue grew at a faster rate than our revenue during
+our early commercialization phase. Our cost of revenue increased from RMB1 thousand in 2023 to
+RMB4.5 million in 2024, and to RMB68.6 million in 2025. Consequently, our overall gross margin was
+SUMMARY
+– 14 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p15] 83.3% and 39.4% in 2023 and 2024, respectively. In 2025, we recorded a gross loss margin of 24.0%,
+resulting in a gross loss of RMB13.3 million. This margin contraction was primarily driven by substantial
+costs incurred from leasing computing resources as we continue to improve our products and services,
+while utilization of such computing resources was gradually ramping up.
+Our profitability was further impacted by substantial investments across our operating expenses.
+Because the AI infrastructure industry is highly technology-intensive, our research and development
+expenses constituted our largest cost center, increasing from RMB10.8 million in 2023 to RMB64.5
+million in 2024, and to RMB209.2 million in 2025. However, demonstrating emerging operating leverage,
+these expenses decreased meaningfully as a percentage of total revenue from 877.7% in 2024 to 378.1%
+in 2025. Concurrently, our selling and marketing expenses increased from RMB110 thousand in 2023 to
+RMB83.7 million in 2025, largely due to promotional computing resource costs used to onboard early
+users, while our general and administrative expenses grew from RMB1.2 million to RMB21.8 million over
+the same period. As a result of these strategic investments and initial infrastructure scaling, we recorded
+a loss for the period/year of RMB12.2 million, RMB81.9 million, and RMB345.5 million in 2023, 2024
+and 2025, respectively, alongside an adjusted net loss (non-IFRS measure) of RMB12.2 million, RMB54.0
+million, and RMB187.1 million for the same periods.
+We expect absolute R&D expenses and near-term net losses to continue as we expand our
+commercial scale. However, we believe the sustainability of our business is strongly supported by our plan
+to achieve long-term profitability, through the following measures: (i) capitalizing on explosive industry
+growth; (ii) deepening domestic customer engagement; (iii) accelerating overseas revenue growth; (iv)
+maximizing computing resource utilization; and (v) improving operational efficiency. Based on the
+foregoing, our Directors believe, and the Joint Sponsors concur, that our business is sustainable. See
+“Business — Business Sustainability” for more details.
+RISK FACTORS
+Our business and the [REDACTED] involve certain risks as set out in the section headed “Risk
+Factors.” You should carefully read that section in its entirety before you decide to [REDACTED] in our
+[REDACTED]. Some of the major risks we face include: (i) we have recorded gross loss, net losses and
+experienced cash outflow from operating activities during the Track Record Period, and we may not be
+able to achieve profitability or, even if we do, may not be able to maintain profitability subsequently; (ii)
+failure to fulfill our obligations in respect of current liabilities could adversely affect our liquidity and
+financial condition; (iii) we need to make certain operating expenditures, and we may need to raise
+additional capital in the future, which may not be available on terms acceptable to us, or at all. If we
+cannot raise additional funds on attractive terms when we need them, our operations and prospects could
+be negatively affected; (iv) if we fail to continuously improve our technology and provide products and
+services that meet the expectations of our customers, our business, results of operations and financial
+condition may be materially and adversely affected; (v) we are facing risks brought about by
+transformative innovations of AI industry; (vi) the competitiveness of the products and services that we
+offer depend on our continuous and significant investment in research and development, and we intend to
+continue investing significantly in research and development; (vii) our success depends on the continued
+service of our R&D team; (viii) the AI industry in China is subject to extensive and rapidly developing
+regulation, and new or amended laws and regulations may impose additional compliance obligations that
+could materially and adversely affect our business, results of operations, financial condition and prospects;
+(ix) we operate in a rapidly evolving and increasingly competitive global token supply industry; (x) our
+business substantially relies upon the availability of high-quality open-source AI models; and (xi) the
+supply restrictions, trade controls or sanctions on chips may disrupt the operations of our suppliers and
+in turn adversely affect our business, results of operations and financial condition.
+CONTROLLING SHAREHOLDERS
+Our controlling Shareholders comprise Dr. Yuan and our Employee Incentive Platforms. As of the
+Latest Practicable Date, our controlling Shareholders were entitled to control an aggregate of
+approximately 44.48% of the voting rights in our total issued Shares. Immediately following completion
+SUMMARY
+– 15 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p16] of the [REDACTED] (assuming the [REDACTED] is not exercised), our controlling Shareholders will
+continue to collectively control approximately [REDACTED]% of the voting rights in our total issued
+Shares and thus remain as a group of controlling Shareholders.
+PRE-[REDACTED] INVESTMENTS
+Since December 2023, we have received seven rounds of Pre-[REDACTED] Investments from a
+number of Pre-[REDACTED] Investors, including certain Pathfinder SIIs and other SIIs. For details of
+the principal terms of the Pre-[REDACTED] Investments and background information of the major
+Pre-[REDACTED] Investors, see “History, Development and Corporate Structure — Pre-[REDACTED]
+Investments.”
+[REDACTED] EXPENSES
+[REDACTED] expenses represent professional fees, [REDACTED], and other fees incurred in
+connection with the [REDACTED]. The estimated total [REDACTED] expenses (based on the mid-point
+of the [REDACTED] range and assuming that the [REDACTED] is not exercised) for the [REDACTED]
+are
+approximately
+RMB[REDACTED]
+million
+(equivalent
+to
+approximately
+HK$[REDACTED]
+million), accounting for approximately [REDACTED]% of our gross [REDACTED] from the
+[REDACTED]. The estimated total [REDACTED] consist of (i) [REDACTED]-related expenses
+(including but not limited to [REDACTED] and fees) of approximately RMB[REDACTED] million
+(approximately
+HK$[REDACTED]
+million),
+and
+(ii)
+non-[REDACTED]
+related
+expenses
+of
+approximately RMB[REDACTED] million (approximately HK$[REDACTED] million), which consist of
+fees and expenses of legal advisors and Reporting Accountant of approximately RMB[REDACTED]
+million (approximately HK$[REDACTED] million), and other fees and expenses of approximately
+RMB[REDACTED]
+million
+(approximately
+HK$[REDACTED]
+million).
+Approximately
+RMB[REDACTED] million (equivalent to approximately HK$[REDACTED] million) of the estimated
+[REDACTED] expenses is directly attributable to the [REDACTED] of new Shares to the public and will
+be accounted for as a deduction from equity upon completion of the [REDACTED]. Approximately
+RMB[REDACTED] million (equivalent to approximately HK$[REDACTED] million) is expected to be
+charged in profit or loss before or upon completion of the [REDACTED]. This calculation is subject to
+adjustment based on the actual amount incurred or to be incurred. The [REDACTED] above are the best
+estimate as of the Latest Practicable Date and are for reference only. The actual amount may differ from
+such an estimate.
+[REDACTED] STATISTICS
+The statistics in the following table are based on the assumptions that (i) the [REDACTED] has been
+completed and [REDACTED] Shares are issued and outstanding following the completion of the
+[REDACTED]; and (ii) the [REDACTED] is not exercised:
+Based on the Minimum
+[REDACTED] of
+HK$[REDACTED] per H
+Share
+Based on the Maximum
+[REDACTED] of
+HK$[REDACTED] per H
+Share
+[REDACTED] of our Shares(1) 
+HK$[REDACTED]
+HK$[REDACTED]
+Unaudited [REDACTED] adjusted consolidated
+net tangible assets per Share(2) 
+HK$[REDACTED]
+HK$[REDACTED]
+Notes:
+(1)
+The calculation of [REDACTED] is based on the [REDACTED] H Shares expected to be in issue immediately upon
+completion of the [REDACTED] (assuming the [REDACTED] is not exercised).
+(2)
+Please refer to “Appendix II — Unaudited [REDACTED] Financial Information” for the unaudited [REDACTED]
+adjusted consolidated net tangible assets of the Group attributable to equity shareholders of the Company per Share.
+SUMMARY
+– 16 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p17] USE OF [REDACTED]
+Assuming that the [REDACTED] is not exercised, after deducting [REDACTED] and other
+estimated [REDACTED] expenses payable by us in connection with the [REDACTED], and based on the
+[REDACTED] of HK$[REDACTED] per H Share, we estimate that we will receive net [REDACTED]
+of approximately HK$[REDACTED] million from the [REDACTED]. We currently intend to apply the
+net [REDACTED] for the following purposes:
+•
+Approximately
+[REDACTED]%
+of
+the
+net
+[REDACTED],
+or
+approximately
+HK$[REDACTED] million, will be used to further strengthen our research and development
+capabilities, with a focus on enhancing our token production efficiency and broadening token
+application use cases, including the ongoing development of our inference engine and
+computing resource orchestration system, our existing public cloud and on-premise deployment
+product lines, and AI agent middleware frameworks and next-generation inference architecture
+technologies;
+•
+Approximately
+[REDACTED]%
+of
+the
+net
+[REDACTED],
+or
+approximately
+HK$[REDACTED] million, will be used to lease computing resources to support our ongoing
+operational needs, especially for public cloud-based services;
+•
+Approximately
+[REDACTED]%
+of
+the
+net
+[REDACTED],
+or
+approximately
+HK$[REDACTED] million, will be used to expand our coverage of key customers and
+enhance our market presence, including brand building, expansion of our online and
+channel-based sales model, and strengthening our direct sales capabilities targeting key
+industries and large enterprise customers;
+•
+Approximately
+[REDACTED]%
+of
+the
+net
+[REDACTED],
+or
+approximately
+HK$[REDACTED] million, will be used to advance our global expansion strategy by
+expanding our overseas customer base through online and offline channels and building
+localized ecosystem partnerships and operational capabilities in key overseas markets; and
+•
+Approximately
+[REDACTED]%
+of
+the
+net
+[REDACTED],
+or
+approximately
+HK$[REDACTED] million, will be used for working capital and other general corporate
+purposes.
+See “Future Plans and Use of [REDACTED]” in this document for further information relating to
+our future plans and use of [REDACTED] from the [REDACTED], including the adjustment on the
+allocation of the [REDACTED] in the event that the [REDACTED] is fixed at a higher or lower level
+compared to the mid-point of the indicative [REDACTED].
+DIVIDENDS AND DIVIDEND POLICY
+We did not declare or pay any dividend during the Track Record Period. We do not currently have
+a formal dividend policy or a fixed dividend payout ratio. We currently intend to retain all available funds
+and earnings, if any, to fund the development and expansion of our business and we do not anticipate
+paying any cash dividends in the foreseeable future. [REDACTED] should not purchase our ordinary
+shares with the expectation of receiving cash dividends. Any future determination to pay dividends will
+be made at the discretion of our Directors and may be based on a number of factors, including our future
+operations and earnings, capital requirements and surplus, general financial condition, contractual
+restrictions and other factors that our Directors may deem relevant.
+Regulations in the PRC currently permit payment of dividends of a PRC company only out of
+accumulated distributable after-tax profits less any recovery of accumulated losses and appropriations to
+statutory and other reserves that we are required to make, as determined in accordance with its articles of
+association and the accounting standards and regulations in China. Taking into account the aforesaid, we
+may not have sufficient or any distributable profits to make dividend distributions to our Shareholders in
+a given year, in view of our accumulated losses, or even if we become profitable, as we will only be able
+to declare or pay dividends out of our distributable profits until (i) the accumulated losses are covered
+SUMMARY
+– 17 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p18] byour after-tax profits, and (ii) sufficient statutory and other reserves are drawn in accordance with the
+relevant laws, regulations and our constitutional documents. In light of our accumulated losses as
+disclosed in this document, it is unlikely that we will be eligible to pay dividends out of our profits in the
+foreseeable future.
+RECENT DEVELOPMENTS AND NO MATERIAL ADVERSE CHANGE
+Following the Track Record Period, we continued to strengthen our token supply capabilities. In June
+2026, we entered into a 60-month computing power service agreement, pursuant to which we lease
+computing resources with related networking, deployment, operation and maintenance and support
+services, enhancing the stability and flexibility of our access to computing resources.
+In June 2026, we entered into an asset purchase agreement regarding the acquisition of a portfolio
+of intellectual property rights from OneFlow. Following the acquisition, we expect to further strengthen
+our capabilities in AI infrastructure technologies, particularly in decentralized, dataflow-based inference
+architecture and large-scale context memory system.
+Our Directors have confirmed that there has been no material adverse change in our financial or
+trading position or prospects since December 31, 2025, being the end date of our latest consolidated
+financial statements as set out in “Appendix I — Accountant’s Report” to this Document, and up to the
+date of this Document.
+SUMMARY
+– 18 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

@@ -1,0 +1,672 @@
+[p1] This section summarizes the principal PRC laws, rules and regulations which relate to our operations
+in the PRC.
+REGULATIONS ON VALUE-ADDED TELECOMMUNICATIONS SERVICES
+The Telecommunications Regulations of the PRC (《中華人民共和國電信條例》) (the “Telecom
+Regulations”), promulgated by the State Council on September 25, 2000 and last amended on February
+6, 2016, is the primary PRC law governing telecommunications services. The Telecom Regulations defines
+value-added telecommunications services as telecommunications and information services provided via
+public network infrastructure such as fixed networks, mobile networks and the Internet. According to the
+Catalog of Telecommunications Business (《電信業務分類目錄》), attached to the Telecom Regulations
+and last amended on June 6, 2019, the Internet information services fall within the value-added
+telecommunications services.
+The Administrative Measures for Internet Information Services (《互聯網信息服務管理辦法》) (the
+“Measures for Internet”) promulgated by the State Council on September 25, 2000, and last amended in
+December 6, 2024, and became effective on January 20, 2025. Pursuant to the Measures for Internet,
+Internet information services providers, also referred to as Internet content providers, or ICPs, that provide
+commercial services are required to obtain an operating permit from the Ministry of Industry and
+Information Technology (the “MIIT”) or its provincial counterpart before engaging in any commercial
+Internet information service operations in the PRC.
+Foreign direct investment in telecommunications companies in China are governed by the Provisions
+on the Administration of Foreign-Invested Telecommunications Enterprises (《外商投資電信企業管理規
+定》) (the “FITE Regulations”), which were issued by the State Council on 11 December 2001, became
+effective on 1 January 2002, last amended on 29 March 2022 and took effect on 1 May 2022. The FITE
+Regulations requires foreign-invested telecommunications enterprises in the PRC, to be established as
+Sino-foreign joint ventures, and foreign investors shall not acquire more than 50% of the equity interest
+of such an enterprise, except as otherwise provided. In addition, according to the 2024 Negative List, the
+proportion of foreign investments in an entity engaging in value-added telecommunications services
+(except for e-commerce, domestic multi-party communications, storage-forwarding and call centers) shall
+not exceed 50%.
+According to the notice of the MIIT on the pilot program for expanding the opening up of
+value-added telecommunications services (《工業和信息化部關於開展增值電信業務擴大對外開放試點工
+作的通告》) issued on April 8, 2024, in certain districts of Beijing, Shanghai, Hainan and Shenzhen, the
+restrictions on the foreign equity ratios for certain value-added telecommunications services are removed.
+REGULATIONS ON CORPORATION AND FOREIGN INVESTMENT
+Companies established and operating in the PRC shall be subject to the Company Law of the PRC
+(《中華人民共和國公司法》) (the “Company Law”), which was promulgated by the Standing Committee
+of the National People’s Congress (the “SCNPC”) and was most recently amended on December 29, 2023
+and effective from July 1, 2024. The Company Law governs the establishment, corporate structure, and
+corporate management, which also applies to foreign-invested enterprises in the PRC. Unless otherwise
+provided in the PRC foreign investment laws, the provisions in the Company Law shall prevail.
+Pursuant to the Catalogue of Industries for Encouraged Foreign Investment (2025 Edition) (《鼓勵
+外商投資產業目錄(2025版)》) (the “Catalogue”), and the Special Administrative Measures for Access of
+Foreign Investment (Negative List) (2024 Edition) (《外商投資准入特別管理措施(負面清單) (2024年
+版)》) (the “Negative List”), both promulgated jointly by the MOFCOM and the NDRC, classifying
+industries with foreign investment into three categories: “Encouraged,” “Restricted,” and “Prohibited”.
+Industries not listed in either the Catalogue or the Negative List are generally considered to be in the
+“Permitted” category unless otherwise expressly restricted by other PRC laws and regulations.
+REGULATORY OVERVIEW
+– 89 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] On March 15, 2019, the Foreign Investment Law of the PRC (《中華人民共和國外商投資法》) (the
+“Foreign Investment Law”) was promulgated by the NPC, and on December 26, 2019, the State Council
+promulgated the Implementing Rules of the Foreign Investment Law (《中華人民共和國外商投資法實施
+條例》) (the “Implementing Rules”), to further clarify and elaborate the relevant provisions of the
+Foreign Investment Law. Pursuant to the Foreign Investment Law, “foreign investments” refer to
+investment activities conducted by foreign investors (including foreign natural persons, foreign enterprises
+or other foreign organizations) directly or indirectly in the PRC. The Implementing Rules introduce a
+see-through principle and further provide that foreign-invested enterprises that invest in the PRC shall also
+be governed by the Foreign Investment Law and the Implementing Rules.
+REGULATIONS ON INTELLECTUAL PROPERTY
+Patents
+The SCNPC promulgated the Patent Law of the PRC (《中華人民共和國專利法》), which was last
+amended on October 17, 2020 and became effective on June 1, 2021. The State Council promulgated the
+Implementation Regulation for the Patent Law (《中華人民共和國專利法實施細則》), which was last
+amended on December 11, 2023 and became effective on January 20, 2024. The PRC patent system adopts
+a “first to file” principle, which means that where more than one person files applications for the same
+patent (such as inventions, utility models, or designs), such patent shall be granted to the person who filed
+the application first. To be patentable, it must meet three conditions: novelty, inventiveness, and practical
+applicability.
+A patent is valid for 20 years in the case of an invention, ten years in the case of utility models and
+15 years in the case of designs, starting from the application date. Except under certain specific
+circumstances provided by laws, any third-party user shall obtain prior consent or a proper license from
+the patent owner to use the patent, otherwise, such third party may result in an infringement of the rights
+of the patent holder.
+Trademarks
+According to the Trademark Law of the PRC (《中華人民共和國商標法》) (the “Trademark Law”)
+promulgated by the SCNPC, which was last amended on April 23, 2019 and became effective on
+November 1, 2019, and the Implementation Regulation for the Trademark Law (《中華人民共和國商標法
+實施條例》) promulgated by the State Council, which was amended on April 29, 2014 and became
+effective on May 1, 2014, the registered trademarks are valid for a term of 10 years from the date of the
+registration. A registration renewal application shall be filed within twelve months prior to the expiration
+of the term. As with trademarks, the Trademark Law has adopted a “first come, first file” principle with
+respect to trademark registration. Where a trademark for which a registration application has been made
+is identical or similar to another trademark which has already been registered or been subject to a
+preliminary examination and approval for use on the same kind of or similar commodities or services, the
+application for registration of such trademark may be rejected. Any person applying for the registration
+of a trademark may not prejudice the existing right first obtained by others, nor may any person register
+in advance a trademark that has already been used by another party and has already gained a “sufficient
+degree of reputation” through such party’s use.
+Copyrights
+According to the Copyright Law of the PRC (《中華人民共和國著作權法》), promulgated by the
+SCNPC on September 7, 1990 and latest amended on November 11, 2020 which became effective on June
+1, 2021, and the Implementation Regulations of the Copyright Law of PRC (《中華人民共和國著作權法
+實施條例》) promulgated by the State Council on August 2, 2002 and latest amended on January 30, 2013,
+Chinese citizens, legal persons, or other organizations shall, whether published or not, own copyright in
+their works, which include, among others, works of literature, art, natural science, social science,
+engineering technology and computer software. Copyright owners of protected works enjoy personal
+rights and property rights with respect to publication, authorship, alteration, integrity, reproduction,
+REGULATORY OVERVIEW
+– 90 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] distribution, lease, exhibition, performance, projection, broadcasting, dissemination via information
+network, production, adaptation, translation, compilation, and other rights shall be enjoyed by the
+copyright owners. Reproducing, publishing, performing, projecting, broadcasting, or plagiarizing without
+permission from the owner of the copyright, unless otherwise provided in the Copyright Law, shall
+constitute infringements of copyrights.
+In order to further implement the Computer Software Protection Regulations (《計算機軟件保護條
+例》), promulgated by the State Council l, and amended on December 20, 2001 and January 30, 2013
+respectively, the National Copyright Administration issued the Computer Software Copyright Registration
+Procedures (《計算機軟件著作權登記辦法》) on February 20, 2002, which was revised on July 1, 2004,
+specify detailed procedures and requirements with respect to the registration of software copyrights.
+Domain Names
+According to the Measures for the Administration of Internet Domain Names (《互聯網域名管理辦
+法》) issued by the MIIT on August 24, 2017 (effective from November 1, 2017), the Implementation
+Rules for National Top-Level Domain Name Registration (《國家頂級域名註冊實施細則》) released by
+the China Internet Network Information Center on June 18, 2019 (effective on the same day), and the
+Notice of the MIIT on Regulating the Use of Domain Names in Internet Information Services (《工業和
+信息化部關於規範互聯網信息服務使用域名的通知》) which promulgated on November 27, 2017 and
+became effective on January 1, 2018, domain name owners must register their domain names that it owns.
+The MIIT oversees China’s Internet domain names, while provincial, autonomous region, and municipal
+telecommunications management bureaus are responsible for domain name services within their respective
+regions. Registration operates on a “first come, first file” basis. Applicants must provide accurate
+information and enter registration agreements with domain name registration service providers. Upon
+completing the registration process, applicants become the domain name holders.
+REGULATIONS ON CYBERSECURITY, PRIVACY AND DATA PROTECTION
+The Cybersecurity Law of the PRC (《中華人民共和國網絡安全法》) (the “Cybersecurity Law”)
+promulgated by the SCNPC, which was amended on October 28, 2025 and became effective on January
+1, 2026, requires that when constructing and operating a network, or providing services through a network,
+technical measures and other necessary measures shall be taken in accordance with laws, administrative
+regulations and the compulsory requirements set forth in national standards to ensure the secure and stable
+operation of the network, to effectively cope with cybersecurity events, to prevent criminal activities
+committed on the network, and to protect the integrity, confidentiality and availability of network data.
+The Cybersecurity Law emphasizes that any individuals and organizations that use networks must not
+endanger network security or use networks to engage in activities endangering national security, economic
+order and social order or infringing the reputation, privacy, intellectual property rights and other lawful
+rights and interests of others.
+On June 10, 2021, the SCNPC promulgated the Data Security Law of the PRC (《中華人民共和國
+數據安全法》) (the “Data Security Law”), which took effect on September 1, 2021. The Data Security
+Law imposes data security and privacy obligations on entities and individuals carrying out data processing
+activities. A data processor shall carry out data processing activities in accordance with PRC laws and
+regulations, establish and improve the whole-process data security management system, organize and
+carry out data security education and training, and take relevant technical measures and other measures
+necessary to safeguard data security. The Data Security Law also provides for a national security review
+procedure for data activities that affect or may affect national security and imposes export restrictions on
+certain data and information.
+According to the Civil Code of the PRC (《中華人民共和國民法典》) (the “PRC Civil Code”)
+promulgated by the NPC on May 28, 2020, and effective from January 1, 2021, the personal information
+of a natural person shall be protected by law. Any organization or individual obtaining personal
+information of others shall do so legally, and shall not illegally collect, use, process, transmit, buy, sell,
+provide, or publish such information.
+REGULATORY OVERVIEW
+– 91 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p4] The Personal Information Protection Law of the PRC (《中華人民共和國個人信息保護法》) (the
+“Personal Information Protection Law”) was promulgated on August 20, 2021 and came into effect on
+November 1, 2021. Instead of relying solely on “notification and consent” as established in the
+Cybersecurity Law, the Personal Information Protection Law reiterates the circumstances under which a
+personal information processor could process personal information and the requirements for such
+circumstances. It also stipulates the obligations of a personal information processor. Violation of the
+Personal Information Protection Law may subject a personal information processor to rectifications,
+warnings, fines, suspension of the related business, revocation of licenses, being entered into the relevant
+credit record or even criminal liabilities.
+On December 28, 2021, the CAC and other relevant PRC regulatory authorities jointly revised and
+promulgated the Measures for Cybersecurity Review (《網絡安全審查辦法》), or the Cybersecurity
+Review Measures, which came into effect on February 15, 2022. According to the Cybersecurity Review
+Measures, critical information infrastructure operators (the “CIIOs”) that purchase internet products and
+services or network platform operators that carry out data processing activities must be subject to a
+cybersecurity review if their activities affect or may affect national security. The Cybersecurity Review
+Measures further stipulate that network platform operators possessing more than one million users’
+personal information and seeking to list abroad are obliged to apply for cybersecurity review. Where
+cybersecurity review working mechanism determines that the network products and services and data
+processing activities affect or may affect national security, the Cybersecurity Review Office shall report
+to the Central Cyberspace Affairs Commission and conduct the review in accordance with relevant
+regulations. Our PRC Legal Advisor made a telephonic consultation on a named basis with the China
+Cybersecurity Review, Certification and Market Regulation Big Data Center (the “CCRC”) which is the
+competent authority entrusted by the CAC to set up cybersecurity review consultation hotline. The CCRC
+confirmed that the term “listing in a foreign country” under the Measures for Cybersecurity Review does
+not apply to listings in Hong Kong, and thus the obligation to proactively apply for cybersecurity review
+by an entity seeking listing in a foreign country shall not be applicable to the proposed [REDACTED].
+On September 24, 2024, the State Council promulgated the Regulations on the Security Management
+of Network Data (《網絡數據安全管理條例》), which came into effect on January 1, 2025. This
+regulation clarifies the general provisions on network data security management, and refines the specific
+requirements on personal information protection, important data security management, cross-border
+security management of network data, and obligations of network platform service providers.
+On July 7, 2022, the CAC issued the Measures on Security Assessment of Cross-border Data Transfer
+(數據出境安全評估辦法), which became effective on September 1, 2022. On February 22, 2023, the CAC
+promulgated Measures for the Standard Contract for Outbound Transfer of Personal Information (個人信
+息出境標準合同辦法), which came into effect on June 1, 2023. Pursuant to Measures for the Standard
+Contract for Outbound Transfer of Personal Information, personal information processor transferring
+personal information abroad shall conclude a Standard Contract if it meets all the following conditions:
+(1) the data processor who intends to transfer personal information abroad is not a critical information
+infrastructure operator; (2) the data processor processes personal information of less than one million
+individuals; (3) the data processor has cumulatively transferred abroad the personal information of less
+than 100,000 individuals since January 1 of the previous year; and (4) the data processor has cumulatively
+transferred abroad the sensitive personal information of less than 10,000 individuals since January 1 of the
+previous year. It should be noted that this system, together with data outbound security assessment and
+personal information protection certification, constitutes the three major compliance pathways for
+cross-border transfer of personal information, with clearer applicable conditions under the latest
+cross-border data flow regulatory framework.
+On March 22, 2024, the CAC issued the Provisions on the Promotion and Regulation of Cross-border
+Data Flows (《促進和規範數據跨境流動規定》) (the “New Data Transfer Regulations”). According to
+the New Data Transfer Regulations, transfers of data collected and generated during international trade,
+cross-border transport, academic cooperation, transnational manufacturing, and marketing, which do not
+involve personal information or important data, are exempted from data export security assessment,
+standard contracts, or obtaining personal information protection certification requirements. The New Data
+REGULATORY OVERVIEW
+– 92 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p5] Transfer Regulations also stipulate that, if a data processor, who is not a critical information infrastructure
+operator, transfers personal information (excluding sensitive personal information) of less than 100,000
+individuals cumulatively as of January 1 of the current year, it may be exempted from the requirement to
+undergo a data export security assessment, entering into a standard contract for transferring personal
+information abroad, or obtaining personal information protection certification. The Measures for the Risk
+Assessment of Network Data Security (《網絡數據安全風險評估辦法》) were promulgated on June 18,
+2026, and will take effect on August 20, 2026. These Measures provide that processors of important data
+shall conduct risk assessments on an annual basis. Network data processors handling general data are
+encouraged to conduct risk assessments at least once every three years. Network data processors may
+conduct risk assessments on their own or entrust third-party assessment institutions to do so. Where a
+network data processor conducts a risk assessment on its own, it shall designate a dedicated person to be
+responsible therefor. Where a network data processor entrusts an assessment institution to conduct a risk
+assessment, it shall, through entering into a contract or other legally binding instruments, clarify the rights
+and obligations of both parties, among other matters. If cyberspace administration departments, competent
+telecommunications departments, public security authorities, and other relevant departments at or above
+the provincial level discover any of the following circumstances involving a network data processor during
+the verification of risk assessment reports, supervision and inspections, or other related work, they may
+require the processor to entrust a certified assessment agency to conduct a risk assessment:
+(i)
+the network data processing activities pose significant security risks that may endanger
+national security or public interests;
+(ii)
+a network data security incident has occurred, resulting in the leakage or theft of important data
+or large-scale personal information; or
+(iii) other circumstances as stipulated by the relevant departments.
+REGULATIONS ON ARTIFICIAL INTELLIGENCE
+On December 31, 2021, the CAC and three other departments jointly issued the Provisions on the
+Administration of Algorithm Recommendations for Internet Information Services (《互聯網信息服務算法
+推薦管理規定》), which came into effect on March 1, 2022. These provisions apply to algorithm-
+recommended service providers that use generation and synthesis, personalized push, selection sort, search
+filtering, scheduling decision, and other algorithm technologies to provide information to users.
+Algorithm-recommended service providers with public opinion attributes or the capacity for social
+mobilization shall, in accordance with the law, complete filing procedures and carry out security
+assessments in compliance with relevant national regulations.
+On November 25, 2022, the CAC and two other departments jointly issued the Provisions on the
+Administration of Deep Synthesis of Internet-based Information Services (《互聯網信息服務深度合成管
+理規定》), which came into effect on January 10, 2023. These provisions impose obligations on deep
+synthesis service providers, technical supporters, and users, including verifying users real identities,
+implementing data security and personal information protection measures, strengthening the management
+of deep synthesis content, and labeling information content that is generated or edited using deep synthesis
+technologies. Deep synthesis service providers with public opinion attributes or the capacity for social
+mobilization shall complete the filing procedures for their deep synthesis service algorithms, as well as
+procedures for changes and deregistration of such filings. Technical supporters shall follow these
+provisions when performing filing, change, and deregistration procedures by reference. Where deep
+synthesis service providers develop and launch new products, applications, or features that possess public
+opinion attributes or the capacity for social mobilization, they shall carry out security assessments in
+accordance with relevant national regulations.
+REGULATORY OVERVIEW
+– 93 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p6] On July 10, 2023, the CAC and six other departments jointly issued the Interim Measures for the
+Administration of Generative Artificial Intelligence Services (《生成式人工智能服務管理暫行辦法》)
+(the AIGC Administration Measures), which came into effect on August 15, 2023. As defined in the AIGC
+Administration Measures, generative AI technologies refer to models and related technologies that
+generate text, images, audio, and video content. Generative AI service providers refer to organizations or
+individuals that use generative AI technology to provide generative AI services (including generative AI
+services provided via programmable interfaces and other means). With regard to the regulation of
+generative AI services, the AIGC Administration Measures require generative AI service providers to take
+effective measures to prevent underage users from becoming overly dependent on or addicted to generative
+AI services; to lawfully assume the responsibilities of personal information processors; and to fulfill
+obligations to protect the input information and usage records of generative AI service users. Upon
+discovering illegal content, providers shall promptly take measures such as ceasing generation, halting
+transmission, or removal, and take corrective measures such as model optimization training. If a provider
+discovers that a user is using generative AI services to engage in illegal activities, it shall take relevant
+measures in accordance with the law and contractual agreements, retain relevant records, and report the
+matter to the competent authorities. Providers shall also establish and improve mechanisms for complaints
+and whistleblowing.
+On March 7, 2025, the CAC and three other departments jointly issued the Measures for the
+Identification of AI-Generated and Synthesized Content (《人工智能生成合成內容標識辦法》) (the
+Identification Measures), which came into effect on September 1, 2025. According to the Identification
+Measures,
+internet
+information
+service
+providers
+within
+the
+scope
+of
+algorithm-generated
+recommendations, deep synthesis, or the AIGC Administration Measures are subject to these Identification
+Measures. The Identification Measures specify that service providers shall add explicit identification to
+AI-generated and synthesized content such as text, audio, images, video, and virtual scenes. When
+providing functions such as downloading, copying, or exporting such content, providers shall ensure that
+the files contain the required explicit identification. In addition, implicit identification shall be embedded
+in the metadata of files containing AI-generated and synthesized content. Furthermore, service providers
+shall add implicit labeling to the file metadata of generated or synthesized.
+On March 20, 2026, the MIIT and nine other departments jointly issued the Interim Measures for the
+Administration of AI Technology Ethics Review and Services (人工智能科技倫理審查與服務辦法(試行)),
+which came into effect on the date of issuance. The measures apply to AI technology activities carried out
+within the territory of the PRC that may pose ethical risks. Conducting AI technology activities shall
+comply with AI technology ethics principles, including enhancing human welfare, respecting life rights,
+upholding fairness and impartiality, reasonably controlling risks, maintaining transparency, protecting
+privacy and security, and ensuring controllability and trustworthiness. The measures require entities
+engaged in AI technology activities–including higher education institutions, research institutions,
+healthcare institutions, and enterprises–to establish AI technology ethics committees and assume the
+primary responsibility for ethics review management. The measures serve as a refinement of the
+Provisions on the Administration of Science and Technology Ethics Review (for Trial Implementation) in
+the AI field, providing targeted provisions tailored to the characteristics of AI technology with respect to
+ethics principles, review priorities, and the coordination of expert re-review procedures, thereby better
+addressing the practical needs of AI technology ethics review. Violations of the measures shall be
+investigated and punished in accordance with the Cybersecurity Law of the PRC (中華人民共和國網絡安
+全法) (the “Cybersecurity Law”), the Data Security Law of the PRC (中華人民共和國數據安全法) (the
+“Data Security Law”), the Personal Information Protection Law of the PRC (中華人民共和國個人信息保
+護法) (the “Personal Information Protection Law”), the Science and Technology Progress Law, and other
+applicable laws and regulations.
+REGULATORY OVERVIEW
+– 94 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p7] REGULATIONS ON REAL PROPERTY
+Pursuant to the Law on Administration of Urban Real Estate of the PRC (《中華人民共和國城市房
+地產管理法》) promulgated by the SCNPC, and last amended on August 26, 2019, and took effect on
+January 1, 2020, when leasing premises, the lessor and lessee must enter into a written lease contract. In
+addition, pursuant to the Law on Administration of Urban Real Estate of the PRC and the Administrative
+Measures on Leasing of Commodity Housing (《商品房屋租賃管理辦法》), promulgated by the Ministry
+of Housing and Urban-Rural Development on December 1, 2010, and became effective on February 1,
+2011, both lessor and lessee are required to register the lease within 30 days from execution of the property
+lease contract with the real estate administration department. If the lessor and lessee fail to go through the
+registration procedures, both lessor and lessee may be subject to fines ranging from RMB1,000 to
+RMB10,000. According to the PRC Civil Code, the lessee may sublease the leased premises to a third
+party, subject to the consent of the lessor. Failure to complete the registration and filing procedures for the
+lease contract does not affect the validity of the contract.
+REGULATIONS ON EMPLOYMENT AND SOCIAL WELFARE
+Employment
+The major PRC laws and regulations that govern employment relationship are the Labor Law of the
+PRC (《中華人民共和國勞動法》) (the “Labor Law”), which was promulgated by the SCNPC, last
+amended on December 29, 2018, the Labor Contract Law of the PRC (《中華人民共和國勞動合同法》)
+(the “Labor Contract Law”), which was promulgated by the SCNPC, and last amended on December 28,
+2012 and became effective on July 1, 2013, and the Implementation Rules of the Labor Contract Law of
+the PRC (《中華人民共和國勞動合同法實施條例》), promulgated by the State Council on September 18,
+2008 and came into effect on the same day. According to the aforementioned laws and regulations, labor
+relationships between employers and employees must be executed in written form. As prescribed under the
+laws and regulations, employers shall ensure their employees have the right to rest and the right to receive
+wages no lower than the local minimum wages.
+Social Insurance
+According to the Social Insurance Law of the PRC (《中華人民共和國社會保險法》), which was
+amended on December 29, 2018, and other relevant PRC laws and regulations, the employer shall register
+with the social insurance authorities and contribute to social insurance plans covering basic pensions
+insurance, basic medical insurance, maternity insurance, work injury insurance and unemployment
+insurance. Basic pension, medical and unemployment insurance contributions shall be paid by both
+employers and employees, while work injury insurance and maternity insurance contributions shall be paid
+only by employers, and employers who failed to promptly contribute social security premiums in full
+amount shall be ordered by the social security premium collection agency to make or supplement
+contributions within a stipulated period, and shall be subject to a late payment fine computed from the due
+date at the rate of 0.05% per day; and where payment is not made within the stipulated period, the relevant
+administrative authorities shall impose a fine ranging from one to three times the amount of the amount
+in arrears.
+Pursuant to the Interpretation II of the Supreme People’s Court on Several Issues Concerning the
+Application of Law in the Trial of Labor Dispute Cases (《最高人民法院關於審理勞動爭議案件適用法律
+問題的解釋(二)》), which took effect on September 1, 2025, any agreement between an employer and an
+employee or any commitment made by an employee to the employer stating that social insurance
+premiums need not be paid shall be deemed invalid by the people’s court. If an employer fails to pay social
+insurance premiums in accordance with the law, and the employee requests to terminate the labor contract
+and claims economic compensation pursuant to Article 38(3) of the Labor Contract Law, the people’s court
+shall support such claims in accordance with the law. In the circumstances described in the preceding
+paragraph, if the employer subsequently pays the social insurance premiums in accordance with the law
+and requests the employee to return the compensation already paid for the social insurance premiums, the
+people’s court shall support such requests in accordance with the law.
+REGULATORY OVERVIEW
+– 95 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p8] Housing Provident Fund
+According to the Regulations on the Administration of Housing Provident Funds (《住房公積金管
+理條例》), which was promulgated by the State Council on April 3, 1999 and latest amended on March
+24, 2019, any newly established entity shall make deposit registration at the designated administrative
+centers and open bank accounts for depositing employees’ housing provident funds. Employers and
+employees are also required to pay and deposit housing provident funds, with an amount no less than 5%
+of the monthly average salary of the employee in the preceding year in full and on time. Any entity that
+fails to make payment of housing provident funds within the time limit or has a shortfall in payment of
+housing provident funds will be ordered to make the payment or make up the shortfall within a prescribed
+time limit, otherwise, the housing provident management center is entitled to apply for compulsory
+enforcement with the People’s Court.
+REGULATIONS ON TAXATION
+Enterprise Income Tax
+The Enterprise Income Tax Law of the PRC (《中華人民共和國企業所得稅法》) (the “EIT Law”)
+which was enacted by the NPC on March 16, 2007 and last amended on December 29, 2018 and the
+Implementing Rules of the Enterprise Income Tax Law of the PRC (《中華人民共和國企業所得稅法實施
+條例》) (collectively with the EIT Law, the “PRC EIT Laws”) which was promulgated by the State
+Council on December 6, 2007 and latest amended on December 6, 2024, took effect on January 20, 2025,
+apply a uniform 25% enterprise income tax rate to both foreign-invested enterprises and domestic
+enterprises, except where tax incentives are granted to special industries and projects. Enterprises
+qualifying as “High and New Technology Enterprises” are entitled to a 15% enterprise income tax rate
+rather than the 25% uniform statutory tax rate.
+Value-added Tax
+On December 25, 2024, the SCNPC issued the Value-Added Tax Law of the PRC (《中華人民共和
+國增值稅法》) (the “VAT Law”), which became effective from January 1, 2026. According to the VAT
+Law, any entities and individuals (including individual businesses) engaged in the sale of goods, services,
+intangible assets and immovables and importation of goods within the territory of the PRC are VAT payers
+and shall pay VAT in accordance with the VAT Law. Except for taxpayers’ export of goods, the sale of
+services or intangible assets within the scope as prescribed by the State Council by domestic entities and
+individuals across national borders and other circumstances specified for by the State Council, the rate of
+VAT for sale of goods, labor services of processing, repair or replacement, or tangible movable property
+leasing services or import of goods is 13% unless otherwise specified. In addition to the above
+circumstances, the rate of VAT for sale of services or intangible assets is 6%.
+Dividends Withholding Tax
+Pursuant to the PRC EIT Laws and its implementation rules, dividends generated after January 1,
+2008 and payable by foreign-invested companies in China to their foreign investors that are non-resident
+enterprises as defined under the law are subject to withholding tax at a rate of 10%, unless any such
+foreign investor’s jurisdiction of incorporation has a tax treaty with PRC that provides for a different
+withholding arrangement. Pursuant to the Arrangement Between the Mainland of China and the Hong
+Kong Special Administrative Region for the Avoidance of Double Taxation and Prevention of Fiscal
+Evasion with Respect to Taxes on Income (《內地和香港特別行政區關於對所得避免雙重徵稅和防止偷漏
+稅的安排》) (the “Double Tax Avoidance Arrangement”) promulgated on August 21, 2006 and last
+amended on July 19, 2019, where a Hong Kong resident enterprise that holds more than a 25% equity
+interest in a PRC resident enterprise at any time within 12 consecutive months before receiving the
+dividend, the competent PRC tax authority may determine the Hong Kong resident enterprise to have
+satisfied the relevant conditions and requirements under such Double Tax Avoidance Arrangement, and the
+withholding tax rate on the dividends the Hong Kong resident enterprise receives from a PRC resident
+enterprise may be reduced to 5% from 10% applicable under the PRC EIT Laws.
+REGULATORY OVERVIEW
+– 96 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p9] However, based on the Notice of the State Administration of Taxation on Certain Issues with Respect
+to the Enforcement of Dividend Provisions in Tax Treaties (《國家稅務總局關於執行稅收協定股息條款
+有關問題的通知》) promulgated and took effect on February 20, 2009 by the SAT, where PRC tax
+authorities determine that a company benefits from such reduced rate due to a primarily tax-driven
+transaction or arrangement, they may adjust the preferential tax treatment. The Announcement of the State
+Administration of Taxation on Issuing the Measures for the Administration of Non-Resident Taxpayers’
+Enjoyment of the Treatment under Treaties (《國家稅務總局關於發佈<非居民納稅人享受協定待遇管理辦
+法>的公告》), which was issued on October 14, 2019 and took effect on January 1, 2020, provides that
+applicant who intends to prove his or her “beneficial owner” status shall gather and retain relevant
+documents, and shall submit the relevant documents to the competent tax bureau upon post-request by
+such tax bureau.
+REGULATIONS ON FOREIGN EXCHANGE
+The principal regulations governing foreign currency exchange in the PRC are the Administrative
+Regulations for Foreign Exchange of the PRC (《中華人民共和國外匯管理條例》) (the “Foreign
+Exchange Regulations”), which was promulgated by the State Council on January 29, 1996 and last
+amended on August 5, 2008. Under the Foreign Exchange Regulations, the RMB is freely convertible for
+current account items, including the distribution of dividends, interest payments, trade, and service-related
+foreign exchange transactions, but not for capital account items, such as direct investments, loans,
+repatriation of investments and investments in securities outside of the PRC, unless the prior approval of
+the SAFE, is obtained and prior registration with the SAFE is made.
+According to the Guidelines for Foreign Exchange Business under the Capital Account (2024
+Edition) (《資本項目外匯業務指引(2024年版)》), which was promulgated by the SAFE on April 3, 2024
+and came into effect on May 6, 2024, in principle, the funds raised by overseas listings of domestic
+companies should be repatriated to China in a timely manner, and can be repatriated in RMB or foreign
+currency. The use of funds shall be consistent with the relevant contents listed in the publicly disclosed
+documents. Domestic companies using the funds raised from overseas listings to carry out overseas direct
+investment, overseas securities investment, overseas lending and other businesses shall comply with the
+relevant foreign exchange management regulations.
+The SAFE issued the Circular on Further Simplifying and Improving the Direct Investment-related
+Foreign Exchange Administration Policies (《國家外匯管理局關於進一步簡化和改進直接投資外匯管理
+政策的通知》) (the “SAFE Circular 13”) on February 13, 2015, and it took effect on June 1, 2015 and
+was partially repealed on December 30, 2019. The SAFE Circular 13 requires PRC residents or entities
+to register with qualified banks rather than SAFE or its local branches in relation to direct investment in
+foreign exchange beyond China. The Circular on Further Reforming Foreign Exchange Administration and
+Improving the Verification of Authenticity and Compliance (《關於進一步推進外匯管理改革完善真實合
+規性審核的通知》) was promulgated by the SAFE on January 26, 2017 and became effective on the same
+day, which stipulates several capital control measures with respect to the outbound remittance of profit
+from domestic entities to offshore entities, and which stipulates that domestic entities should make
+detailed explanations of the sources of capital and utilization arrangements, and provide proof when
+completing the registration procedures in connection with an outbound investment.
+On May 10, 2013, the SAFE promulgated the Circular on Printing and Distributing the Provisions
+on Foreign Exchange Administration over Domestic Direct Investment by Foreign Investors and the
+Supporting Documents (《國家外匯管理局關於印發<外國投資者境內直接投資外匯管理規定>及配套文
+件的通知》), subsequently revised on October 10, 2018, and partially repealed on December 30, 2019,
+which specifies that the administration by the SAFE or its local branches over direct investment by foreign
+investors in the PRC shall be conducted by way of registration. Institutions and individuals shall register
+with the SAFE and/or its branches for their direct investment in the PRC. Banks shall process foreign
+exchange business relating to direct investment in the PRC based on the registration information provided
+by the SAFE and its branches.
+REGULATORY OVERVIEW
+– 97 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p10] The SAFE released the Circular of the State Administration of Foreign Exchange on Reforming the
+Management Approach regarding the Settlement of Foreign Exchange Capital of Foreign-invested
+Enterprises (《國家外匯管理局關於改革外商投資企業外匯資本金結匯管理方式的通知》) (the “SAFE
+Circular 19”) on March 30, 2015 and it became effective on June 1, 2015 and was partially repealed on
+December 30, 2019 and last amended on March 23, 2023. In accordance with the SAFE Circular 19, the
+foreign exchange capital of foreign invested enterprises shall be subject to the “discretional foreign
+exchange settlement” approach. The proportion of discretional foreign exchange settlement of the foreign
+exchange capital of a foreign-invested enterprise is temporarily determined to be 100%, while SAFE can
+adjust the aforementioned proportion in due time based on the situation of the international balance of
+payments.
+On June 9, 2016, the SAFE published the Circular of the State Administration of Foreign Exchange
+on Reforming and Regulating Policies on the Control over Foreign Exchange Settlement of Capital
+Accounts (《國家外匯管理局關於改革和規範資本項目結匯管理政策的通知》) (the “SAFE Circular
+16”), which became effective immediately and was later amended on December 4, 2023. According to the
+SAFE Circular 16, enterprises that have registered in the PRC may also discretionally determine to convert
+their foreign debts from foreign currency to RMB. In addition, SAFE promulgated the Circular of the State
+Administration of Foreign Exchange Regarding Further Promotion of the Facilitation of Cross-Border
+Trade and Investment (《國家外匯管理局關於進一步促進跨境貿易投資便利化的通知》) (the “SAFE
+Circular 28”) on October 23, 2019 and was later amended on December 4, 2023. The SAFE Circular 28
+expressly allows foreign-invested enterprises that do not have equity investments in their approved
+business scope to use their capital obtained from foreign exchange settlement to make domestic equity
+investments as long as there is a truthful investment and such investment is in compliance with the foreign
+investment-related laws and regulations.
+According to the Circular of the State Administration of Foreign Exchange on Further Deepening
+Reforms to Facilitate Cross-Border Trade and Investment (《國家外匯管理局關於進一步深化改革促進跨
+境貿易投資便利化的通知》), which was issued and came into effect on December 4, 2023 by the SAFE,
+the equity transfer consideration paid in foreign currency by domestic entities owe to domestic equity
+transferors (including institutions and individuals), as well as the foreign exchange funds raised by
+domestic enterprises listed overseas, can be remitted to the capital project settlement account directly. The
+funds in the capital project settlement account can be independently settled and utilized.
+On April 10, 2020, the SAFE promulgated Notice of the SAFE on Optimizing Foreign Exchange
+Administration to Support the Development of Foreign-related Business (《國家外匯管理局關於優化外匯
+管理支持涉外業務發展的通知》), according to which, under the prerequisite of ensuring true and
+compliant use of funds and compliance with the prevailing administrative provisions on use of income
+under the capital account, enterprises which satisfy the criteria are allowed to use income under the capital
+account, such as capital funds, foreign debt and overseas listing, etc. for domestic payment, without prior
+provision of proof materials for veracity to the bank for each transaction.
+REGULATIONS ON EQUITY INCENTIVE PLANS
+The Circular of the State Administration of Foreign Exchange on Issues concerning the
+Administration of Foreign Exchange Used for Domestic Individuals’ Participation in Equity Incentive
+Plans of Companies Listed Overseas (《國家外匯管理局關於境內個人參與境外上市公司股權激勵計劃外
+匯管理有關問題的通知》) (the “SAFE Circular 7”), was enacted by SAFE on February 15, 2012 and
+became effective on the same date. Under the Circular 7 and other relevant rules, domestic employees,
+directors, supervisors, consultants, and other senior management taking part in any equity incentive plan
+of an overseas publicly listed company who are PRC citizens or non-PRC citizens residing in China for
+a continuous period of no less than one year shall complete the registration and other procedures with
+SAFE and its local branch. The PRC residents joining the equity incentive plan must retain one
+domestically qualified agent to handle the registration in SAFE, the opening of bank accounts, capital
+transfer, and other procedures relevant to the equity incentive plan. At the same time, an overseas
+institution shall be entrusted, as well, to perform the exercise, trade the corresponding shares or equities,
+REGULATORY OVERVIEW
+– 98 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p11] capital transfer and other issues. The income of the foreign exchange PRC residents by selling the shares
+according to the equity incentive plan and the dividend distributed by the overseas-listed company shall
+be distributed to the PRC residents after being remitted to the bank account in China opened by the
+domestic institutions.
+REGULATIONS ON ANTI-MONOPOLY AND ANTI-UNFAIR COMPETITION
+The PRC Anti-monopoly Law (《中華人民共和國反壟斷法》), which was promulgated by SCNPC,
+and last amended on 24 June 2022 and took effect on 1 August 2022, prohibits monopolistic conduct such
+as entering into monopoly agreements, abusing market dominance and concentration of undertakings that
+may eliminate or restrict competition. The Provisions on Declaration Threshold for Concentration of
+Undertakings (《國務院關於經營者集中申報標準的規定》) promulgated by the State Council and was
+last amended on 22 January 2024, which further clarifies when a concentration of undertakings occurs and
+reaches any of the statutory thresholds, the undertakings concerned shall file a prior notification with the
+anti-monopoly authorities. Where the concentrations do not meet the statutory thresholds but there is
+evidence that the concentrations have or may have the effect of excluding or restricting competition, the
+SAMR is entitled to require an examination of concentration of undertakings.
+Competition among business operators is generally governed by the Anti-unfair Competition Law of
+the PRC (《中華人民共和國反不正當競爭法》) (the “Anti-unfair Competition Law”), which was
+promulgated by SCNPC and last amended on June 27, 2025. Under the Anti-unfair Competition Law,
+operators must abide by the principle of voluntariness, equality, impartiality, integrity and adhere to laws
+and business ethics during market transactions. Operators in violation of the Anti-unfair Competition Law
+should bear corresponding civil, administrative or criminal liabilities depending on the specific
+circumstances. On May 6, 2024, the SAMR issued Interim Provisions Against Unfair Competition in
+Cyberspace (《網絡反不正當競爭暫行規定》), which took effect on September 1, 2024. Such provisions
+provide a regulatory basis for preventing and curbing unfair competition acts on the internet, maintaining
+the market order of fair competition, encouraging innovation, protecting the legitimate rights and interests
+of business operators and consumers, and promoting the standardized, sustainable and sound development
+of the digital economy.
+REGULATIONS ON OVERSEAS SECURITIES OFFERING AND LISTING
+On July 6, 2021, the General Office of the CPC Central Committee and the General Office of the
+State Council jointly promulgated the Opinions on Strictly Cracking Down on Illegal Securities Activities
+(《關於依法從嚴打擊證券違法活動的意見》),
+which
+emphasized
+the
+need
+to
+strengthen
+the
+administration over illegal securities activities and the supervision on overseas listings of China-based
+companies, and proposed to take effective measures, and provided that the special provisions of the State
+Council on overseas offering and listing by those companies limited by shares will be revised.
+On February 17, 2023, the CSRC released the Trial Administrative Measures of Overseas Securities
+Offering and Listing by Domestic Enterprises (《境內企業境外發行證券和上市管理試行辦法》) (the
+“Overseas Listing Trial Measures”) and five supporting guidelines, which came into effect on March 31,
+2023. The Overseas Listing Trial Measures and Supporting Guidelines will comprehensively improve and
+reform the existing regulatory regime for overseas offering and listing of PRC domestic enterprises’
+securities and will regulate both direct and indirect overseas offering and listing of PRC domestic
+enterprises’ securities by adopting a filing-based regulatory regime.
+According to the Overseas Listing Trial Measures, PRC domestic enterprises that seek to offer and
+list securities in overseas markets, either by direct or indirect means, are required to fulfill the filing
+procedure with the CSRC and report relevant information. Where an issuer submits an application for an
+initial public offering to competent overseas regulators, such issuer must file with the CSRC within three
+business days after such application is submitted. The Overseas Listing Trial Measures also requires
+subsequent reports to be filed with the CSRC on material events, such as change of control or voluntary
+or forced delisting of the issuer(s) who have completed overseas offerings and listings.
+REGULATORY OVERVIEW
+– 99 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p12] On February 24, 2023, the CSRC, the MOF, the National Administration of State Secrets Protection
+and the National Archives Administration of China jointly issued the Provisions on Strengthening
+Confidentiality and Archives Administration in Respect of Overseas Issuance and Listing of Securities by
+Domestic
+Enterprises
+(《關於加強境內企業境外發行證券和上市相關保密和檔案管理工作的規定》),
+which took effect on March 31, 2023, according to which, overseas securities regulators and competent
+overseas authorities may request to inspect, investigate or collect evidence from a domestic company
+concerning its overseas offering and listing or from the domestic securities companies and securities
+service providers that undertake relevant businesses for such domestic enterprises, such inspection,
+investigation and evidence collection shall be conducted under a cross-border regulatory cooperation
+mechanism, and the CSRC or other competent Chinese authorities will provide necessary assistance
+pursuant to bilateral and multilateral cooperation mechanisms. The domestic company, securities
+companies and securities service providers shall first obtain approval from the CSRC or other competent
+Chinese authorities before cooperating with the inspection and investigation by the overseas securities
+regulator or competent overseas authority, or providing documents and materials requested in such
+inspection and investigation. To be specific, a domestic company that plans to, either directly or through
+its overseas listed entity, publicly disclose or provide to relevant individuals or entities including securities
+companies, securities service providers and overseas regulators, (i) any documents and materials that
+contain state secrets or working secrets of government agencies, shall first obtain approval from competent
+authorities and file with competent secrecy administrative department; (ii) any other documents and
+materials that, if leaked, will be detrimental to national security or the public interest, shall strictly fulfill
+relevant procedures stipulated by applicable national regulations. A domestic company that provides
+documents and materials to securities companies and securities service providers shall abide by applicable
+national regulations on confidentiality in handling such documents and materials, and shall provide a
+written statement simultaneously.
+REGULATIONS ON FULL CIRCULATION OF H SHARE
+In accordance with the Guidelines for the Application by H-share Companies for “Full Circulation”
+of Unlisted Shares (《H股公司境內未上市股份申請“全流通”業務指引》) which was promulgated by the
+CSRC on November 14, 2019 and came into effect on the same date, which was partly revised on August
+10, 2023, the term “full circulation” means the circulation of domestically unlisted shares (including
+domestically unlisted shares held by domestic shareholders prior to the listing abroad, additional
+domestically unlisted shares issued domestically after listing abroad and unlisted shares held by foreign
+shareholders) of H-share companies on the Stock Exchange. On the premise of complying with relevant
+laws and regulations as well as policies governing state-owned asset management, foreign investment and
+industrial supervision, the shareholders of domestically unlisted shares may determine the number and
+proportion of shares under application for circulation through negotiation at their discretion and entrust
+a H-share company to file an application for “full circulation”. After the domestically unlisted shares are
+listed for circulation on the Stock Exchange, they shall not be transferred back to the Mainland China. A
+shareholder of domestically unlisted shares may reduce or increase its holding of the shares involved that
+are circulating on the Stock Exchange according to relevant business rules. H share companies shall
+submit a report on the relevant information to the CSRC within 15 days from completion of registration
+of the shares involved in the application to China Securities Depository and Clearing Co., Ltd. (the
+“CSDC”).
+In accordance with the Guidelines for H-shares “Full Circulation” Business of China Securities
+Depository and Clearing Co., Ltd Shenzhen Branch (《中國證券登記結算有限責任公司深圳分公司H股
+“全流通”業務指南》) which was promulgated by CSDC Shenzhen Branch, and was latest amended on
+June 27, 2025 and became effective on June 30, 2025, it specified the business preparation, account
+arrangement, cross-border share transfer registration and overseas centralized custody, etc. According to
+the guidelines, the H-share companies shall transfer the full amount of cash dividends in RMB to the bank
+account of CSDC Shenzhen Branch before 16:00 on the distribution date of cash dividends as published
+in the announcement. The CSDC Shenzhen Branch shall complete clearing of the dividend funds within
+three H-share “full circulation” working days after the distribution date of cash dividends as published in
+the announcement, and then the dividend funds will be released to domestic securities companies, and the
+domestic securities companies will release the dividend funds to the investors.
+REGULATORY OVERVIEW
+– 100 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p13] According to the Overseas Listing Trial Measures, in respect of a domestic company directly listed
+overseas, shareholders holding its unlisted domestic shares who apply to convert such shares held by them
+into listed overseas shares and to be listed in an overseas stock exchange, shall comply with the relevant
+regulations of the CSRC and file with the CSRC.
+REGULATORY OVERVIEW
+– 101 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

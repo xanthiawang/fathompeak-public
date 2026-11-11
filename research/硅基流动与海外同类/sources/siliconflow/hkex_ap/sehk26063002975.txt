@@ -1,0 +1,1730 @@
+[p1] OVERVIEW
+We are a leading open, independent token supply platform in China, operating at the forefront of an
+era defined by the rapid application of models across enterprises.
+Our history dates back to August 2023 when Beijing SiliconFlow Technology Co., Ltd. (北京硅基
+流動科技有限公司) (formerly known as Beijing SiliconFlow Technology Co., Ltd. (北京硅動科技有限公
+司)) was established in the PRC. Since then, under the leadership of our co-founders, namely Dr. Yuan,
+Mr. Liu Juncheng (柳俊丞), Mr. Zeng Hua (曾華), Ms. Zhao Zhen (趙震), and Mr. Hu Jian (胡健), we have
+developed into a leading token supply platform in China. In June 2026, our Company was converted from
+a limited liability company into a joint stock limited company and renamed to Beijing SiliconFlow
+Technology Co., Ltd. (北京硅基流動科技股份有限公司).
+BUSINESS DEVELOPMENT MILESTONES
+The table below summarizes our key business development milestones.
+Year
+Milestone
+2023 
+Our Company was established in the PRC
+We conducted series angel financing
+2024 
+We conducted series angel+ financing
+We launched our serverless token services, marking the transition to large-scale
+commercialization of our public cloud-based services
+We launched our dedicated instances services, providing enterprise customers
+with reserved computing resources for production-grade AI workloads
+2025 
+We became the industry’s first to deploy DeepSeek R1 & V3 token services on
+domestic chips
+We started offering our full-stack on-premise deployment solutions to enterprise
+customers
+We conducted series pre-A and A financing, with Alibaba as the lead investor
+We officially launched our serverless token services for international customers
+We commenced large-scale commercial deployment of cross-chip and multi-
+model adaptation
+We served over 10,000 enterprise customers
+2026 
+Our daily token throughput exceeded one trillion for the first time, and the
+number of registered users on our platform exceeded 10 million
+Our overseas monthly revenue exceeded US$1 million
+We conducted series A+, series B and B+ financing
+Our Company was converted to a joint stock limited company
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 102 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] OUR MAJOR SUBSIDIARIES
+The table below sets out the principal business activities and the dates of establishment or
+incorporation of our major subsidiaries having key strategic value to our Group.
+Subsidiary
+Place of
+establishment/
+incorporation
+Date of
+establishment/
+incorporation
+Principal business
+activities
+SiliconFlow (Shanghai) Technology Co.,
+Ltd. (硅基流動(上海)科技有限公司) 
+PRC
+December 5,
+2024
+Research and
+development
+Silicon Cloud (Shanghai) Technology
+Co., Ltd. (硅基雲聯(上海)科技有限公
+司) 
+PRC
+May 16, 2025
+Research and
+development
+SiliconFlow Labs (HK) Limited (硅基流
+動實驗室(香港)有限公司) 
+Hong Kong
+May 5, 2026
+Information
+technology
+services
+ESTABLISHMENT AND MAJOR SHAREHOLDING CHANGES OF OUR COMPANY
+(a)
+Establishment and Early Development of Our Company
+On August 29, 2023, our Company was established as a limited liability company in the PRC with
+an initial registered capital of RMB1,000,000 fully subscribed by Dr. Yuan.
+On December 28, 2023, Dr. Yuan entered into equity transfer agreements with each of Silicon
+Innovation, Silicon Future and Silicon Exploration, respectively, pursuant to which Dr. Yuan transferred
+RMB200,000 registered capital of our Company to each of Silicon Innovation, Silicon Future, and Silicon
+Exploration.
+(b)
+Conversion into a Joint Stock Limited Company
+On June 1, 2026, the then registered Shareholders resolved to, among others, convert our Company
+from a limited liability company into a joint stock limited company and change the name of our Company
+to Beijing SiliconFlow Technology Co., Ltd. (北京硅基流動科技股份有限公司). On June 17, 2026, our
+Company convened the inaugural general meeting and passed resolutions approving, among others, the
+conversion of our Company into a joint stock limited company. Upon completion of the conversion in June
+2026, the registered capital of our Company became RMB20,664,369 divided into 20,664,369 Shares with
+a nominal value of RMB1.00 each, which were subscribed by all the then registered Shareholders in
+proportion to their respective equity interest in our Company before the conversion.
+(c)
+Share Subdivision before the [REDACTED]
+Pursuant to the Shareholders resolutions dated June 26, 2026, our Shares will be subdivided on a
+one-for-[REDACTED] basis immediately prior to the [REDACTED], and the nominal value of each
+Share will be changed from RMB1.00 to RMB[REDACTED]. Following the Share Subdivision, the
+registered capital of our Company immediately prior to the [REDACTED] will be RMB[REDACTED],
+comprising [REDACTED] Shares with a nominal value of RMB[REDACTED] each.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 103 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] (d)
+Pre-[REDACTED] Investments
+Since December 2023, we have received seven rounds of Pre-[REDACTED] Investments from a
+number of Pre-[REDACTED] Investors. For details of the principal terms of the Pre-[REDACTED]
+Investments
+and
+background
+information
+of
+the
+major
+Pre-[REDACTED]
+Investors,
+see
+“—
+Pre-[REDACTED] Investments” below.
+MATERIAL MERGER, ACQUISITION AND DISPOSAL
+During the Track Record Period and up to the Latest Practicable Date, we did not conduct any
+merger, acquisition or disposal that we consider to be material to us.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 104 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p4] PRE-[REDACTED] INVESTMENTS
+1.
+Overview
+Between December 2023 and June 2026, we conducted seven rounds of Pre-[REDACTED] Investments through capital injections and equity transfers.
+Details of those capital injections and equity transfers are summarized below.
+a.
+Capital Injections
+Series Angel
+Financing(1)
+Series Angel+
+Financing(2)
+Series Pre-A
+Financing(3)
+Series A Financing(4)
+Series A+
+Financing(5)
+Series B Financing(6)
+Series B+
+Financing(7)
+Date of agreement(s)               
+December 28,
+2023
+May 24, 2024;
+January 16,
+2025
+January 16, 2025
+May 9, 2025;
+June 24, 2025
+February 11,
+2026; March
+9, 2026
+April 30, 2026
+June 9, 2026
+Amount of registered capital subscribed for
+(RMB)(8)                    
+2,089,330
+1,632,050
+1,097,523
+2,402,939
+1,457,104
+2,387,881
+2,436,952
+Approximate amount of consideration paid  
+RMB47.20
+million
+RMB65.84
+million
+RMB71.48
+million
+RMB285.99
+million
+RMB220 million
+RMB520 million
+RMB740 million
+Date of payment of consideration in full   
+March 19, 2024
+March 10, 2025
+February 20,
+2025
+July 10, 2025
+March 20, 2026
+June 5, 2026
+June 17, 2026
+Approximate cost per Share(9)         
+RMB22.59
+RMB40.34
+RMB65.13
+RMB119.02
+RMB150.98
+RMB217.77
+RMB303.66
+Approximate discount to the [REDACTED](9) 
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+Implied pre-money valuation of our
+Group(10)                    
+RMB232.8
+million
+RMB500.0
+million
+RMB913.5
+million
+RMB2,000
+million
+RMB2,900
+million
+RMB4,500
+million
+RMB7,000
+million
+Implied post-money valuation of our
+Group(11)(12)                  
+RMB280.0
+million
+RMB565.8
+million
+RMB985.0
+million
+RMB2,286
+million
+RMB3,120
+million
+RMB5,020
+million
+RMB7,740
+million
+b.
+Equity Transfers
+Concurrent round
+Date of equity
+transfer agreement
+Date of settlement of
+consideration
+Transferor
+Transferee
+Registered capital
+transferred
+Consideration
+Approximate cost
+per Share(9)
+Approximate
+discount to the
+[REDACTED](9)
+(RMB)
+(RMB)
+(RMB)
+Series Pre-A(3)      
+January 16, 2025
+February 24,
+2025
+Dr. Yuan
+Puhua Fund
+207,584
+13,519,714
+65.13
+[REDACTED]%
+Series B(6)         
+April 30, 2026
+May 7, 2026
+Dr. Yuan
+Chongqing
+Longze
+66,232
+10,000,000
+150.98
+[REDACTED]%
+Series B+(7)        
+June 9, 2026
+June 15, 2026
+Dr. Yuan
+Nanjing
+Lianchuang
+68,881
+15,000,000
+217.77
+[REDACTED]%
+Series B+(7)        
+June 9, 2026
+June 18, 2026
+Beijing Qihoo
+Huakong
+Frontier Fund
+19,210
+5,000,000
+260.28
+[REDACTED]%
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 105 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p5] Notes:
+(1)
+The series angel financing investors included Beijing Sinovation Ventures Zhichuang Equity Investment Partnership (Limited
+Partnership) (北京創新工場智創股權投資合夥企業(有限合夥)) (“Beijing Sinovation”), Suzhou Glory Ventures Investments
+Fund III L.P. (蘇州耀途股權投資合夥企業(有限合夥)) (“Suzhou Glory”), Beijing Miracle Plus Phase II Venture Investment
+Center (Limited Partnership) (北京奇績創壇二期創業投資中心(有限合夥)) (“Miracle Plus”), Ms. Tang Yuyu (唐宇煜) and
+Mr. Wang Huiwen (王慧文) (“Mr. Wang”). Apart from investing in the series angel financing for a registered capital of
+RMB22,133 of our Company at a total consideration of RMB5,000,000, Mr. Wang also subscribed for a registered capital of
+RMB30,499 of our Company at a total consideration of RMB30,499.
+(2)
+The series angel+ financing investors included Shenzhen Hubble Technology Investment Partnership (Limited Partnership)
+(深圳哈勃科技投資合夥企業(有限合夥)) (“Hubble Technology”), Suzhou Glory, Shuimu Huaqing (Beijing) Venture
+Investment Partnership (Limited Partnership) (水木華清(北京)創業投資合夥企業(有限合夥)) (“Shuimu Huaqing”), Beijing
+Qihoo Technology Co., Ltd. (北京奇虎科技有限公司) (“Beijing Qihoo”), Beijing Zhipu Huazhang Technology Co., Ltd. (北
+京智譜華章科技有限公司) (“Zhipu Huazhang”), and Tianjin Sankuai Technology Co., Ltd. (天津三快科技有限公司)
+(“Tianjin Sankuai”). Concurrently with the series pre-A financing, Zhipu Huazhang transferred all registered capital to its
+affiliate Beijing Xinglian Dingsen Equity Investment Fund Partnership (Limited Partnership) (北京星連鼎森股權投資基金合
+夥企業(有限合夥)) (“Xinglian Dingsen”) and ceased to be a shareholder of our Company.
+(3)
+The series pre-A financing investors included Nanjing Lvyong Jinhang Equity Investment Management Partnership (Limited
+Partnership)
+(南京綠湧錦航股權投資管理合夥企業(有限合夥))
+(“Nanjing
+Lvyong”),
+SME
+Development
+Fund
+Puhua
+(Hangzhou) Venture Investment Partnership (Limited Partnership) (中小企業發展基金普華(杭州)創業投資合夥企業(有限合
+夥)) (“Puhua Fund”) and Suzhou Glory.
+(4)
+The series A financing investors included Hangzhou Duoxiang Network Technology Co., Ltd. (杭州多項網絡科技有限公司)
+(“Hangzhou Duoxiang”), Hubble Technology, and Beijing Sinovation.
+(5)
+The series A+ financing investor included Wuxi Jiyuan Zheyuan Equity Investment Partnership (Limited Partnership) (無錫
+紀源哲遠股權投資合夥企業(有限合夥)) (“Jiyuan Zheyuan”), Shenzhen Huakong Frontier Technology Private Equity
+Venture Investment Fund Partnership (Limited Partnership) (深圳華控前沿科技私募創業投資基金合夥企業(有限合夥))
+(“Huakong Frontier Fund”), Beihai Juzhitou Venture Investment Co., Ltd. (北海巨之投創業投資有限公司) (“Beihai
+Juzhitou”), Shanghai Lingang Guotai Jun’an Frontier Technology Industry Private Equity Fund Partnership (Limited
+Partnership) (上海臨港國泰君安科技前沿產業私募基金合夥企業(有限合夥)) (“Lingang Guotai”), Shanghai Bailian Guotai
+Jun’an Chuangling Private Equity Fund Partnership (Limited Partnership) (上海百聯國泰君安創領私募基金合夥企業(有限合
+夥)) (“Bailian Guotai”), Taixing Yizhuang Synergy Co-Creation Industrial Investment Fund Partnership (Limited
+Partnership)
+(泰興亦莊協同共創產業投資基金合夥企業(有限合夥))
+(“Taixing
+Yizhuang”),
+and
+Shenzhen
+Xingxin
+Investment Co., Ltd. (深圳星芯投資有限公司) (“Shenzhen Xingxin”).
+(6)
+The series B financing investors included Jiyuan Zheyuan, Chongqing Longze Private Equity Investment Fund Partnership
+(Limited
+Partnership)
+(重慶龍澤私募股權投資基金合夥企業(有限合夥))
+(“Chongqing
+Longze”),
+Muhua
+Shuiqing
+(Shanghai) Venture Investment Partnership (Limited Partnership) (木華水清(上海)創業投資合夥企業(有限合夥)) (“Muhua
+Shuiqing”), Kingdee Software (China) Co., Ltd. (金蝶軟件(中國)有限公司) (“Kingdee”), Guokai Technology Venture
+Investment Co., Ltd. (國開科技創業投資有限責任公司) (“Guokai Technology”), Chengdu Hi-Tech Xindongneng Huajing
+Equity
+Investment
+Fund
+Partnership
+(Limited
+Partnership)
+(成都高新芯動能華景股權投資基金合夥企業(有限合夥))
+(“Chengdu Hi-Tech”), Wondershare Technology (Hunan) Co., Ltd. (萬興科技(湖南)有限公司) (“Hunan Wondershare”),
+Gongqingcheng Chongye Rongtai No. 3 Venture Investment Partnership (Limited Partnership) (共青城崇業融泰三號創業投
+資合夥企業(有限合夥)) (“Chongye Rongtai”), Nanjing Huaxi Ruiding Venture Investment Partnership (Limited Partnership)
+(南京華熙睿登創業投資合夥企業(有限合夥)) (“Huaxi Ruideng”), Shenzhen Minyin Kechuang No. 1 Private Equity
+Investment Fund Partnership (Limited Partnership) (深圳民銀科創一號私募股權投資基金合夥企業(有限合夥)) (“Minyin
+Kechuang”), Shandong Fuhong New Energy Industry Investment Fund Partnership (Limited Partnership) (山東孚弘新能源
+產業投資基金合夥企業(有限合夥))
+(“Shandong
+Fuhong”),
+Wuxi
+Weiding
+Equity
+Investment
+Partnership
+(Limited
+Partnership) (無錫蔚鼎股權投資合夥企業(有限合夥)) (“Wuxi Weiding”), Shanghai Daohe Fengli Venture Investment
+Partnership (Limited Partnership) (上海道禾豐利創業投資合夥企業(有限合夥)) (“Shanghai Daohe”).
+(7)
+The series B+ financing investors included Lingang Guotai, Huakong Frontier Fund, Shanghai Kehui Venture Investment Co.,
+Ltd. (上海科慧創業投資有限公司) (“Shanghai Kehui”), Lexy Electric Co., Ltd. (萊克電氣股份有限公司) (“Lexy”),
+Gongqingcheng Yuqiu Venture Investment Partnership (Limited Partnership) (共青城玉虬創業投資合夥企業(有限合夥))
+(“Gongqingcheng Yuqiu”), Wuxi Jinjie Zhitou Venture Investment Partnership (Limited Partnership) (無錫金捷智投創業投
+資合夥企業(有限合夥)) (“Wuxi Jinjie”), Shangrao Tanhe Industry Equity Investment Fund Center (Limited Partnership) (上
+饒市碳和產業股權投資基金中心(有限合夥)) (“Shangrao Tanhe”), Shangrao Changxin No. 8 Enterprise Management Center
+(Limited Partnership) (上饒市長鑫捌號企業管理中心(有限合夥)) (“Shangrao Changxin”), Guangzhou Biren Intelligent
+Technology Co., Ltd. (廣州壁仞智慧科技有限公司) (“Guangzhou Biren”), Unicom Cybersecurity Equity Investment Fund
+(Guangzhou)
+Partnership
+(Limited
+Partnership)
+(聯通網絡安全股權投資基金(廣州)合夥企業(有限合夥))
+(“Unicom
+Cybersecurity”), Nanjing Lianchuang Digital Equity Investment Partnership (Limited Partnership) (南京聯創數字股權投資
+合夥企業(有限合夥)) (“Nanjing Lianchuang”), Beijing Zhongguancun Science City Phase IV Technology Growth Equity
+Investment
+Partnership
+(Limited
+Partnership)
+(北京中關村科學城四期科技成長股權投資合夥企業(有限合夥))
+(“Zhongguancun Science City”), Beijing Beigong Kechuang Equity Investment Fund Partnership (Limited Partnership) (北
+京北工科創股權投資基金合夥企業(有限合夥)) (“Beigong Kechuang”), Beijing iSoftStone Investment Holdings Co., Ltd. (北
+京軟通動力投資控股有限公司) (“Beijing iSoftStone”), Shenzhen Qinglan Hongju China Soft International Private Equity
+Venture Investment Fund Partnership (Limited Partnership) (深圳青藍鴻聚中軟國際私募創業投資基金合夥企業(有限合夥))
+(“Shenzhen Qinglan”), Gongqingcheng Baosheng Zhishu Venture Investment Center (Limited Partnership) (共青城寶盛智數
+創業投資中心(有限合夥)) (“Baosheng Zhishu”), Gongqingcheng Baosheng Zhisuan Venture Investment Center (Limited
+Partnership)
+(共青城寶盛智算創業投資中心(有限合夥))
+(“Baosheng
+Zhisuan”),
+Hangzhou
+Zhihui
+Xinneng
+Equity
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 106 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p6] Investment Partnership (Limited Partnership) (杭州智匯鑫能股權投資合夥企業(有限合夥)) (“Hangzhou Zhihui”), Xiamen
+Mingrun Zhida Investment Partnership (Limited Partnership) (廈門明潤智達投資合夥企業(有限合夥)) (“Mingrun Zhida”),
+Zhejiang SenseTime Technology Development Co., Ltd. (浙江商湯科技開發有限公司) (“Zhejiang SenseTime”), Beijing
+Guoxiang Shangheng Equity Investment Fund Partnership (Limited Partnership) (北京國香商恒股權投資基金合夥企業(有限
+合夥)) (“Guoxiang Shangheng”), Shenzhen Mairui Xinyue Kechuang Investment Enterprise (Limited Partnership) (深圳市
+邁睿新躍科創投資企業(有限合夥)) (“Shenzhen Mairui”).
+(8)
+On September 3, 2024, the then shareholders of our Company approved, among other things, increasing the registered capital
+of our Company by capitalization of the capital reserve of our Company in the sum of RMB12,381,921 on a pro rata basis
+to all the then shareholders of our Company. Upon completion of the capitalization of the capital reserve, the registered capital
+of our Company was increased from RMB1,375,769 to RMB13,757,690. For illustration purpose, the amount of registered
+capital subscribed for is adjusted by the capitalization of the capital reserve of our Company.
+(9)
+The discount to the [REDACTED] is calculated based on (i) the [REDACTED] of HK$[REDACTED] per [REDACTED]
+(being the mid-point of the indicative [REDACTED] of HK$[REDACTED] to HK$[REDACTED] per [REDACTED]) after
+taking into account the Share Subdivision and (ii) the exchange rate set out in “Information about this Document and the
+[REDACTED].” For the purpose of calculating the discount, the cost per Share is calculated based on the amount of
+investment made by the relevant Pre-[REDACTED] Investors and the number of the Shares they held after the conversion
+of our Company into a joint stock company in June 2026.
+(10)
+The implied pre-money valuation of our Group is calculated based on (i) the cost per RMB1.0 of registered capital paid to
+our Company for the corresponding round of Pre-[REDACTED] Investment and (ii) the registered capital of our Company
+immediately prior to the corresponding round of Pre-[REDACTED] Investment.
+(11)
+The implied post-money valuation of our Group is the sum of (i) the implied pre-money valuation for the corresponding round
+of Pre-[REDACTED] Investment and (ii) the total funds received by our Company from the corresponding round of
+Pre-[REDACTED] Investment.
+(12)
+The increase in the valuation of our Group was primarily due to the R&D progress and business prospects of our Group and
+the prevailing market sentiment in the venture capital markets at the time the investments were made. Specifically:
+(i)
+the increase in our Group’s valuation from the series angel financing to the series angel+ financing was primarily due
+to the development and business prospects of our serverless token services and the technological breakthrough of our
+proprietary inference engine;
+(ii)
+the increase in our Group’s valuation from the series angel+ financing to the series pre-A financing was primarily due
+to the launch of our serverless token services and our dedicated instances services, providing enterprise customers with
+reserved computing resources for production-grade AI workloads;
+(iii)
+the increase in our Group’s valuation from the series pre-A financing to the series A financing was primarily due to
+our industry’s first deployment of DeepSeek R1 & V3 token services on domestic chips;
+(iv)
+the increase in our Group’s valuation from the series A financing to the series A+ financing was primarily due to (i)
+the launch of our serverless token services for international customers; (ii) the commercialization of our serverless
+token services, dedicated instances services, and on-premise deployment solutions; and (iii) the commencement of
+large-scale commercial deployment of cross-chip and multi-model adaptation;
+(v)
+the increase in our Group’s valuation from the series A+ financing to the series B+ financing was primarily because
+our daily token throughput exceeded one trillion for the first time, and the number of registered users on our platform
+exceeded 10 million, demonstrating continued growth in developer and enterprise adoption of our services; and
+(vi)
+the increase in our Group’s valuation from the series B+ financing to the [REDACTED] was primarily due to (a) our
+business expansion, (b) our overseas monthly revenue exceeding US$1 million, and (c) the improved [REDACTED]
+of the H Shares following the [REDACTED].
+2.
+Other Principal Terms
+Basis of determination of valuation and consideration: The valuation of our Group and
+consideration for each round of Pre-[REDACTED] Investments were determined based on arm’s length
+negotiation between our Group/existing shareholders and the Pre-[REDACTED] Investors taking into
+account the timing of the Pre-[REDACTED] Investments and our business prospects.
+Use of proceeds from the Pre-[REDACTED] Investments: We utilized the proceeds from the
+Pre-[REDACTED] Investments to finance our R&D activities and business operations. As of the Latest
+Practicable Date, approximately 32% of the net proceeds from the Pre-[REDACTED] Investments
+(conducted through capital injection) had been utilized.
+Lock-up: Pursuant to applicable PRC law, within 12 months following the [REDACTED], all
+existing Shareholders (including the Pre-[REDACTED] Investors) shall not dispose of any of the Shares
+held by them.
+Strategic benefits to our Group brought by the Pre-[REDACTED] Investors: Our Directors are
+of the view that our Group could benefit from the additional capital provided by the Pre-[REDACTED]
+Investors and their industry knowledge and experience. The Pre-[REDACTED] Investments also
+demonstrated the Pre-[REDACTED] Investors’ confidence in and endorsement of our R&D capabilities
+and business prospects.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 107 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p7] 3.
+Special Rights of the Pre-[REDACTED] Investors
+Pursuant to the shareholders’ agreement entered into among our Company and our Shareholders, the
+Pre-[REDACTED] Investors were granted certain customary special rights, including, among others,
+redemption right, liquidation preference right, information right, pre-emptive right, anti-dilution right,
+co-sale right, drag-along right, and dividend rights. The redemption rights was terminated one day prior
+to our Company’s first submission of the first [REDACTED] to the Stock Exchange, and all other special
+rights granted to the Pre-[REDACTED] Investors will be terminated upon the [REDACTED], provided
+the special rights so terminated shall be reinstated in the event that (i) the Company withdraws or
+terminates its [REDACTED] for the [REDACTED]; (ii) the Company’s [REDACTED] for the
+[REDACTED] is refused, rejected, returned or otherwise terminated by the relevant regulatory
+authorities; (iii) the Company’s [REDACTED] for the [REDACTED] lapses and is not refiled within six
+months thereof; or (iv) the Company fails to consummate a qualifying [REDACTED] within 12 months
+from the date of the Company’s submission of [REDACTED] for the [REDACTED] (or such longer
+period as the parties may agree) or before December 31, 2030.
+4.
+Joint Sponsors’ Confirmation
+On the basis that (i) the respective consideration for the Pre-[REDACTED] Investments was settled
+no less than 120 clear days before the [REDACTED], and (ii) the redemption rights granted to the
+Pre-[REDACTED]
+Investors
+ceased
+to
+be
+exercisable
+one
+day
+prior
+to
+our
+Company’s
+first
+[REDACTED] of the first [REDACTED] to the Stock Exchange, and all other special rights granted to
+the Pre-[REDACTED] Investors will be terminated upon the [REDACTED], the Joint Sponsors confirm
+that the Pre-[REDACTED] Investments are in compliance with Chapter 4.2 of the Guide.
+5.
+Information about Our Pre-[REDACTED] Investors
+Our Pre-[REDACTED] Investors include certain Pathfinder SIIs and other SIIs. In accordance with
+Chapter 2.5 of the Guide, (i) our Pathfinder SIIs each held more than 3% and in aggregate more than 10%
+of our issued share capital as of the submission date of our [REDACTED] for the [REDACTED] and the
+commencement date of the 12-month pre-[REDACTED] period; and (ii) our Pathfinder SIIs and other
+SIIs will hold in aggregate [REDACTED]% of our total issued share capital immediately following
+completion of the [REDACTED].
+The background information of our Pathfinder SIIs, other SIIs and other key Pre-[REDACTED]
+Investors is set out below. To the best knowledge of our Directors, save for being a Shareholder, (i) each
+of our Pathfinder SIIs and other SIIs is independent from and not connected with any Director, chief
+executive or substantial Shareholder of our Company, its subsidiaries or any of their respective associates;
+(ii) save for those entities as identified in the section headed “— Capitalization of our Company,” each
+of these investors is independent from each other; and (iii) each of the Pre-[REDACTED] Investors and
+their ultimate beneficial owners or controllers is an independent third party.
+Pathfinder SIIs
+Alibaba Group
+Hangzhou Duoxiang(1) is a limited liability company established in the PRC. It is a consolidated
+entity of Alibaba Group Holding Limited (阿里巴巴集團控股有限公司), a company listed on the New York
+Stock Exchange (Stock Symbol: BABA) and the Stock Exchange (Stock Code: 9988 (HKD Counter) and
+89988 (RMB Counter)) (“Alibaba Group”). As of March 31, 2025 (being a date not more than six months
+prior to the signing of the first definitive agreement for investment in our Company) and March 31, 2026
+(being a date not more than six months prior to the submission date of our [REDACTED] for
+[REDACTED]), the carrying value of Alibaba Group’s equity securities in listed equity securities and
+investments in privately held companies was approximately RMB173.80 billion and RMB231.04 billion,
+respectively. Hangzhou Duoxiang held approximately 7.42% and 9.85% of our total issued share capital
+as of the submission date of our [REDACTED] for the [REDACTED] and the commencement date of the
+12-month pre-[REDACTED] period, respectively.
+(1)
+In accordance with paragraph 18(i) of Chapter 2.5 of the Guide, as Hangzhou Duoxiang is not an existing core connected
+person of our Company or its close associate at the time of signing the definitive agreement for investment in our Company,
+Hangzhou Duoxiang, with board representation, will not be classified as a core connected person.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 108 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p8] Glory Ventures
+Suzhou Glory is a limited partnership established in the PRC and is the RMB-denominated
+investment fund under the brand of “Glory Ventures” (耀途資本). Its general partner is Shanghai Glory
+Ventures Investment Management Co., Ltd. (上海曜途投資管理有限公司) (“Shanghai Glory”), holding
+approximately 1.6% of the partnership interest. Shanghai Glory is wholly owned by Shanghai Glory
+Ventures Investment Consulting Co., Ltd. (上海曜途投資諮詢有限公司), which is controlled by Mr. Bai
+Zongyi (白宗義). As of the Latest Practicable Date, Suzhou Glory had 38 limited partners, none of which
+held 30% or more of the partnership interest.
+Suzhou Glory is one of the investment funds under the brand of Glory Ventures, a technology-
+focused venture capital platform dedicated to identifying and investing in high-growth innovative
+enterprises, particularly those operating in specialist technology sectors. The investment team of Glory
+Ventures comprises professionals with extensive experience gained from leading venture capital
+institutions, investment firms and global semiconductor companies. The investment activities of all its
+RMB-denominated and USD-denominated funds operated under the brand of Glory Ventures are primarily
+managed by its investment committee, which is responsible for reviewing and approving investment
+opportunities, overseeing portfolio management and monitoring the performance of investee companies.
+The investment committee evaluates proposed investments based on factors such as technological
+strength, commercial prospects, growth potential and investment risks, and makes decisions in accordance
+with Glory Ventures’ investment strategy and objectives.
+As of June 30, 2023 (being a date no more than six months prior to the date of the investment
+agreement), the aggregate size of the investment portfolio under management of the investment committee
+of Glory Ventures was below HK$5 billion. As of May 31, 2026, the aggregate size of the investment
+portfolio under management of the investment committee of Glory Ventures exceeded HK$5 billion,
+consisting primarily of investments in Specialist Technology companies.
+The growth in the aggregate investment portfolio between the two dates above is attributable to the
+investment experience, knowledge and expertise of Glory Ventures in the Specialist Technology sector, in
+particular (i) the appreciation in the valuations of Specialist Technology portfolio companies that Glory
+Ventures had identified and invested in at an early stage, based on the investment committee’s deep
+domain knowledge in semiconductors, AI infrastructure and related technologies — including its
+investments in Shanghai Biren Technology Co., Ltd. (上海壁仞科技股份有限公司) (6082.HK), Axera
+Semiconductor Co., Ltd. (愛芯元智半導體股份有限公司) (0600.HK), Hanbo Semiconductor (Shanghai)
+Co., Ltd. (瀚博半導體(上海)股份有限公司) and DeepRoute.ai Technology Co., Ltd. (深圳元戎啟行科技有
+限公司), several of which have since listed on major stock exchanges or attracted significant institutional
+follow-on capital, leading to increases in their assessed valuations; and (ii) the incremental deployment of
+capital into further Specialist Technology companies, driven by its team’s industry networks and technical
+evaluation capabilities in the Specialist Technology sector.
+Suzhou Glory held approximately 3.01% and 3.99% of our total issued share capital as of the
+submission date of our [REDACTED] for [REDACTED] and the commencement date of the 12-month
+pre-[REDACTED] period, respectively.
+Puhua Capital
+Puhua Fund is a limited partnership established in the PRC. Its general partner is Hangzhou Puhua
+Zhiqin Entrepreneurship Investment Partnership Enterprise (Limited Partnership) (杭州普華至勤創業投資
+合夥企業(有限合夥)) (“Puhua Zhiqin”) holding approximately 1% of the partnership interest. Puhua
+Zhiqin is managed by its general partner Zhejiang Puhua Tianqin Equity Investment Management Limited
+Corporation (浙江普華天勤股權投資管理有限公司) (“Puhua Capital”), which is ultimately controlled by
+Mr. Shen Qinhua (沈琴華). As of the Latest Practicable Date, Puhua Fund had 14 limited partners, with
+its largest limited partner, National Small and Medium Sized Enterprise Development Fund Co., Ltd. (國
+家中小企業發展基金有限公司) holding approximately 30% of the partnership interest. None of remaining
+limited partners of Puhua Fund held 30% or more of the partnership interest.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 109 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p9] Puhua Fund is managed by Puhua Capital, a leading venture capital investment and asset
+management firm in China focusing on new technology, new energy, new materials, new healthcare, and
+new consumption sectors. Puhua Capital had more than HK$15 billion in assets under management as of
+December 31, 2024 (being a date not more than six months prior to the signing of the first definitive
+agreement for investment in our Company) and December 31, 2025 (being a date not more than six months
+prior to the submission date of our [REDACTED] for [REDACTED]). Puhua Fund held approximately
+1.81% and 2.40% of our total issued share capital as of the submission date of our [REDACTED] for
+[REDACTED] and the commencement date of the 12-month pre-[REDACTED] period, respectively.
+Other SIIs
+Jiyuan Capital
+Jiyuan Zheyuan is a limited partnership established in the PRC. Its general partner is Shanghai Jican
+Management
+Consulting
+Co.,
+Ltd.
+(上海紀璨管理諮詢有限公司)
+(“Shanghai
+Jican”),
+holding
+approximately 0.0001% of the partnership interest. As of the Latest Practicable Date, Shanghai Jican was
+owned by Mr. Xu Bingdong (徐炳東), Mr. Wu Chenyao (吳陳堯) and Mr. Li Haojun (李浩軍) as to 33.4%,
+33.3% and 33.3%, respectively. As of the Latest Practicable Date, Jiyuan Zheyuan had three limited
+partners, with its largest limited partner Wuxi Jiyuan Hongying Private Equity Fund Partnership (Limited
+Partnership)
+(無錫紀源宏盈私募基金合夥企業(有限合夥))
+holding
+approximately
+58.12%
+of
+the
+partnership interest and its second largest limited partner Nanjing Jiyuan Hongming Equity Investment
+Partnership (Limited Partnership) (南京紀源宏明股權投資合夥企業(有限合夥)) holding approximately
+30.60% of the partnership interest. The remaining limited partner of Jiyuan Zheyuan held less than 30%
+of the partnership interest.
+Jiyuan Zheyuan is an investment vehicle of Jiyuan Capital. Founded in 2017, Jiyuan Capital is a
+venture capital firm focusing on investments across sectors of semiconductors, artificial intelligence, new
+energy, information technology, medical technology, industries of environment and materials, industrial
+technology, enterprise services and consumer technology with the key investment portfolio of XPeng Inc.
+(9868.HK), JINGDONG Industrials, Inc. (京東工業股份有限公司) (7618.HK), Moore Threads Intelligent
+Technology
+(Beijing)
+Co.,
+Ltd.
+(摩爾線程智能科技(北京)股份有限公司)
+(688795.SH),
+Axera
+Semiconductor Co., Ltd. (愛芯元智半導體股份有限公司) (0600.HK), SENASIC Electronics Technology
+Co., Ltd. (
+捷電子科技(江蘇)股份有限公司) (6675.HK), Geneplus Technology (Shaoxing) Co., Limited
+(吉因加科技(紹興)股份有限公司), Shanghai Synyi Medical Technology Co., Ltd. (上海森億醫療科技股份
+有限公司) and Manycore Tech Inc (0068.HK). Jiyuan Capital had an investment portfolio of more than
+HK$5 billion derived primarily from Specialist Technology investment as of December 31, 2025 (being
+a date not more than six months prior to the signing of the first definitive agreement for investment in our
+Company and a date not more than six months prior to the submission date of our [REDACTED] for
+[REDACTED]). Jiyuan Zheyuan held approximately 1.48% of our total issued share capital as of the
+Latest Practicable Date.
+Guotai Jun’an
+Lingang Guotai is a limited partnership established in the PRC. Its general partner is Guotai Jun’an
+Innovation Investment Co., Ltd. (國泰君安創新投資有限公司) (“Guotai Jun’an Innovation”), which
+holds approximately 18.70% of the partnership interest and is wholly owned by Guotai Haitong Securities
+Co., Ltd. (國泰海通證券股份有限公司) (2611.HK; 601211.SH). As of the Latest Practicable Date, Lingang
+Guotai had 13 limited partners and none of them held 30% or more of the partnership interest.
+Bailian Guotai is a limited partnership established in the PRC. Its general partners are Guotai Jun’an
+Innovation
+and
+Shanghai
+Shangtou
+Venture
+Investment
+Co.,
+Ltd.
+(上海商投創業投資有限公司)
+(“Shanghai Shangtou”), each holding approximately 6% and 0.5% of the partnership interest,
+respectively. Shanghai Shangtou is ultimately wholly owned by Shanghai State-owned Assets Supervision
+and Administration Commission (上海市國有資產監督管理委員會). As of the Latest Practicable Date,
+Bailian Guotai had six limited partners, with its largest limited partner Shanghai Bailian Commercial
+Brand Investment Co., Ltd. (上海百聯商業品牌投資有限公司) holding approximately 30% of the
+partnership interest. None of remaining limited partners of Bailian Guotai held 30% or more of the
+partnership interest.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 110 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p10] Lingang Guotai and Bailian Guotai are investment vehicles managed by Guotai Jun’an Innovation.
+Guotai Jun’an Innovation is engaged in private equity management and investment management. As of
+December 31, 2025 (being a date not more than six months prior to the signing of the first definitive
+agreement for investment in our Company and a date not more than six months prior to the submission
+date of our [REDACTED] for [REDACTED]), Guotai Jun’an Innovation had more than RMB25.5 billion
+in assets under management. Lingang Guotai and Bailian Guotai held in aggregate approximately 1.56%
+of our total issued share capital as of the Latest Practicable Date.
+Shanghai Kehui
+Shanghai Kehui is a limited liability company established in the PRC. Shanghai Kehui is directly
+owned by Yang Xiaoli (楊曉莉) and Yang Qin (楊欽), both are independent third parties, as to 99.00% and
+1.00%, respectively and controlled through contractual arrangements by Ctrip Travel Network Technology
+(Shanghai) Co., Ltd. (攜程旅遊網絡技術(上海)有限公司), which is indirectly wholly owned by Trip.com
+Group Limited (攜程集團有限公司) (9961.HK; TCOM.NASDAQ) (“Trip.com”). Trip.com’s equity
+investments amounted to approximately RMB33.1 billion as of December 31, 2025 (being a date not more
+than six months prior to the signing of the first definitive agreement for investment in our Company and
+a date not more than six months prior to the submission date of our [REDACTED] for [REDACTED]).
+Shanghai Kehui held approximately 1.29% of our total issued share capital as of the Latest Practicable
+Date.
+Kingdee
+Kingdee is a limited liability company established in the PRC and a wholly owned subsidiary of
+Kingdee
+International
+Software
+Group
+Company
+Limited
+(金蝶國際軟件集團有限公司)
+(268.HK)
+(“Kingdee International”). According to Frost & Sullivan, Kingdee International is a leading global
+enterprise management AI company. In terms of revenue in China’s enterprise management cloud SaaS
+market in 2025 (being a date not more than six months prior to the signing of the first definitive agreement
+for investment in our Company and a date not more than six months prior to the submission date of our
+[REDACTED] for [REDACTED]), Kingdee International ranked the first and was a key participant in the
+downstream enterprise SaaS AI application segment of the Company’s AI token supply platform industry.
+Kingdee held approximately 1.26% of our total issued share capital as of the Latest Practicable Date.
+Meituan
+Tianjin Sankuai is a limited liability company established in the PRC. Tianjin Sankuai is wholly
+owned by Beijing Sankuai Technology Co., Ltd. (北京三快科技有限公司), which is in turn controlled by
+Meituan (美團) (3690.HK) through contractual arrangements. As of December 31, 2024 (being a date not
+more than six months prior to the signing of the first definitive agreement for investment in our Company)
+and December 31, 2025 (being a date not more than six months prior to the submission date of our
+[REDACTED] for [REDACTED]), the value of the diverse investment portfolio held by Meituan was
+approximately RMB41.3 billion and RMB45.6 billion, respectively. Meituan held approximately 1.05% of
+our total issued share capital as of the Latest Practicable Date.
+Huakong Frontier Fund
+Huakong Frontier Fund is a limited partnership established in the PRC. Its general partner is
+Shenzhen
+Shentou
+Huakong
+Industrial
+Investment
+Co.,
+Ltd.
+(深圳市深投華控產業投資有限公司)
+(“Shentou Huakong”), holding approximately 0.44% of the partnership interest, and its manager is
+Khorgos Huakong Venture Capital Co., Ltd. (霍爾果斯華控創業投資有限公司) (“Huakong Capital”),
+which is ultimately controlled by Mr. Zhang Yang (張揚). As of the Latest Practicable Date, Huakong
+Frontier Fund had 21 limited partners, none of which held 30% or more of the partnership interest.
+Huakong Frontier Fund is an investment vehicle of Huakong Capital, a leading investment firm in
+China supporting high-growth and high-technology enterprises in China. Huakong Capital had more than
+HK$15 billion in assets under management as of December 31, 2025 (being a date not more than six
+months prior to the signing of the first definitive agreement for investment in our Company and a date not
+more than six months prior to the submission date of our [REDACTED] for [REDACTED]). Huakong
+Frontier Fund held approximately 1.05% of our total issued share capital as of the Latest Practicable Date.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 111 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p11] Jinko Solar
+Shangrao Tanhe is a limited partnership established in the PRC. Its general partners are Jinneng
+Private Equity Fund Management (Shanghai) Co., Ltd. (金能私募基金管理(上海)有限公司) (“Jinneng”),
+and
+Jiangxi
+Yunjin
+Assets
+Management
+Co.,
+Ltd.
+(江西雲錦資產管理有限公司),
+each
+holding
+approximately 0.42% of the partnership interest. Jinneng is ultimately controlled by Jinko Solar
+Investment Limited (晶科能源投資有限公司) (“Jinko Solar Investment”), which is in turn wholly owned
+by Jinko Solar Holding Co., Ltd. (JKS.NYSE) (“Jinko Solar”). As of the Latest Practicable Date,
+Shangrao Tanhe had eight limited partners, none of which held 30% or more of the partnership interest.
+Shangrao Changxin is a limited partnership established in the PRC. Its general partner is Shangrao
+Hongxin Equity Investment Co., Ltd. (上饒市弘信股權投資有限公司) (“Shangrao Hongxin”), holding
+approximately 0.17% of the partnership interest. Shangrao Hongxin is wholly owned by Jinko Solar
+Investment, which is in turn wholly owned by Jinko Solar. As of the Latest Practicable Date, Shangrao
+Changxin had one limited partner, Shangrao Changxin Enterprise Management Center (Limited
+Partnership)
+(上饒市長鑫企業管理中心(有限合夥))
+(“Shangrao
+Changxin
+Centre”),
+holding
+approximately 99.83% of the partnership interest. Shangrao Changxin Centre is ultimately controlled by
+Jinko Solar.
+Shangrao Tanhe and Shangrao Changxin are investment vehicles of Jinko Solar. Jinko Solar is a
+global leader in clean energy technology, providing photovoltaic and energy storage products and
+solutions worldwide. According to Frost & Sullivan, in terms of module shipments in global renewable
+energy and photovoltaic industry in 2025 (being a date not more than six months prior to the signing of
+the first definitive agreement for investment in our Company and a date not more than six months prior
+to the submission date of our [REDACTED] for [REDACTED]), Jinko Solar ranked among the top three
+globally and was a key participant in the upstream renewable energy solutions supporting the broader
+green computing infrastructure ecosystem underlying the Company’s AI token supply platform industry.
+Shangrao Tanhe and Shangrao Changxin held in aggregate approximately 0.90% of our total issued share
+capital as of the Latest Practicable Date.
+Giant Network
+Beihai Juzhitou is a limited liability company established in the PRC and is ultimately wholly owned
+by Giant Network Group Co., Ltd. (巨人網絡集團股份有限公司) (002558.SZ) (“Giant Network”). Giant
+Network is a leading gaming company in China. According to Frost & Sullivan, in terms of revenue in
+China’s online gaming industry in 2024 (being a date not more than six months prior to the signing of the
+first definitive agreement for investment in our Company) and 2025 (being a date not more than six
+months prior to the submission date of our [REDACTED] for [REDACTED]), Giant Network ranked
+among the top 20 and top 20 and was a key participant in the downstream online gaming and interactive
+entertainment segment of the Company’s AI token supply platform industry, accounting for approximately
+1% and 1.5% market share in 2024 and 2025, respectively. Beihai Juzhitou held approximately 0.78% of
+our total issued share capital as of the Latest Practicable Date.
+Intellifusion
+Shenzhen Xingxin is a limited liability company established in the PRC and is wholly owned by
+Shenzhen
+Intellifusion
+Technologies
+Co.,
+Ltd.
+(深圳雲天勵飛技術股份有限公司)
+(688343.SH)
+(“Intellifusion”). Intellifusion is dedicated to the design, development and commercialization of
+NPU-powerd AI inference chip-related products and services for enterprise, consumer and industry
+applications. Intellifusion is a key upstream provider of AI inference chips which are widely applied across
+diverse industries, including the token supply platform market in which the Company operates. According
+to Frost & Sullivan, in terms of revenue in China’s AI inference chip-related products and services
+industry in 2025 (being a date not more than six months prior to the signing of the first definitive
+agreement for investment in our Company and a date not more than six months prior to the submission
+date of our [REDACTED] for [REDACTED]), Intellifusion was a leading participant in the upstream AI
+inference chip and processor supporting the Company’s AI token supply platform industry. Shenzhen
+Xingxin held approximately 0.78% of our total issued share capital as of the Latest Practicable Date.
+iSoftStone
+Beijing iSoftStone is a limited liability company established in the PRC and is wholly owned by
+iSoftStone
+Information
+Technology
+(Group)
+Co.,
+Ltd.
+(軟通動力信息技術(集團)股份有限公司)
+(301236.SZ) (“iSoftStone”). iSoftStone is a leading full-stack intelligent products and services provider
+in China. According to Frost & Sullivan, in terms of revenue in China’s digital technology services
+industry in 2025 (being a date not more than six months prior to the signing of the first definitive
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 112 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p12] agreement for investment in our Company and a date not more than six months prior to the submission
+date of our [REDACTED] for [REDACTED]), iSoftStone ranked among the top 20 and was a key
+participant in the downstream digital technology and intelligent services segment of the Company’s AI
+token supply platform industry in 2025. Beijing iSoftStone held approximately 0.65% of our total issued
+share capital as of the Latest Practicable Date.
+China Unicom
+Unicom Cybersecurity is a limited partnership established in the PRC and is managed by its general
+partner, China Unicom Xinwo Venture Capital Management (Shanghai) Co., Ltd. (聯通新沃創業投資管理
+(上海)有限公司) (“Unicom Xinwo VC”). Unicom Xinwo VC is a licensed fund manager controlled by
+China
+Unicom
+(Hong
+Kong)
+Limited
+(中國聯合網絡通信(香港)股份有限公司)
+(762.HK)
+(“China
+Unicom”). China Unicom provides comprehensive mobile, broadband, and international digital services,
+operating as the third-largest wireless carrier in China and a major global service provider. According to
+Frost & Sullivan, in terms of revenue in China’s telecommunications, cloud and digital infrastructure
+services industry in 2025 (being a date not more than six months prior to the signing of the first definitive
+agreement for investment in our Company and a date not more than six months prior to the submission
+date of our [REDACTED] for [REDACTED]), China Unicom ranked among the top five and was a key
+participant in the upstream telecommunications, cloud and computing infrastructure segment of the
+Company’s AI token supply platform industry, accounting for approximately 20% market share in 2025.
+Unicom Cybersecurity held approximately 0.65% of our total issued share capital as of the Latest
+Practicable Date.
+Zhongguancun Science City
+Zhongguancun Science City is a limited partnership established in the PRC. Its general partner is
+Beijing Zhongguancun Science City Technology Investment Management Co., Ltd. (北京中關村科學城科
+技投資管理有限公司) (“Zhongguancun Investment”), holding 1% of the partnership interest, which is
+ultimately controlled by the State-owned Assets Supervision and Administration Commission of Haidian
+District People’s Government (北京市海淀區人民政府國有資產監督管理委員會) (“Haidian SASAC”).
+As of the Latest Practicable Date, Zhongguancun Science City had one limited partner, Beijing Haidian
+District State Owned Assets Investment Group Co., Ltd. (北京市海淀區國有資產投資集團有限公司),
+which is ultimately controlled by Haidian SASAC. Zhongguancun Investment had approximately RMB30
+billion in assets under management as of March 31, 2026 (being a date not more than six months prior to
+the signing of the first definitive agreement for investment in our Company and a date not more than six
+months prior to the submission date of our [REDACTED] for [REDACTED]). Zhongguancun Science
+City held approximately 0.65% of our total issued share capital as of the Latest Practicable Date.
+Wondershare
+Hunan Wondershare is a limited liability company established in the PRC and is wholly owned by
+Wondershare Technology Group Co., Ltd. (萬興科技集團股份有限公司) (300624.SZ) (“Wondershare”).
+Wondershare is a global leader in digital creativity software, providing innovative video editing, document
+editing, and diagramming solutions integrated with advanced AIGC capabilities for creators worldwide.
+According to Frost & Sullivan, in terms of revenue in the AIGC video creativity software market in 2025
+(being a date not more than six months prior to the signing of the first definitive agreement for investment
+in our Company and a date not more than six months prior to the submission date of our [REDACTED]
+for [REDACTED]), Wondershare ranked among the top ten and was a key participant in the downstream
+AIGC creativity software application segment of the Company’s AI token supply platform industry,
+accounting for approximately 1.5% market share in 2025. Hunan Wondershare held approximately 0.54%
+of our total issued share capital as of the Latest Practicable Date.
+360
+Beijing Qihoo is a limited liability company established in the PRC and is wholly owned by 360
+Security Technology Inc. (三六零安全科技股份有限公司) (601360.SH) (“360”). 360 is a leading provider
+of comprehensive internet and security products and services. According to Frost & Sullivan, in terms of
+revenue in China’s cybersecurity services industry in 2023 (being a date not more than six months prior
+to the signing of the first definitive agreement for investment in our Company) and 2025 (being a date not
+more than six months prior to the submission date of our [REDACTED] for [REDACTED]), 360 ranked
+among the top 15 and top ten and was a key participant in the upstream cybersecurity and AI security
+infrastructure segment of the Company’s AI token supply platform industry accounting for approximately
+1.5% and 2% market share in 2023 and 2025, respectively. Beijing Qihoo held approximately 0.41% of
+our total issued share capital as of the Latest Practicable Date.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 113 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p13] Biren
+Guangzhou Biren is a limited liability company established in the PRC and is wholly owned by
+Shanghai Biren Technology Co., Ltd. (上海壁仞科技股份有限公司) (6082.HK) (“Biren”). Biren is a
+leading domestic provider of general-purpose intelligent computing solutions, delivering powerful, secure
+and efficient computing infrastructure across industries. According to Frost & Sullivan, in terms of market
+position in China’s general-purpose AI computing chip industry in 2025 (being a date not more than six
+months prior to the signing of the first definitive agreement for investment in our Company and a date not
+more than six months prior to the submission date of our [REDACTED] for [REDACTED]), Biren ranked
+among the top ten and was a key participant in the upstream GPU and general-purpose AI computing chip
+segment of the Company’s AI token supply platform industry in 2025. Guangzhou Biren held
+approximately 0.39% of our total issued share capital as of the Latest Practicable Date.
+SenseTime
+Zhejiang SenseTime is a limited liability company established in the PRC and is wholly owned by
+SenseTime Group Inc. (商湯集團股份有限公司) (0020.HK) (“SenseTime”). Guoxiang Shangheng is a
+limited partnership established in the PRC and is managed by Beijing Guoxiang Shangheng Fund
+Management Co., Ltd. (北京國香商恒私募基金管理有限公司), a wholly owned subsidiary of SenseTime.
+SenseTime is a leading AI company with full-stack capabilities in AI infrastructure, AI model development
+and generative AI applications. According to Frost & Sullivan, in terms of revenue and market share in
+China’s generative AI and native AI cloud industry in 2025 (being a date not more than six months prior
+to the signing of the first definitive agreement for investment in our Company and a date not more than
+six months prior to the submission date of our [REDACTED] for [REDACTED]), SenseTime ranked
+among the top ten and was a key participant in the upstream generative AI and native AI cloud segment
+of the Company’s AI token supply platform industry in 2025. Zhejiang SenseTime and Guoxiang
+Shangheng held in aggregate approximately 0.64% of our total issued share capital as of the Latest
+Practicable Date.
+Other Key Pre-[REDACTED] Investors
+We have also received investments from the other major Pre-[REDACTED] Investors, each of which
+held 2.00% or more interest in the Company as of the Latest Practicable Date.
+Hubble Technology
+Hubble Technology is a limited partnership established in the PRC. Its general partner is Hubble
+Technology Venture Capital Co., Ltd. (哈勃科技創業投資有限公司), a venture capital institution wholly
+owned by Huawei Investment & Holding Co., Ltd. (華為投資控股有限公司), a company focusing on
+investments in technology and information technology application innovation.
+Sinovation Ventures
+Beijing Sinovation is a limited partnership established in the PRC. Its general partner is Sinovation
+(Beijing) Equity Investment Management Co., Ltd. (創新工場(北京)股權投資管理有限公司), which is
+wholly-owned by Beijing Sinovation Private Equity Fund Management Co., Ltd. (北京創新工場私募基金
+管理有限公司) (“Sinovation Ventures”). Sinovation Ventures is a leading technology-focused venture
+capital firm in China, with investment focus in artificial intelligence and hard tech, robotics and
+automation, general technology, and healthcare technology.
+Nanjing Lvyong
+Nanjing Lvyong is a limited partnership established in the PRC. Its general partner is Nanjing
+Lvyong Jinhao Equity Investment Management Partnership Enterprise (Limited Partnership) (南京綠湧錦
+皓股權投資管理合夥企業(有限合夥))
+(“Lvyong
+Jinhao”),
+holding
+approximately
+0.88%
+of
+the
+partnership interest. Lvyong Jinhao is managed by its general partner Ningbo Meishan Minheng Qizhi
+Investment Management Center (Limited Partnership) (寧波梅山保稅港區民恒啟智投資管理中心(有限合
+夥)), which is ultimately controlled by Ms. Wu Haiyan (吳海燕). As of the Latest Practicable Date,
+Nanjing Lvyong had 13 limited partners, none of which held 30% or more of the partnership interest.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 114 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p14] PUBLIC FLOAT
+Pursuant to Rule 19A.13A(1) of the Listing Rules, assuming the [REDACTED] is not exercised, the
+[REDACTED]
+of
+our
+H
+Shares
+upon
+the
+[REDACTED]
+is
+expected
+to
+be
+approximately
+HK$[REDACTED] billion, HK$[REDACTED] billion, and HK$[REDACTED] billion based on the
+low-end, mid-point or high-end of the indicative [REDACTED], and therefore the minimum prescribed
+public
+float
+percentage
+applicable
+to
+our
+H
+Shares
+is
+[REDACTED]%,
+[REDACTED]%
+and
+[REDACTED]%, respectively.
+Immediately following completion of the [REDACTED] and the conversion of Unlisted Shares into
+H Shares, assuming the [REDACTED] is not exercised, [REDACTED] Unlisted Shares (taking into
+account the Share Subdivision) held by our Shareholders, representing approximately [REDACTED]% of
+our total issued Shares upon completion of the [REDACTED], will not be considered as part of the public
+float as the Shares are Unlisted Shares which will not be [REDACTED] on the Stock Exchange following
+completion of the [REDACTED].
+To the best knowledge of our Director, save as disclosed above, immediately following completion
+of the [REDACTED], assuming the [REDACTED] is not exercised, [REDACTED] H Shares (taking into
+account the Share Subdivision) held or controlled by our Shareholders who are not our core connected
+persons, representing approximately [REDACTED]% of our total issued Shares immediately following
+completion of the [REDACTED], will be counted towards the public float, which is in compliance with
+the requirement under Rule 19A.13A(1) of the Listing Rules.
+LOCK-UP AND FREE FLOAT
+The table below sets out the list of persons who will be subject to lock-up requirements pursuant to
+Rule 18C.14 of the Listing Rules.
+Person
+Capacity
+Number of Shares
+(taking into account
+the Share
+Subdivision) subject
+to lock-up
+requirement
+immediately following
+completion of the
+[REDACTED](1)
+Percentage of Shares
+subject to lock-up
+requirement
+immediately following
+completion of the
+[REDACTED](1)
+Lock-up period
+(%)
+Key persons
+Dr. Yuan      
+Our founder,
+chairman of our
+Board, executive
+Director, CEO,
+general manager and
+financial controller
+[REDACTED]
+[REDACTED]
+The period
+commencing on the
+date of this
+document and ending
+on the date which is
+24 months from the
+[REDACTED](3)
+Silicon
+Innovation   
+Close associate of
+Dr. Yuan
+[REDACTED](2)
+[REDACTED]
+Silicon Future  
+[REDACTED](2)
+[REDACTED]
+Silicon
+Exploration  
+[REDACTED](2)
+[REDACTED]
+Silicon
+Excellence   
+[REDACTED](2)
+[REDACTED]
+Existing investors
+Hangzhou
+Duoxiang    
+Pathfinder SII
+[REDACTED]
+[REDACTED]
+The period
+commencing on the
+date of this
+document and ending
+on the date which is
+12 months from the
+[REDACTED](4)
+Suzhou Glory  
+[REDACTED]
+[REDACTED]
+Puhua Fund    
+[REDACTED]
+[REDACTED]
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 115 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p15] Notes:
+(1)
+Based on the assumptions that the [REDACTED] is not exercised.
+(2)
+Silicon Future, Silicon Innovation, Silicon Exploration, and Silicon Excellence are our Employee Incentive Platforms.
+We had granted incentive equity to participants under the Employee Incentive Scheme. Our co-founders and core
+members of our R&D team, namely Dr. Yuan, Mr. Liu Juncheng (柳俊丞), Mr. Zeng Hua (曾華), Ms. Zhao Zhen (趙
+震), Mr. Hu Jian (胡健), Mr. Chen Houjiang (陳後江), Mr. Liao Xingyu (廖星宇), Mr. Li Yipeng (李一鵬), and Mr.
+Zhang Wenxiao (張文驍) are limited partners of our Employee Incentive Platforms. As of the Latest Practicable Date,
+(i) Dr. Yuan, our founder, chairman of our Board, executive Director, CEO, general manager and financial controller,
+held approximately 0.00005%, 0.00005%, 0.00005%, and 0.00006% of the partnership interests in Silicon Future,
+Silicon Innovation, Silicon Exploration, and Silicon Excellence, respectively; (ii) Mr. Liu Juncheng, our executive
+Director and chief technology officer, held approximately 35.00% of the partnership interest in Silicon Innovation; (iii)
+Mr. Zeng Hua, our executive Director and deputy general manager, held approximately 25.00% of the partnership
+interest in Silicon Innovation; (iv) Ms. Zhao Zhen, our chief operating officer, held approximately 1.00%, 15.00%,
+1.00%, and 3.57% of the partnership interests in Silicon Future, Silicon Innovation, Silicon Exploration, and Silicon
+Excellence, respectively; (v) Mr. Hu Jian, our deputy general manager, held approximately 15.00% and 5.95% of the
+partnership interests in Silicon Innovation and Silicon Excellence, respectively; (vi) Mr. Chen Houjiang, core member
+of our R&D team, held approximately 7.44% of the partnership interests in Silicon Exploration; (vii) Mr. Liao Xingyu,
+core member of our R&D team, held approximately 10.70% and 9.30% of the partnership interests in Silicon Future
+and Silicon Exploration, respectively; (viii) Mr. Li Yipeng, core member of our R&D team, held approximately 9.30%
+of the partnership interests in Silicon Exploration; and (ix) Mr. Zhang Wenxiao, core member of our R&D team, held
+approximately 16.42% and 6.20% of the partnership interests in Silicon Excellence and Silicon Exploration,
+respectively. Such partnership interests held by our co-founders and core members of our R&D team in our Employee
+Incentive Platforms will be subject to lock-up period ending on the expiry of 24 months from the [REDACTED]. Save
+as disclosed above, no other senior management or key R&D personnel holds any interest in our Company.
+(3)
+In the event that upon notification by the Stock Exchange that our Company will no longer be regarded as a
+Pre-Commercial Company after the [REDACTED], the lock-up period will expire on the later of (i) the date which
+is 12 months from the [REDACTED] and (ii) the date falling on the 30th day after the announcement on the removal
+of designation as a Pre-Commercial Company as required under Rule 18C.24 of the Listing Rules.
+(4)
+In the event that upon notification by the Stock Exchange that our Company will no longer be regarded as a
+Pre-Commercial Company after the [REDACTED], the lock-up period will expire on the later of (i) the date which
+is six months from the [REDACTED] and (ii) the date falling on the 30th day after the announcement on the removal
+of designation as a Pre-Commercial Company as required under Rule 18C.24 of the Listing Rules.
+Immediately following completion of the [REDACTED], assuming the [REDACTED] is not
+exercised, the expected [REDACTED] of the H Shares which are not subject to any disposal restrictions
+calculated based on an [REDACTED] of HK$[REDACTED] per [REDACTED] (being the low-end of
+the indicative [REDACTED]) will be approximately HK$[REDACTED] billion. Therefore, our Company
+will satisfy the free float requirement under Rule 19A.13C(1) of the Listing Rules at the time of
+[REDACTED].
+CAPITALIZATION OF OUR COMPANY
+The table below sets out the capitalization of our Company as of the Latest Practicable Date and
+immediately following completion of the [REDACTED] (assuming the [REDACTED] is not exercised).
+Shareholder
+As of the date of
+the document
+Immediately following completion of the [REDACTED]
+(taking into account the Share Subdivision and assuming
+the [REDACTED] is not exercised)
+Number of
+Unlisted
+Shares held
+Approximate
+ownership
+percentage
+Number of H
+Shares held
+Number of
+Unlisted Shares
+held
+Approximate
+ownership
+percentage
+(%)
+(%)
+Dr. Yuan 
+3,657,303
+14.35
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Silicon Innovation 
+2,000,000
+7.85
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Silicon Future 
+2,000,000
+7.85
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Silicon Exploration 
+2,000,000
+7.85
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Silicon Excellence 
+1,680,433
+6.59
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Hangzhou Duoxiang
+1,891,319
+7.42
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Hubble Technology 
+1,037,736
+4.07
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Beijing Sinovation 
+1,023,174
+4.01
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Nanjing Lvyong
+767,710
+3.01
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Suzhou Glory 
+767,311
+3.01
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Mr. Wang 
+526,320
+2.06
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Puhua Fund 
+460,626
+1.81
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Guotai Jun’an entities
+Lingang Guotai 
+264,560
+1.04
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Bailian Guotai 
+132,464
+0.52
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Sub-total 
+397,024
+1.56
+[REDACTED]
+[REDACTED]
+[REDACTED]
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 116 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p16] Shareholder
+As of the date of
+the document
+Immediately following completion of the [REDACTED]
+(taking into account the Share Subdivision and assuming
+the [REDACTED] is not exercised)
+Number of
+Unlisted
+Shares held
+Approximate
+ownership
+percentage
+Number of H
+Shares held
+Number of
+Unlisted Shares
+held
+Approximate
+ownership
+percentage
+(%)
+(%)
+Jiyuan Zheyuan 
+377,081
+1.48
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Ms. Tang Yuyu 
+371,830
+1.46
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Chongqing Longze
+341,757
+1.34
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shanghai Kehui 
+329,318
+1.29
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Kingdee 
+321,446
+1.26
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Huaxi Ruideng 
+321,446
+1.26
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Tianjin Sankuai 
+268,680
+1.05
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Huakong Frontier
+Fund 
+267,304
+1.05
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Miracle Plus 
+247,890
+0.97
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Jinko Solar entities
+Shangrao Tanhe 
+131,727
+0.52
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shangrao Changxin 
+98,795
+0.39
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Sub-total 
+230,522
+0.90
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Guokai Technology 
+229,604
+0.90
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Chengdu Hi-Tech
+229,604
+0.90
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Chongye Rongtai 
+229,604
+0.90
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Beihai Juzhitou 
+198,696
+0.78
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Taixing Yizhuang
+198,696
+0.78
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shenzhen Xingxin 
+198,696
+0.78
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shuimu entities
+Shuimu Huaqing 
+123,940
+0.49
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Muhua Shuiqing 
+45,921
+0.18
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Sub-total 
+169,861
+0.67
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Unicom Cybersecurity 
+164,659
+0.65
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Zhongguancun Science
+City
+164,659
+0.65
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Beigong Kecuang
+164,659
+0.65
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Beijing iSoftStone 
+164,659
+0.65
+[REDACTED]
+[REDACTED]
+[REDACTED]
+SenseTime Entities
+Zhejiang SenseTime
+82,329
+0.32
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Guoxiang Shangheng 
+82,329
+0.32
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Sub-total 
+164,658
+0.65
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Lexy 
+148,193
+0.58
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Hunan Wondershare 
+137,762
+0.54
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Minyin Kechuang 
+137,762
+0.54
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shandong Fuhong 
+137,762
+0.54
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Wuxi Weiding 
+137,762
+0.54
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shanghai Daohe
+137,762
+0.54
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shenzhen Mairui 
+131,727
+0.52
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Xinglian Dingsen
+123,940
+0.49
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Nanjing Lianchuang 
+118,279
+0.46
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Beijing Qihoo 
+104,730
+0.41
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Guangzhou Biren 
+98,795
+0.39
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Shenzhen Qinglan 
+98,795
+0.39
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Baosheng Zhishu 
+98,795
+0.39
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Hangzhou Zhihui 
+98,795
+0.39
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Jinding Capital entities
+Wuxi Jinjie 
+49,398
+0.19
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Gongqingcheng Yuqiu 
+32,932
+0.13
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Sub-total 
+82,330
+0.32
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Baosheng Zhisuan 
+65,864
+0.26
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Mingrun Zhida 
+65,864
+0.26
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Sub-total 
+25,489,202
+100.00
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+participating in the
+[REDACTED] 
+–
+–
+[REDACTED]
+–
+[REDACTED]
+Total
+25,489,202
+100.00
+[REDACTED]
+[REDACTED]
+100.00
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 117 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p17] CORPORATE AND SHAREHOLDING STRUCTURE IMMEDIATELY BEFORE COMPLETION OF THE [REDACTED]
+The chart below sets out our Group’s corporate and shareholding structure immediately before completion of the [REDACTED].
+Our Company
+Dr. Yuan
+Employee 
+Incentive 
+Platforms(1)
+Hangzhou 
+Duoxiang
+Suzhou 
+Glory
+Other 
+Shareholders(3)
+14.35%
+30.13%
+7.42%
+3.01%
+29.20%
+Other SIIs(2)
+14.08%
+SiliconFlow (Shanghai)
+Technology Co., Ltd.
+(硅基流動(上海)科技有限公司)
+(PRC)
+SiliconFlow Labs (HK) Limited
+(硅基流動實驗室(香港)有限公司)
+(Hong Kong)
+100%
+Silicon Cloud (Shanghai) Technology
+Co., Ltd.
+(硅基雲聯(上海)科技有限公司)
+(PRC)
+100%
+SILICONFLOW LABS PTE. LTD.
+(Singapore)
+100%
+100%
+Puhua 
+Fund
+1.81%
+Notes:
+(1)
+Employee Incentive Platforms include Silicon Future, Silicon Innovation, Silicon Exploration, and Silicon Excellence.
+(2)
+Other SIIs include Jiyuan Zheyuan, Shanghai Kehui, Linggang Guotai, Bailian Guotai, Kingdee, Tianjin Sankuai, Huakong Frontier Fund, Shangrao Tanhe, Shangrao Changxin, Beihai
+Juzhitou, Shenzhen Xingxin, Beijing iSoftStone, Unicom Cybersecurity, Zhongguancun Science City, Hunan Wondershare, Beijing Qihoo, Guangzhou Biren, Guoxiang Shangheng and
+Zhejiang SenseTime. For further details of the Other SIIs, see “— Pre-[REDACTED] Investments — 5. Information about our Pre-[REDACTED] Investors — Other SIIs” in this section.
+(3)
+For the identities and shareholding information of the other Shareholders, see “— Capitalization of Our Company” in this section.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 118 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p18] CORPORATE AND SHAREHOLDING STRUCTURE IMMEDIATELY FOLLOWING COMPLETION OF THE [REDACTED]
+The chart below sets out our Group’s corporate and shareholding structure immediately following completion of the [REDACTED] (assuming the
+[REDACTED] is not exercised).
+Our Company
+Dr. Yuan
+Employee 
+Incentive 
+Platforms(1)
+Hangzhou 
+Duoxiang
+Suzhou 
+Glory
+Other 
+[REDACTED]
+participating in the
+[REDACTED]
+Shareholders(3)
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+Puhua 
+Fund
+[REDACTED]%
+[REDACTED]%
+[REDACTED]%
+Other SIIs(2)
+[REDACTED]%
+SiliconFlow (Shanghai)
+Technology Co., Ltd.
+(硅基流動(上海)科技有限公司)
+(PRC)
+SiliconFlow Labs (HK) Limited
+(硅基流動實驗室(香港)有限公司)
+(Hong Kong)
+100%
+Silicon Cloud (Shanghai) Technology
+Co., Ltd.
+(硅基雲聯(上海)科技有限公司)
+(PRC)
+100%
+SILICONFLOW LABS PTE. LTD.
+(Singapore)
+100%
+100%
+Notes (1) to (3): See notes 1 to 3 to the chart in “— Corporate and Shareholding Structure Immediately before Completion of the [REDACTED]” above.
+HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
+– 119 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

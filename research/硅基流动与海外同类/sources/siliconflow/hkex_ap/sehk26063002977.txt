@@ -1,0 +1,2220 @@
+[p1] The following discussion and our analysis should be read in conjunction with our consolidated
+financial statements included in the Accountant’s Report set out in Appendix I to this document,
+together with the accompanying notes. Our consolidated financial statements have been prepared in
+accordance with IFRS Accounting Standards.
+The following discussion and analysis contain forward-looking statements that reflect our
+current views with respect to future events and financial performance. These statements are based
+on our assumptions and analysis in light of our experience and perception of historical trends,
+current conditions and expected future developments, as well as other factors we believe are
+appropriate under the circumstances. However, whether actual outcomes and developments will
+meet our expectations and predictions depends on a number of risks and uncertainties, and our
+actual results may differ materially from those anticipated in these forward-looking statements as a
+result of certain factors. In evaluating our business, you should carefully consider the information
+provided in this document, including but not limited to the sections headed “Risk Factors” and
+“Business.”
+For the purpose of this section, unless the context otherwise requires, (i) reference to 2023
+refers to the financial period ended December 31, 2023 (consisting of the period from August 29,
+2023, our date of incorporation, to December 31, 2023), (ii) reference to 2024 refers to the year
+ended December 31, 2024, and (iii) reference to 2025 refers to the year ended December 31, 2025.
+OVERVIEW
+We are a leading open, independent token supply platform in China, operating at the forefront of an
+era defined by the rapid application of AI models across enterprises. As AI models become increasingly
+integrated into everyday workflows, the demand for tokens is growing exponentially, while the need for
+high-quality token supply, characterized by accuracy, generation speed, cost efficiency, stability and
+security, is becoming increasingly critical. By connecting computing resources and AI models with system
+software capabilities, the token supply platform offers one-stop AI infrastructure services, enabling
+high-quality token delivery at scale.
+In China, we are the largest independent ecosystem token supplier and one of the top five players
+among all token suppliers, as measured by annual token throughput in 2025, according to Frost & Sullivan.
+Powered by our proprietary inference engine and computing resource orchestration system, we effectively
+aggregate, optimize, and orchestrate heterogeneous computing resources across diverse hardware
+architectures from different vendors, thereby converting underlying computing power into standardized,
+reliable and scalable token supply. This enables seamless access to and deployment of AI capabilities
+across a broad range of state-of-the-art models with industry-leading performance-to-cost efficiency. To
+capture diversified commercial demands, we deliver our core capabilities primarily through public
+cloud-based services and on-premise deployment solutions, servicing customers across a wide range of
+sectors. We achieved significant growth in revenue during the Track Record Period. In 2023, 2024 and
+2025, our revenue was RMB6 thousand, RMB7.3 million and RMB55.3 million, respectively.
+BASIS OF PREPARATION
+Our historical financial information during the Track Record Period, consisting of the financial
+period from August 29, 2023, which is the date of incorporation of our Company, to December 31, 2023,
+and the years ended December 31, 2024 and 2025, has been prepared in accordance with IFRS Accounting
+Standards (“IFRS Accounting Standards”) as issued by the International Accounting Standards Board
+(“IASB”). Our historical financial information has been prepared on a historical cost convention, except
+for financial assets at fair value through profit or loss, which are carried at fair value. Furthermore, our
+historical financial information has been prepared on a going concern basis.
+FINANCIAL INFORMATION
+– 171 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] All effective standards, amendments to standards and interpretations, which are mandatorily
+effective for the financial year beginning on January 1, 2025, are consistently applied to us for the Track
+Record Period. Standards, amendments and interpretations that have been issued but not yet effective and
+not been early adopted by us during the Track Record Period are set out in Note 2 of the Accountant’s
+Report included in Appendix I to this document.
+MAJOR FACTORS AFFECTING OUR RESULTS OF OPERATIONS
+Our business, results of operations and financial condition have been, and are expected to continue
+to be, affected by the following major factors.
+General Factors
+Our results of operations and financial position have been, and are expected to continue to be,
+influenced by general factors affecting the global token supply market and the broader AI infrastructure
+industry, including those in China. These factors primarily include macroeconomic growth and the AI
+trend globally, the pace of technological advancements in AI models and chips, the global geopolitical
+landscape and its impact on supply chains, and government policies supporting AI infrastructure and token
+supply services. Any material changes in these general market conditions could significantly impact our
+operating environment.
+Specific Factors
+While our business is influenced by the general factors set forth above, our results of operations are
+more directly affected by specific factors relating to our business, primarily including:
+Ability to Expand Customer Base and Drive Revenue Growth
+Our revenue growth directly depends on our ability to expand our customer base and deepen their
+engagement across our diverse offerings. To drive sustainable revenue, we focus on scaling the number of
+enterprises and developers adopting our platform while increasing their usage volume and average contract
+values. We have achieved significant growth across all our business lines. For our public cloud-based
+services, we experienced growth in our user base, with our number of registered users growing from
+127,133 as of December 31, 2024 to 9,197,439 as of December 31, 2025, and further to 10,282,431 as of
+April 30, 2026. This user growth was accompanied by deep commercial engagement, driving our average
+daily token throughput to increase substantially from 47.8 billion in December 2024 to 163.1 billion in
+December 2025 and reaching 578.5 billion in April 2026. The number of our serverless token services
+customers increased from 2,455 in 2024 to 716,012 in 2025, and was 642,866 for the four months ended
+April 30, 2026. Concurrently, we successfully scaled our enterprise engagement. The number of our
+dedicated instance customers increased from 7 in 2024 to 49 in 2025, alongside an increase in the average
+revenue per customer from RMB87,669 in 2024 to RMB305,353 in 2025. Similarly, the number of our
+on-premise deployment customers was 28 in 2024 and 20 in 2025, with the average revenue per customer
+increasing from RMB224,184 in 2024 to RMB1,303,448 in 2025.
+Furthermore, our international expansion contributed to our overall token volume and broadened the
+global market acceptance of our public cloud platform. This expanding customer base and increasing token
+consumption directly drive our revenue growth. Specifically, acquiring large enterprise customers is
+crucial to our revenue strategy, as it can significantly increase our average contract value. To establish a
+recurring revenue stream that supports our long-term financial viability, we execute a “land-and-expand”
+approach through two clear conversion pathways: first, converting individual developers and small and
+medium businesses into paying users of our serverless token services as they scale their usage; and second,
+identifying high-potential enterprise users growing within our public cloud ecosystem and upselling them
+to our high-value dedicated instances or on-premise deployment solutions.
+FINANCIAL INFORMATION
+– 172 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] Ability to Optimize Cost Efficiency and Manage Gross Margin Profile
+Our profitability is largely influenced by our cost of revenue, which mainly consists of computing
+resources purchased in the form of computing power rental fees. Our overall gross margin is determined
+by the respective gross margins of our different business lines and their revenue contribution.
+For our on-premise deployment solutions, the gross profit margin was 92.4% in 2024 and 82.5% in
+2025. The gross profit margin for this business line remained high, primarily because these services are
+relatively standard and are delivered without incurring additional computing resource costs. This
+high-margin business acts as a steady source of operating cash flow, ensuring our overall cash generation
+capabilities even as we invest heavily in public cloud expansion.
+For our public cloud-based services, the gross loss margin was 271.6% in 2024 and 119.0% in 2025.
+We recorded the gross loss margin for this business line during the Track Record Period, primarily due to
+the early stage of our commercialization where we strategically prioritized market share, user acquisition
+and ecosystem building over immediate profitability. Specifically, we incurred substantial upfront direct
+computing resource costs to secure sufficient capacity and maintain high service availability for our
+rapidly expanding user base. The rapid expansion of our public cloud business altered our overall revenue
+mix, causing our overall gross margin to shift from 39.4% in 2024 to (24.0%) in 2025.
+To improve the unit economics of our public cloud services and drive our path to profitability, we
+expect our gross margin to structurally improve as our revenue base scales. We intend to achieve this
+primarily by optimizing our supply chain, continuously enhancing our operational efficiency and
+increasing the proportion of higher-margin enterprise engagements.
+•
+Optimizing our supply chain. As our business scale expands, we plan to optimize our supply
+chain through the following key approaches: (i) leveraging our proprietary heterogeneous
+computing platform, which is capable of dynamically orchestrating workloads across various
+chip architectures. By removing our reliance on any single chip architecture or hardware
+vendor, this capability significantly broadens the range of computing power suppliers we are
+able to engage, enriches and diversifies our sources of supply, and strengthens our bargaining
+position in procuring computing resources on more favorable commercial terms; (ii) securing
+long-term lease agreements for advanced chips, which will directly lower our absolute unit
+computing rental costs; and (iii) transitioning a portion of our capacity from fixed-rate rentals
+to revenue-sharing or utilization-based partnerships with computing resource providers. Under
+this collaborative model, rather than paying a fixed monthly lease regardless of user traffic, our
+payment obligations to suppliers will be directly tied to the actual revenue generated by, or the
+specific usage of, their computing resources. This effectively converts fixed rental expenses
+into variable costs. Furthermore, these partnerships typically feature arrears billing and
+favorable credit periods, allowing us to collect cash from our customers before settling with our
+suppliers. This structural alignment of cash outflows with actual cash inflows serves to
+significantly optimize our working capital and operating cash flow.
+•
+Enhancing our operational efficiency. In parallel, we focus on maximizing the utilization and
+output of our computing resources through the following measures: (i) continuously optimizing
+our operational efficiency through deep engineering and technological advancements, which
+increase the token throughput produced per unit of computing power and thereby structurally
+lower our unit cost of service delivery; and (ii) expanding our user base across different
+geographies and broadening the diversity of our application scenarios and workload types,
+which can enable us to dynamically orchestrate tasks around the clock and maximize the
+utilization rate of our server clusters.
+•
+Increasing the proportion of higher-margin enterprise engagements. As we continuously
+enhance our enterprise-grade capabilities to meet stringent requirements for data isolation,
+greater performance and stability, we expect demand from enterprise customers to grow and the
+proportion of customers adopting our dedicated instances to increase, which will further
+improve the unit economics and gross margin profile of our public cloud-based services.
+Our path to profitability depends on our ability to continually execute these supply chain and
+utilization optimization strategies, balance our revenue mix, and achieve greater economies of scale to
+lower our unit computing resource costs.
+FINANCIAL INFORMATION
+– 173 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p4] Continued Investment in Research and Development
+Maintaining our technological leadership in the highly dynamic AI infrastructure sector requires
+sustained investment in research and development. Our research and development expenses were
+RMB10.8 million, RMB64.5 million, and RMB209.2 million in 2023, 2024 and 2025, respectively. The
+significant increases in 2024 and 2025 were primarily driven by an increase in our computing resource
+costs, as well as substantial share-based compensation expenses recognized following the grant of equity
+incentives to our R&D employees. The increased computing resource costs were essential to support our
+core technological initiatives, primarily including adapting new AI models and chip architectures,
+advancing large-scale inference technologies such as prefill-decode separation, continuously developing
+our computing resource orchestration system, and conducting rigorous testing and validation for
+large-scale token production and related services.
+This research and development capability directly impacts our financial performance. Deep
+engineering optimization enables us to offer faster inference speeds and broader model compatibility,
+which are primary factors in acquiring enterprise customers and driving token consumption. Furthermore,
+continuous technological breakthroughs allow us to improve compute-to-token conversion efficiency,
+which is essential for lowering our unit cost of revenue and improving our gross margins. We expect our
+absolute research and development expenses to increase as we continue to advance our AI infrastructure,
+while we anticipate these expenses will gradually decrease as a percentage of total revenue as we achieve
+greater commercial scale.
+Effectiveness of Sales and Marketing Strategies
+Our ability to drive revenue growth and achieve long-term profitability depend on our ability to
+execute effective sales and marketing strategies, build brand awareness, and establish a vibrant developer
+ecosystem. Our selling and marketing expenses increased from RMB6.4 million in 2024 to RMB83.7
+million in 2025.
+To encourage initial platform testing and user adoption, we strategically distributed promotional
+token
+vouchers
+to
+onboard
+developers
+and
+enterprise
+users.
+During
+the
+early
+stage
+of
+our
+commercialization, distributing these vouchers was not only a customer acquisition tool, but also a vital
+operational strategy. By generating massive real-world workloads, it helped us continuously refine our
+platform’s usability, debug the underlying infrastructure, and optimize the overall user experience. The
+computing resources consumed during these promotional activities constituted a major component of our
+selling and marketing expenses. This strategy facilitated our rapid user accumulation and directly
+contributed to the exponential growth of our registered users, which reached nearly 9.2 million by the end
+of 2025, and further exceeded 10.2 million by April 30, 2026. Moving forward, our financial growth relies
+on our ability to monetize this vast developer ecosystem through a “land-and-expand” approach. To
+effectively execute this, we have established two distinct conversion pathways. First, converting
+individual developers and small and medium businesses from free trials into paying users of our serverless
+token services. Second, identifying high-potential enterprise users growing within our public cloud
+ecosystem and upselling them to our high-value dedicated instances or on-premise deployment solutions.
+Through these tailored monetization paths, we aim to lower our marginal customer acquisition costs and
+increase the lifetime value of our customers. Furthermore, as our platform and market presence mature,
+we
+plan
+to
+structurally
+reduce
+our
+reliance
+on
+widespread
+promotional
+voucher
+distributions.
+Consequently, we anticipate that our selling and marketing expenses as a percentage of total revenue will
+steadily decrease, thereby driving sustainable operating leverage.
+FINANCIAL INFORMATION
+– 174 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p5] CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+We have identified certain accounting policies that are material to the preparation of our financial
+statements. Accounting policies that are material for understanding our financial condition and results of
+operations are set forth in detail in Note 4 and Note 34 to the Accountant’s Report in Appendix I of this
+document. Some of our accounting policies involve subjective assumptions and estimates, as well as
+complex judgments relating to accounting items. See Note 4 to the Accountant’s Report in Appendix I of
+this document for details. There has not been any material deviation between our management’s estimates
+or assumptions and actual results, and we have not made any material changes to these estimates or
+assumptions during the Track Record Period.
+RESULTS OF OPERATIONS
+The following table sets forth a summary of our consolidated statements of profit or loss, in absolute
+amounts and as a percentage of our total revenue, for the periods indicated.
+For the Period from
+August 29 to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+% of
+Revenue
+RMB
+% of
+Revenue
+RMB
+% of
+Revenue
+(in thousands, except for percentages)
+Revenue 
+6
+100.0
+7,346
+100.0
+55,330
+100.0
+Cost of revenue 
+(1)
+(16.7)
+(4,452)
+(60.6)
+(68,632)
+(124.0)
+Gross profit/(loss) 
+5
+83.3
+2,894
+39.4
+(13,302)
+(24.0)
+Selling and marketing expenses
+(110)
+(1,833.3)
+(6,392)
+(87.0)
+(83,743)
+(151.4)
+General and administrative
+expenses 
+(1,219)
+(20,316.7)
+(9,094)
+(123.8)
+(21,843)
+(39.5)
+Research and development
+expenses 
+(10,841) (180,683.3)
+(64,475)
+(877.7)
+(209,176)
+(378.1)
+Net impairment losses on
+financial assets 
+–
+–
+(91)
+(1.2)
+(306)
+(0.6)
+Other income and (losses)/gains
+— net
+–
+–
+(100)
+(1.4)
+5,020
+9.1
+Operating losses 
+(12,165) (202,750.0)
+(77,258)
+(1,051.7)
+(323,350)
+(584.4)
+Finance income
+–
+–
+422
+5.7
+1,420
+2.6
+Finance costs 
+(58)
+(966.7)
+(5,079)
+(69.1)
+(23,561)
+(42.6)
+Finance costs — net
+(58)
+(966.7)
+(4,657)
+(63.4)
+(22,141)
+(40.0)
+Loss before income tax
+(12,223) (203,716.7)
+(81,915)
+(1,115.1)
+(345,491)
+(624.4)
+Income tax expense 
+–
+–
+–
+–
+–
+–
+Loss for the period/year 
+(12,223) (203,716.7)
+(81,915)
+(1,115.1)
+(345,491)
+(624.4)
+Non-IFRS Measures
+We use adjusted net loss (non-IFRS measure), which is a non-IFRS financial measure, in evaluating
+our operating results and for financial and operational decision-making purposes. We believe that adjusted
+net loss (non-IFRS measure) provides useful information about our results of operations, enhances the
+overall understanding of our past performance and future prospects and allows for greater visibility with
+respect to key metrics used by our management in its financial and operational decision-making.
+Adjusted net loss (non-IFRS measure) should not be considered in isolation or construed as an
+alternative to net loss or any other measure of performance or as an indicator of our operating
+performance. Adjusted net loss (non-IFRS measure) presented here may not be comparable to similarly
+titled measures presented by other companies. Other companies may calculate similarly titled measures
+differently, limiting their usefulness as comparative measures to our data.
+FINANCIAL INFORMATION
+– 175 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p6] We define our adjusted net loss (non-IFRS measure) as net loss adjusted by adding back (i)
+share-based payment expenses, which are non-cash in nature and represent expenses arising from the grant
+of restricted interests to our employees, and (ii) interest expenses on redemption liabilities, which
+represent the interest expenses accrued on the redemption liabilities arising from the special rights granted
+to pre-[REDACTED] investors that will be terminated upon [REDACTED].
+The following table presents our non-IFRS financial measure for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Loss for the period/year 
+(12,223)
+(81,915)
+(345,491)
+Adjusted for:
+
+Share-based payment expenses 
+–
+22,885
+135,338
+Interest expenses on redemption liabilities
+23
+5,020
+23,076
+Adjusted net loss (non-IFRS measure) for the
+period/year 
+(12,200)
+(54,010)
+(187,077)
+KEY COMPONENTS OF OUR CONSOLIDATED STATEMENTS OF PROFIT OR LOSS
+Revenue
+During the Track Record Period, our revenue was derived from two primary sources: (i) public
+cloud-based services, and (ii) on-premise deployment solutions. Each revenue stream reflects a distinct
+monetization pathway aligned with our AI infrastructure strategy, allowing us to serve a diverse customer
+base ranging from individual users to enterprise customers.
+The following table sets forth the breakdown of our revenue by business line, in absolute amounts
+and as a percentage of our total revenue, for the periods indicated:
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Public cloud-based services 
+–
+–
+1,069
+14.6
+29,261
+52.9
+On-premise deployment
+solutions 
+6
+100.0
+6,277
+85.4
+26,069
+47.1
+Total
+6
+100.0
+7,346
+100.0
+55,330
+100.0
+FINANCIAL INFORMATION
+– 176 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p7] Public cloud-based services. We provide scalable AI infrastructure to individual users and enterprise
+customers through our public cloud platform. This revenue stream is further categorized into serverless
+token services and dedicated instances.
+•
+Serverless token services. In 2023, 2024 and 2025, revenue generated from our serverless token
+services amounted to nil, RMB455 thousand and RMB14.3 million, respectively. We provide
+these services on a shared-resource basis, allowing customers to access AI capabilities by
+consuming tokens. Monetization is driven by usage-based charges measured in tokens
+consumed. Customers generally purchase prepaid credits, while certain recurring enterprise
+customers operate on postpaid monthly settlement terms. Revenue from serverless token
+services is recognized at a point in time based on the customer’s utilization of the tokens,
+reflecting the transfer of our promised service. The transaction price is determined based on the
+agreed usage rate per token, adjusted for any discounts offered. Furthermore, we provide
+coupons for free access to AI model inference services on our platform. For usage settled by
+coupons, no revenue is recognized as we do not receive consideration for such usage. The
+related computing resource costs are recognized as selling and marketing expenses for users
+who have not made any paid consumptions, and as cost of revenue for existing paying
+customers.
+•
+Dedicated instances. In 2023, 2024 and 2025, revenue generated from our dedicated instances
+amounted to nil, RMB614 thousand and RMB15.0 million, respectively. We offer dedicated
+instances providing reserved computing capacity on a public cloud basis, where computing
+resources are allocated exclusively to specific customers and are not shared with other users.
+These services are primarily targeted at customers with higher requirements for performance,
+stability, or data isolation. Monetization of our dedicated instances is driven by two billing
+arrangements depending on the customer’s preference, which include a fixed fee for the
+reserved period, or usage-based charges measured in tokens consumed within the exclusive
+instance. For dedicated instances operating under a fixed fee arrangement, revenue is
+recognized over time on a straight-line basis over the contractual service period, as the
+customer simultaneously receives and consumes the benefits of the reserved computing
+capacity provided. Conversely, for dedicated instances billed based on token consumption,
+revenue is recognized at a point in time based on the customer’s utilization of the tokens.
+On-premise deployment solutions. We provide on-premise deployment solutions, which comprise
+software licensing and/or customized services according to the customers’ specific instructions and needs
+at their own infrastructure. Pricing typically comprises one-time software licensing fees and/or customized
+services fees depending on the deployment scale and configuration. For software licenses that are distinct
+and provide the customer with a right to use the software as it exists at the point of delivery, revenue is
+recognized at a point in time when control of the license is transferred to the customer, which generally
+occurs upon delivery and acceptance. For customized services, in cases including several services in one
+contract, we evaluate whether these promises constitute distinct performance obligations. We allocate the
+transaction price to each distinct performance obligation based on its relative standalone selling price and
+recognize revenue at a point in time when control of that specific service is transferred.
+FINANCIAL INFORMATION
+– 177 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p8] In terms of geographic coverage, while a substantial majority of our revenue is generated in Chinese
+Mainland, we have also actively expanded our global footprint to serve overseas developers and
+enterprises. In 2023 and 2024, our overseas revenue was primarily driven by our on-premise deployment
+solutions serving early international enterprise clients. In 2025, our overseas revenue mix structurally
+shifted, with the vast majority being generated from serverless token services and dedicated instances
+consumed by global users. The following table sets out a breakdown of our revenue by geographical
+locations, in absolute amounts and as a percentage of our total revenue, for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Chinese Mainland 
+–
+–
+6,881
+93.7
+53,269
+96.3
+Overseas(1) 
+6
+100.0
+465
+6.3
+2,061
+3.7
+Total
+6
+100.0
+7,346
+100.0
+55,330
+100.0
+Note:
+(1)
+Our overseas revenue is primarily generated from the U.S. and Singapore.
+Cost of Revenue
+Our cost of revenue primarily consists of (i) computing resource costs, which primarily represent
+computing power rental fees required to support our AI infrastructure and token production, (ii)
+technology service fee, which represent fees paid for technical support and maintenance related to our
+cloud infrastructure, (iii) employee benefit expenses, which represent compensation for our operations and
+technical personnel directly involved in service delivery, and (iv) other expenses, which primarily include
+utilities, property management, traveling, as well as depreciation and amortization.
+The following table sets out a breakdown of our cost of revenue by nature, in absolute amounts and
+as a percentage of our total cost of revenue, for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Computing resource costs
+–
+–
+2,614
+58.7
+59,627
+86.9
+Technology service fee
+–
+–
+822
+18.5
+3,217
+4.7
+Employee benefit expenses
+–
+–
+925
+20.8
+5,246
+7.6
+Others
+1
+100.0
+91
+2.0
+542
+0.8
+Total
+1
+100.0
+4,452
+100.0
+68,632
+100.0
+FINANCIAL INFORMATION
+– 178 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p9] The following table sets forth a breakdown of our cost of revenue by sources of revenue, in absolute
+amounts and as percentages of total cost of revenue, for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Public cloud-based services 
+–
+–
+3,972
+89.2
+64,082
+93.4
+On-premise deployment
+solutions 
+1
+100.0
+480
+10.8
+4,550
+6.6
+Total
+1
+100.0
+4,452
+100.0
+68,632
+100.0
+Gross Profit/(Loss) and Gross Margin
+As a result of the foregoing, we recorded gross profit of RMB5 thousand and RMB2.9 million in
+2023 and 2024, respectively, and gross profit margin of 83.3% and 39.4% in the respective periods. We
+recorded gross loss of RMB13.3 million and gross loss margin of 24.0% in 2025.
+The following table sets forth a breakdown of our gross profit/(loss) and gross margin by revenue
+source for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+Gross
+profit/
+(loss)
+(RMB)
+Gross
+margin
+(%)
+Gross
+profit/
+(loss)
+(RMB)
+Gross
+margin
+(%)
+Gross
+profit/
+(loss)
+(RMB)
+Gross
+margin
+(%)
+(in thousands, except for percentages)
+Public cloud-based services 
+–
+–
+(2,903)
+(271.6)
+(34,821)
+(119.0)
+On-premise deployment
+solutions 
+5
+83.3
+5,797
+92.4
+21,519
+82.5
+Total
+5
+83.3
+2,894
+39.4
+(13,302)
+(24.0)
+FINANCIAL INFORMATION
+– 179 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p10] Selling and Marketing Expenses
+Our selling and marketing expenses primarily consist of (i) promotional computing resources costs,
+which represent computing resource costs associated with the large-scale distribution of free token
+vouchers designed to acquire and onboard new users onto our public cloud platform, (ii) employee benefit
+expenses, which represent compensation, benefits, and share-based compensation for our sales and
+marketing personnel, and (iii) other expenses, which primarily include depreciation and amortization,
+office expenses, and traveling expenses.
+The following table sets forth a breakdown of our selling and marketing expenses, in absolute
+amounts and as a percentage of our total selling and marketing expenses, for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Promotional computing
+resources costs 
+–
+–
+932
+14.6
+54,213
+64.7
+Employee benefit expenses
+–
+–
+4,265
+66.7
+23,009
+27.5
+Others
+110
+100.0
+1,195
+18.7
+6,521
+7.8
+Total
+110
+100.0
+6,392
+100.0
+83,743
+100.0
+General and Administrative Expenses
+Our general and administrative expenses primarily consist of (i) employee benefit expenses, which
+represent compensation, benefits, and share-based compensation for our administrative and management
+personnel, (ii) professional service expenses, which represent fees paid to third-party professionals, such
+as financial advisors and legal counsels primarily in connection with our financing activities, and (iii)
+other expenses, which primarily include depreciation and amortization, property management fees, and
+office expenses.
+The following table sets forth a breakdown of our general and administrative expenses, in absolute
+amounts and as a percentage of our total general and administrative expenses, for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Employee benefit expenses
+928
+76.1
+6,460
+71.0
+18,158
+83.1
+Professional service expenses 
+217
+17.8
+1,882
+20.7
+2,167
+9.9
+Others
+74
+6.1
+752
+8.3
+1,518
+7.0
+Total
+1,219
+100.0
+9,094
+100.0
+21,843
+100.0
+FINANCIAL INFORMATION
+– 180 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p11] Research and Development Expenses
+Our research and development expenses primarily consist of (i) R&D computing resources costs,
+which represent computing power rental fees utilized for model adaptation, underlying operator library
+optimization, and platform testing, (ii) employee benefit expenses, which represent compensation,
+benefits, and share-based compensation for our research and development personnel, and (iii) other
+expenses, which primarily include professional service fees, depreciation and amortization, and traveling
+expenses.
+The following table sets forth the breakdown of our research and development expenses, in absolute
+amounts and as a percentage of our total research and development expenses, for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+R&D computing resources
+costs 
+2,169
+20.0
+8,274
+12.8
+45,241
+21.6
+Employee benefit expenses
+8,271
+76.3
+55,055
+85.4
+159,868
+76.5
+Others
+401
+3.7
+1,146
+1.8
+4,067
+1.9
+Total
+10,841
+100.0
+64,475
+100.0
+209,176
+100.0
+Net Impairment Losses on Financial Assets
+Our net impairment losses on financial assets primarily represent the provision of expected credit
+losses associated with our trade receivables, other receivables and other non-current assets. We recorded
+net impairment losses on financial assets of nil, RMB91 thousand and RMB306 thousand in 2023, 2024
+and 2025, respectively.
+Other Income and (Losses)/Gains — Net
+Our other income and losses or gains primarily consist of (i) government grants, and (ii) donations.
+We recorded government grants of RMB5.0 million in 2025, primarily representing financial subsidies
+received from local government authorities in support of our technology innovation and business
+operations. We recorded donations of RMB100 thousand in 2024, which represented charitable
+contributions made to a university education foundation.
+Finance Costs — Net
+Our net finance costs are equal to finance income minus finance costs. The following table sets forth
+the breakdown of our net finance costs, in absolute amounts and as a percentage of our net finance costs,
+for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Finance income
+Interest income 
+–
+–
+422
+(9.1)
+1,420
+(6.4)
+FINANCIAL INFORMATION
+– 181 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p12] For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+RMB
+%
+RMB
+%
+RMB
+%
+(in thousands, except for percentages)
+Finance costs
+Interest expenses on redemption
+liabilities 
+(23)
+39.7
+(5,020)
+107.8
+(23,076)
+104.2
+Interest expenses on lease
+liabilities 
+(35)
+60.3
+(53)
+1.1
+(224)
+1.0
+Interest expenses on bank
+borrowings
+–
+–
+–
+–
+(105)
+0.5
+Others
+–
+–
+(6)
+0.1
+(156)
+0.7
+Total finance costs 
+(58)
+100.0
+(5,079)
+109.1
+(23,561)
+106.4
+Total net finance costs 
+(58)
+100.0
+(4,657)
+100.0
+(22,141)
+100.0
+Income Tax Expense
+We recorded income tax expense of nil in 2023, 2024 and 2025. Our effective tax rate was nil during
+the Track Record Period primarily because we incurred significant losses before tax and did not recognize
+deferred tax assets in respect of tax losses and temporary differences. For further details regarding our
+income tax, see Note 11 to the Accountant’s Report in Appendix I to this document.
+PERIOD TO PERIOD COMPARISON OF RESULTS OF OPERATIONS
+Year Ended December 31, 2025 Compared to Year Ended December 31, 2024
+Revenue
+Our revenue increased significantly by 653.2% from RMB7.3 million in 2024 to RMB55.3 million
+in 2025. This was primarily driven by the rapid scaling of our commercialized offerings, our demonstrated
+capability to adapt models to domestic chips, and the rapid expansion of our customer base across both
+individual users and enterprise customers.
+Public cloud-based services. Revenue from our public cloud-based services increased by 2,637.2%
+from RMB1.1 million in 2024 to RMB29.3 million in 2025. This growth was driven by the expansion
+across all our public cloud-based service offerings: (i) revenue from serverless token services increased
+from RMB455 thousand to RMB14.3 million, primarily due to an explosive market demand for tokens as
+AI applications proliferated. Our user engagement deepened significantly, with the number of registered
+users increasing from 127,133 as of December 31, 2024 to 9,197,439 as of December 31, 2025, which
+correspondingly drove our average daily token throughput in the last month of the period from 47.8 billion
+in 2024 to 163.1 billion in 2025. Furthermore, our international expansion further contributed to this
+billable usage; and (ii) revenue from dedicated instances increased from RMB614 thousand to RMB15.0
+million, as an increasing number of enterprise customers with stringent performance and data isolation
+requirements opted for our reserved computing capacity, evidenced by the number of our dedicated
+instance customers increasing from 7 in 2024 to 49 in 2025, and the average revenue per dedicated
+instance customer increasing from RMB87,669 in 2024 to RMB305,353 in 2025.
+FINANCIAL INFORMATION
+– 182 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p13] On-premise deployment solutions. Revenue generated from on-premise deployment solutions
+increased significantly by 315.3% from RMB6.3 million in 2024 to RMB26.1 million in 2025. This robust
+growth was primarily supported by our deeper engagements with some enterprise customers, with the
+average revenue per on-premise deployment customer increasing significantly from RMB224,184 in 2024
+to RMB1,303,448 in 2025.
+Cost of Revenue
+Our cost of revenue increased by 1,441.6% from RMB4.5 million in 2024 to RMB68.6 million in
+2025, which was primarily attributable to (i) an increase in computing resource costs resulting from the
+rapid scaling of our public cloud-based services, which required massive underlying computing power to
+support the surging token demands, and (ii) an increase in technology service fees and employee benefit
+expenses to support the growing scale of our cloud infrastructure and service delivery.
+Gross Profit/(Loss) and Gross Margin
+As a result of the foregoing, we recorded gross profit of RMB2.9 million and gross loss of RMB13.3
+million in 2024 and 2025, respectively, and gross margin of 39.4% and (24.0)% in the respective years.
+The change in our overall gross margin was primarily due to a structural shift in our revenue mix, as our
+public cloud-based services, which operate at a lower gross margin, accounted for a significantly larger
+percentage of our total revenue in 2025.
+Public cloud-based services. We recorded a gross loss from public cloud-based services of RMB2.9
+million in 2024 and RMB34.8 million in 2025, representing a gross margin of (271.6)% and (119.0)%,
+respectively. The negative gross margin was primarily due to the substantial direct computing resource
+costs, particularly computing power rental fees, required to secure sufficient capacity and maintain high
+service availability for our rapidly expanding user base, which outpaced our initial paid revenue
+generation during the early commercialization phase. The improvement in gross margin from 2024 to 2025
+was primarily attributable to three key factors: (i) economies of scale, as our rapid revenue growth enabled
+us to better absorb fixed computing rental costs, (ii) technological advancements in inference efficiency,
+which significantly increased our maximum token production throughput per unit of computing power,
+thereby structurally lowering the unit cost of service delivery, and (iii) enhanced computing resource
+utilization, driven by a highly diversified mix of users, application scenarios, and workload types, which
+enabled us to dynamically orchestrate tasks and maximize the utilization rate of our server clusters around
+the clock.
+On-premise deployment solutions. Our gross profit from on-premise deployment solutions increased
+from RMB5.8 million in 2024 to RMB21.5 million in 2025, in line with the revenue growth of this
+business line. The gross margin for this business line decreased from 92.4% in 2024 to 82.5% in 2025. As
+we onboarded new enterprise customers across a broader range of industries, these new customers
+presented more varied deployment requirements and operated in more diverse infrastructure environments,
+which entailed a higher degree of deployment complexity during the initial onboarding phase.
+Accordingly, we devoted additional delivery support personnel and resources to ensure successful
+implementation. This reflects the nature of our business at the early stage of commercialization, during
+which we focus on identifying and responding to evolving customer needs while continuously refining our
+offerings. As such needs gradually converge and are progressively distilled into more standardized product
+modules, we expect the associated delivery efforts and any related margin fluctuations to moderate over
+time.
+Selling and Marketing Expenses
+Our selling and marketing expenses increased significantly by 1,210.1% from RMB6.4 million in
+2024 to RMB83.7 million in 2025. This increase was primarily attributable to (i) an increase in
+promotional computing resource costs resulting from the distribution of promotional token vouchers to
+acquire and onboard developers and enterprise users, and (ii) an increase in employee benefit expenses as
+FINANCIAL INFORMATION
+– 183 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p14] we expanded our sales and marketing team to support our business expansion and market penetration,
+coupled with an increase in share-based compensation expenses recognized following the grant of equity
+incentives to our sales and marketing personnel.
+General and Administrative Expenses
+Our general and administrative expenses increased by 140.2% from RMB9.1 million in 2024 to
+RMB21.8 million in 2025. This increase was primarily attributable to an increase in employee benefit
+expenses associated with the expansion of our administrative team.
+Research and Development Expenses
+Our research and development expenses increased significantly by 224.4% from RMB64.5 million
+in 2024 to RMB209.2 million in 2025. This increase was primarily attributable to (i) an increase in
+employee benefit expenses driven by the expansion of our research and development team, coupled with
+newly recognized share-based compensation expenses, and (ii) an increase in R&D computing resources
+costs required for conducting extensive model adaptation and performance optimization.
+Net Impairment Losses on Financial Assets
+Our net impairment losses on financial assets increased significantly by 236.3% from RMB91
+thousand in 2024 to RMB306 thousand in 2025, which was in line with the growth of our trade receivables.
+Other Income and (Losses)/Gains — Net
+We recorded net other losses of RMB100 thousand and net other income and gains of RMB5.0
+million in 2024 and 2025, respectively, primarily attributable to government grants of RMB5.0 million
+received in 2025.
+Finance Costs — Net
+Our net finance costs increased significantly by 375.4% from RMB4.7 million in 2024 to RMB22.1
+million in 2025. This was primarily driven by an increase in interest expenses on redemption liabilities
+from RMB5.0 million in 2024 to RMB23.1 million in 2025, reflecting the expansion of our financing scale
+and the accumulation of accrued interest on the special rights granted to our pre-[REDACTED] investors.
+Income Tax Expense
+We did not recognize any income tax expense in 2024 or 2025.
+Loss for the Year
+As a result of the foregoing, our loss for the year increased by 321.8% from RMB81.9 million in
+2024 to RMB345.5 million in 2025.
+Year Ended December 31, 2024 Compared to Period from August 29 to December 31, 2023
+Revenue
+Our revenue increased significantly from RMB6 thousand in 2023 to RMB7.3 million in 2024. In
+2023, we operated primarily as a Pre-Commercial Company focused on the research and development of
+our core AI infrastructure technologies and only generated a nominal amount of revenue from an early
+software licensing arrangement. In 2024, we successfully transitioned to the commercialization stage,
+launching our offerings to the market and generating meaningful revenue from both individual users and
+enterprise customers.
+FINANCIAL INFORMATION
+– 184 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p15] Cost of Revenue
+Our cost of revenue was RMB4.5 million in 2024, compared to RMB1 thousand in 2023. The
+increase in our cost of revenue was primarily attributable to computing resource costs, technology service
+fees, and employee benefit expenses incurred following the official launch of our public cloud platform,
+as we began fulfilling service obligations to our customers.
+Gross Profit and Gross Margin
+As a result of the foregoing, we recorded a gross profit of RMB2.9 million and an overall gross
+margin of 39.4% in 2024, compared to a gross profit of RMB5 thousand in 2023. This was attributable to
+the initial commercialization of our offerings in 2024, whereas we operated as a Pre-Commercial Company
+focused on research and development without generating revenue or cost of revenue in 2023.
+Selling and Marketing Expenses
+Our selling and marketing expenses were RMB6.4 million in 2024, compared to RMB110 thousand
+in 2023. This increase was primarily attributable to (i) an increase in employee benefit expenses due to
+the establishment of our sales and marketing team, and (ii) an increase in promotional computing resources
+costs to initiate marketing activities for our newly launched offerings.
+General and Administrative Expenses
+Our general and administrative expenses increased from RMB1.2 million in 2023 to RMB9.1 million
+in 2024. This increase was primarily driven by (i) an increase in employee benefit expenses as a result of
+the full-year effect of our operations in 2024 compared to a four-month period in 2023, coupled with the
+build-up of our core administrative functions and related share-based compensation, and (ii) an increase
+in professional service expenses primarily associated with our initial development and financing activities.
+Research and Development Expenses
+Our research and development expenses increased from RMB10.8 million in 2023 to RMB64.5
+million in 2024. This increase was primarily driven by (i) an increase in employee benefit expenses due
+to our efforts to recruit core technical personnel and the full-year effect of our operations in 2024
+compared to a four-month period in 2023, and (ii) an increase in R&D computing resources costs invested
+in developing and launching our public cloud platform and on-premise solutions.
+Net Impairment Losses on Financial Assets
+We recorded net impairment losses on financial assets of RMB91 thousand in 2024, compared to nil
+in 2023, primarily due to the generation of trade receivables following the commercialization of our
+offerings in 2024.
+Other Income and (Losses)/Gains — Net
+We did not record any other income and losses or gains in 2023, and we recorded net other losses
+of RMB100 thousand in 2024, which represent donations made to a university education foundation.
+Finance Costs — Net
+We recorded net finance costs of RMB4.7 million in 2024, compared to RMB58 thousand in 2023.
+This was primarily due to the recognition of RMB5.0 million in interest expenses on redemption liabilities
+following our issuance of preferred rights to investors during our financing rounds in 2024.
+FINANCIAL INFORMATION
+– 185 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p16] Income Tax Expense
+We did not recognize any income tax expense in 2023 and 2024.
+Loss for the Period/Year
+As a result of the foregoing, our loss for the year increased by 570.0% from RMB12.2 million in
+2023 to RMB81.9 million in 2024.
+DISCUSSION OF CERTAIN KEY ITEMS ON CONSOLIDATED STATEMENTS OF FINANCIAL
+POSITION
+The following table sets forth our consolidated balance sheets as of the dates indicated.
+As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Assets
+Non-current assets
+Property, plant and equipment 
+–
+527
+927
+Right-of-use assets
+1,989
+6,176
+5,358
+Other non-current assets
+–
+–
+1,096
+Total non-current assets 
+1,989
+6,703
+7,381
+Current assets
+Prepayments and other receivables 
+446
+4,251
+15,541
+Trade receivables
+–
+3,597
+10,582
+Time deposits 
+–
+–
+100,000
+Cash and cash equivalents 
+4,874
+49,737
+171,533
+Total current assets 
+5,320
+57,585
+297,656
+Total assets
+7,309
+64,288
+305,037
+Net current assets
+2,898
+28,356
+118,697
+Deficit
+Paid-in capital 
+22
+12,758
+16,527
+Share-based payments reserves 
+–
+8,411
+50,947
+Capital reserves 
+11,423
+(4,859)
+(16,532)
+Accumulated losses 
+(12,223)
+(94,138)
+(439,629)
+Deficit attributable to owners of the
+Company 
+(778)
+(77,828)
+(388,687)
+Total deficit 
+(778)
+(77,828)
+(388,687)
+FINANCIAL INFORMATION
+– 186 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p17] As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Liabilities
+Non-current liabilities
+Lease liabilities 
+642
+3,629
+1,298
+Redemption liabilities 
+5,023
+107,243
+498,629
+Share-based compensation liabilities 
+–
+2,015
+14,838
+Total non-current liabilities 
+5,665
+112,887
+514,765
+Current liabilities
+Borrowings 
+–
+–
+40,000
+Trade and other payables 
+1,100
+12,825
+31,455
+Share-based compensation liabilities 
+–
+12,458
+92,437
+Contract liabilities 
+–
+1,122
+653
+Receipts in advance 
+–
+331
+10,243
+Lease liabilities 
+1,322
+2,493
+4,171
+Total current liabilities
+2,422
+29,229
+178,959
+Total liabilities 
+8,087
+142,116
+693,724
+Total liabilities and deficit 
+7,309
+64,288
+305,037
+We recorded a total deficit of RMB0.8 million, RMB77.8 million and RMB388.7 million as of
+December 31, 2023, 2024 and 2025, respectively. Our deficit position as of December 31, 2023, 2024 and
+2025 was primarily due to the accumulated losses incurred during our pre-commercialization R&D phase
+and the recognition of redemption liabilities. The redemption liabilities represent the obligations arising
+from the preferential rights granted to our pre-[REDACTED] investors, which amounted to RMB5.0
+million, RMB107.2 million and RMB498.6 million as of the respective dates. We recorded net current
+assets of RMB2.9 million, RMB28.4 million and RMB118.7 million as of December 31, 2023, 2024 and
+2025, respectively.
+Assets
+Property, Plant and Equipment
+Our property, plant and equipment primarily consist of electronic equipment and office furniture.
+The following table sets forth the breakdown of our property, plant and equipment as of the dates
+indicated.
+As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Electronic equipment 
+–
+527
+892
+Office furniture 
+–
+–
+35
+Total
+–
+527
+927
+Our property, plant and equipment increased from nil as of December 31, 2023 to RMB527 thousand
+as of December 31, 2024, and further to RMB927 thousand as of December 31, 2025. This continuous
+increase was primarily attributable to our continuous purchase of electronic equipment as a result of the
+expansion of our workforce and business operations.
+FINANCIAL INFORMATION
+– 187 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p18] Right-of-Use Assets
+Our right-of-use assets primarily consist of leased buildings and leased computing resources. Our
+right-of-use assets were RMB2.0 million, RMB6.2 million, and RMB5.4 million as of December 31, 2023,
+2024 and 2025, respectively. The increase in our right-of-use assets from 2023 to 2024 was primarily
+attributable to the recognition of leased computing resources used for our computing operations. The
+subsequent decrease from 2024 to 2025 was primarily due to the depreciation and early termination of
+such computing resources leases, which was partially offset by an increase in leased building attributable
+to our relocation to a new and larger office space in 2025.
+Other Non-current Assets
+Our other non-current assets represent rental and other deposits. We recorded other non-current
+assets of RMB1.1 million in 2025, mainly due to the payment of a long-term security deposit in connection
+with our newly leased office space.
+Prepayments and other receivables
+Our prepayments and other receivables mainly consisted of (i) input value-added tax (“VAT”) to be
+deducted, (ii) other receivables, primarily representing advances and amounts due from related parties, and
+(iii) prepayments to suppliers. The following table sets forth our prepayments and other receivables as of
+the dates indicated.
+As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Input VAT to be deducted
+–
+817
+7,912
+Other receivables 
+406
+3,221
+5,611
+Prepayment to suppliers 
+40
+217
+2,020
+Less: loss allowance 
+–
+(4)
+(2)
+Total
+446
+4,251
+15,541
+Our prepayments and other receivables increased from RMB446 thousand as of December 31, 2023
+to RMB4.3 million as of December 31, 2024, mainly due to an increase in other receivables. Our
+prepayments and other receivables further increased from RMB4.3 million as of December 31, 2024 to
+RMB15.5 million as of December 31, 2025, primarily attributable to (i) an increase in input VAT to be
+deducted resulting from our increased leases of computing power, (ii) an increase in other receivables,
+primarily representing amounts due from related parties and operational advances; and (iii) an increase in
+prepayments to suppliers resulting from increased prepayments made to computing power providers to
+secure continuous capacity as our business scaled rapidly.
+Trade Receivables
+Our trade receivables primarily represent trade receivables from third parties. The following table
+sets forth a breakdown of our trade receivables and loss allowance as of the dates indicated.
+As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Trade receivables
+–
+3,684
+10,965
+Less: loss allowance 
+–
+(87)
+(383)
+Total trade receivables, net 
+–
+3,597
+10,582
+FINANCIAL INFORMATION
+– 188 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p19] Our trade receivables, net increased from nil as of December 31, 2023 to RMB3.6 million as of
+December 31, 2024, and further increased to RMB10.6 million as of December 31, 2025. This continuous
+increase was generally in line with our robust revenue growth, particularly driven by the rapid expansion
+of our on-premise deployment solutions targeting enterprise customers. The credit terms given to these
+customers are determined on an individual basis mainly within 180 days.
+The following table sets forth our trade receivables turnover days for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+Trade receivables turnover days(1) 
+–
+92
+48
+Note:
+(1)
+The trade receivables turnover days are calculated by dividing the arithmetic mean of the opening and ending balance
+of our trade receivables in that period by revenue for the corresponding period and then multiplying by the number of
+days in that period (i.e., 125 days for 2023, 366 days for 2024 and 365 days for 2025).
+Our trade receivables turnover days were 92 days in 2024, mainly because we commenced
+commercialization in 2024 and began extending credit terms to our early enterprise customers. Our trade
+receivables turnover days decreased to 48 days in 2025, mainly because our public cloud-based services,
+which generally have shorter credit terms compared to our other business lines, grew at a significantly
+faster pace and accounted for a larger proportion of our total revenue in 2025.
+The following table sets forth an aging analysis of our trade receivables based on the date of revenue
+recognition, as of the dates indicated.
+As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Within 6 months 
+–
+3,684
+10,803
+6 months to 1 year
+–
+–
+153
+1 year to 2 years 
+–
+–
+9
+Total
+–
+3,684
+10,965
+As of April 30, 2026, approximately RMB7.8 million, or 74% of our trade receivables as of
+December 31, 2025, had been subsequently settled.
+Time Deposits
+Our time deposits represent deposits placed at financial institutions in the PRC with original maturity
+dates over three months, and they bear interest ranged from 1.50% to 1.60% during the Track Record
+Period. We recorded time deposits of RMB100.0 million in 2025.
+Cash and Cash Equivalents
+Our cash and cash equivalents consist of bank deposits denominated in Renminbi. Our cash and cash
+equivalents increased significantly from RMB4.9 million as of December 31, 2023 to RMB49.7 million
+as of December 31, 2024 and further to RMB171.5 million as of December 31, 2025, mainly because of
+the proceeds received from our successive rounds of equity financing to support our rapid business
+expansion and technological research and development.
+FINANCIAL INFORMATION
+– 189 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p20] Liabilities
+Share-based compensation liabilities
+Our share-based compensation liabilities are related to our restricted share units (“RSUs”) vested
+prior to the lock-up period expiry under the 2024 Employee Incentive Plan. We recorded share-based
+compensation liabilities, including both current and non-current portions, of nil, RMB14.5 million and
+RMB107.3 million as of December 31, 2023, 2024 and 2025, respectively.
+Trade and Other Payables
+Our trade and other payables consist primarily of (i) payroll and welfare payables, (ii) trade
+payables, (iii) tax payables, and (iv) other miscellaneous payables. The following table sets forth a
+breakdown of our trade and other payables as of the dates indicated:
+As of December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Payroll and welfare payables 
+415
+6,522
+14,484
+Trade payables
+450
+3,396
+13,898
+Tax payables 
+7
+2,628
+2,666
+Others
+228
+279
+407
+Total
+1,100
+12,825
+31,455
+Our trade and other payables increased from RMB1.1 million as of December 31, 2023 to RMB12.8
+million as of December 31, 2024, and further to RMB31.5 million as of December 31, 2025. This
+continuous increase was primarily driven by (i) an increase in payroll and welfare payables reflecting the
+steady expansion of our workforce, and (ii) an increase in trade payables resulting from our expanded
+leases of computing power, equipment, and cloud services to support our rapidly growing commercial
+operations.
+The following table sets forth our trade payables turnover days for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+Trade payables turnover days (1) 
+N/A
+158
+46
+Note:
+(1)
+The trade payables turnover days are calculated by dividing the arithmetic mean of the opening and ending balance of
+trade payables in that period by cost of revenue for the corresponding period and then multiplying by the number of
+days in that period (i.e., 125 days for 2023, 366 days for 2024 and 365 days for 2025).
+FINANCIAL INFORMATION
+– 190 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p21] Our trade payables turnover days were not meaningful in 2023 as we only recorded a nominal
+amount of cost of revenue during our pre-commercial stage, and were 158 days in 2024. Our trade
+payables turnover days decreased from 158 days in 2024 to 46 days in 2025, mainly because our
+computing power suppliers generally granted us shorter credit terms as our leases of computing resources
+scaled up.
+All of our trade payables are aged within one year during the Track Record Period.
+As of April 30, 2026, approximately RMB13.5 million, or 97.1% of our trade payables as of
+December 31, 2025, had been subsequently settled.
+Contract Liabilities
+Our contract liabilities are related to advance payments received from our customers. We recorded
+contract liabilities of nil, RMB1.1 million and RMB653 thousand as of December 31, 2023, 2024 and
+2025, respectively.
+Receipts in Advance
+Our receipts in advance represent the amounts received from users in advance of service delivery for
+serverless token service. Our receipts in advance increased from nil as of December 31, 2023 to RMB331
+thousand as of December 31, 2024, and further increased to RMB10.2 million as of December 31, 2025,
+mainly because of the continuous expansion of our public cloud platform, which attracted a rapidly
+growing number of registered users who pre-funded their accounts to consume tokens.
+LIQUIDITY AND CAPITAL RESOURCES
+Our primary uses of cash are to fund our research and development activities, leases of computing
+resources, sales and marketing efforts, and other daily operational needs. During the Track Record Period,
+we financed our capital expenditures and working capital requirements principally with funds from
+successive rounds of equity financing and, to a lesser extent, bank borrowings. After the [REDACTED],
+we believe that our liquidity requirements will continue to be satisfied with a combination of these sources
+and net [REDACTED] from the [REDACTED]. As of December 31, 2023, 2024 and 2025, we had cash
+and cash equivalents of RMB4.9 million, RMB49.7 million and RMB171.5 million, respectively.
+Cash Flows
+The following table sets forth our selected cash flow data for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Net cash used in operating activities 
+(298)
+(46,510)
+(172,402)
+Net cash used in investing activities 
+(28)
+(651)
+(101,866)
+Net cash from financing activities
+5,200
+92,024
+396,064
+Net increase in cash and cash equivalents 
+4,874
+44,863
+121,796
+Cash and cash equivalents at the beginning of
+the period/year 
+–
+4,874
+49,737
+Exchange effect on cash and cash equivalents 
+–
+–
+–
+Cash and cash equivalents at the end of the
+period/year 
+4,874
+49,737
+171,533
+FINANCIAL INFORMATION
+– 191 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p22] Net Cash used in Operating Activities
+Net cash used in operating activities was RMB172.4 million in 2025. This was primarily attributable
+to our loss before income tax of RMB345.5 million, as adjusted for certain non-cash or non-operating
+items, primarily including share-based compensation of RMB135.3 million.
+Net cash used in operating activities was RMB46.5 million in 2024. This was primarily attributable
+to our loss before income tax of RMB81.9 million, as adjusted for (i) certain non-cash or non-operating
+items, primarily including share-based compensation of RMB22.9 million, and (ii) changes in working
+capital, primarily including an increase in trade and other payables of RMB11.5 million.
+Net cash used in operating activities was RMB298 thousand in 2023. This was primarily attributable
+to our loss before income tax of RMB12.2 million, as adjusted for certain non-cash or non-operating items,
+primarily including debt exemption by controlling shareholder of RMB11.0 million.
+Net Cash Used in Investing Activities
+Net cash used in investing activities was RMB101.9 million in 2025. This was primarily due to
+purchase of time deposits of RMB100.0 million.
+Net cash used in investing activities was RMB651 thousand in 2024. This was due to payments for
+purchases of property, plant and equipment of RMB651 thousand.
+Net cash used in investing activities was RMB28 thousand in 2023. This was due to payments for
+purchases of property, plant and equipment of RMB28 thousand.
+Net Cash Generated from Financing Activities
+Net cash generated from financing activities was RMB396.1 million in 2025. This was primarily due
+to proceeds from issuance of shares of RMB360.4 million and proceeds from bank borrowings of
+RMB40.0 million.
+Net cash generated from financing activities was RMB92.0 million in 2024. This was primarily due
+to proceeds from issuance of shares of RMB93.7 million.
+Net cash generated from financing activities was RMB5.2 million in 2023. This was due to proceeds
+from issuance of shares of RMB5.0 million.
+Cash operating costs
+The following table sets forth key information relating to our cash operating costs for the periods
+indicated:
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Workforce employment(1) 
+1,065
+49,927
+78,905
+R&D costs(2) 
+–
+12,243
+54,277
+Direct computing resource and technology
+service costs(3)
+
+–
+3,364
+60,495
+Product marketing expenses(4) 
+–
+1,777
+59,918
+Administrative expenses(5) 
+117
+2,505
+5,053
+Total
+1,183
+69,816
+258,648
+FINANCIAL INFORMATION
+– 192 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p23] Notes:
+(1)
+Cash operating costs relating to workforce employment represent the sum of employee benefit expenses under research
+and development expenses, general and administrative expenses, cost of revenue and selling and marketing expenses
+(excluding share-based compensation and other non-cash expenses), adjusted for changes in working capital relating
+to employee benefit expenses as of previous and current year end under the above operating expenses.
+(2)
+Research and development costs under cash operating costs represent research and development expenses (excluding
+employee benefit expenses and non-cash items under research and development expenses), adjusted for changes in
+working capital relating to research and development activities as of previous and current year end.
+(3)
+Cash operating costs relating to direct computing and technology service costs represent cash payments for computing
+resource purchased and technology service fees recognized under cost of revenue, adjusted for changes in working
+capital relating to cost of revenue as of previous and current year end.
+(4)
+Cash operating costs relating to product marketing expenses represent selling and marketing expenses (excluding
+employee benefit expenses and non-cash items under selling and marketing expenses), adjusted for changes in working
+capital relating to sales and marketing activities as of previous and current year end.
+(5)
+Cash operating costs relating to administrative activities represent general and administrative expenses (excluding
+employee benefit expenses and non-cash items under general and administrative expenses), adjusted for changes in
+working capital relating to administrative activities as of previous and current year end.
+Current Assets and Current Liabilities
+The following table sets forth our current assets and current liabilities as of the dates indicated.
+As of December 31,
+As of
+April 30,
+2023
+2024
+2025
+2026
+(RMB in thousands)
+(unaudited)
+Current assets
+Prepayments and other receivables 
+446
+4,251
+15,541
+10,827
+Trade receivables
+–
+3,597
+10,582
+50,953
+Time deposits 
+–
+–
+100,000
+100,000
+Cash and cash equivalents 
+4,874
+49,737
+171,533
+279,612
+Total current assets 
+5,320
+57,585
+297,656
+441,392
+Current liabilities
+Borrowings 
+–
+–
+40,000
+40,135
+Trade and other payables 
+1,100
+12,825
+31,455
+72,528
+Share-based compensation liabilities 
+–
+12,458
+92,437
+184,304
+Contract liabilities 
+–
+1,122
+653
+607
+Receipts in advance 
+–
+331
+10,243
+10,735
+Lease liabilities 
+1,322
+2,493
+4,171
+3,159
+Total current liabilities
+2,422
+29,229
+178,959
+311,468
+Net current assets
+2,898
+28,356
+118,697
+129,924
+Our net current assets increased from RMB2.9 million as of December 31, 2023 to RMB28.4 million
+as of December 31, 2024. This change was primarily due to the increase in current assets, which
+outweighed the increase in current liabilities. Our current assets increased from RMB5.3 million as of
+December 31, 2023 to RMB57.6 million as of December 31, 2024, primarily due to an increase in cash
+and cash equivalents of RMB44.9 million. Our current liabilities increased from RMB2.4 million as of
+December 31, 2023 to RMB29.2 million as of December 31, 2024, primarily due to (i) an increase in the
+current portion of share-based compensation liabilities of RMB12.5 million, and (ii) an increase in trade
+and other payables of RMB11.7 million.
+FINANCIAL INFORMATION
+– 193 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p24] Our net current assets increased from RMB28.4 million as of December 31, 2024 to RMB118.7
+million as of December 31, 2025. This change was primarily due to the increase in current assets, which
+outweighed the increase in current liabilities. Our current assets increased from RMB57.6 million as of
+December 31, 2024 to RMB297.7 million as of December 31, 2025, primarily due to (i) an increase in cash
+and cash equivalents of RMB121.8 million and (ii) an increase in time deposits of RMB100.0 million. Our
+current liabilities increased from RMB29.2 million as of December 31, 2024 to RMB179.0 million as of
+December 31, 2025, primarily due to (i) an increase in the current portion of share-based compensation
+liabilities of RMB80.0 million, and (ii) an increase in borrowings of RMB40.0 million.
+Our net current assets increased from RMB118.7 million as of December 31, 2025 to RMB129.9
+million as of April 30, 2026. This change was primarily due to the increase in current assets, which
+outweighed the increase in current liabilities. Our current assets increased from RMB297.7 million as of
+December 31, 2025 to RMB441.4 million as of April 30, 2026, primarily due to an increase in (i) cash and
+cash equivalents of RMB108.1 million and (ii) an increase in trade receivables of RMB40.5 million. Our
+current liabilities increased from RMB179.0 million as of December 31, 2025 to RMB311.5 million as of
+April 30, 2026, primarily due to (i) an increase in the current portion of share-based compensation
+liabilities of RMB91.9 million, and (ii) an increase in trade and other payables of RMB41.1 million.
+INDEBTEDNESS
+The following table sets forth a breakdown of our indebtedness as of the dates indicated.
+As of December 31,
+As of
+April 30,
+2023
+2024
+2025
+2026
+(RMB in thousands)
+(Unaudited)
+Non-current
+Lease liabilities 
+642
+3,629
+1,298
+242
+Redemption liabilities 
+5,023
+107,243
+498,629
+731,820
+Subtotal 
+5,665
+110,872
+499,927
+732,062
+Current
+Borrowings 
+–
+–
+40,000
+40,135
+Lease liabilities 
+1,322
+2,493
+4,171
+3,159
+Subtotal 
+1,322
+2,493
+44,171
+43,294
+Total
+6,987
+113,365
+544,098
+775,356
+Lease Liabilities
+Our lease liabilities were primarily related to our leases of office premises for our daily operations
+and leases of computing resources. Our total lease liabilities were RMB2.0 million, RMB6.1 million,
+RMB5.5 million and RMB3.4 million as of December 31, 2023, 2024 and 2025 and April 30, 2026,
+respectively. The increase from 2023 to 2024 was primarily due to the recognition of new lease liabilities
+associated with leased computing resources and buildings. The subsequent decrease to RMB5.5 million as
+of December 31, 2025 was primarily driven by the early termination of certain computing resources leases
+in 2025 as these assets no longer aligned with our research and development needs following an
+adjustment in our research and development direction, partially offset by new leases recognized in
+connection with our relocation to a new and larger office building in 2025 to accommodate our rapid
+business expansion and growing headcount. The further decrease to RMB3.4 million as of April 30, 2026
+was primarily due to our scheduled lease payments.
+FINANCIAL INFORMATION
+– 194 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p25] Redemption Liabilities
+We recorded redemption liabilities of RMB5.0 million, RMB107.2 million, RMB498.6 million and
+RMB731.8 million as of December 31, 2023, 2024 and 2025 and April 30, 2026, respectively. These
+liabilities represent the obligations arising from the preferential rights granted to our pre-[REDACTED]
+investors in connection with our previous successive financing rounds. The redemption liabilities are
+initially measured at fair value and subsequently measured at amortized cost. For details, see Note 23 to
+the Accountant’s Report in Appendix I to this document.
+Borrowings
+Our borrowings consist of a bank loan, amounting to nil, nil, RMB40.0 million and RMB40.1 million
+as of December 31, 2023, 2024 and 2025 and April 30, 2026, respectively. Our bank loans contain standard
+terms, conditions and covenants that are customary for commercial bank loans in China. Our Directors
+confirmed that we did not experience any difficulty in obtaining bank loans or other borrowings, default
+in payment of bank loans or other borrowings or breach of covenants during the Track Record Period and
+up to the Latest Practicable Date. As of April 30, 2026, we did not have any banking facilities that were
+unutilized and unrestricted.
+Indebtedness Statement
+Except as discussed above, as of April 30, 2026, being the indebtedness statement date, we did not
+have any outstanding mortgages, charges, debentures, loan capital, debt securities, loans, bank overdrafts
+or other similar indebtedness, finance lease or hire purchase commitments, liabilities under acceptances
+(other than normal trade bills), acceptance credits, which are either guaranteed, unguaranteed, secured or
+unsecured, or guarantees or other contingent liabilities. As of the Latest Practicable Date, there was no
+material restrictive covenant in our indebtedness which could significantly limit our ability to obtain
+future financing.
+Our Directors confirm that (i) there has not been any material change in our indebtedness since April
+30, 2026 and up to the Latest Practicable Date, and (ii) during the Track Record Period and up to the date
+of this document, we did not have any material default on our indebtedness or breach of covenant.
+RESEARCH AND DEVELOPMENT EXPENDITURE AND TOTAL OPERATING EXPENDITURE
+During the Track Record Period, our research and development expenses primarily consisted of
+research and development computing resources, employee benefit expenses, and other expenses. We did
+not capitalize any internal development costs or purchase any intangible assets to support our R&D
+activities during the Track Record Period. The following table sets forth our annual and total research and
+development expenditure for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Research and development expenses 
+10,841
+64,475
+209,176
+Adjustments:
+Add: intangible assets acquired from third
+parties and capitalized(1) 
+–
+–
+–
+Less: amortization expense of capitalized
+intangible assets included in research and
+development expenditure(1) 
+–
+–
+–
+Annual research and development
+expenditure 
+10,841
+64,475
+209,176
+Total research and development expenditure
+for the three financial years prior to the
+[REDACTED] 
+284,492
+FINANCIAL INFORMATION
+– 195 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p26] Note:
+(1)
+Represents the additions of intangible assets related to R&D activities during the year, less the amortization expense
+of such assets recognized in the consolidated statements of profit or loss for the same year.
+The following table sets forth our annual and total operating expenditure for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+(RMB in thousands)
+Selling and marketing expenses 
+110
+6,392
+83,743
+General and administrative expenses 
+1,219
+9,094
+21,843
+Research and development expenses 
+10,841
+64,475
+209,176
+Adjustments:
+Add: intangible assets acquired from third
+parties and capitalized 
+–
+–
+–
+Less: amortization expense of capitalized
+intangible assets included in research and
+development expenditure
+–
+–
+–
+Annual total operating expenditure 
+12,170
+79,961
+314,762
+Total operating expenditure for the three
+financial years prior to the [REDACTED] 
+406,893
+The following table sets forth our annual research and development expenditure ratio and total
+research and development expenditure ratio for the periods indicated.
+For the Period
+from August 29
+to December 31,
+For the Year Ended December 31,
+2023
+2024
+2025
+Annual research and development expenditure
+ratio(1) 
+89.1%
+80.6%
+66.5%
+Total research and development expenditure for
+the three financial years prior to the
+[REDACTED](2) 
+69.9%
+Notes:
+(1)
+Calculated by dividing annual research and development expenditure by annual total operating expenditure.
+(2)
+Calculated by dividing total research and development expenditure for the three financial years prior to the
+[REDACTED] by total operating expenditure for the three financial years prior to the [REDACTED].
+CONTINGENT LIABILITIES
+As of December 31, 2023, 2024 and 2025, and up to the Latest Practicable Date, we did not have
+any material contingent liabilities or guarantees.
+FINANCIAL INFORMATION
+– 196 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p27] CAPITAL EXPENDITURE AND CAPITAL COMMITMENT
+During the Track Record Period, our capital expenditures were primarily related to payments for
+purchase of property, plant and equipment, which amounted to RMB28 thousand, RMB651 thousand and
+RMB758 thousand in 2023, 2024 and 2025, respectively. There were no material capital expenditures
+contracted for as at the end of each of the Track Record Period that were not recognized as liabilities.
+OFF-BALANCE SHEET COMMITMENTS AND ARRANGEMENTS
+As of the Latest Practicable Date, we did not have any material off-balance sheet commitments or
+arrangements.
+KEY FINANCIAL INDICATORS
+The following table sets forth our selected financial indicators for the periods and as of the dates
+indicated.
+As of/For the
+Period from
+August 29 to
+December 31,
+As of/For the Year
+Ended December 31,
+2023
+2024
+2025
+Growth Indicators
+Revenue growth(1) 
+N/A
+122,333.3%
+653.2%
+Profitability and Efficiency Indicators
+Gross margin(2) 
+83.3%
+39.4%
+(24.0)%
+R&D ratio(3) 
+N/A
+877.7%
+378.1%
+Liquidity Indicator
+Current ratio(4)
+2.2
+2.0
+1.7
+Notes:
+(1)
+Revenue growth equals the difference between revenue for the current year and revenue for the previous period/year,
+divided by revenue for the previous period/year.
+(2)
+Gross margin equals gross profit/(loss) divided by revenue for the respective period/year.
+(3)
+R&D ratio equals research and development expenses divided by revenue for the respective period/year. The R&D ratio
+for 2023 is not presented as the revenue recognized in 2023 was nominal during our initial stage of commercialization.
+(4)
+Current ratio is calculated by dividing total current assets by total current liabilities as of the end of the respective
+period/year.
+MATERIAL RELATED PARTY TRANSACTIONS
+We enter into transactions with our related parties from time to time. During the Track Record
+Period, our material related party transactions primarily included services purchased from related parties
+and public cloud-based services provided to related parties. For further details about our material related
+party transactions, see Note 31 to the Accountant’s Report included in Appendix I to this document.
+Our Directors are of the view that each of the material related party transactions set out in Note 31
+to the Accountant’s Report included in Appendix I to this document was conducted in the ordinary course
+of business on an arm’s length basis and with normal commercial terms between the relevant parties. Our
+Directors are also of the view that our material related party transactions during the Track Record Period
+would not distort our track record results or cause our historical results to become non-reflective of our
+future performance.
+FINANCIAL INFORMATION
+– 197 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p28] FINANCIAL RISKS
+Our activities expose us to a variety of financial risks, including interest rate risk, foreign exchange
+risk, credit risk, and liquidity risk. Our overall risk management procedures focus on the unpredictability
+of financial markets and seek to minimize potential adverse effects on our financial performance. For
+further details regarding our financial risk management objectives and policies, see Note 3 in the
+Accountant’s Report.
+DIVIDENDS AND DIVIDEND POLICY
+We did not declare or pay any dividend during the Track Record Period. We do not currently have
+a formal dividend policy or a fixed dividend payout ratio. We currently intend to retain all available funds
+and earnings, if any, to fund the development and expansion of our business and we do not anticipate
+paying any cash dividends in the foreseeable future. Investors should not purchase our ordinary shares
+with the expectation of receiving cash dividends. Any future determination to pay dividends will be made
+at the discretion of our Directors and may be based on a number of factors, including our future operations
+and earnings, capital requirements and surplus, general financial condition, contractual restrictions and
+other factors that our Directors may deem relevant.
+Regulations in the PRC currently permit payment of dividends of a PRC company only out of
+accumulated distributable after-tax profits less any recovery of accumulated losses and appropriations to
+statutory and other reserves that we are required to make, as determined in accordance with its articles of
+association and the accounting standards and regulations in China. Taking into account the aforesaid, we
+may not have sufficient or any distributable profits to make dividend distributions to our Shareholders in
+a given year, in view of our accumulated losses, or even if we become profitable, as we will only be able
+to declare or pay dividends out of our distributable profits until (i) the accumulated losses are covered by
+our after-tax profits, and (ii) sufficient statutory and other reserves are drawn in accordance with the
+relevant laws, regulations and our constitutional documents. In light of our accumulated losses as
+disclosed in this document, it is unlikely that we will be eligible to pay dividends out of our profits in the
+foreseeable future.
+WORKING CAPITAL SUFFICIENCY
+Our Directors are of the opinion that, taking into account the estimated net [REDACTED] from the
+[REDACTED] and other financial resources available to us, including cash and cash equivalents and time
+deposits, we have sufficient working capital to cover at least 125% of our group’s costs, including research
+and development costs, selling and distribution expenses, administrative expenses, and other operating
+costs, for the next 12 months from the date of this document.
+Our cash burn rate refers to the average monthly aggregate amount of (i) net cash used in operating
+activities, (ii) capital expenditures (including payments for purchase of property, plant and equipment and
+intangible assets), and (iii) payments of lease liabilities. Our historical monthly average cash burn rate was
+RMB81.5 thousand, RMB4.0 million and RMB14.8 million in 2023, 2024 and 2025, respectively. We had
+cash and cash equivalents of RMB171.5 million and time deposits of RMB100.0 million as of December
+31, 2025. We estimate that we will receive net [REDACTED] of approximately HK$[REDACTED] after
+deducting the [REDACTED] expenses payable by us in the [REDACTED], assuming no [REDACTED]
+is exercised and assuming an [REDACTED] of HK$[REDACTED] per [REDACTED], being the
+low-end of the indicative [REDACTED] in this document.
+Assuming an expected average future monthly cash burn of RMB[REDACTED] million, taking into
+account (i) net cash used in operating activities, (ii) capital expenditures (including payments for the
+purchase of property, plant and equipment and intangible assets), and (iii) payments of lease liabilities,
+representing approximately [REDACTED] times our average monthly cash burn for the twelve months
+ended December 31, 2025, and based on the following principal assumptions: (i) we will continue to
+expand our headcount, particularly our R&D personnel, in line with our planned business scale-up,
+technology roadmap and operational needs, (ii) our capital expenditures and payments of lease liabilities
+relating to computing resources will be incurred in accordance with our business expansion plan and
+commercialization roadmap, and (iii) part of the expected increase in future R&D costs and operating
+FINANCIAL INFORMATION
+– 198 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p29] expenditures will be offset by cash inflows generated from sales of our Specialist Technology Products,
+we estimate that our cash and cash equivalents and time deposits as of May 31, 2026 (based on our
+management account) will be able to maintain our financial viability for approximately [REDACTED]
+months or, if we take into account [REDACTED]% of the estimated net [REDACTED] from the
+[REDACTED] (namely, the portion allocated for our working capital and other general purposes and
+based on the low-end of the indicative [REDACTED]), approximately [REDACTED] months or, if we
+take into account [REDACTED]% of the estimated net [REDACTED] (based on the low-end of the
+indicative [REDACTED]) from the [REDACTED], for approximately [REDACTED] months. Our
+Directors and our management will continue to monitor our working capital, cash flows, and our business
+development status.
+DISTRIBUTABLE RESERVES
+As of December 31, 2025, we did not have any distributable reserves.
+[REDACTED] EXPENSES
+[REDACTED] expenses represent professional fees, [REDACTED], and other fees incurred in
+connection with the [REDACTED]. The estimated total [REDACTED] expenses (based on the mid-point
+of the [REDACTED] range and assuming that the [REDACTED] is not exercised) for the [REDACTED]
+are
+approximately
+RMB[REDACTED]
+million
+(equivalent
+to
+approximately
+HK$[REDACTED]
+million), accounting for approximately [REDACTED]% of our gross [REDACTED] from the
+[REDACTED]. The estimated total [REDACTED] expenses consist of (i) [REDACTED] expenses
+(including but not limited to [REDACTED] and fees) of approximately RMB[REDACTED] million
+(approximately
+HK$[REDACTED]
+million),
+and
+(ii)
+[REDACTED]
+expenses
+of
+approximately
+RMB[REDACTED] million (approximately HK$[REDACTED] million), which consist of fees and
+expenses of legal advisors and Reporting Accountant of approximately RMB[REDACTED] million
+(approximately
+HK$[REDACTED]
+million),
+and
+other
+fees
+and
+expenses
+of
+approximately
+RMB[REDACTED]
+million
+(approximately
+HK$[REDACTED]
+million).
+Approximately
+RMB[REDACTED] million (equivalent to approximately HK$[REDACTED] million) of the estimated
+[REDACTED] expenses is directly attributable to the [REDACTED] and will be accounted for as a
+deduction from equity upon completion of the [REDACTED]. Approximately RMB[REDACTED]
+million (equivalent to approximately HK$[REDACTED] million) is expected to be charged in profit or
+loss before or upon completion of the [REDACTED]. This calculation is subject to adjustment based on
+the actual amount incurred or to be incurred. The [REDACTED] expenses above are the best estimate as
+of the Latest Practicable Date and are for reference only. The actual amount may differ from such an
+estimate.
+[REDACTED]
+NO MATERIAL ADVERSE CHANGE
+Our Directors have confirmed that there has been no material adverse change in our financial or
+trading position or prospects since December 31, 2025, being the end date of our latest consolidated
+financial statements as set out in “Appendix I — Accountant’s Report” to this document, and up to the date
+of this document.
+DISCLOSURE UNDER RULES 13.13 TO 13.19 OF THE LISTING RULES
+Our Directors confirm that, except as otherwise disclosed in this document, as of the Latest
+Practicable Date, there are no circumstances that would give rise to a disclosure requirement under Rules
+13.13 to 13.19 of the Listing Rules.
+FINANCIAL INFORMATION
+– 199 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

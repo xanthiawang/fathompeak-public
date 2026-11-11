@@ -1,0 +1,197 @@
+Rate limits - Together AI docs
+Documentation Index
+Fetch the complete documentation index at:
+/llms.txt
+Use this file to discover all available pages before exploring further.
+Skip to main content
+Together AI docs
+home page
+v2
+Documentation
+Guides
+Learn
+Demos
+API reference
+CLI
+Changelog
+Sign in
+Search...
+Navigation
+SERVERLESS
+Rate limits
+Search...
+⌘
+K
+GET STARTED
+Overview
+Quickstart
+Coding agent setup
+Together Link
+BETA
+Recommended models
+SERVERLESS
+Overview
+Available models
+Rate limits
+Provisioned throughput
+INFERENCE APIS
+Overview
+OpenAI compatibility
+SDK integrations
+Chat & text
+Function calling
+Image generation
+Video generation
+Vision
+Speech-to-text
+Text-to-speech
+Rerank
+LLM evaluations
+Batch processing
+DEDICATED MODEL INFERENCE
+Overview
+Quickstart
+Concepts
+Pricing
+Choose a model
+Deploy a model
+Route traffic
+Send requests
+Monitoring
+DEDICATED CONTAINER INFERENCE
+Overview
+Quickstart
+Tutorials
+Reference
+POST-TRAINING
+Overview
+NEW
+SFT quickstart
+GRPO quickstart
+Concepts
+Pricing
+Supported models
+Training methods
+Manage training
+Deploy
+FINE-TUNING
+Overview
+Quickstart
+Pricing
+Data preparation
+Choose a base model
+Training methods
+Manage jobs
+Deploy a fine-tuned model
+GPU CLUSTERS
+Overview
+Quickstart
+Cluster management
+Preemptible compute
+Health checks
+Node repair
+Cluster storage
+Billing & pricing
+Set up OIDC authentication
+Slurm
+Cookbooks
+API & integrations
+CODE EXECUTION
+Code sandbox
+NEW
+Legacy SDK
+ADMINISTRATION
+Manage your account
+Authentication
+IAM model
+Organizations
+Projects
+Roles & permissions (RBAC)
+Single sign-on (SSO)
+Privacy and security
+Zero data retention
+Billing
+Support
+On this page
+Demand and performance
+Handle errors during high demand
+Get throughput guarantees
+Contract and model-specific limits
+SERVERLESS
+Rate limits
+Copy page
+Copy page
+Understand serverless performance, how to handle rate limits during high demand, and options for throughput guarantees.
+Copy page
+Copy page
+In most cases, you can use Together AI
+serverless inference
+without encountering rate limits. Rate limiting may occasionally occur with high request volumes or large bursts of traffic.
+​
+Demand and performance
+Response times can vary depending on the model and current demand.
+Together aims to maintain high performance for serverless requests, including:
+Tokens per second (TPS):
+The speed at which a model generates output tokens.
+Time to first token (TTFT):
+The time between sending a request and receiving the first output token.
+When demand is high, Together may limit requests to maintain these performance goals. You may receive a
+429 Too Many Requests
+or
+503 Service Unavailable
+response.
+Serverless performance is best-effort. For committed throughput and reliability guarantees, see
+provisioned throughput
+.
+​
+Handle errors during high demand
+The response code tells you how to adjust your requests:
+429 Too Many Requests
+:
+Reduce your request rate. Spread requests out over time and avoid sending large bursts. Use exponential backoff when retrying.
+503 Service Unavailable
+:
+Wait briefly, then retry. Use exponential backoff if the error continues.
+Limit retries to fit your application’s latency needs. For workloads that need committed throughput and reliability, consider
+provisioned throughput
+.
+​
+Get throughput guarantees
+If your workload needs committed throughput and reliability guarantees,
+provisioned throughput
+reserves capacity for a selected model or model family with a defined service level agreement (SLA).
+Contact sales
+to discuss your workload and capacity requirements.
+​
+Contract and model-specific limits
+Enterprise and Scale contracts:
+If you have an active Enterprise or Scale contract, your purchased rate limits stay in place until the contract expires. Nothing changes during your current term.
+Model-specific limits:
+When a model is in especially high demand, Together may apply custom rate limits or access restrictions to that model.
+Was this page helpful?
+Yes
+No
+Available models
+Previous
+Provisioned throughput
+Next
+⌘
+I
+Together AI docs
+home page
+Company
+About us
+Careers
+Examples
+Cookbooks
+Demo apps
+Resources
+Pricing
+Support
+Legal
+Cookie policy
+Consent preferences
+Powered by
+This documentation is built and hosted on Mintlify, a developer documentation platform
+Assistant
+Responses are generated using AI and may contain mistakes.

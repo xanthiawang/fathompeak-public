@@ -1,0 +1,1642 @@
+[p1] An [REDACTED] in our Shares involves significant risks. You should carefully consider all
+the information in this document, including the risks and uncertainties described below, before
+making an [REDACTED] in our Shares. Particularly, we are a Pre-Commercial Company seeking
+to [REDACTED] on the Main Board of the Stock Exchange under Chapter 18C of the Listing Rules.
+Our operations and the Specialist Technology Industry in which we operate involve certain risks and
+uncertainties, some of which are beyond our control and may cause you to lose all your
+[REDACTED] in our Shares.
+The following is a description of what we consider to be our material risks. Our business,
+financial condition and results of operations could be materially and adversely affected by any of
+these risks and uncertainties. The [REDACTED] of our Shares could decline due to any of these
+risks, and you may lose all or part of your [REDACTED]. These factors are contingencies that may
+or may not occur, and we are not in a position to express a view on the likelihood of any such
+contingency occurring. The information given is as of the Latest Practicable Date unless otherwise
+stated, will not be updated after the date hereof, and is subject to the cautionary statements in
+“Forward-Looking Statements.”
+RISKS RELATED TO OUR FINANCIAL POSITION AND NEED FOR ADDITIONAL CAPITAL
+We have recorded gross loss, net losses and experienced cash outflow from operating activities
+during the Track Record Period, and we may not be able to achieve profitability or, even if we do,
+may not be able to maintain profitability subsequently.
+We have recorded gross loss and net losses during the Track Record Period, and have experienced,
+and expect to continue to experience, cash outflow from operating activities. Our cost of revenue increased
+from RMB1 thousand in 2023 to RMB4.5 million in 2024, and to RMB68.6 million in 2025, driven
+primarily by the substantial computing resource costs incurred to support the rapid scaling of our public
+cloud-based services. As a result, we recorded a gross loss of RMB13.3 million and a gross loss margin
+of 24.0% in 2025, compared to a gross profit of RMB2.9 million and gross profit margin of 39.4% in 2024.
+In addition, our annual total operating expenditure, comprising selling and marketing expenses, general
+and administrative expenses, and research and development expenses amounted to RMB12.2 million,
+RMB80.0 million and RMB314.8 million in 2023, 2024 and 2025, respectively. We may continue to record
+gross loss and net losses in the foreseeable future as we are still in the expansion stage of our business
+and operations in the rapidly evolving global token supply industry, and are continuously investing in
+research and development activities to support our long-term growth. We anticipate that our cost of
+revenue, operating expenses, net losses and cash outflow from operating activities will continue to
+increase in the foreseeable future as we continue to expand our business and operations, invest in our
+research and development, and carry out sales and marketing activities. If the increase in our cost of
+revenue outpaces our revenue growth, our business operations, results of operations, financial position and
+profitability would be materially adversely affected.
+In addition, we may not be able to achieve or subsequently maintain profitability in the near future.
+We believe that our future revenue growth will depend on, among other factors, our ability to develop new
+technologies,
+enhance
+user
+experience,
+establish
+effective
+commercialization
+strategies,
+compete
+effectively and successfully and develop new products and services. Accordingly, you should not rely on
+the revenues of any prior period as an indication of our future performance. Furthermore, we expect to
+incur substantial costs and expenses as a result of being a [REDACTED]. If we are unable to generate
+adequate revenues and manage our expenses, we may continue to incur significant losses and may not be
+able to achieve or subsequently maintain profitability.
+Failure to fulfill our obligations in respect of current liabilities could adversely affect our liquidity
+and financial condition.
+We recorded current liabilities of RMB2.4 million, RMB29.2 million, RMB179.0 million and
+RMB311.5 million as of December 31, 2023, 2024 and 2025 and April 30, 2026. As of April 30, 2026, our
+current liabilities included (i) trade and other payables of RMB72.5 million, (ii) borrowings of RMB40.1
+RISK FACTORS
+– 35 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] million, representing bank loan, and (iii) receipts in advance of RMB10.7 million, representing amounts
+received from users in advance of service delivery for serverless token services. For further details, see
+“Financial Information — Discussion of Certain Key Items on Consolidated Statements of Financial
+Position — Liabilities” and “— Indebtedness.” There is no assurance that we will be able to fulfill our
+obligations in respect of current liabilities. If we have any difficulties or fail to perform our obligations
+in respect of our current liabilities, our relationships with our suppliers, customers, banks and other
+partners will be adversely affected and we will be unable to settle our current liabilities, exposing us to
+the risk of shortfalls in liquidity, which may have a material adverse effect on our operational performance
+and prospects.
+We need to make certain operating expenditures, and we may need to raise additional capital in the
+future, which may not be available on terms acceptable to us, or at all. If we cannot raise additional
+funds on attractive terms when we need them, our operations and prospects could be negatively
+affected.
+The development of our products and services will require us to make regular operating expenditures
+to maintain our level of service. Changing competitive conditions or the emergence of any significant
+advances in token supply service could require us to invest certain capital in order to remain competitive.
+As of December 31, 2025, our total deficit was RMB388.7 million, and we have generated net loss in 2023,
+2024 and 2025. In 2025, approximately 66.5% of our operating expenses were for research and
+development activities. If we are unable to fund any such investment or otherwise fail to invest in our
+research and operations, our business, results of operations or financial condition could be adversely
+affected. Our operating expense requirements will depend on many factors, including, but not limited to,
+(i) technological advancements; (ii) market acceptance of our products and services, and the overall level
+of usage of our products and services; (iii) research and development expenses; (iv) costs of leasing
+computing resources; (v) our ability to control costs; (vi) sales and marketing expenses; (vii)
+enhancements to our systems and facilities; (viii) potential acquisitions of businesses and product lines;
+and (ix) general economic conditions, including the effects of international conflicts and their impact on
+the global token supply industry in particular.
+Furthermore, if our capital requirements are materially different from those currently planned, we
+may need additional capital sooner than anticipated. If additional funds are raised through the issuance of
+equity or convertible debt securities, the percentage ownership of our Shareholders at that point in time
+will be reduced. Additional financing may not be available on favorable terms, on a timely basis, or at all.
+If adequate funds are not available or are not available on acceptable terms, we may be unable to continue
+our operations as planned, develop or enhance our products and services, expand our sales and marketing
+programs, take advantage of future opportunities or respond to competitive pressures.
+Share-based payments may have a material and adverse effect on our financial performance and
+cause shareholding dilution to our Shareholders.
+The Employee Incentive Scheme was established for the benefit of our Directors, senior management
+and core employees as remuneration for their services provided to us and to incentivize and reward the
+eligible persons who have contributed to the success of our Company. For the principal terms of the
+employee incentive scheme, see “Appendix IV — Statutory and General Information — D. Employee
+Incentive Scheme.” In 2023, 2024 and 2025, we recognized nil, RMB22.9 million and RMB135.3 million,
+respectively, in total expenses arising from share-based payment transactions. To further incentivize our
+employees, we may incur additional share-based payment expenses in the future. We believe such
+share-based awards are important to our ability to attract, retain and motivate our key personnel, and we
+may continue to grant share-based awards in the future. Expenses incurred with respect to such
+share-based payments may also increase our operating expenses and therefore have a negative effect on
+our financial performance. Issuance of additional Shares with respect to such share-based payments may
+dilute the shareholding of our Shareholders and could result in a decline in the value of our Shares.
+RISK FACTORS
+– 36 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] We are subject to credit risk related to delay in payment and defaults of customers or related parties,
+which would adversely affect our liquidity and financial condition.
+We are exposed to credit risk related to delay in payment and defaults of our various customers. As
+of December 31, 2023, 2024 and 2025, our trade receivables amounted to nil, RMB3.6 million and
+RMB10.6 million, respectively, and our prepayments and other receivables amounted to RMB446
+thousand, RMB4.3 million and RMB15.5 million, respectively. We may not be able to collect all such trade
+receivables and prepayments, other receivables and other assets due to a variety of factors that are beyond
+our control, including long payment cycles of certain of our suppliers, adverse operating conditions or
+financial conditions of customers, and customers’ inability to pay. If our customers delay or default in their
+payments to us, we may have to make impairment provisions and write-off the relevant receivables and
+hence our liquidity and financial condition would be adversely affected.
+RISKS RELATED TO OUR RESEARCH AND DEVELOPMENT
+If we fail to continuously improve our technology and provide products and services that meet the
+expectations of our customers, our business, results of operations and financial condition may be
+materially and adversely affected.
+The token supply industry in which we operate is characterized by constant development, including
+rapid technological evolution, frequent introductions of new products and services, continual shifts in
+customer demand and constant emergence of new industry standards and practices. Thus, our success will
+depend, in part, on our ability to respond to these changes in a cost-effective and timely manner. We need
+to constantly anticipate the emergence of new technologies and assess their market acceptance. We may
+encounter significant unexpected technical challenges, or delays in completing the development of new
+and enhanced products and services in a cost-efficient manner, which require us to invest significant
+resources in R&D to (i) design innovative, accurate and efficiency-enhanced features and functions that
+differentiate our products and services from those of our competitors; (ii) continuously improve our
+technologies; (iii) cooperate effectively on new designs and development with our customers, suppliers
+and partners; (iv) respond effectively to technological changes and the new product and service
+announcements by our competitors; and (v) adjust to changing customer requirements, market conditions
+and regulatory landscape quickly and cost-effectively.
+Considering the rapid advancement of technology, there is a risk that we may not be able to upgrade
+our technologies promptly, efficiently or cost-effectively, if at all. In addition, new technologies could
+render our technologies and products and services obsolete or unattractive. As a result, our business,
+results of operations and prospects may be materially and adversely affected.
+We are facing risks brought about by transformative innovations of AI industry.
+Through our significant investment in research and development, our AI model inference engine
+supports compatibility with a broad range of computing resources using chips from both domestic and
+international chip providers, enabling us to serve as an independent token supply platform. However, the
+chip industry is evolving rapidly with transformative innovations, and domestic and international chip
+providers are continuously launching more powerful and efficient chips. We cannot assure you that our
+inference engine will continue to adapt to chips launched in the future. If our inference engine fails to
+maintain sufficient compatibility with new chips, our ability to efficiently produce and deliver
+high-quality tokens could be impaired, which may materially and adversely affect our business, results of
+operations and financial condition.
+Our platform also addresses how to operate the tokens produced by different models, enabling
+seamless access to and deployment of AI capabilities across a broad range of state-of-the-art models. As
+of the Latest Practicable Date, our platform had supported a cumulative total of over 170 models.
+However, with more companies entering the industry and investing in the research and development of AI
+models, this industry is also witnessing transformative innovations, and new models may have distinct
+underlying mechanisms from the existing ones. Even though we will continue to invest significant
+RISK FACTORS
+– 37 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p4] resources into research and development, we cannot assure that such efforts will succeed in making our
+inference engine and token supply capabilities adaptive to new models. Our technology thus faces the risk
+of becoming outdated, and our business, results of operations and financial condition might be materially
+and adversely affected.
+The competitiveness of the products and services that we offer depend on our continuous and
+significant investment in research and development, and we intend to continue investing significantly
+in research and development. Such investment may negatively impact our profitability and operating
+cash flow in the short term and may not generate the results which we expect to achieve.
+Our technological capabilities and infrastructure are critical to our success. We have been investing
+heavily in our R&D efforts. Our research and development expenses amounted to RMB10.8 million,
+RMB64.5 million and RMB209.2 million in 2023, 2024 and 2025, respectively. The industry in which we
+operate is subject to rapid technological changes and is evolving quickly in terms of technological
+innovation. We need to invest significant resources, including financial resources, in R&D to lead
+technological advancement in order to make our products and services innovative and competitive in the
+market, because compatibility of our products and services with chips and models developed by others is
+critical to the capability of our products and services. Our products and services may be integrated with
+a variety of chips and models, and we need to modify and enhance our products and services to adapt to
+changes in chips and models in a timely and cost-effective manner. As of December 31, 2025, our products
+and services supported a broad range of chip architectures, including both international and major
+domestic chips. As of the Latest Practicable Date, we had supported a cumulative total of over 170 models.
+However, uncertainties are inherent in R&D activities, and we might encounter practical difficulties in
+commercializing our R&D results. Our significant expenditures on R&D may not generate corresponding
+benefits. Given the fast pace with which the technology has been and will continue to develop, we may
+not be able to upgrade our technologies in a timely and cost-effective manner, or at all. New technological
+developments in the industry could render technologies, products or services that we are developing or
+expect to develop in the future obsolete or unattractive, thereby limiting our ability to recover related R&D
+expenses, which could result in a decline in our revenue, profitability and market share.
+Our success depends on the continued service of our R&D team.
+We rely on our R&D team to support our rigorous R&D process. Our R&D team consists of members
+with background in fields such as computer science, electronic engineering, mathematics and software
+engineering. The competition for these highly skilled and qualified employees in our industry is
+increasingly intense. To help attract, retain and motivate key individuals, employee incentives such as
+employee incentive schemes have been, and will continue to be, an important part of their compensation.
+Our employee hiring and retention also depend on our ability to build and maintain a diverse and inclusive
+working environment and be recognized as an attractive employer and desirable workplace. In order to
+compete for R&D talents, we may need to offer higher compensation, better training and more attractive
+career opportunities and other benefits to our employees, which may be costly and burdensome. If our
+compensation programs and workplace culture cease to be viewed as competitive, our ability to attract,
+retain and motivate key individuals would be weakened, which would in turn materially and adversely
+affect our business, financial condition and prospects.
+RISKS RELATED TO THE COMMERCIALIZATION OF OUR PRODUCTS AND SERVICES
+We operate in a rapidly evolving and increasingly competitive global token supply industry. Our
+business is subject to constant technological advancements and industry transformation. If we fail
+to continuously innovate and adapt to evolving customer needs, our competitive position would be
+impacted, and our business, results of operations and financial condition may be materially and
+adversely affected.
+We primarily compete in the global token supply industry, which is characterized by intense
+competition and constant changes. Our success depends, in part, on our ability to respond to such
+competition and changes in a cost-effective and timely manner. We need to invest significant resources,
+including financial resources, in research and development to lead technological advances in order to keep
+our products and services competitive in the market.
+RISK FACTORS
+– 38 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p5] At the same time, customer needs are also evolving. Individual users and enterprise clients are
+increasingly seeking, among others, (i) sufficient computing resources to run AI models; (ii) higher
+hardware efficiency; (iii) lower cost per token; and (iv) stronger privacy and security features to satisfy
+internal controls. These trends are accelerating industry transformation and driving leading participants to
+invest continually in the improvement of AI model inference engines.
+The token supply market is expanding at an unprecedented pace, rapidly reshaping human society.
+According to Frost & Sullivan, China’s token throughput is expected to reach approximately 53.2
+quintillion tokens processed. While this estimate presents significant opportunities, it has also attracted an
+increasing number of competitors, many of whom have access to more efficient hardware, greater
+computing power or more advanced AI models. As model inference engines become increasingly crucial
+to running AI models, competition may intensify further, making it more difficult for us to differentiate
+our products and services, maintain pricing power, and achieve sustainable profitability.
+If we are unable to deliver products or services that meet or exceed customers’ evolving performance
+expectations or fail to keep pace with innovation cycles, our products and services may lose
+competitiveness, resulting in reduced pricing power, or missed commercial opportunities. As a result, our
+business, financial condition and results of operations may be materially and adversely affected.
+Our business substantially relies upon the availability of high-quality open-source AI models.
+Most tokens we produce and sell are derived from open-source AI models. The source code of
+open-source models is publicly available globally, and we are generally granted a relatively permissive
+license that allows free commercial use. We coordinate with open-source model providers, open-source
+software providers and hardware companies to build an open commercial ecosystem. As a result, our
+business is substantially dependent upon the continued availability of high-quality open-source AI models
+whose tokens we can produce.
+We cannot assure you that there will be continued availability of high-performing open-source
+models in the future. It is possible that certain open-source models may be converted to closed-source in
+the future. Open-source model providers may consider restricting access to their model source code and
+weights, and begin charging fees, particularly where their models have a technical advantage in the
+market. Moreover, even if certain models remain open-source, there is no assurance that they will continue
+to be advanced and competitive compared to their closed-source counterparts in the market. If such models
+fail to maintain high quality, the tokens that we produce from them may not be in demand by customers.
+Thus, our business growth might not be sustainable, and our business would be materially and adversely
+affected.
+The supply restrictions, trade controls or sanctions on chips may disrupt the operations of our
+suppliers and in turn adversely affect our business, results of operations and financial condition.
+Chips are a critical part in the token supply industry. Since mid-2022, the U.S. administration
+announced new rules and export control policies on AI and semiconductor technologies in China. The
+restrictions block U.S. chip companies from selling U.S.-built advanced chips, chip design software,
+semiconductor manufacturing equipment and components for AI and supercomputing to China. These
+restrictions have affected the supply of semiconductor chips to China to a certain extent. Currently, certain
+U.S. chip companies have a technical advantage in terms of computing power and produce chips which
+have much better performance and adaptability.
+At the current stage, we do not directly purchase chips. We cooperate with chip companies, cloud
+service companies and other computing resource providers to lease their computing resources for our
+business. We use computing resources from a combination of international chips and domestic chips in our
+business, so the supply of international chips is not a critical bottleneck for our operations. However, there
+is no assurance that our partners will be able to obtain sufficient quantities of semiconductor chips,
+especially the chips with the best quality, and other major components for their operations at a reasonable
+cost, or at all, nor is there guarantee that they will not be materially affected by supply restrictions, trade
+RISK FACTORS
+– 39 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p6] controls or sanctions on semiconductor chips or other major components in the future. If our partners are
+unable to source the necessary semiconductor chips or other major components on acceptable terms, or at
+all, our production and delivery could be disrupted, which could have an adverse effect on our business,
+results of operations and financial condition.
+We may experience increases in the costs of computing resources that we procure, and we may not
+be able to pass on such increased costs to our customers, which could materially and adversely affect
+our profitability, business, results of operations and financial condition.
+Our business and operation mainly rely on computing resources provided by third parties, in order
+to produce tokens. Our cost of revenue will rise if there is an increase in the price of the computing
+resources that we procure. We recorded cost of revenue of RMB1 thousand, RMB4.5 million and RMB68.6
+million in 2023, 2024 and 2025, respectively, and the reasons for the surge included, among others, an
+increase in computing resource costs resulting from the rapid scaling of our public cloud-based services,
+which required massive underlying computing power to support the surging token demands.
+On the other hand, facing increases in the costs of computing resources that we procure which in turn
+raise our cost of revenue, we may not manage to pass on such increased costs to our customers. Certain
+proportion of our revenue during the Track Record Period is generated from large-sized customers.
+Compared to small- and medium-sized customers, large-sized customers have stronger bargaining powers,
+so we may face difficulties raising the prices charged to them when we suffer from higher prices of
+computing resources. As a result, our cost of revenue would outpace our revenue, leading to a decline in
+our gross margin, even though there was a significant increase in our revenue during the Track Record
+Period. We recorded gross loss of RMB13.3 million and gross loss margin of 24.0% in 2025, compared
+to gross profit of RMB2.9 million and gross profit margin of 39.4% in 2024. In the foreseeable future, we
+cannot assure you that our revenue will continue to grow; and even if it does, we are likely to suffer gross
+loss. This might eventually cause a material and adverse effect on our profitability, business, results of
+operations and financial condition.
+As we continue to grow, we may not be able to effectively manage our growth and expand our
+operations, which could negatively impact our business growth, financial condition, results of
+operations and reputation.
+We have experienced rapid growth in recent years. Driven by our monetization strategy, our revenues
+increased from RMB6 thousand in 2023 to RMB7.3 million in 2024 and further to RMB55.3 million in
+2025. We plan to further expand our business by, among other things, continuing to invest in technology,
+enhancing our brand recognition, and scaling our products and services globally. Our future operating
+results will depend to a large extent on our ability to manage our expansion and growth successfully.
+However, we face risks in undertaking expansion, including, among others, (i) managing our supply chain
+to support rapid business growth; (ii) managing a larger organization with a greater number of employees
+across different divisions and enhancing internal administrative structures; (iii) controlling expenses and
+investments in anticipation of expanded operations; (iv) establishing or expanding research and
+development, sales and service facilities; (v) our ability to secure services from third parties who procure
+specialized hardware and software, that we rely on to establish the technology infrastructure supporting
+our products and services; (vi) improving our operational, financial and management controls, compliance
+programs and reporting systems; and (vii) addressing new markets and potentially unforeseen challenges
+as they arise. If we fail to efficiently manage our business expansion, our costs and expenses may increase
+faster than anticipated, and we may not be able to respond promptly to competitive challenges or otherwise
+execute our business strategies successfully. Our growth requires significant financial resources and will
+place significant demands on our management. If we fail to effectively manage the growth of our business
+and operations, our business growth, financial condition, results of operations and reputation could be
+negatively impacted.
+RISK FACTORS
+– 40 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p7] If we fail to maintain and grow our customer base, keep our customers engaged through our
+products and services by adapting and responding effectively to rapidly changing technology,
+evolving industry standards and changing regulations, our business growth may not be sustainable
+and our business may be materially and adversely affected.
+To achieve sustainable growth of our business, we must continuously attract new customers, retain
+existing customers and increase their spending on our products and services. To keep pace with our
+customers’ overall evolving demands, we need to improve our existing products and services and launch
+new products and services from time to time. If we fail to accurately identify our customers’ demands or
+preferences, or fail to continuously provide them with products and services that add value to their
+businesses, we may be unable to expand our customer base and our existing customers may be reluctant
+to increase their spending on our platform, and as a result, the growth of our business may be stalled. If
+the leading players in the industry expand into the market segment that we operate in, we may fail to retain
+our existing customers, and our market share may diminish.
+Our platform must integrate with a variety of network, hardware, and software platforms and
+technologies, and we need to continuously modify and enhance our products and services to adapt to
+changes and innovation in these technologies. Any failure of our products or services to function
+effectively with evolving technologies could reduce the demand for our products or services. If we are
+unable to respond to these changes in a cost-effective and timely manner, our products and services may
+become less marketable and less competitive or obsolete, and our business, operating results and financial
+condition could be adversely affected.
+In addition, our future success largely depends on our ability to enhance our operational efficiency.
+Despite our efforts in researching and developing technology-driven products, we cannot assure you that
+our products will sustain the current level of popularity. Customers may not choose or continue to use our
+products if they become outdated or if our competitors offer superior products. As a result, our business
+may not grow at a rate we anticipate or at all, which may, in turn, materially and adversely affect our
+business, results of operations, financial condition and prospects.
+The size of our addressable markets and the demand for our products and services may not increase
+as rapidly as we anticipate. If the market for our products and services fails to grow as we expect,
+our business, results of operations and financial condition could be adversely affected.
+We are pursuing opportunities in markets that are undergoing rapid changes, including technological
+and regulatory changes, and it is difficult to predict the timing and size of the opportunities for our key
+products and services. The addressable markets for our products and services may be smaller than we have
+estimated, may develop more slowly than we expect, or may not develop at all. Our market size estimates
+are based on a number of internal and third-party assumptions, and such assumptions and estimates may
+prove to be inaccurate. If the markets for our products and services do not grow at the rate we anticipate,
+or if we overestimate the potential of these markets, our business, results of operations and financial
+condition could be adversely affected.
+Our future financial performance will depend on our ability to make timely investments in the correct
+market opportunities. If one or more of these markets experience a shift in customer or prospective
+customer demand, then our products and services may not compete as effectively, if at all. If demand does
+not develop or if we cannot accurately forecast customer demand, then the size of our markets, our future
+business, results of operations and financial condition would be materially and adversely affected.
+In addition, evolving market conditions and changes in customer expectations may impact our
+pricing strategies and further affect demand for our products and services. As the market for our products
+and services grows or as competitive dynamics shift, we may be unable to attract new customers or retain
+existing customers based on our historical pricing models. Given our limited operating history and limited
+experience with our historical pricing models, we may not be able to accurately predict customer demand.
+In addition, regardless of the pricing model used, certain customers may demand higher price discounts.
+As a result, we may be required to reduce our prices or offer alternative pricing models, which could
+adversely affect our revenue, gross margin, profitability, financial position and cash flow.
+RISK FACTORS
+– 41 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p8] Furthermore, if market demand is insufficient to support our growth strategies, our business plans
+and financial projections may not be achieved, and our business, financial condition and results of
+operations could be materially and adversely affected.
+We have a limited operating history and a limited track record in commercialization of our products
+and services, which makes it difficult to forecast our future business prospects and results of
+operations.
+We have a limited operating history, and our Company was incorporated on August 29, 2023. In light
+of the rapidly evolving nature of the global token supply industry, it may be difficult to evaluate our
+current business and reliably predict our future performance. Our historical results may not provide a
+meaningful basis for evaluating our business, results of operations, financial condition and prospects, and
+we may encounter unforeseen expenses, difficulties, complications, delays and other known and unknown
+factors, and may not be able to achieve promising results in future periods. If we cannot address these risks
+and overcome these difficulties successfully, our business and prospects will suffer.
+In addition, our growth prospects should be considered in light of the risks and uncertainties that
+fast-growing companies with a limited operating history may encounter, including, among others, risks
+and uncertainties regarding our abilities to, among others, (i) maintain and upgrade our AI model inference
+engine; (ii) upgrade and further commercialize our products and services; (iii) retain existing customers
+and attract new customers to purchase our products and services; (iv) further expand into international
+markets; (v) increase brand awareness through marketing and promotional activities; (vi) attract, retain
+and motivate talented employees, including research and development talents as well as staff with in-depth
+industry know-how; (vii) adapt to evolving regulatory environment; and (viii) defend ourselves against
+litigation, regulatory, intellectual property, privacy, data protection or other claims. All of these initiatives
+involve inherent risks and will require significant operating expenses and allocation of valuable
+management and employee resources. We cannot assure you that we will be able to effectively manage the
+expansion or growth of our operations and workforce or implement our business strategies effectively. If
+the markets for our products and services fail to develop as anticipated, or if we are unable to address the
+evolving needs of this dynamic market, our business, results of operations and financial condition may be
+materially and adversely affected.
+RISKS RELATED TO OUR OPERATIONS
+The AI industry in China is subject to extensive and rapidly developing regulation. New or amended
+laws and regulations may impose additional compliance obligations that could materially and
+adversely affect our business, results of operations, financial condition and prospects.
+China’s regulatory framework governing the AI sector continues to develop at pace, and we
+anticipate that the compliance environment will become increasingly stringent as the industry matures.
+PRC governmental authorities have been active in legislating across a wide range of AI-related activities,
+and we expect this trend to continue. Given that our business involves the provision of token supply
+services, regulatory developments directed at AI service providers — including those concerning content
+generation, algorithm deployment and data synthesis — may directly or indirectly affect our operations.
+A number of specific measures have already come into force. On December 31, 2021, the CAC and
+three
+other
+departments
+jointly
+issued
+the
+Provisions
+on
+the
+Administration
+of
+Algorithm
+Recommendations for Internet Information Services (《互聯網信息服務算法推薦管理規定》), effective
+March 1, 2022, which apply to providers that use algorithm technologies — including generation and
+synthesis, personalized push and search filtering — to deliver information to users. Providers whose
+services carry public opinion attributes or the capacity for social mobilization are required to complete
+filing procedures and carry out security assessments under applicable national regulations. On November
+25, 2022, the CAC and two other departments jointly issued the Provisions on the Administration of Deep
+Synthesis of Internet-based Information Services (《互聯網信息服務深度合成管理規定》), effective
+January 10, 2023, which impose obligations on deep synthesis service providers, technical supporters and
+users, covering user identity verification, data security and personal information protection, content
+RISK FACTORS
+– 42 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p9] management, and the labelling of AI-generated or edited content. Providers with public opinion attributes
+or social mobilization capacity must additionally file their algorithms and conduct security assessments
+when launching new products or features with such attributes. On July 10, 2023, the CAC and six other
+departments jointly issued the Interim Measures for the Administration of Generative Artificial
+Intelligence Services (《生成式人工智能服務管理暫行辦法》) (the “AIGC Administration Measures”),
+effective August 15, 2023, which regulate providers of generative AI services — defined as organizations
+or individuals that use generative AI technology to provide services, including via programmable
+interfaces. Key obligations include: protecting minors from over-dependence on generative AI services;
+acting as personal information processors and safeguarding users’ input information and usage records;
+taking prompt action upon discovering illegal content, including ceasing generation or removing content
+and conducting model optimization; reporting users found to be engaging in illegal activities to the
+competent authorities; and establishing complaint and whistleblowing mechanisms. Most recently, on
+March 7, 2025, the CAC and three other departments jointly issued the Measures for the Identification of
+AI-Generated and Synthesized Content (《人工智能生成合成內容標識辦法》), effective September 1,
+2025, which apply to internet information service providers falling within the scope of the algorithm
+recommendation, deep synthesis or AIGC Administration Measures. These Identification Measures require
+providers to add explicit labels to AI-generated and synthesized content across text, audio, images, video
+and virtual scenes, to ensure such labels are preserved in files made available for downloading, copying
+or export, and to embed implicit identifications in the metadata of files containing such content. See
+“Regulatory Overview — Regulations on Artificial Intelligence.”
+These measures remain subject to further interpretation and refinement, and the relevant PRC
+authorities, including the CAC, may at any time introduce supplementary rules, detailed implementation
+guidance or revised interpretations that affect our business. As the regulatory perimeter expands, our token
+supply services may be brought within the scope of obligations that currently apply only to a narrower
+category of AI service providers. We cannot give any assurance that our compliance arrangements will at
+all times satisfy the requirements of the then-applicable laws and regulations. Any failure, or alleged
+failure, to comply — whether by us or in connection with services we enable — may expose us to
+regulatory penalties, operational restrictions, reputational harm and other significant legal and financial
+consequences.
+If our products or services experience material errors, defects or security issues, we may lose our
+customers, fail to honor our obligations in respect of our contract liabilities, and incur significant
+remedial costs.
+Despite repeated testing, our products by their nature may contain technical errors, defects or
+security issues that are difficult to detect and rectify, particularly when first introduced or when new
+versions or upgrades are implemented. Due to the complexity of our products and services, we may not
+be able to fix these errors, defects and security issues in a timely manner or at all. We may incur significant
+expenses rectifying any material error or defect and compensating our customers who are affected by such
+error or defect.
+Given that many of our customers use our products and services in critical parts of their businesses,
+any error, defect or service interruption of our products or services could result in significant losses for
+our customers. Our customers may seek significant compensation from us for any losses they incur as a
+result of such errors. Such claims, even if unsuccessful, could be costly, time-consuming and distracting
+for management, result in a diversion of significant resources, and have an adverse effect on our business,
+operating results and financial condition. Moreover, our customers may share information about their poor
+experiences in the community, resulting in negative publicity about us. Such negative publicity could
+damage our reputation and hurt our future sales.
+RISK FACTORS
+– 43 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p10] Security breaches, cyberattacks and other technical inadequacies against our systems and network,
+any disruption to our servers, and any failure to otherwise protect personal, confidential and
+proprietary information, could damage our reputation and negatively impact our business, as well
+as materially and adversely affect our results of operations and financial condition.
+We have implemented various cybersecurity measures, but such measures may not manage to detect,
+prevent or control all attempts to compromise our systems, including but not limited to, distributed
+denial-of-service attacks, viruses, Trojan horses, malicious software, break-ins, phishing attacks,
+third-party manipulation, security breaches or other technical inadequacies that may cause service
+interruptions or jeopardize the security of data stored in and transmitted by our systems or that we
+otherwise maintain. Breaches of our cybersecurity measures could result in unauthorized access to our
+systems, misappropriation of information or data, deletion or modification of user information, or a
+denial-of-service or other interruption to our business operations. As techniques used to obtain
+unauthorized access to or sabotage systems change frequently and may not be known until launched
+against us or our third-party service providers, there can be no assurance that we will be able to anticipate
+or implement adequate measures to protect against these attacks. If we are unable to avert these attacks
+and security breaches, we could be subject to significant legal and financial liabilities, our reputation and
+business would be harmed, and we could sustain substantial revenue loss from loss of sales and customer
+dissatisfaction.
+Actual or perceived flaws or misuse of AI technologies in connection with our products and services,
+whether by us or by third parties, could materially and adversely affect our reputation, business,
+results of operations, financial condition and prospects.
+AI technologies remain in a period of rapid development, and their widespread application across
+industries brings with it a range of risks that are still emerging. As a token supplier, the manner in which
+the downstream AI services are built, deployed and used is largely outside our direct control, yet any
+failure or misuse at the output level — including the generation of inaccurate, biased or otherwise harmful
+content — may attract public or regulatory attention that reaches back to the infrastructure layer on which
+those services rely.
+Third parties may exploit our platform for purposes that are inappropriate, harmful or contrary to
+applicable laws and regulations in China or elsewhere. They may also apply AI outputs in ways that,
+regardless of our safeguards, infringe the legitimate rights of individuals, including rights of privacy or
+personality, giving rise to litigation or administrative proceedings. Events of this nature — even if not
+directly attributable to any failing on our part — can shape customer perceptions, influence policymakers
+and regulators, and weaken broader confidence in AI technologies and the companies that enable them.
+We have implemented, and will continue to develop, controls designed to mitigate the risk of misuse.
+However, we cannot guarantee that these measures will be fully effective in all circumstances or that our
+services will not be put to uses that are inconsistent with our intended purpose or with public expectations.
+Any such occurrence, whether actual or merely perceived, whether deliberate or inadvertent, and whether
+originating with us, our customers or unrelated third parties, could generate adverse publicity, damage our
+brand, prompt heightened regulatory scrutiny and deter existing and prospective customers from using our
+platform. The nature of our business — as the underlying infrastructure enabling a wide range of AI
+applications — means that our reputational exposure may extend beyond our own direct activities. Any of
+the foregoing could materially and adversely affect our business, results of operations, financial condition
+and prospects.
+Our success depends on the continued contributions of our senior management and key employees.
+Our business is highly dependent on certain individuals whose leadership, vision and technical
+expertise are not readily replaceable. The market for high-caliber workers and leaders in our industry is
+extremely competitive. To execute our business strategies successfully, we must attract, retain and
+motivate our senior management and key employees. Hiring qualified executives, scientists, engineers,
+technical staff and R&D personnel is costly and critical to our business, and competition for such
+RISK FACTORS
+– 44 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p11] personnel results in increased costs in the form of cash and share-based compensation. Nonetheless, we
+must recruit and develop diverse qualified personnel to remain competitive in our industry. If one or more
+of our key employees, including senior executives or core technical personnel, were to depart
+unexpectedly, such departures could disrupt our operations, delay product development or strategic
+initiatives, and result in the loss of valuable knowledge. Effective succession planning is also important
+to our long-term success. Failure to ensure effective transfer of knowledge and smooth transitions
+involving key employees could hinder our strategic planning and execution. If we are less successful in
+our recruiting efforts, or if we cannot retain key employees or their knowledge, our ability to develop and
+deliver successful products and services may be adversely affected. Such events may also lead to
+reputational harm, decreased employee morale, and potential reluctance from customers or partners to
+continue existing or prospective engagements.
+The interpretation and application of employment-related laws to our workforce practices may result
+in increased operating costs and less flexibility in how we meet our workforce needs. Changes in
+immigration and work permit laws and regulations or the administration or interpretation of such laws or
+regulations could impair our ability to attract and retain highly qualified employees. If we do not continue
+to anticipate and address the needs of our employees sufficiently and/or in a timely manner, their
+productivity could be impacted, or we could fail to retain them, which could have a material adverse
+impact on our future business operations, results of operations and financial condition.
+Our brand is integral to our success. If we fail to effectively maintain, promote and enhance our
+brand, and conduct our sales and marketing activities in a cost-effective manner or we are subject
+to limitations in promoting our products and services, our business and competitive advantage may
+be harmed.
+We believe that maintaining, promoting and enhancing our brand is critical to maintaining and
+expanding our business. Maintaining, promoting and enhancing our brand depend largely on our ability to
+continue to provide well-designed, useful and reliable products and services, which we cannot assure you
+we will do successfully.
+We believe the importance of brand recognition will increase as competition in our market increases.
+In addition to our ability to provide reliable and useful products and services at competitive prices, the
+successful promotion of our brand will also depend on the effectiveness of our marketing efforts. We
+primarily market our products and services through our sales and marketing force, and organic traffic
+sources including developers’ word-of-mouth referrals. Our efforts to market our brand have incurred
+significant costs and expenses during the Track Record Period and we intend to continue such efforts in
+maintaining and expanding our business. We cannot assure you, however, that our selling and marketing
+expenses will lead to increasing revenue, and even if they did, such increases in revenue might not be
+sufficient to offset the expenses incurred.
+Due to the technical nature of our products and services, we mainly rely on our sales and marketing
+force to conduct marketing activities and drive sales of our products and services. If we fail to conduct
+our sales and marketing activities in a cost-effective way, we may incur considerable marketing expenses,
+which could adversely affect our business and operating results. Additionally, our brand promotion and
+marketing activities may not be well received by customers and potential customers and may not result in
+the levels of sales that we anticipate. Meanwhile, marketing approaches and tools in the market for token
+supply in China are evolving, which may further require us to enhance our marketing approaches and
+experiment with new marketing methods to keep pace with industry developments and customer
+preferences. Failure to introduce new marketing approaches in an efficient and effective manner could
+reduce our market share and materially and adversely affect our financial condition, results of operations
+and profitability.
+RISK FACTORS
+– 45 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p12] Our sales and marketing efforts are important to our business, but there is no guarantee that our
+efforts will continue to be successful.
+There can be no assurance that our efforts to market and sell our products and services will succeed,
+that the sales results of our products and services will meet our forecast, or that customers will deploy and
+utilize our products and services effectively.
+The success of our sales and marketing efforts also depends on our ability to attract, motivate and
+retain qualified and professional employees who have, among other things, adequate industry knowledge
+to communicate effectively with technical professionals, sufficient experience in sales and marketing, and
+extensive industry connections. However, competition for experienced sales and marketing personnel is
+intense. If we are unable to attract, motivate and retain enough qualified sales and marketing personnel
+to support our business, our commercialization of our products and services may be adversely affected.
+Our results of operations depend on sales to enterprise customers, whose decisions to purchase
+products and services are based in part on factors, or perceived factors, not directly related to the features
+of the offerings, including, among others, that customer’s projections of business growth, uncertainty
+about economic conditions, capital budgets and anticipated cost savings from the adoption of our products
+and services, potential preference for such customer’s internally-developed products, perceptions about
+our business, more favorable terms offered by potential competitors and previous technology investments.
+As a result of these and other factors, our sales efforts typically require extensive effort, a significant
+investment in human resources, expense and time, and there can be no assurance that we will be successful
+in making a sale to a potential customer. If our sales efforts for a potential customer do not result in
+sufficient revenue to justify our efforts, our business, financial condition and results of operations could
+be adversely affected.
+Any failure to offer high-quality customer support may harm our relationships with our customers
+and thus materially and adversely affect our business and results of operations.
+Any failure to provide high-quality after-sales support services both for our on-premise deployment
+solutions
+and
+public
+cloud-based
+services
+could
+adversely
+affect
+our
+reputation
+and
+customer
+relationships. After the delivery of our products and services, we are responsible for providing continuous
+system maintenance, performance optimization and technical support to ensure the stability and efficiency
+of our customers’ AI workloads. If we fail to respond promptly to system failures, performance
+degradation or other technical issues, our customers may experience service interruptions or reduced
+computing performance, which could lead to customer dissatisfaction, loss of business opportunities and
+damage to our brand and reputation. In addition, delays or deficiencies in our after-sales support may
+cause customers to terminate existing service agreements, refuse to renew or seek remedies against us, all
+of which could materially and adversely affect our business, financial condition and results of operations.
+We may be unable to successfully expand our customer base in overseas market.
+We aim to expand our customer base in overseas market. However, we may not succeed in this
+endeavor, and our success will depend on our ability to provide stable, efficient and scalable token services
+that meet the diverse needs of customers across different regions. A principal risk we face relates to
+compliance with overseas regulations and policies, as countries increasingly attach importance to the
+concept of “sovereign AI,” and we will be required to comply with regulations and policies of increasing
+complexity. In addition, as we expand internationally, we will face risks that could adversely affect our
+business, including: (i) the difficulty of managing and staffing international operations and the increased
+operational, travel and network costs associated with numerous international locations; (ii) challenges in
+gaining acceptance for our products and services among customers in different markets; (iii) our ability
+to effectively price our products and services in competitive international markets; (iv) global or regional
+health crises; (v) tariffs and other non-tariff trade barriers, such as quotas and local content rules; (vi) the
+complexities of complying with current and future export control and economic sanctions requirements;
+(vii) protectionist or national security policies that restrict our ability to develop, import or export certain
+technologies or limit our ability to raise capital; and (viii) the overall business environment of the industry.
+RISK FACTORS
+– 46 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p13] In addition, we deliver certain products and services on a subscription basis. As a result, our future
+revenue depends in part on our ability to retain existing customers and encourage renewals of
+subscriptions, which is in turn dependent on our ability to scale and adapt our products and services to
+meet our customers’ evolving needs. Factors that are not within our control may result in a reduction in
+our revenue or profitability. The cancellation of subscriptions to our products and services could materially
+and adversely affect our business, financial condition and results of operations.
+The loss of, or a significant reduction in usage by, one or more of our major customers would result
+in lower revenue and could harm our business.
+Our future success is dependent on establishing and maintaining successful relationships with a
+diverse set of customers. During the Track Record Period, we are subjected to certain level of
+concentration risk as we generated a significant portion of our revenue from sales to our major customers.
+Our top five customers accounted for 100.0%, 85.0% and 45.0% of our revenue in 2023, 2024 and 2025,
+respectively, and our single largest customer accounted for 83.3%, 61.1% and 13.6% of our revenue in the
+respective years, reflecting a downward trend in our customer concentration. In addition, our top five
+customers varied during the Track Record Period. We also experienced a decrease in demand from some
+of our major customers during the Track Record Period. We cannot guarantee that our major customers
+will continue to work with us or will not reduce their business with us. The loss of one or more major
+customers or a reduction in usage by any major customers could significantly reduce our revenue. If we
+fail to maintain existing customers or develop relationships with new customers, our business will be
+harmed.
+Our reliance on a limited number of suppliers for certain essential products and services could
+adversely affect our ability to manage our business effectively and subsequently harm our business.
+We rely on a limited number of suppliers for certain essential products and services to operate our
+network and provide products and services to our customers. During the Track Record Period, we are
+subjected to certain level of concentration risk as we procured a significant portion of products from our
+major suppliers. In 2023, 2024 and 2025 our top five suppliers accounted for 100.0%, 87.6% and 70.8%
+of our total purchases, respectively, and our single largest supplier accounted for 100.0%, 52.1% and
+20.4% of our total purchases, respectively. We may experience shortages in components or delays in
+delivery as a result of natural disasters, increased demand in the industry or our suppliers’ lacking
+sufficient qualifications to supply the servers or other products.
+Our reliance on these suppliers exposes us to risks, including reduced control over costs and
+constraints based on the availability, terms, and pricing of these products and services. We generally do
+not have any long-term contracts guaranteeing supply with these suppliers. If our supply of certain
+products and services is disrupted or delayed, there can be no assurance that additional supplies or services
+can serve as adequate replacements or that supplies will be available on terms that are favorable to us, if
+at all. Moreover, even if we can identify adequate replacements on substantially similar terms, our
+business could be adversely affected until those efforts were completed. Any disruption or delay in the
+supply of products and services may cause delays or other constraints on our operations that could damage
+our customer relationships.
+Our business is subject to seasonality.
+During the Track Record Period, we typically recorded higher revenue in the second half of each
+year, as enterprise and institutional customers tend to finalize procurement decisions and budget approvals
+towards year-end, resulting in a concentration of contract signings and project deliveries in that period,
+especially for our on-premise deployment solutions. The degree of seasonality may vary from year to year
+due to conditions in the industry and other factors, which makes it difficult for us to predict the level of
+demand with precision. If seasonal demand exceeds our expectation, we may not be able to deploy
+sufficient resources or arrange for timely delivery. If seasonal demand is lower than our expectation, we
+RISK FACTORS
+– 47 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p14] may face increased working capital and liquidity needs. Furthermore, our operating and financial results
+for an interim period may not be representative of our overall performance for a year. We expect to
+continue to experience seasonal fluctuations in our revenue, results of operations and financial condition.
+We engage a connected person as our commercial agent in Singapore. Any deterioration in or even
+termination of our relationship with the connected person would negatively influence our revenue
+generated from overseas market.
+During the Track Record Period, we had a Singaporean connected person that acted as our
+commercial agent for services in relation to our overseas business. Our revenue generated from overseas
+market was RMB5.7 thousand, RMB0.5 million and RMB2.1 million, in 2023, 2024 and 2025,
+respectively. We expect our revenue generated from overseas market to continue increasing in the near
+future, as we are implementing strategies for expanding our overseas business. For details, see “Business
+— Our Strategies — Advance Our Global Expansion Strategy by Leveraging Overseas Ecosystems and
+Our Technological Advantages.”
+With a view to reducing related party transactions and streamlining our corporate structure, we
+established a wholly-owned subsidiary incorporated in Singapore, which will assume the connected
+person’s business operations. Although our cooperative relationship with the connected person remains
+stable, there is no assurance that we will be able to maintain such relationship. Any deterioration in or even
+termination of the relationship would negatively influence our revenue generated from overseas market
+and have a material adverse impact on our business, financial conditions and operating results in turn.
+Complying with evolving laws and regulations regarding cybersecurity, information security,
+privacy and data protection and other related laws and requirements may be expensive and render
+us to make related changes to our business. Many of these laws and regulations are subject to change
+and interpretation, and any failure or perceived failure to comply with these laws and regulations
+could result in negative publicity, legal proceedings, or otherwise harm our business.
+Laws and regulations governing cybersecurity, information security, privacy and data protection, the
+use of data in artificial intelligence and machine learning, and data sovereignty requirements are rapidly
+evolving, extensive, complex, and include inconsistencies and uncertainties in different jurisdictions.
+Based on our business operation, we are subject to numerous laws and regulations relating to
+cybersecurity, information security, privacy and data protection. In addition, regulatory requirements
+regarding the protection of personal information, data security and cybersecurity are constantly evolving
+and can be subject to differing interpretations or significant change, which may increase our
+responsibilities in that regard. An example of such evolving regulatory requirements is the PRC
+Cybersecurity Law (《中華人民共和國網絡安全法》) which became effective in June 2017 and was
+amended on October 28, 2025 and became effective on January 1, 2026. The PRC Cybersecurity Law
+created China’s first national-level data protection framework for “network operators”, which may
+potentially include all organizations in China that provide services over the Internet or through other types
+of information network. Various regulations, guidelines and other measures have been and are expected
+to be adopted under the PRC Cybersecurity Law. For more details, see “Regulatory Overview —
+Regulations Relating to Cybersecurity and Data Security” and “— Regulations Relating to Privacy
+Protection” for more information.
+These and other similar legal and regulatory developments could contribute to legal and economic
+changes, affect how we design, market and sell our products and services, how our customers process and
+share data and how we process and use data, which could negatively impact demand for our products and
+services. We may incur substantial costs to comply with such laws and regulations, to meet the demands
+of our customers relating to their own compliance with applicable laws and regulations, and to establish
+and maintain internal compliance policies.
+RISK FACTORS
+– 48 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p15] We face risks related to changes in global and regional macroeconomic conditions, geopolitical
+tensions, regional conflicts, terrorist activities, natural disasters, health epidemics and other
+outbreaks of contagious diseases, and other force majeure events, any of which could materially and
+adversely affect our business operations, financial condition, results of operations and prospects.
+Uncertainties about global economic conditions, regulatory changes, geopolitical tensions and other
+factors, including fluctuation of interest rates, inflation level, unemployment, labor and healthcare costs,
+access to credit, consumer confidence and other macroeconomic factors may pose risks and materially and
+adversely affect demand for our products and services. A deteriorating global economic outlook could
+result in a slowdown in business investment, tighter budget allocations for technology spending, and
+greater pricing sensitivity among customers, which may in turn reduce the market adoption of our products
+and services.
+The Palestinian-Israeli conflict, the conflict in Ukraine, the Iran war and the imposition of broad
+economic sanctions on Russia have disrupted global supply chains and triggered uncertainty across
+financial markets. Unrest, terrorist threats and the potential for war in the Middle East and elsewhere may
+increase volatility and risk aversion in global capital markets.
+In addition, the evolving trade relationships between China and other countries – particularly
+regarding tariffs, treaties, and government regulations – may have profound implications on cross-border
+business activities, cost structures, and our ability to access certain markets. Such developments may
+affect the macroeconomic environment, both domestically and internationally, and could have a direct or
+indirect impact on the markets in which we operate.
+Geopolitical, economic and market conditions, including factors such as the liquidity of the global
+financial markets, the level and volatility of debt and equity prices, interest rates, currency and
+commodities prices, investor sentiment, inflation and the availability and cost of capital and credit have
+been affecting, and will continue to affect the countries where we operate. There is considerable
+uncertainty over the long-term effects of the expansionary monetary and fiscal policies adopted by the
+central banks and financial authorities of some of the world’s leading economies.
+It remains unclear whether these challenges and uncertainties will be resolved in the near future, and
+their potential long-term effects on the global political and economic landscape remain difficult to predict.
+Any severe or prolonged slowdown in the global or PRC economy may materially and adversely affect our
+business, results of operations and financial condition.
+We are subject to the risks associated with international trade policies, geopolitics and trade
+protection measures. Changes in international relationships, trade and investment policies, trade
+protection and investment restriction measures may adversely impact our business, financial
+condition and results of operations.
+Our operations may be negatively affected by trade policies, geopolitics and other trade protection
+measures administered by the government authorities in the countries in and with which we operate,
+including, but not limited to, regulation of economic and labor conditions, increased duties, taxes and
+other costs. Margins on sales and provision of our services in certain countries could be materially and
+adversely affected by international trade regulations. In addition to trade policy measures, the United
+States and certain other governments have imposed and may adopt additional sanctions, export controls
+and other regulatory measures that directly or indirectly affect technology companies based in certain
+jurisdictions. Due to the global presence of our business, we are potentially impacted by changes in
+international trade and investment policies, escalations of tensions in international relations, and increased
+scrutiny from regulatory authorities, particularly given recent trade negotiations between the United States
+and China, which has resulted in and may continue to cause changes in international trade policies and
+additional barriers to trade. Such regulatory measures are complex and subject to frequent changes, and
+the interpretation and enforcement of the relevant regulations may change from time to time, which may
+be driven by political and/or other factors that are not within our control or that are heightened by national
+security and foreign policy concerns.
+RISK FACTORS
+– 49 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p16] For instance, in recent years, the United States has expanded sanctions and export controls
+restrictions on China through the Export Administration Regulations (the “EAR”), administered by the
+Bureau of Industry and Security of the United States Department of Commerce (the “BIS”). In October
+2022, BIS issued an interim final rule (the “BIS October 2022 IFR”) requiring license for exports,
+re-exports, or transfers of any item subject to the EAR when there is “knowledge” that the item is destined
+for end use in the development or production of integrated circuits (“ICs”) at a fab in China that fabricates
+ICs meeting certain criteria. On December 2, 2024, BIS issued an interim final rule (the “BIS December
+2024 IFR”) and a final rule (the “BIS December 2024 FR”), which expanded controls in the EAR on
+advanced computing and semiconductor manufacturing items. Separately, BIS issued the so-called
+“Affiliate Rule” that expanded the scope of the Entity List and Military End-User List to include entities
+owned 50 percent or more directly or indirectly, individually or in the aggregate, by one or more listed
+parties. The U.S. Government has indicated that implementation of the Affiliate Rule will be delayed for
+at least one year (i.e., until November 2026). These recent measures together with the U.S. export control
+regime regulate the export, reexport and transfer of U.S. products, software, and technology, including
+certain items manufactured outside the United States that contain greater than de minimis controlled U.S.
+content or are the foreign direct product of certain U.S. software or technology. Export licenses may be
+required depending on the nature of the items, destination, end-use, end-user and other parties to the
+relevant transactions.
+Our services were developed by us without directly using material U.S. software or technology, or
+incorporating material components procured from U.S. suppliers. We engage certain U.S. service
+providers in our ordinary course of business to support the operations of our international business. The
+services provided by such U.S. service providers could generally be replaced by suppliers in other
+jurisdictions around the world, at comparable quality and price, and we therefore believe that our R&D
+activities and operations are not reliant on technology or raw materials of U.S.-origin to any material
+extent. However, if any uncertainties in U.S.-China relationship or any resulted disruption to our supply
+chains will make it necessary for us to make such transition, such transition may take time to complete,
+and cause certain delays or disruptions to our ordinary course of business, and may therefore adversely
+affect our business, results of operations and financial conditions. In addition to disrupting our supply
+chain in the U.S., export controls could also adversely impact the ability of our technology vendors in
+China to procure certain hardware or related services for their provision of services to us, which may have
+a material adverse impact on our operations. In the future, as similar or more expansive restrictions may
+be imposed by different jurisdictions, we will need to maintain heightened internal control and risk
+management policies to ensure sound compliance with such restrictions, which requires significant
+resources and efforts. Furthermore, such potential restrictions may materially and adversely affect our and
+our technology partners’ abilities to acquire technologies, systems, devices or components that may be
+critical to business operations. Any of these developments could affect us, our customers and/or suppliers
+or economic conditions generally, any of which could adversely affect our business and financial
+condition.
+As advised by our international sanctions legal advisor, during the Track Record Period and up to
+the Latest Practicable Date, our Group has not been subject to sanctions, and we have not engaged in any
+activities in comprehensively sanction countries, or entered into material service contract with any
+customers that are targets of U.S. comprehensive or blocking sanctions, including parties designated on
+the Specially Designated Nationals and Blocked Persons List, a U.S. government sanctions and embargo
+measure administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control.
+Therefore, as advised by our international sanctions legal advisor, we have been in compliance with rule
+and laws in U.S. export control and sanctions in all material aspects, and U.S. sanctions are not likely to
+have any material adverse impact on us.
+Our business operations are impacted not only by rules and laws related to export control, but also
+by changes in regulations governing cross-border investment policies. Changes in international investment
+policies, particularly with regard to China, could materially and adversely impact our business and
+operating results. In particular, in January 2025, a U.S. rule went into effect that prohibits or requires the
+submission of notifications in connection with U.S. outbound investment in Chinese-affiliated companies
+engaged in certain activities involving specified sensitive technologies sectors (AI, semiconductors and
+microelectronics, and quantum information technologies) and issued a broadly worded “America First
+RISK FACTORS
+– 50 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p17] Trade Policy” and an “America First Investment Policy” that seek to further restrict U.S. investments
+involving China (including possibly expanding technologies subject to the U.S. outbound investment
+regime and narrowing related exceptions (including those related to publicly traded securities)). In
+addition, effective on January 2, 2025, the final rule issued by the U.S. Department of the Treasury to
+implement the executive order of August 9, 2023 (the “Final Rule”) imposes investment prohibition and
+notification requirements on U.S. Persons for a wide range of investments in entities associated with China
+(including Hong Kong and Macau) that are engaged in activities relating to three sectors: (i)
+semiconductors and microelectronics, (ii) quantum information technologies, and (iii) AI systems. The
+Final Rule could limit our ability to raise capital or contingent equity capital from U.S. investors after this
+[REDACTED] given that relevant laws, regulations, and policies continue to evolve. See “— Sanctions,
+export controls and other economic or trade restrictions imposed on Chinese companies may affect our
+business, financial condition and results of operations.”
+We are closely monitoring potential changes in tariff policy and assessing the potential impact of
+such policy changes on our business operations and financial performance. For example, recently, the
+United States proposed to impose multiple rounds of tariffs on a wide range of goods imported from
+multiple countries, including China, and China responded with retaliatory tariffs. Since February 2025,
+both countries raised reciprocal tariffs on each other’s imported goods to 125%. However, on May 12,
+2025, both the U.S. and China modified these tariff measures: the U.S. removed the 125% tariff and
+temporarily reduced tariffs on Chinese goods to 10% by suspending a 24% duty for 90 days. The PRC
+government announced the same tariff adjustments, removing the 125% retaliatory tariff and cutting tariffs
+on U.S. goods from 34% to 10% for the same period. These policies have adversely affected the global
+economy and financial markets. On August 12, 2025, both the U.S. and China announced the extension
+of these tariff measures for another 90 days. On October 30, 2025, the United States announced it would
+further reduce tariffs by 10% but otherwise the tariffs by China and the United States remains in place.
+U.S. import tariffs only apply of export of physical goods to the United States. On such basis, it is of the
+view of our Directors that, given that we do not export physical goods to the United States, U.S. tariffs
+are unlikely to have a material adverse impact on our business operations and financial performance. As
+relevant policies are rapidly evolving, it may be difficult to evaluate these tariff measures’ potential future
+impacts. Geopolitical conflicts may also lead to volatility in financial markets, fluctuations in currency
+exchange rates and increased procurement costs. In extreme cases, such conflicts could result in economic
+downturns that materially and adversely impact our operations. It is unclear whether these challenges and
+uncertainties will be contained or resolved, and what effects they may have on the global political and
+economic conditions in the long term and the ability of Chinese companies to raise capital from U.S.
+investors.
+Sanctions, export controls and other economic or trade restrictions imposed on Chinese companies
+may affect our business, financial condition and results of operations.
+International trade frictions have been escalating continuously in recent years. Certain foreign
+jurisdictions have imposed or may impose export controls, economic sanctions or other trade-related
+measures in various forms, such as heavy tariffs or harsh trade conditions, against certain countries,
+individuals and legal entities, which, from time to time, prohibit or restrict export and import activities to
+a certain extent. The United States and other jurisdictions or organization, including the European Union,
+the United Nations, the United Kingdom and Australia, have, through executive order, passing of
+legislation or other governmental means, implemented measures that impose economic sanctions against
+such countries or against targeted industry sectors, groups of companies or persons, and/or organization
+within such countries.
+With the escalation of the trade dispute between the U.S. and China, the U.S. government may
+impose additional export control measures on components and technologies developed by U.S. companies.
+For example, on April 9, 2025, the U.S. government informed NVIDIA Corporation that the U.S.
+government requires a license for export to China, including Hong Kong and Macau, or to companies
+headquartered or with an ultimate parent therein, of the NVIDIA Corporation’s H20 integrated circuits and
+any other circuits achieving the H20’s memory bandwidth, interconnect bandwidth, or combination
+thereof. The U.S. government indicated that the license requirement addresses the risk that the covered
+products may be used in, or diverted to, a supercomputer in China. Our operations may be negatively
+RISK FACTORS
+– 51 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p18] affected if any of our business partners are added to the Entity List or subject to other forms of export
+control, which may result in our business partners’ inability to obtain crucial components or access to the
+latest technologies originated from the U.S., and in turn, may have material and adverse impacts on our
+business, results of operations, financial conditions and business prospects.
+International trade policies and international export controls and economic sanctions laws and
+regulations are constantly evolving. The BIS has issued the Entity List and had been frequently updating
+the Entity List to include more PRC-based hi-tech companies. New persons and entities are regularly
+added to the Entity List and the list of Sanctioned Targets. PRC-based companies on the Entity List are
+subject to trade sanctions and export controls on a number of components and technologies developed by
+U.S. companies. Further, new requirements or restrictions could come into effect which might increase the
+scrutiny on our business or result in one or more of our business activities being deemed to have violated
+sanctions. We cannot provide any assurance that our future business will be free of sanctions risk, or our
+business will conform to the expectations and requirements of the authorities of U.S. or any other
+jurisdictions.
+In addition, the U.S. government may adopt increasingly expansive interpretations of the
+jurisdictional reach of U.S. export control laws and regulations. The U.S. government could take the
+position that not only the physical export, re-export or transfer (in-country) of controlled U.S.-origin
+goods, software or technology, but also access to, use of or benefit from such items through remote
+connections, cloud computing, data centers, servers, processors, storage, model inference or training
+workloads, software updates, technical support or other services, is subject to U.S. jurisdiction or license
+requirements, even where the relevant hardware, users or operations are located outside the United States.
+The U.S. Congress or U.S. regulatory authorities may also enact, implement or expand additional
+measures, to restrict or prohibit remote access by foreign persons, including China-based persons, to
+certain U.S.-origin or U.S.-controlled technologies, including advanced computing integrated circuits,
+servers, cloud infrastructure and related software or technologies. Further, as our platform supports
+heterogeneous computing resources, if we, our suppliers, customers, cloud service providers or other
+business partners procure, deploy, integrate, optimize, service or use certain PRC-origin advanced
+computing chips or systems containing such chips, the U.S. government may allege that such chips were
+designed, produced, exported, re-exported, transferred, supplied, serviced, financed, ordered, used or
+otherwise handled in violation of the U.S. export control requirements, including where such chips are
+alleged to have been developed or produced using U.S.-origin software, technology or equipment or
+through transactions involving restricted parties. Any such interpretation, legislation, regulation or
+enforcement action could require us or our business partners to obtain licenses, modify or terminate the
+use of certain computing resources, suspend or restrict products or services involving affected chips or
+technologies, restructure customer access arrangements, incur significant compliance costs, or expose us
+or our counterparties to investigations, penalties, denial of export privileges, Entity List designation or
+other restrictions, any of which could materially and adversely affect our business, results of operations,
+financial condition and prospects.
+On August 9, 2023, U.S. President Biden issued an executive order and his administration issued an
+advance notice of proposed rulemaking (“ANPRM”) providing a conceptual framework for outbound
+investment controls focused on China, including Hong Kong and Macau. Further to this ANPRM, on June
+21, 2024, the U.S. Department of the Treasury issued a proposed rule on outbound U.S. investments
+involving China that generally follows the ANPRM. On October 28, 2024, the U.S. Department of the
+Treasury issued the Final Rule, which became effective on January 2, 2025. The Final Rule imposes
+investment prohibition and notification requirements on U.S. Persons for a wide range of investments in
+entities associated with China (including Hong Kong and Macau) that are engaged in activities relating to
+three sectors: (i) semiconductors and microelectronics, (ii) quantum information technologies, and (iii) AI
+systems, collectively defined as “covered foreign persons.” U.S. persons subject to the Final Rule are
+prohibited from making, or required to report, certain investments in covered foreign persons, which are
+defined as “covered transactions,” and include acquisitions of equity interests (including contingent equity
+interests), certain debt financing, joint ventures, and certain investments as a limited partner in a non-U.S.
+person pooled investment fund. The Final Rule excludes some investments from the scope of covered
+transactions, including certain ones in publicly traded securities. The Final Rule is aimed at exerting
+greater U.S. government oversight over U.S. direct and indirect investments involving China, and may
+RISK FACTORS
+– 52 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p19] introduce new hurdles and uncertainties for cross-border collaborations, investments, and funding
+opportunities of China-based issuers including us. Since our principal place of business is in China and
+we engage in the development of certain AI models, we are likely to be deemed as a “covered foreign
+person” as described in the Final Rule. The acquisition of our equity by U.S. persons may be deemed as
+a “covered transaction” as defined in the Final Rule, and such “covered transaction” is likely to be deemed
+as a “notifiable transaction,” but not a “prohibited transaction,” based on the level of computing power
+used to train the AI systems we develop and the end-uses of such systems. As a result, such U.S. persons
+may need to make a notification pursuant to the Final Rule. U.S. persons’ acquisitions of certain publicly
+traded securities may be exempted from the prohibition and the notification requirement under the Final
+Rule (e.g., the publicly traded securities of the Company following the completion of the [REDACTED]).
+[REDACTED], including those that are U.S. persons or are subsidiaries of U.S. persons, should consult
+their legal counsel regarding any potential notification obligations. Certain [REDACTED] have informed
+us that they may consider making notifications with the U.S. Department of the Treasury. None of the
+[REDACTED] has any obligation to inform us or any [REDACTED] if they later decide that they will
+not file such notifications. No publicly available precedent exists regarding the application of the
+Organizational Inspection Program (the “OIP”) regulations by the U.S. Department of the Treasury or by
+any court or other regulatory, judicial or legal authority to specific transactions. In addition, the
+technologies of our business could change such that we are engaged in “covered activities” that trigger the
+OIP’s prohibitions, or the OIP may be changed by executive actions of the U.S. government, including
+modifications to the scope of activities and technologies that are subject to prohibitions or notification
+requirements, or changes to the scope and availability of applicable exceptions to the OIP’s prohibitions
+or notification requirements.
+Specifically, on January 20, 2025, the U.S. government issued a national security presidential
+memorandum entitled “America First Trade Policy”, which, among other things, directs the Secretary of
+the Treasury and several other executive departments and agencies to review the OIP to determine whether
+it contains “sufficient controls to address national security threats” and to determine whether the executive
+order implementing the OIP “should be modified or rescinded and replaced.” In addition, on February 21,
+2025, the U.S. government issued another national security presidential memorandum entitled “America
+First Investment Policy”, which, among other things, states that the U.S. government will consider
+potential expansion of the OIP to a wider range of technology sectors, including biotechnology,
+hypersonics, aerospace, advanced manufacturing, directed energy, and other areas “implicated by the
+PRC’s national Military-Civil Fusion strategy,” and application of restrictions to a broader range of
+investments, including “publicly traded securities”. On April 3, 2025, the U.S. government further stated
+that it intends to evaluate whether the scope of outbound investment restrictions should be expanded “to
+be responsive to developments in technology and the strategies of countries of concern.”
+Changes to our technologies or to the OIP could limit, or in the worst-case scenario, eliminate our
+ability to raise capital or contingent capital (such as convertible instruments) from U.S. investors in the
+future. Our ability to raise such capital may be significantly and adversely affected, which could
+negatively impact our capital-raising capacity and our business, financial condition and prospects. In
+addition, changes to the Publicly Traded Securities Exception or other aspects of the OIP could restrict or
+prohibit the [REDACTED] or [REDACTED] of our Shares by U.S. persons, impose new notification or
+other regulatory requirements, or otherwise make our Shares less attractive to [REDACTED]. In such
+circumstances, the [REDACTED] and [REDACTED] of our Shares may be materially and adversely
+affected.
+We, our Directors, senior management, employees and Shareholders and their affiliates may be
+subject to lawsuits, contract disputes, employment-related controversies and other legal and
+administrative proceedings, which could have a material and adverse effect on our business, results
+of operations, financial condition and reputation.
+We may in the future be subject to or involved in lawsuits, contract disputes, employment-related
+controversies, and other legal proceedings or fines relating to our business operations inside and outside
+China. Lawsuits that may arise during our operations can involve substantial costs, including the costs
+associated with investigation, litigation and possible settlement, judgment, penalty or fine. Lawsuits may
+be costly and time consuming and may require a commitment of management and personnel resources that
+will be diverted from our normal business operations. There may also be negative publicity associated with
+RISK FACTORS
+– 53 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p20] litigation that could decrease consumer acceptance of our products and services, regardless of whether the
+allegations are valid or whether we are ultimately found liable. If any of these happen, our business,
+financial condition, results of operations or liquidity could be materially and adversely affected. In
+addition, our Directors, management, Shareholders and employees and their affiliates may from time to
+time be subject to litigation, regulatory investigations and/or negative publicity or otherwise face potential
+liability and expense in relation to commercial, labor, employment, securities or other matters, which
+could adversely affect our reputation and results of operations.
+We or certain of our Directors or officers may be a target for lawsuits, including putative class action
+lawsuits brought by Shareholders and lawsuits against our Directors and officers as a result of their
+position in other public companies. We cannot assure you that we or our Directors or officers will be able
+to prevail in their defense or reverse any unfavorable judgment on appeal, and we and our Directors or
+officers may decide to settle lawsuits on unfavorable terms. Any adverse outcome of these cases, including
+any plaintiffs’ appeal of the judgment in these cases, could result in payments of substantial monetary
+damages or fines, or changes to our business practices, and thus materially and adversely affect our
+business, financial condition, results of operations, cash flows and reputation. Moreover, even if we or our
+Directors or officers eventually prevail in these matters, we could incur significant legal fees or suffer
+significant reputational harm.
+We are subject to risks relating to our leased properties.
+Currently, all of our offices are on leased premises. We may not be able to successfully maintain,
+extend or renew our leases upon expiration of the current terms on commercially reasonable terms or at
+all, and may therefore be forced to relocate to new offices. In the event we are forced to relocate, we may
+not be able to locate desirable alternative sites for our offices in a timely and cost-effective manner and
+the relocation of any of our offices may disrupt our operations and result in significant relocation
+expenses, which could adversely affect our business, financial condition and results of operations.
+Any investments or future acquisitions may have a material and adverse effect on our business,
+results of operations, financial condition and reputation.
+We may evaluate and consider a wide array of investment and acquisition opportunities that we
+believe can extend and solidify our leading market position as part of our overall business strategy. We
+may be engaged in discussions or negotiations with respect to one or more of these types of transactions.
+These transactions involve significant challenges and risks, including (i) difficulties in integrating the
+acquired personnel, operations, products into our operations; (ii) potential issues with technology, internal
+controls and financial reporting of the companies we acquire or invest in; (iii) disruptions of our ongoing
+business, distractions of the attention of our management and employees and increase of our expenses; (iv)
+loss of skilled professionals and established client relationships of the businesses we invest in or acquire;
+(v) for investments over which we do not obtain management and operational control, lack of influence
+over the controlling partner or shareholder, which may prevent us from achieving our strategic goals in
+such investments; (vi) new regulatory requirements and compliance risks that we become subject to as a
+result of investments or acquisitions in new industries or otherwise; (vii) actual or alleged misconduct or
+noncompliance by any company we acquire or invest in (or by its affiliates) that occurred prior to our
+acquisition or investment, which may lead to negative publicity, government inquiry or investigations
+against such company or against us; (viii) unforeseen or hidden liabilities or costs that may adversely
+affect us following our acquisition of such targets; (ix) compliance matters including the anti-monopoly
+and competition laws, rules and regulations of the PRC and other countries in connection with any
+proposed investments and acquisitions; (x) the risk that any of our pending or other future proposed
+investments or acquisitions does not close; (xi) the costs of identifying and consummating investments and
+acquisitions; (xii) the use of substantial amounts of cash and potentially dilutive issuances of equity
+securities; (xiii) the occurrence of significant amortization expenses for other intangible assets; and (xiv)
+uncertainties in achieving the expected benefits of synergies and growth opportunities in connection with
+these acquisitions and investments. Any such negative developments described above could disrupt our
+existing business and have a material adverse effect on our business, results of operations, financial
+condition and reputation.
+RISK FACTORS
+– 54 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p21] The successful operation of our business depends on the performance and reliability of the internet
+infrastructure and telecommunications networks in the countries where we operate.
+Our business depends in part on the performance, reliability and security of the telecommunications
+and Internet infrastructure in the countries where we operate. In the event of disruptions, failures or other
+problems with the relevant Internet infrastructure, our business operation may be adversely affected. In
+addition, the Internet infrastructure in the countries in which we operate may not support the demands
+associated with continued growth in Internet usage.
+The failure of telecommunications network operators to provide us with the requisite bandwidth
+could also interfere with the speed and availability of our products and services. We have no control over
+the costs of the services provided by the telecommunications operators. If the prices that we pay for
+telecommunications and Internet services rise significantly, our margins could be adversely affected. In
+addition, if Internet access fees or other charges to customers increase, the customer base of our products
+and services may decrease, which in turn may significantly decrease our revenue.
+In particular, if the security of domain names is compromised, we will be unable to use the domain
+names in our business operations, which could materially and adversely affect our business operations,
+reputation and brand image. If we fail to implement adequate encryption of data transmitted through the
+networks of the telecommunications and Internet operators we rely upon, there is a risk that
+telecommunications and Internet operators or their business partners may misappropriate our data, which
+could materially and adversely affect our business operations and reputation.
+We may not have sufficient insurance coverage to cover our business risks.
+We believe we maintain insurance policies in line with industry standards. We do not maintain
+business interruption insurance, key-man life insurance or litigation insurance. Any uninsured occurrence
+of business disruption, litigation or natural disaster, or significant damage to our uninsured equipment or
+facilities could have a material adverse effect on our results of operations. Our current insurance coverage
+may not be sufficient to prevent us from any loss and there is no certainty that we will be able to
+successfully claim our losses under our current insurance policy on a timely basis, or at all. If we incur
+any loss that is not covered by our insurance policies, or the compensated amount is significantly less than
+our actual loss, our business, financial condition and results of operations could be materially and
+adversely affected. If such risk materializes, we may also suffer substantial losses as we do not have
+insurance coverage.
+To address any ESG-related risks, we may incur additional costs, which may materially and
+adversely affect our financial performance.
+To identify, manage, and mitigate ESG-related risks, we may incur additional costs and expenses
+which could impact our financial performance. Given the nature of our business, we do not produce any
+material generation of emissions and wastes, and we do not produce any heavy pollution. Nonetheless, we
+monitor environmental and climate-related risks that may impact our business, strategy and financial
+performance. We also evaluate the magnitude of the resulting impact over the short-, medium- and
+long-term horizons. We monitor a wide range of indicators to manage our environmental and
+climate-related risks arising from our operations and are committed to providing adequate support to our
+employees to nurture a friendly and inspirational corporate culture. This commitment may entail incurring
+additional costs and would potentially impact our profitability. For further details, see “Business —
+Environmental, Social and Governance Matters.”
+In addition, the increasing ESG-related regulatory requirements, including various ESG disclosure
+mandates in the jurisdictions where we operate, may lead to rising compliance costs. Failure to adapt to
+new regulations or meet evolving industry expectations and standards could result in consumers choosing
+products from other companies, which may materially and adversely affect our results of operations and
+financial conditions.
+RISK FACTORS
+– 55 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p22] RISKS RELATED TO OUR INTELLECTUAL PROPERTY RIGHTS
+We may not be able to obtain or maintain adequate intellectual property protection for our
+technologies, products and services, or the scope of such intellectual property protection may not be
+sufficiently broad.
+Our success depends in part on our ability to protect our proprietary technology and solutions from
+competition by obtaining, maintaining and enforcing our intellectual property rights, including patent
+rights. As of the Latest Practicable Date, we owned 11 registered patents and 34 patent applications, 17
+software copyrights, and six registered trademarks in China. As of the same date, we also owned one
+registered trademark in Hong Kong, two in Singapore, one in Japan and one in the United States. See
+“Business — Intellectual Property.” The patent application process may be expensive and time-consuming,
+and we may not be able to file and prosecute all necessary or desirable patent applications at a reasonable
+cost or in a timely manner, if at all. In addition, we may fail to identify patentable aspects of our R&D
+outputs before it is too late to obtain patent protection. As a result, we may not be able to prevent
+competitors from developing and commercializing competitive solutions in all such fields.
+Specifically, patents may be invalidated, and patent applications may not be granted for several
+reasons, including known or unknown prior deficiencies in the patent application or the lack of novelty
+of the underlying invention or technology. As such, we do not know the degree of future protection that
+we will have on our proprietary technologies, if any, and we may not be able to obtain adequate intellectual
+property protection with respect to our solutions.
+Even if our patent applications are granted as patents, they may not be issued in a manner that offers
+any substantial protection, prevent competitors from competing with us or otherwise provide us with any
+competitive advantage. Our competitors may be able to circumvent our patents by developing similar or
+alternative technologies, products or services in a non-infringing manner. The issuance of a patent is not
+conclusive as to its inventor, scope, validity or enforceability, and our patents may be challenged in the
+courts or patent offices. Further, although various extensions may be available, the life of a patent and the
+protection it affords are limited. For example, in the PRC, invention patents and utility model patents are
+valid for 20 years and ten years from the date of application, respectively. We may face competition for
+any solution even if we successfully obtain patent protection once the patent life has expired for the
+solution.
+Unauthorized use of our intellectual properties by third parties may harm our brand and reputation
+and may materially and adversely affect our business. We may become involved in lawsuits to protect
+or enforce our intellectual property, which could be expensive, time-consuming and unsuccessful.
+Our intellectual property rights relating to our products and services could be found invalid or
+unenforceable if being challenged.
+Competitors may infringe, misappropriate or violate our intellectual property rights. Unauthorized
+use of our intellectual properties by third parties may harm our brand and reputation and may materially
+and adversely affect our business. In addition, to counter infringement or unauthorized use, litigation may
+be necessary in the future to enforce or defend our intellectual property rights, to protect our trade secrets
+or to determine the validity and scope of our own intellectual property rights. This can be expensive and
+time-consuming. Any claims that we assert against perceived infringers could also provoke these parties
+to assert counterclaims against us alleging that we infringe their intellectual property rights. Many of our
+current and potential competitors have the ability to dedicate substantially greater resources to enforce
+and/or defend their intellectual property rights than we do. Accordingly, despite our efforts, we may not
+be able to prevent third parties from infringing upon or misappropriating our intellectual property. An
+adverse result in any litigation proceeding could put our intellectual properties, as well as any intellectual
+properties that may issue in the future from our pending intellectual property applications, at risk of being
+invalidated, held unenforceable or interpreted narrowly.
+RISK FACTORS
+– 56 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p23] Furthermore, because of the substantial amount of discovery required in connection with intellectual
+property litigation, some of our confidential information could be compromised by disclosure during this
+type of litigation. Defendant counterclaims alleging invalidity or unenforceability are commonplace, and
+can be asserted on numerous grounds. Third parties may also raise similar claims before administrative
+bodies in China or abroad, even outside the context of litigation. Such proceedings could result in
+revocation or amendment to our intellectual properties in such a way that they no longer cover and protect
+our solutions. The outcome following legal assertions of invalidity and unenforceability is unpredictable.
+If a defendant were to prevail on a legal assertion of invalidity and/or unenforceability, we would
+lose at least part, and perhaps all, of the intellectual property protection on our solutions. Such a loss of
+intellectual property protection could materially and adversely affect our business.
+If third parties claim that we infringe upon their intellectual property rights, we may incur liabilities
+and may have to redesign or discontinue the products and services involved.
+Some of our competitors have large intellectual property portfolios, and may claim that our expected
+commercial use of our solutions have infringed their intellectual properties. These intellectual properties
+have broad claims, so it might be alleged that certain features of our solutions fall within the claims of
+such intellectual properties. Therefore, our competitors may initiate legal proceedings alleging that we are
+infringing, misappropriating or violating their intellectual property rights in connection with the
+commercialization of the relevant solutions.
+Our competitors may use intellectual property litigation to gain a competitive advantage. Whether a
+solution infringes the intellectual property involves an analysis of complex legal and factual issues, the
+determination of which is often uncertain. We may hire employees who have previously worked for our
+competitors. We cannot guarantee that such employees will not use their previous employers’ proprietary
+know-how or trade secrets in their work for us, which could result in litigation against us. Our competitors
+may also have filed for patent protection which is not as yet a matter of public knowledge or claim
+trademark rights that have not been revealed through our searches of relevant public records. Our efforts
+to identify and avoid infringing on third parties’ intellectual property rights may not always be successful.
+Any claims of patent or other intellectual property infringement, regardless of their merit, could: (i) be
+expensive and time-consuming to defend; (ii) require us to pay substantial damages to third parties; (iii)
+forbid us from making or selling solutions that incorporate the challenged intellectual property; (iv)
+require us to redesign, reengineer or rebrand our solutions; (v) require us to enter into royalty or licensing
+agreements in order to obtain the right to use a third-party’s intellectual property, such agreements may
+not be available on terms acceptable to us or at all; (vi) divert the attention of our management; or (vii)
+result in customers terminating, deferring or limiting their purchase of the affected solutions until
+resolution of the litigation.
+In addition, new intellectual properties obtained by our competitors could threaten the continued life
+of the solution in the market even after it has already been introduced. There could be existing intellectual
+property of which we are not aware that our operations and business may inadvertently infringe. In
+particular, we use open-source public datasets in training our AI technology. Those open-source public
+datasets are developed and published by third parties on reputable sources. Along with the publication of
+those datasets, the publishers and developers typically release their terms of use. During the Track Record
+Period, we have examined the license terms of the open-source public datasets we use to confirm that
+commercial use is not prohibited. However, there remains a risk that resources and data contained in those
+open-source public datasets may contain intellectual property owned by third parties other than the
+publishers and developers. During the Track Record Period, our business operations are not subject to
+third-party authorization and we avoid using data marked with a “copyright” notice. If we inadvertently
+use such protected content without proper authorization, we may be exposed to claims of intellectual
+property infringement. This could result in significant legal costs and damages, and could adversely affect
+our reputation and business operations. We cannot assure you that we will not become subject to
+intellectual property laws in other jurisdictions. If a claim of infringement brought against us in another
+jurisdiction is successful, we may be required to pay substantial penalties or other damages and fines or
+enter into license agreements which may not be available on commercially reasonable terms or at all, or
+RISK FACTORS
+– 57 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p24] we may be subject to injunctions or court orders. Even if allegations or claims lack merit, defending
+against them could be both costly and time-consuming and could significantly divert the efforts and
+resources of our management and other personnel.
+Obtaining and maintaining our intellectual property protection depends on compliance with various
+procedural, documentary, fee payment and other requirements imposed by governmental agencies,
+and our intellectual property protection could be reduced or eliminated for non-compliance with
+these requirements.
+The governmental agencies require compliance with a number of procedural, documentary, fee
+payment and other similar provisions during the intellectual property application process and over the
+lifetime of the intellectual property. Non-compliance events, including failure to respond to official
+actions within prescribed time limits, non-payment of periodic maintenance fees and failure to properly
+legalize and submit formal documents, can result in abandonment or lapse of the intellectual property or
+intellectual property application, leading to partial or complete loss of intellectual property rights in the
+relevant jurisdiction. In any such event, our competitors might be able to enter the market, which would
+materially and adversely affect our business.
+Changes in intellectual property law could diminish the value of intellectual properties in general,
+thereby impairing our ability to protect our products and services.
+The scope of intellectual property protection is uncertain. Changes in either the intellectual property
+laws or their interpretation may diminish our ability to protect our inventions, obtain, maintain, defend,
+and enforce our intellectual property rights and, more generally, could affect the value of our intellectual
+property or narrow the scope of our intellectual property rights. We cannot predict whether the intellectual
+property applications we are currently pursuing and may pursue in the future will be issued as intellectual
+property rights in any particular jurisdiction or whether the claims of any future granted intellectual
+properties will provide sufficient protection from competitors. The coverage claimed in an intellectual
+property application can be significantly reduced before the intellectual property right is issued, and its
+scope can be reinterpreted after issuance.
+We may be unable to protect the confidentiality of our trade secrets, and we may be subject to claims
+that our employees or third parties have wrongfully used or disclosed alleged trade secrets owned by
+others.
+In addition to our issued intellectual properties and pending intellectual property applications, we
+rely on trade secrets, including unpatented know-how, technology and other proprietary information, to
+protect our solutions and thus maintain our competitive position. We protect these trade secrets, in part,
+by entering into non-disclosure and confidentiality agreements, non-compete covenants or including such
+undertakings in the agreements with parties that have access to them. We also enter into employment
+agreements with our employees that include undertakings regarding assignment of inventions and
+discoveries. Nevertheless, there can be no guarantee that an employee or a third party will not make an
+unauthorized use or disclosure of our proprietary confidential information intentionally or inadvertently.
+It is possible that a competitor will gain access to such information and make use of such information, and
+that our competitive position will be compromised, in spite of any legal action we might take against
+persons making such unauthorized disclosures. In addition, to the extent that our employees or business
+partners use intellectual property owned by others in their work for us, disputes may arise as to the rights
+in related or resulting know-how and inventions.
+Trade secrets are difficult to protect. Our employees or business partners might intentionally or
+inadvertently disclose our trade secret information to competitors, or our trade secrets may otherwise be
+misappropriated. Enforcing a claim that a third party illegally obtained and is using any of our trade
+secrets is expensive and time-consuming, and the outcome is unpredictable.
+RISK FACTORS
+– 58 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p25] We may not be able to protect our intellectual property rights globally.
+Filing, prosecuting and defending patents on our technologies and solutions can be extremely
+expensive and time-consuming. We may also encounter difficulties in protecting and defending such rights
+in overseas jurisdictions. Consequently, we may not be able to prevent third parties from practicing our
+inventions in all countries and regions outside the jurisdictions where we registered our intellectual
+properties. Competitors may use our technologies and solutions in jurisdictions where we have not
+obtained intellectual property protection to develop their own technologies and solutions.
+Many companies have encountered significant problems in protecting and defending intellectual
+property rights in overseas jurisdictions. The legal systems of many other countries and regions do not
+favor the enforcement of patents and other intellectual property protection, which could make it difficult
+for us to stop the infringement of our intellectual properties in such countries.
+Proceedings to enforce our patent rights in overseas jurisdictions could result in substantial cost and
+divert our resources and attention from other aspects of our business, could put our patents at risk of being
+invalidated or interpreted narrowly and our patent applications at risk of rejection, and could provoke third
+parties to assert claims against us. We may not prevail in lawsuits that we initiate or be awarded the
+damages or other remedies, if any, as we deem sufficient. Accordingly, our efforts to enforce our
+intellectual property rights around the world may be inadequate to obtain a significant commercial
+advantage from the intellectual properties involved.
+RISKS RELATED TO DOING BUSINESS IN THE JURISDICTIONS WHERE WE OPERATE
+We face challenges with regard to changes in and new interpretations of existing laws, regulations
+or policies, and imposition of new laws, regulations or policies, governing our industry and business.
+Substantially all of our assets and operations are located in China. As a result, our business is subject
+to risks associated with doing business there, including but not limited to future regulatory, policy and
+legislative developments and increasingly strengthening intellectual property protection system in China.
+Such developments and strengthening measures include changes in and new interpretations of existing
+laws, regulations or policies, as well as imposition of new laws, regulations or policies, each of which
+could adversely impact our business, results of operations and financial condition.
+The PRC governmental authorities have implemented measures emphasizing the utilization of
+market forces for economic reform and the establishment of improved corporate governance in business
+enterprises, and such measures and policies relating to such measures are evolving and subject to change.
+Changes or development in economic conditions in China, in the policies of the PRC governmental
+authorities or in the laws and regulations in China may adversely affect our business and results of
+operations, lead to a reduction in demand for our products and services and adversely affect our
+competitive position. The PRC governmental authorities have implemented various measures to encourage
+economic growth and guide the allocation of resources. We cannot assure you that all measures which
+benefit the overall Chinese economy will have a positive effect on us. For example, our financial condition
+and results of operations may be adversely affected by government control over capital investments or
+changes in tax regulations.
+You may experience difficulties in effecting service of legal process or enforcing foreign judgments
+against us and our Directors and management.
+We are a company incorporated under the PRC laws and substantially all our assets and subsidiaries
+are located in the PRC. Substantially all of our Directors and senior management reside within the PRC.
+The assets of these Directors and senior management also may be located within the PRC. The PRC does
+not have treaties providing for the reciprocal recognition and enforcement of judgments of courts of most
+other jurisdictions. As a result, recognition and enforcement in the PRC of judgments of a court in any of
+these jurisdictions outside the PRC may be difficult. As a result, it may be difficult and time-consuming
+RISK FACTORS
+– 59 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p26] to effect service of process upon our Directors and senior management outside the PRC. In addition,
+[REDACTED] may also experience difficulties in seeking recognition and enforcing foreign judgments
+in the PRC if there is a lack of reciprocal recognition and enforcement of judicial rulings and awards of
+other jurisdictions. Furthermore, although we will be subject to the Listing Rules and the Takeovers Code
+upon the [REDACTED] of our Shares on the Stock Exchange, the holders of Shares will not be able to
+bring actions on the basis of violations of the Listing Rules and must rely on the Stock Exchange to
+enforce its rules. Moreover, the Takeovers Code does not have the force of law and provides only standards
+of commercial conduct considered acceptable for takeover and merger transactions and share repurchases
+in Hong Kong.
+Governmental control over capital inflow/outflow, currency conversion and fluctuations in exchange
+rates may affect the value of your [REDACTED], result in [REDACTED] losses, and limit our ability
+to utilize our cash effectively.
+The Renminbi is not currently a freely convertible currency. We receive all of our payments from
+customers in Renminbi and may need to convert Renminbi into foreign currencies for the payment of
+dividends, if any, to holders of our Shares. Under the Chinese existing foreign exchange regulations,
+following the completion of the [REDACTED], we will be able to pay dividends in foreign currencies
+without prior approval from State Administration of Foreign Exchange (“SAFE”) or its local branches by
+complying with certain procedural requirements. However, the Chinese government may take measures at
+its discretion in the future to restrict access to foreign currencies for current account transactions if foreign
+currencies become scarce in China. We may not be able to pay dividends in foreign currencies to our
+Shareholders if the Chinese government restricts access to foreign currencies for current account
+transactions. Foreign exchange transactions under our capital account continue to be subject to significant
+foreign exchange controls and require the approval of the SAFE or its local branches. These limitations
+could affect our ability to obtain foreign exchange through equity financing, or to obtain foreign exchange
+for capital expenditures.
+Any significant revaluation of the Renminbi may materially and adversely affect our results of
+operations, cash flows and financial condition. The exchange rate of the Renminbi against the U.S. dollar
+and other foreign currencies fluctuates and is affected by, among other things, the policies of the Chinese
+government and changes in China and in international political and economic conditions. Since 1994, the
+conversion of the Renminbi into foreign currencies, including U.S. dollars, has been based on rates set by
+the People’s Bank of China (“PBOC”), which are set daily based on the previous business day’s interbank
+foreign exchange market rates and current exchange rates on the world financial markets. It is difficult to
+predict how market forces or government policies may impact the exchange rate between the Renminbi
+and the Hong Kong dollar, the U.S. dollar or other currencies in the future. In addition, the PBOC regularly
+intervenes in the foreign exchange market to limit fluctuations in Renminbi exchange rates and achieve
+policies goals.
+There remains significant international pressure on the Chinese government to adopt a more flexible
+currency policy, which, together with domestic policy considerations, could result in appreciation of the
+Renminbi against the U.S. dollar, the Hong Kong dollar or other foreign currencies. If the Renminbi
+appreciates against other currencies significantly, and as we need to convert and remit the [REDACTED]
+from the [REDACTED] and future financing into the Renminbi for our operations, appreciation of the
+Renminbi against the relevant foreign currencies would reduce the Renminbi amount we would receive
+from the conversion. On the other hand, because the dividends on our Shares, if any, will be paid in Hong
+Kong dollars, any devaluation of the Renminbi against the Hong Kong dollar could reduce the amount of
+any cash dividends on our Shares in Hong Kong dollar terms. In addition, there are limited instruments
+available for us to reduce our exposure to foreign currency risk at reasonable costs. Any of the foregoing
+factors may materially and adversely affect our businesses, results of operations, financial condition and
+prospects.
+RISK FACTORS
+– 60 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p27] We are a Chinese mainland enterprise and we are subject to Chinese mainland tax on our global
+income and any gains on the sales of H Shares and dividends on the H Shares may be subject to
+Chinese mainland income taxes.
+Under
+the
+PRC
+Enterprise
+Income
+Tax
+Law
+(《中華人民共和國企業所得稅法》)
+and
+its
+implementation rules, subject to any applicable tax treaty or similar arrangement between the Chinese
+mainland and a non-Chinese mainland investor’s jurisdiction of residence that provides for a different
+income tax arrangement, Chinese mainland withholding tax at the rate of 10% is normally applicable to
+dividends from Chinese mainland sources payable to investors that are non-Chinese mainland resident
+enterprises, which do not have an establishment or place of business in Chinese mainland, or which have
+an establishment or place of business in Chinese mainland if the relevant income is not effectively
+connected with such establishment or place of business. Any gains realized on the transfer of shares by
+such investors are subject to a 10% Chinese mainland income tax rate if such gains are regarded as income
+from sources within Chinese mainland unless a treaty or similar arrangement provides otherwise. For
+details of the taxes relating to the gains on or dividends from our H Shares, see “Regulatory
+Overview—Regulations on Taxation.”
+If Chinese mainland income tax is imposed on gains realized from the transfer of our H Shares or
+on dividends paid to our non-Chinese mainland resident [REDACTED], the value of your [REDACTED]
+in our H Shares may be affected. Furthermore, our Shareholders whose jurisdictions of residence have tax
+treaties or arrangements with Chinese mainland may not qualify for benefits under such tax treaties or
+arrangements.
+Operations are subject to and may be affected by changes in tax laws and regulations of the
+jurisdictions where we operate.
+Any changes in the laws and regulations governing preferential tax treatment or increases in our
+effective tax rate for other reasons would result in a corresponding increase in our tax liability.
+Additionally, governmental authorities may amend or restate regulations on income, withholding,
+value-added and other taxes. Non-compliance with applicable tax laws and regulations could also lead to
+penalties or fines imposed by relevant tax authorities. Adjustments or changes to applicable tax laws and
+regulations, as well as tax penalties or fines, could impact our business, financial condition and results of
+operations.
+Policies on foreign investment in the PRC may adversely affect our business and results of
+operations.
+The investment activities of foreign investors in the PRC are subject to certain regulations regarding
+the industry participated and imposed to additional verification procedures by certain authorities. The
+Special Management Measures (Negative List) for the Access of Foreign Investment (2024) (《外商投資
+准入特別管理措施(負面清單)(2024年版)》, the “Negative List”) issued by the NDRC and MOFCOM,
+which set out in a unified manner the restrictive measures for the access of foreign investments such as
+the requirements for equity and senior management, and the industries that are prohibited for foreign
+investment. The Negative List covers 11 industries, and any field not covered by the Negative List shall
+be administered under the principle of equal treatment to domestic and foreign investment. As of the Latest
+Practicable Date, our main business in China does not fall within the fields prohibited by the Negative
+List. However, certain industries are specifically prohibited for foreign investment, which may restrict us
+from entering into these industries afterwards.
+Any failure to comply with relevant regulations regarding the registration requirements for the
+Employee Incentive Scheme may subject our Employee Incentive Scheme participants or us to fines
+and other legal or administrative sanctions.
+In February 2012, SAFE promulgated the Notices on Issues Concerning the Foreign Exchange
+Administration for Domestic Individuals Participating in Stock Incentive Plan of Overseas Publicly Listed
+Company (《關於境內個人參與境外上市公司股權激勵計劃外匯管理有關問題的通知》) (Hui Fa [2012]
+RISK FACTORS
+– 61 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p28] No. 7), replacing earlier rules promulgated in 2007. Pursuant to these rules, PRC citizens and non-PRC
+citizens who reside in China for a continuous period of not less than one year and participate in any stock
+incentive plan of an overseas publicly listed company, subject to a few exceptions, are required to register
+with SAFE through a domestic qualified agent and complete certain other procedures. In addition, an
+overseas-entrusted institution must be retained to handle matters in connection with the exercise or sale
+of stock options and the purchase or sale of shares and interests. We and our executive officers and other
+employees who are PRC citizens or who reside in China for a continuous period of not less than one year
+and who have been granted options will be subject to these regulations when our company becomes an
+overseas-[REDACTED] company upon the completion of the [REDACTED]. Failure to complete SAFE
+registrations may subject them to fines, and legal sanctions. In light of the above, we cannot assure you
+that we will continuously adopt additional incentive plans for our directors, executive officers and
+employees under PRC law.
+In addition, SAT has issued certain circulars concerning employee share options and restricted
+shares. Under these circulars, our employees working in China who exercise share options or are granted
+restricted shares will be subject to PRC individual income tax. We have obligations to file documents
+related to employee share options or restricted shares with relevant tax authorities and to withhold
+individual income taxes of those employees who exercise their share options. If our employees fail to pay
+or we fail to withhold their income taxes according to relevant laws and regulations, we may face sanctions
+imposed by the tax authorities or other PRC governmental authorities.
+RISKS RELATING TO THE [REDACTED]
+There has been no prior [REDACTED] for our H Shares and the [REDACTED] and [REDACTED]
+of our H Shares may be volatile.
+Prior to the [REDACTED], there was no [REDACTED] for our H Shares. We cannot assure you that
+a [REDACTED] for our H Shares with adequate liquidity will develop and be sustained following the
+completion of the [REDACTED]. In addition, the [REDACTED] of our H Shares is expected to be fixed
+by agreement between the Joint Sponsors and [REDACTED] (on behalf of the [REDACTED], as
+applicable) and us and may not be indicative of the [REDACTED] of our H Shares following the
+completion of the [REDACTED]. If an active [REDACTED] for our H Shares does not develop following
+the completion of the [REDACTED], the [REDACTED] and [REDACTED] of our H Shares could be
+materially and adversely affected.
+The [REDACTED], [REDACTED] volume and [REDACTED] of our H Shares following the
+[REDACTED] may be volatile, which could result in substantial losses to you.
+The [REDACTED] at which our H Shares will [REDACTED] after the [REDACTED] will be
+determined by the marketplace, which may be affected by various factors beyond our control, including
+our financial performance; changes in securities analysts’ estimates, if any, of our financial performance;
+the history of, and the prospects for, ourselves and the industry in which we operate; an assessment on the
+prospects for, and timing of, our future revenue and cost structures that independent research analysts may
+publish, if any; the present state of our development; the valuation of publicly traded companies that are
+engaged in business activities similar to ours; general market sentiment regarding the industry we operate
+in; changes in the laws and regulations of China; our actual or perceived failure to compete effectively in
+the market; and political, economic, financial and social conditions.
+In addition, the Hong Kong Stock Exchange has from time to time experienced significant volatility
+in [REDACTED] and volumes that have affected the market prices of securities of companies quoted on
+the Hong Kong Stock Exchange. As a result, [REDACTED] in our H Shares may experience volatility in
+the [REDACTED] of their H Shares and a decrease in the [REDACTED] of their H Shares regardless of
+our operating performance or prospects.
+RISK FACTORS
+– 62 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p29] You will incur immediate and significant dilution and may experience further dilution in the future.
+The [REDACTED] of the H Shares is higher than the net tangible asset value per Share immediately
+prior to the [REDACTED]. Therefore, [REDACTED] of H Shares in the [REDACTED] will experience
+an immediate dilution. There can be no assurance that if we were to immediately liquidate after the
+[REDACTED], any assets will be distributed to Shareholders after the creditors’ claims. In order to
+expand our business, we may consider [REDACTED] and [REDACTED] additional H Shares in the
+future. [REDACTED] of H Shares may experience dilution in the net tangible asset value per Share of
+their H Shares if we [REDACTED] additional Shares in the future at a price which is lower than the net
+tangible asset value per Share at that time. Furthermore, we may [REDACTED] H Shares pursuant to any
+existing or future employee incentive scheme, which would further dilute our Shareholders’ interests in
+our Company.
+We cannot assure you that we will declare and distribute any amount of dividends in the future. If
+we do not pay dividends in the foreseeable future after the [REDACTED], you must rely on the
+[REDACTED] appreciation of our Shares for a return on your [REDACTED].
+During the Track Record Period, we have not declared or paid any dividends on our Shares. We
+cannot assure you that dividends will be declared or paid in the future. A decision to declare or pay any
+dividends and the amount of dividends is made at the discretion of our Directors, subject to the corporate
+shareholder approval processes and depending on, among other considerations, our operations, earnings,
+cash flows and financial position, operating and capital expenditure requirements, our strategic plans and
+prospects for business development, our constitutional documents and applicable law. For more details on
+our dividend policy, see “Financial Information — Dividends.” In addition, our ability to declare future
+dividends will depend on the availability of dividends, if any, received from our operating subsidiaries.
+The calculation of our operating subsidiaries’ profit under applicable accounting standards differs in
+certain aspects from the calculation under the IFRS Accounting Standards. Accordingly, we may not have
+sufficient or any profits to enable us to make dividend distributions to our Shareholders in the future, even
+if our financial statements prepared in accordance with the IFRS Accounting Standards indicate that our
+operations have been profitable.
+Future sales or issuances or perceived sales or issuances or conversion of substantial amounts of our
+securities in the [REDACTED] following the [REDACTED], including any future [REDACTED] in
+China or conversion of our unlisted Shares into H Shares, could have a material adverse effect on
+the [REDACTED] of our H Shares and our ability to raise additional capital in the future, and may
+result in dilution of your shareholding.
+The [REDACTED] of our H Shares could decline as a result of future sales of a substantial number
+of our H Shares or other securities relating to our H Shares in the [REDACTED], the issuance of new
+shares or other securities, or the perception that such sales or issuances may occur. Future sales, or
+anticipated sales, of substantial amounts of our securities, including any future offerings, could also
+materially and adversely affect our ability to raise capital at a specific time and on terms favorable to us.
+In addition, our Shareholders may experience dilution of their holdings if we issue more securities in the
+future. New shares or shares-linked securities issued by us may also confer rights and privileges that take
+priority over those conferred by the H Shares.
+According to the stipulations by the State Council’s securities regulatory authority and the Articles
+of Association, our Unlisted Shares may be converted into H Shares and such converted H Shares may be
+[REDACTED] or [REDACTED] on an overseas stock exchange, provided that prior to the conversion
+and [REDACTED] of such converted shares, the requisite internal approval processes (but without the
+necessity of Shareholders’ approval by class) have been duly completed and the administrative procedures
+of the relevant PRC regulatory authorities, including the CSRC, have been completed. In addition, such
+conversion, [REDACTED] and [REDACTED] must comply with the regulations prescribed by the State
+Council’s securities regulatory authorities and the regulations, requirements and procedures prescribed by
+the relevant overseas stock exchange. We can apply for the [REDACTED] of all or any portion of our
+Unlisted Shares on the Stock Exchange as H Shares in advance of any proposed conversion to ensure that
+RISK FACTORS
+– 63 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p30] the conversion process can be completed promptly upon notice to the Stock Exchange and delivery of
+shares for entry on the [REDACTED]. This could increase the supply of H Shares in the [REDACTED],
+and future sales, or perceived sales, of the converted H Shares may materially and adversely affect the
+[REDACTED] of H Shares.
+Forward-looking information in this document is subject to risks and uncertainties.
+This document contains certain statements and information that are forward-looking and uses
+forward-looking terminology such as “anticipate,” “believe,” “could,” “going forward,” “intend,” “plan,”
+“project,” “seek,” “expect,” “may,” “ought to,” “should,” “would” or “will” and similar expressions. You
+are cautioned that reliance on any forward-looking statement involves risks and uncertainties and that any
+or all of those assumptions could prove to be inaccurate and as a result, the forward-looking statements
+based on those assumptions could also be incorrect. In light of these and other risks and uncertainties, the
+inclusion of forward-looking statements in this Document should not be regarded as representations or
+warranties by us that our plans and objectives will be achieved and these forward-looking statements
+should be considered in light of various important factors, including those set forth in this section. Subject
+to the requirements of the Listing Rules, we do not intend publicly to update or otherwise revise the
+forward-looking statements in this Document, whether as a result of new information, future events or
+otherwise. Accordingly, you should not place undue reliance on any forward-looking information. All
+forward-looking statements in this Document are qualified by reference to this cautionary statement.
+Certain facts, forecasts and other statistics in this document are derived from official government
+sources which had not been independently verified.
+This document, particularly the section headed “Industry Overview”, contains information and
+statistics relating to the industry that we operate in, as well as other economic data. Such information and
+statistics are derived from official government sources, which had not been independently verified by us,
+the Joint Sponsors, or any other party involved in the [REDACTED]. You should consider carefully how
+much weight or importance should be attached to or placed on such facts or statistics.
+You should read the entire document carefully and we strongly caution you not to place any reliance
+on any information contained in press articles or other media regarding us or the [REDACTED].
+Prior to the publication of this document, there had been press and media coverage regarding us and
+the [REDACTED], which contained, among other things, certain financial information, projections,
+valuations and other forward-looking information about us and the [REDACTED]. We have not
+authorized the disclosure of any such information in the press or media and do not accept responsibility
+for the accuracy or completeness of such press articles or other media coverage. We make no
+representation as to the appropriateness, accuracy, completeness or reliability of any of the projections,
+valuations or other forward-looking information about us. To the extent such statements are inconsistent
+with, or conflict with, the information contained in this document, we disclaim responsibility for them.
+Accordingly, prospective [REDACTED] are cautioned to make their [REDACTED] decisions on the
+basis of the information contained in this document only and should not rely on any other information.
+RISK FACTORS
+– 64 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

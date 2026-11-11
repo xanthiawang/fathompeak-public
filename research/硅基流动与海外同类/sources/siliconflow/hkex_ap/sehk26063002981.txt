@@ -1,0 +1,469 @@
+[p1] BOARD OF DIRECTORS
+Upon the [REDACTED], our Board will comprise seven Directors, including three executive
+Directors, one non-executive Director, and three independent non-executive Directors. The table below
+sets out certain information of our Directors.
+Name
+Age
+Position
+Time of
+appointment as
+Director
+Time of joining
+our Group
+Responsibilities
+Executive Directors
+Dr. Yuan Jinhui (袁進輝)  45
+Chairman of our
+Board, executive
+Director, CEO,
+general manager
+and financial
+controller
+August 2023
+August 2023
+Overseeing the overall executive
+and business direction, and
+strategic management of our
+Group
+Mr. Liu Juncheng (柳俊丞)
+39
+Executive Director
+and chief
+technology officer
+October 2024
+August 2023*
+Overseeing the technology
+research and development of
+our Group
+Mr. Zeng Hua (曾華)     55
+Executive Director
+and deputy
+general manager
+July 2024
+June 2024
+Overseeing the commercialization
+planning of our Group
+Non-executive Director
+Mr. Chen Yingjie (陳英傑) 49
+Non-executive
+Director
+May 2025
+May 2025
+Providing guidance and advice on
+corporate strategy and
+development
+Independent Non-executive Directors
+Dr. Wu Chuan (吳川)    48
+Independent non-
+executive
+Director
+[REDACTED]
+[REDACTED]
+Supervising and providing
+independent judgment to our
+Board
+Dr. Li Dan (李丹)      47
+Independent non-
+executive
+Director
+[REDACTED]
+[REDACTED]
+Supervising and providing
+independent judgment to our
+Board
+Dr. Hou Hong (侯宏)     40
+Independent non-
+executive
+Director
+[REDACTED]
+[REDACTED]
+Supervising and providing
+independent judgment to our
+Board
+Executive Directors
+Dr. Yuan Jinhui (袁進輝), has extensive experience in artificial intelligence, deep learning and
+distributed computing systems. From June 2013 to October 2016, he served as lead researcher at Microsoft
+(China) Co., Ltd. (微軟(中國)有限公司), where he led the development of LightLDA, the world’s fastest
+large-scale topic model training system at the time. From January 2017 to December 2023, he founded
+Beijing OneFlow Technology Co., Ltd. (北京一流科技有限公司) (“OneFlow”), where he led the
+development of the OneFlow deep learning framework, with a strategic focus on enhancing algorithm
+R&D efficiency and hardware utilization, helping to bridge research innovation with scalable computing
+performance. Dr. Yuan obtained a bachelor’s degree in computer science and technology from Xidian
+University (西安電子科技大學) in the PRC in July 2003. He subsequently obtained a Ph.D. in computer
+science and technology from Tsinghua University (清華大學) in the PRC in July 2008.
+Mr. Liu Juncheng (柳俊丞), has extensive experience in software development, particularly in
+artificial intelligence system software. From January 2012 to September 2015, he worked at Shilinglong
+(Beijing) Technology Co., Ltd. (視玲瓏(北京)科技有限公司) (“Beijing Shilinglong”). From October 2015
+to July 2016, he worked at Beijing Gouzheng Data Technology Co., Ltd. (北京勾正數據科技有限公司).
+From August 2016 to November 2017, he worked at Beijing Shilinglong. From December 2017 to August
+2018, he worked at Beijing Zhiming Technology Development Centre (Limited Partnership) (北京之明科
+技發展中心(有限合夥)). From September 2018 to July 2023, he served as R&D engineer at OneFlow. Mr.
+Liu obtained a bachelor’s degree in computer science and technology from Harbin Institute of Technology
+(哈爾濱工業大學) in the PRC in July 2011.
+*
+For a period of time from the incorporation of the Company, Mr. Liu Juncheng was working in the Group full-time pursuant
+to a staffing assignment agreement.
+DIRECTORS AND SENIOR MANAGEMENT
+– 208 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] Mr. Zeng Hua (曾華), has extensive experience in technology sales, business development and
+commercialization. From 2002 to 2015, he held various senior management positions at leading
+technology companies, including Unify Communications (China) Co., Ltd. (優力飛(中國)通信系统有限公
+司) and Microsoft (China) Co., Ltd. (微軟(中國)有限公司). From July 2015 to March 2017, he served as
+general manager of key accounts at Baidu. Inc. (百度集團股份有限公司) (9888.HK (HKD counter);
+89888.HK (RMB counter); BIDU.NASDAQ). From April 2017 to January 2018, he served as chief
+commercial officer at Beijing Maigewei Technology Co., Ltd. (北京邁格威科技有限公司). From February
+2018 to January 2019, he worked at Beijing Yiyi Cloud Technology Co., Ltd. (北京懿醫雲科技有限公司).
+From February 2019 to September 2019, he served as chief executive officer of Guangzhou Puppy Robot
+Technology Co., Ltd. (廣州小狗機器人技術有限公司). Prior to joining our Company, he served as vice
+president
+of
+JD.com,
+Inc.
+(京東集團)
+(9618.HK
+(HKD
+counter);
+89618.HK
+(RMB
+counter);
+JD.NASDAQ). Mr. Zeng obtained a bachelor’s degree in science and technology intelligence from Peking
+University (北京大學) in the PRC in July 1994.
+Non-executive Director
+Mr. Chen Yingjie (陳英傑) has extensive experience in investment and business management. Mr.
+Chen worked as a senior manager in the corporate finance department of PricewaterhouseCoopers from
+September 2007 to December 2012. He joined Alibaba Group Holding Limited (9988.HK) (“Alibaba”) in
+December 2012. Mr. Chen currently serves as the managing director of strategic investment department
+of Alibaba Group. Previously, Mr. Chen has served as a non-independent director of DBAPP Security Co.,
+Ltd., (688023.SH), from May 2020 to January 2024 and non-executive director of XPeng Inc. (9868.HK;
+XPEV.NYSE) from February 2022 to November 2023. Since March 2024, Mr. Chen has served as a
+non-executive director of MiniMax Group Inc. (0100.HK). Mr. Chen obtained a bachelor’s degree in
+accounting from Shanghai University of Finance and Economics (上海財經大學) in the PRC in 1999. He
+is qualified as a certified public accountant in Canada.
+Independent Non-executive Directors
+Dr. Wu Chuan (吳川) has extensive research experience in computer science. Since September
+2008, she has served in the department of computer science at the University of Hong Kong (香港大學)
+in Hong Kong, where she served as an assistant professor from September 2008 to June 2014, as an
+associate professor from July 2014 to August 2020, and has been a professor since August 2020. Dr. Wu
+obtained a bachelor’s degree in computer science and technology, and a master’s degree in computer
+science and technology from Tsinghua University (清華大學) in the PRC in August 2000 and in August
+2002, respectively. She subsequently obtained a Ph.D. in electrical and computer engineering from the
+University of Toronto in Canada in November 2008.
+Dr. Li Dan (李丹) has extensive experience in economics, accounting and management. She has
+served as an independent non-executive director of Edianyun Limited (易點雲有限公司) (2416.HK) since
+May 2023, and has served as an independent director of Foxconn Industrial Internet Co., Ltd. (富士康工
+業互聯網股份有限公司) (601138.SH). Dr. Li obtained a bachelor’s degree in international trade from the
+school of economics and management at Beijing Institute of Technology (北京理工大學) in the PRC in
+July 2001 and a Ph.D. in accounting from the Scheller College of Business at Georgia Institute of
+Technology in the United States in August 2007.
+Dr. Hou Hong (侯宏) has extensive experience in strategy consulting, telecommunications and
+technology management. From July 2008 to April 2010, he served as consultant and subsequently senior
+consultant at Beijing Derui Xintong Technology Co., Ltd. (北京德瑞信通科技有限公司). From June 2010
+to September 2011, he served as strategy manager in the strategy department at the Shenzhen Aishide Co.,
+Ltd. (深圳市愛施德股份有限公司). From November 2011 to November 2014, he served as project
+manager
+in
+the
+research
+division
+of
+the
+development
+strategy
+department
+at
+China
+Mobile
+Communications Group Co., Ltd. (中國移動通信集團有限公司). From December 2014 to April 2017, he
+served as strategy director at AsiaInfo Technologies (China) Co., Ltd. (亞信科技(中國)有限公司). From
+September 2017 to July 2021, he pursued doctoral studies at the University of Cambridge in the United
+Kingdom. Since September 2021, he has served as assistant professor at the National School of
+Development of Peking University (北京大學國家發展研究院). Dr. Hou obtained a bachelor’s degree in
+communication engineering from Wuhan University of Technology (武漢理工大學) in the PRC in June
+DIRECTORS AND SENIOR MANAGEMENT
+– 209 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] 2006. He subsequently obtained a master’s degree in optoelectronic engineering from Beijing Institute of
+Technology (北京理工大學) in the PRC in June 2008. He further obtained a Ph.D. from the University of
+Cambridge in the United Kingdom in July 2021.
+SENIOR MANAGEMENT
+Upon the [REDACTED], our senior management will comprise six members. The following table
+sets out certain information of our senior management.
+Name
+Age
+Position
+Time of
+appointment as
+senior
+management
+Time of joining
+our Group
+Responsibilities
+Dr. Yuan Jinhui (袁進輝)  45
+CEO, general
+manager and
+financial
+controller
+August 2023
+August 2023
+Overseeing the overall executive
+and business direction, and
+strategic management of our
+Group
+Mr. Liu Juncheng (柳俊丞)
+39
+Chief technology
+officer
+August 2023
+August 2023*
+Overseeing the technology
+research and development of
+our Group
+Mr. Zeng Hua (曾華)     55
+Deputy general
+manager
+June 2024
+June 2024
+Overseeing the commercialization
+planning of our Group
+Ms. Zhao Zhen (趙震)    44
+Chief operating
+officer
+August 2023
+August 2023*
+Overseeing the overall
+operational management of our
+Group
+Mr. Hu Jian (胡健)      44
+Deputy general
+manager
+July 2024
+July 2024
+Overseeing the research and
+development of on-premise
+deployment solutions and
+delivery of on-premise
+deployment solutions of our
+Group
+Ms. Liu Liyuan (劉麗圓)  37
+Board secretary
+May 2026
+May 2026
+Overseeing the operations of our
+Board operations and capital
+markets affairs of our Group
+For details of Dr. Yuan, Mr. Zeng and Mr. Liu, see “— Board of Directors” above.
+Ms. Zhao Zhen (趙震), has long been engaged in the semiconductor and artificial intelligence
+sectors. From July 2006 to March 2010, she worked at Aerospace Xinhang Technology Co., Ltd. (航天恆
+星科技有限公司) (also known as the 503rd Research Institute of the Fifth Academy of China Aerospace
+Science and Technology Corporation (中國航天科技集團公司五院五〇三所)). From 2016 to 2019, she
+served as deputy secretary-general of the China Integrated Circuit Intellectual Property Alliance (中國集
+成電路知識產聯盟). Prior to co-founding our Company, she served as chief operating officer of OneFlow.
+Ms. Zhao obtained a bachelor’s degree in information and computing science and a master’s degree in
+engineering in signal and information processing from Peking University (北京大學) in the PRC in July
+2003 and July 2006, respectively.
+Mr. Hu Jian (胡健), has extensive experience in artificial intelligence, data science and technology
+entrepreneurship. From May 2006 to February 2009, he worked at Microsoft Research Asia (微軟亞洲研
+究院). From February 2009 to July 2010, he served as senior research engineer at Yahoo! Software
+Research & Development (Beijing) Co., Limited (雅虎軟件研發(北京)有限公司) . From August 2010 to
+February 2012, he served as architect in the search research department at Tencent Technology (Beijing)
+Co., Ltd. (騰訊科技(北京)有限公司). From June 2012 to April 2013, he served as the founder of Zhituo
+Tongda (Beijing) Technology Co., Ltd. (智拓通達(北京)科技有限公司), which was subsequently acquired
+by Yahoo! Inc. From January 2015 to May 2018, he served as co-founder and chief technology officer at
+Beijing Xieli Zhucheng Financial Services Information Co., Ltd. (北京協力築成金融服務信息有限公司),
+the holding company of 36Kr (36氪) and KrSpace (氪空間). From June 2018 to April 2021, he served as
+*
+For a period of time from the incorporation of the Company, Mr. Liu Juncheng and Ms. Zhao Zhen were working in the Group
+full-time pursuant to staffing assignment agreements.
+DIRECTORS AND SENIOR MANAGEMENT
+– 210 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p4] chief executive officer of Beijing Yilan Qunzhi Data Technology Co., Ltd. (北京一覽群智數據科技有限
+責任公司). From May 2021 to July 2024, he served as senior vice president at Beijing Yiyi Cloud
+Technology Co., Ltd. (北京懿醫雲科技有限公司). Mr. Hu obtained a bachelor’s degree in computer
+science and technology, and a master’s degree in computer system architecture from Shanghai Jiao Tong
+University (上海交通大學) in the PRC in July 2003 and in July 2006, respectively. He further obtained an
+EMBA from China Europe International Business School (中歐國際工商學院) in November 2019.
+Ms. Liu Liyuan (劉麗圓), has extensive experience in auditing, investment banking and capital
+markets. From October 2013 to November 2014, she served as auditor at Da Hua Certified Public
+Accountants (大華會計師事務所). From November 2014 to July 2016, she served as auditor at KPMG.
+From August 2016 to September 2024, she served as senior vice president and sponsor representative at
+Western Securities Co., Ltd. (西部證券股份有限公司) (002673.SZ). From October 2024 to May 2026, she
+served as vice president at Cornerstone Capital Co., Ltd. (基石資本股份有限公司). Ms. Liu obtained a
+master’s degree in business management from Guizhou University (貴州大學) in the PRC in July 2013.
+Ms. Liu holds a certified public accountant qualification and a legal professional qualification in the PRC.
+INTERESTS OF OUR DIRECTORS AND SENIOR MANAGEMENT
+Save as otherwise disclosed in this document, to the best knowledge, information and belief of our
+Directors having made all reasonable enquiries, as of the Latest Practicable Date:
+(i)
+none of our Directors and senior management has held any other directorship in any public
+company the securities of which are listed on any securities market in Hong Kong or overseas
+during the three years immediately preceding the date of this document;
+(ii)
+none of our Directors and senior management was related to other Directors and senior
+management;
+(iii) save as disclosed in “Appendix IV — Statutory and General Information — C. Further
+Information about Our Directors and Substantial Shareholders — 3. Disclosure of Interests,”
+none of our Directors and chief executive held any interest in the shares and underlying shares
+of our Company and our associated corporations which should be disclosed pursuant to Part
+XV of the SFO; and
+(iv)
+there was no other matter with respect to the appointment of our Directors that needs to be
+brought to the attention of our Shareholders, and there was no information relating to our
+Directors that is required to be disclosed pursuant to Rule 13.51(2)(h) to (v) of the Listing
+Rules.
+CONFIRMATION FROM OUR DIRECTORS
+Each of our Directors confirms that as of the Latest Practicable Date, he or she did not have any
+interest in a business which competes or is likely to compete, either directly or indirectly, with our
+business which would require disclosure under Rule 8.10 of the Listing Rules. From time to time our
+non-executive Director may serve on the boards of both private and public companies within the broader
+artificial intelligence industry. However, as our non-executive Director is not a member of our executive
+management team and not involved in the daily operation of our Group, we do not believe that his interests
+in such companies as directors would render us incapable of carrying on our business independently from
+such other companies in which our non-executive Director may hold directorships from time to time.
+Each of our Directors confirms that he or she (i) has obtained the legal advice referred to under Rule
+3.09D of the Listing Rules in June 2026, and (ii) understands his or her obligations as a director of a
+[REDACTED] issuer.
+Each of our independent non-executive Directors has confirmed (i) his/her independence as regards
+each of the factors referred to in Rule 3.13(1) to (8) of the Listing Rules, (ii) he/she had no past or present
+financial or other interest in the business of our Company or our subsidiaries or any connection with any
+core connected person of our Company as of the Latest Practicable Date, and (iii) that there have been no
+other factors that might affect his/her independence at the time of his/her appointment.
+DIRECTORS AND SENIOR MANAGEMENT
+– 211 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p5] REMUNERATION OF OUR DIRECTORS AND THE FIVE HIGHEST PAID INDIVIDUALS
+The aggregate amount of emoluments of our Directors for the three years ended December 31, 2025
+amounted to approximately RMB0.4 million, RMB9.4 million and RMB47.6 million, respectively. The
+aggregate amount of emoluments of our five highest paid individuals (excluding Directors) for the three
+years ended December 31, 2025 amounted to approximately RMB1.2 million, RMB8.0 million and
+RMB10.6 million, respectively.
+Under the current compensation arrangement, we estimate the total compensation before taxation,
+excluding estimated share-based compensation, to be accrued to our Directors for the year ending
+December 31, 2026 to be approximately RMB4.10 million. The actual remuneration of our Directors in
+2026 may be different from the expected remuneration set out above.
+Save as disclosed above, no other payments have been paid, or are payable, by our Group to our
+Directors or the five highest paid individuals during the Track Record Period. No remuneration was paid
+by our Company to, or receivable by, our Directors or the five highest paid individuals as an inducement
+to join or upon joining our Company, or as compensation for loss of office in connection with the
+management positions of any member of our Group. During the Track Record Period, none of our
+Directors waived any emoluments.
+JOINT COMPANY SECRETARIES
+Ms. Liu Liyuan (劉麗圓) was appointed as a joint company secretary of our Company on June 26,
+2026. For details of her biography, see “— Senior Management” above.
+Ms. Yeung Lai Shan (楊麗珊), was appointed as one of the joint company secretaries of our
+Company on June 26, 2026.
+Ms. Yeung is currently a manager of the Company Secretarial Services of Tricor Services Limited,
+an integrated provider offering business, corporate and investor services. Ms. Yeung has 7 years of
+experience in the corporate secretarial field and has been providing professional corporate services to
+Hong Kong listed companies as well as multinational, private and offshore companies. Ms. Yeung holds
+a Master of Science degree in Corporate Governance and Compliance from the Hong Kong Baptist
+University. Ms. Yeung is a Chartered Secretary, a Chartered Governance Professional and an associate of
+both The Hong Kong Chartered Governance Institute and The Chartered Governance Institute in the
+United Kingdom.
+CORPORATE GOVERNANCE
+We have established three Board committees, namely the Audit Committee, the Nomination
+Committee and the Remuneration and Appraisal Committee. Our Board committees operate in accordance
+with the terms of reference established by our Board.
+DIRECTORS AND SENIOR MANAGEMENT
+– 212 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p6] Audit Committee
+We have established the Audit Committee with written terms of reference in compliance with Rule
+3.21 of the Listing Rules and paragraph D.3 of the Corporate Governance Code. The Audit Committee
+comprises one non-executive Director and two independent non-executive Directors, namely Dr. Li Dan
+(李丹), Mr. Chen Yingjie (陳英傑) and Dr. Hou Hong (侯宏), with Dr. Li currently serving as the
+chairperson. Dr. Li has the appropriate accounting or related financial management expertise as required
+under Rules 3.10(2) and 3.21 of the Listing Rules.
+Nomination Committee
+We have established the Nomination Committee with written terms of reference in compliance with
+Rule 3.27A of the Listing Rules and paragraph B.3 of the Corporate Governance Code. The Nomination
+Committee comprises one executive Director and two independent non-executive Directors, namely
+Dr. Yuan, Dr. Hou Hong (侯宏) and Dr. Wu Chuan (吳川), with Dr. Yuan currently serving as the
+chairperson.
+Remuneration and Appraisal Committee
+We have established the Remuneration and Appraisal Committee with written terms of reference in
+compliance with Rule 3.25 of the Listing Rules and paragraph E.1 of the Corporate Governance Code. The
+Remuneration and Appraisal Committee comprises one executive Director and two independent
+non-executive Directors, namely Dr. Yuan, Dr. Li Dan (李丹) and Dr. Wu Chuan (吳川), with Dr. Wu
+currently serving as the chairperson.
+Corporate Governance Code
+Our Company is committed to achieving high standards of corporate governance with a view to
+safeguarding the interests of our Shareholders. To accomplish this, our Company intends to comply with
+the Corporate Governance Code after the [REDACTED] save for the matter disclosed below.
+Pursuant to code provision C.2.1 in Part 2 of the Corporate Governance Code, companies listed on
+the Stock Exchange are expected to comply with, but may choose to deviate from, the requirement that
+the roles of chairman and chief executive should be separate and should not be performed by the same
+individual. We do not have separate chairman of our Board and CEO, and Dr. Yuan currently performs
+these two roles. Our Board believes that vesting the roles of both the chairman of our Board and CEO in
+the same person has the benefit of ensuring consistent leadership within our Group and enabling more
+effective and efficient overall strategic planning and execution of strategic initiatives for our Group. Our
+Board considers that the balance of power and authority for the present arrangement will not be impaired,
+and this structure will enable our Company to make and implement decisions promptly and effectively.
+Our Board will continue to review and consider splitting the roles of the chairman of our Board and CEO
+at a time when it is appropriate taking into account the circumstances of our Group as a whole.
+Diversity Policy
+We are committed to promoting diversity within our Company to the extent practicable by taking into
+consideration a number of factors in respect of our corporate governance structure. We have adopted a
+diversity policy which sets out the objective and approach for achieving and maintaining the diversity of
+our Board and our workforce (including senior management). In accordance with the diversity policy, we
+seek to achieve Board diversity by taking into account a number of factors, including but not limited to
+gender, age, ethnicity, culture and educational background, professional experience, skills, knowledge,
+and length of service. The ultimate selection of Board candidates will be based on merit and potential
+contribution to our Board having due regard to the benefits of diversity on our Board and also the specific
+needs of our Company without focusing on a single diversity aspect. We are also committed to promoting
+diversity within our workforce (including senior management) to enhance the effectiveness of our
+corporate governance as a whole.
+DIRECTORS AND SENIOR MANAGEMENT
+– 213 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p7] Our Directors have a balanced mix of knowledge and skills, including overall management and
+strategic development as well as knowledge and experience in areas such as artificial intelligence, deep
+learning
+and
+distributed
+computing
+systems,
+software
+development,
+technology
+sales,
+business
+development and commercialization, investment and business management, research in computer science,
+accounting and management, strategy consulting, telecommunications and technology management. They
+obtained degrees in various fields including computer science and technology, science and technology
+intelligence, accounting, electrical and computer engineering, international trade, communication
+engineering, and optoelectronic engineering. Furthermore, our Board has a diverse age and gender
+representation with five male Directors and two female Directors ranging from 39 years old to 55 years
+old.
+After the [REDACTED], we will from time to time discuss and agree on expected goals to ensure
+diversity, and review and, where necessary, update the diversity policy to ensure its continued
+effectiveness. We will report on the implementation of the diversity policy in our corporate governance
+report on an annual basis.
+EMPLOYEE INCENTIVE SCHEME
+We adopted the Employee Incentive Scheme in October 2024 (as amended in May 2026), a summary
+of the principal terms of which is set out in “Appendix IV — Statutory and General Information — D.
+Employee Incentive Scheme.”
+COMPLIANCE ADVISOR
+We have appointed Rainbow Capital (HK) Limited as our Compliance Advisor pursuant to Rule
+3A.19 of the Listing Rules. The Compliance Advisor will provide us with guidance and advice as to
+compliance with the Listing Rules and applicable laws and regulations.
+The term of appointment of our Compliance Advisor will commence on the [REDACTED] and is
+expected to end on the date on which our Company complies with Rule 13.46 of the Listing Rules in
+respect of our financial results for the first full financial year commencing after the [REDACTED].
+DIRECTORS AND SENIOR MANAGEMENT
+– 214 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

@@ -1,0 +1,1235 @@
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head  prefix="og: http://ogp.me/ns#">
+        
+        <script>if (navigator.canShare) document.documentElement.classList.add('-webshare')</script>
+        
+<script>
+    window.cookieConsent = function (key) {
+        const cookies = document.cookie.split(';')
+        for (const cookie of cookies) {
+            const [name, value] = cookie.trim().split('=')
+            if (name !== 'wtm' || typeof value !== 'string') {
+                continue;
+            }
+            if (value.includes(`${key}:true`)) {
+                return true;
+            }
+        }
+        return false
+    }
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+    gtag('consent', 'default', {
+        'analytics_storage': 'denied',
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'wait_for_update': 500
+    });
+    gtag('set', 'ads_data_redaction', true);
+    if (cookieConsent('analytics')) {
+        gtag('consent', 'update', {
+            'analytics_storage': 'granted'
+        });
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-B4NHP80LZY');
+
+    // Load the gtag.js library off the critical path (IV-1671). window.gtag is
+    // already defined above, so commands queue into dataLayer until the library
+    // loads and drains them — order (consent before config) is preserved.
+    // Gated behind DOMContentLoaded, not a bare requestIdleCallback and not
+    // the load event:
+    // - A bare requestIdleCallback can fire while the head's font preloads
+    //   and blocking CSS request are still in flight (~90ms in on this
+    //   page), competing with them for the network — that contention was
+    //   the original defect here.
+    // - Waiting for the load event instead is too late: it widens the
+    //   window in which a Barba navigation can happen before gtag.js has
+    //   loaded, so the single automatic page_view ends up reporting the
+    //   second page rather than the landing page.
+    // - DOMContentLoaded is late enough that the head's own requests are no
+    //   longer in flight, and early enough to keep both problems above small.
+    var loadGtagLibrary = function () {
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-B4NHP80LZY';
+        document.head.appendChild(s);
+    };
+    var gaSchedule = function () {
+        if ('requestIdleCallback' in window) {
+            requestIdleCallback(loadGtagLibrary, { timeout: 10000 });
+        } else {
+            loadGtagLibrary();
+        }
+    };
+    if (document.readyState !== 'loading') {
+        gaSchedule();
+    } else {
+        document.addEventListener('DOMContentLoaded', gaSchedule);
+    }
+</script>
+
+
+        <script id="sentryConfig" type="application/json">{"dsn": "https://1af5357f326688356df096e32c2cd25e@www.supertreetrunk.com//21", "environment": "production", "release": "7578c9efe20f26d7821b1b2118e230febca30077"}</script>
+		
+			
+				
+	        	<script id="video_thumbnail_fallback_image" type="application/json">"https://www.indexventures.com/media/images/IV_Perspectives_Default.width-1600.format-webp.webp"</script>
+				<script>window.videoThumbnailFallbackImageUrl = JSON.parse(document.getElementById('video_thumbnail_fallback_image').textContent)</script>
+			
+		
+        <meta charset="utf-8" />
+        
+            
+
+
+    <link rel="canonical" href="https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/" />
+	<meta name="description" content="Fireworks co-founder Lin Qiao talks with Index&#x27;s Sahir Azam about PyTorch, specialized AI, and scaling to $1B+ ARR. Index co-leads the $1.5B Series D.">
+    
+    
+    
+        <title>Candid with Index: Lin Qiao on Building... | Index Ventures</title>
+    
+    
+        <meta property="og:title" content="Candid with Index: Lin Qiao on Building Fireworks | Index Ventures">
+        
+        <meta property="og:url" content="https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/">
+        <meta property="og:description" content="Fireworks co-founder Lin Qiao talks with Index&#x27;s Sahir Azam about PyTorch, specialized AI, and scaling to $1B+ ARR. Index co-leads the $1.5B Series D.">
+        
+        
+            <meta property="og:image" content="https://www.indexventures.com/media/images/LinQiao_2964.8902f174.fill-1200x630.format-png.png">
+            <meta property="og:image:width" content="1200">
+            <meta property="og:image:height" content="630">
+            <meta property="og:image:alt" content="Fireworks co-founder Lin Qiao talks with Index&#x27;s Sahir Azam about PyTorch, specialized AI, and scaling to $1B+ ARR. Index co-leads the $1.5B Series D.">
+        
+        <meta property="og:type" content="Website">
+        
+        <meta property="og:site_name" content="Index Ventures">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        <meta name="twitter:domain" content="https://www.indexventures.com">
+        <meta name="twitter:card" content="summary_large_image">
+        
+        <meta name="twitter:title" content="Candid with Index: Lin Qiao on Building... | Index Ventures">
+        
+        <meta name="twitter:url" content="https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/">
+        <meta name="twitter:description" content="Fireworks co-founder Lin Qiao talks with Index&#x27;s Sahir Azam about PyTorch, specialized AI, and scaling to $1B+ ARR. Index co-leads the $1.5B Series D.">
+        
+        <meta name="twitter:image" content="https://www.indexventures.com/media/images/LinQiao_2964.8902f174.fill-1024x512.format-png.png">
+        <meta name="twitter:creator" content="@IndexVentures">
+        <meta name="twitter:site" content="@IndexVentures">
+        <meta name="twitter:site:id" content="19720395">
+        <meta name="twitter:image:alt" content="Fireworks co-founder Lin Qiao talks with Index&#x27;s Sahir Azam about PyTorch, specialized AI, and scaling to $1B+ ARR. Index co-leads the $1.5B Series D.">
+    
+
+
+
+        
+        <link rel="alternate" type="application/rss+xml" title="Perspectives | Index Ventures" href="https://www.indexventures.com/perspectives/feed/">
+
+
+        
+            <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/#webpage", "url": "https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/", "name": "Candid with Index: In Conversation with Fireworks’ Lin Qiao", "description": "Fireworks co-founder Lin Qiao talks with Index's Sahir Azam about PyTorch, specialized AI, and scaling to $1B+ ARR. Index co-leads the $1.5B Series D.", "isPartOf": {"@type": "WebSite", "@id": "https://www.indexventures.com/#website"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Index Ventures", "item": "https://www.indexventures.com/"}, {"@type": "ListItem", "position": 2, "name": "Perspectives", "item": "https://www.indexventures.com/perspectives/"}, {"@type": "ListItem", "position": 3, "name": "Candid with Index: In Conversation with Fireworks’ Lin Qiao", "item": "https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/"}]}, {"@type": "Article", "@id": "https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/#article", "mainEntityOfPage": {"@id": "https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/#webpage"}, "headline": "Candid with Index: In Conversation with Fireworks’ Lin Qiao", "description": "Fireworks co-founder Lin Qiao talks with Index's Sahir Azam about PyTorch, specialized AI, and scaling to $1B+ ARR. Index co-leads the $1.5B Series D.", "url": "https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/", "inLanguage": "en", "datePublished": "2026-07-16", "dateModified": "2026-07-30T21:24:48.497391+00:00", "author": {"@type": "Organization", "@id": "https://www.indexventures.com/#organization", "name": "Index Ventures", "url": "https://www.indexventures.com/"}, "publisher": {"@type": "Organization", "@id": "https://www.indexventures.com/#organization", "name": "Index Ventures", "url": "https://www.indexventures.com/"}, "image": {"@type": "ImageObject", "url": "https://www.indexventures.com/media/images/LinQiao_2964.8902f174.fill-1200x630.webp", "width": 1200, "height": 630}, "articleSection": "Insights", "keywords": "AI/ML, Fireworks", "about": [{"@type": "Organization", "@id": "https://www.indexventures.com/companies/fireworks-ai/#organization", "name": "Fireworks", "url": "https://www.indexventures.com/companies/fireworks-ai/"}]}]}</script>
+        
+        <link rel="shortcut icon" href="https://www.indexventures.com/static/images/favicon.13cf3a9377aa.ico" type="image/x-icon"/>
+        <link rel="icon" href="https://www.indexventures.com/static/images/favicon.13cf3a9377aa.ico" type="image/x-icon"/>
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.indexventures.com/static/images/apple-touch-icon.334e2c0ca650.png"/>
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.indexventures.com/static/images/favicon-32x32.2b1079167528.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.indexventures.com/static/images/favicon-16x16.dfffa4654b02.png"/>
+        <link rel="manifest" href="https://www.indexventures.com/static/images/site.27419fc6affa.webmanifest"/>
+        <link rel="mask-icon" href="https://www.indexventures.com/static/images/safari-pinned-tab.394df958a54e.svg" color="#e1251b"/>
+        <link rel="shortcut icon" href="https://www.indexventures.com/static/images/favicon.13cf3a9377aa.ico"/>
+
+        <meta name="msapplication-TileColor" content="#e1251b"/>
+        <meta name="msapplication-config" content="https://www.indexventures.com/static/images/browserconfig.ba5ae8f0ed89.xml"/>
+        <meta name="theme-color" content="#ffffff"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+        
+        
+        
+        
+        <link rel="preload" as="font" type="font/woff2" crossorigin
+              href="https://www.indexventures.com/static/fonts/glypha/GlyphaLTPro-Light.subset.efced7574599.woff2" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin
+              href="https://www.indexventures.com/static/fonts/univers/UniversLTW02-45Light.subset.e14d7c1f7d3a.woff2" />
+        
+        
+        
+<link rel="preload" as="font" type="font/woff2" crossorigin
+      href="https://www.indexventures.com/static/fonts/bradford/BradfordLLWeb-Light.subset.7f1a9d52babf.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin
+      href="https://www.indexventures.com/static/fonts/bradford/BradfordLLWeb-LightItalic.subset.85ef1c0ca200.woff2" />
+
+
+        
+        <link type="text/css" href="https://www.indexventures.com/static/css/app.798e36d50c76.css" rel="stylesheet" />
+
+        
+            
+        
+        
+            <script id="FATHOM_ID" type="application/json">"ZRICNWPA"</script>
+            <!--    so we can turn it off in e.g. option plan, where we load it separately    -->
+            
+                <script>
+    // Load Fathom off the critical path (IV-1671). data-spa="auto" tracks the
+    // current page on init, so a late load still records the pageview.
+    // Gated behind DOMContentLoaded, not a bare requestIdleCallback and not
+    // the load event:
+    // - A bare requestIdleCallback can fire while the head's font preloads
+    //   and blocking CSS request are still in flight (~90ms in on this
+    //   page), competing with them for the network — that contention was
+    //   the original defect here.
+    // - Waiting for the load event instead regressed Fathom specifically:
+    //   it used to load at `defer` (~DOMContentLoaded) and was the only
+    //   analytics that kept working through the gtag outage this branch
+    //   fixes; pushing it to `load` loses pageviews from fast bouncers and
+    //   slow connections.
+    // - DOMContentLoaded is late enough that the head's own requests are no
+    //   longer in flight, and early enough to keep both problems above small.
+    var loadFathom = function () {
+        var s = document.createElement('script');
+        s.src = 'https://cdn.usefathom.com/script.js';
+        s.dataset.spa = 'auto';
+        s.dataset.site = 'ZRICNWPA';
+        document.head.appendChild(s);
+    };
+    var fathomSchedule = function () {
+        if ('requestIdleCallback' in window) {
+            requestIdleCallback(loadFathom, { timeout: 10000 });
+        } else {
+            loadFathom();
+        }
+    };
+    if (document.readyState !== 'loading') {
+        fathomSchedule();
+    } else {
+        document.addEventListener('DOMContentLoaded', fathomSchedule);
+    }
+</script>
+
+            
+		
+    </head>
+
+    <body class="template-article-post" style="">
+        <div id="media-cookies-overlay"></div>
+        <div data-barba="wrapper">
+            <a href="#main-content" class="-visually-hidden skip-link js-skip-link" data-barba-prevent>Skip to main content</a>
+            
+                
+
+<nav class="navigation js-navigation">
+    <div class="navigation__wrapper row row-xs--between row-xs--middle">
+        <div class="navigation__logo-wrapper">
+            <a href="/" class="navigation__logo-anchor js-header-logo" aria-label="Index Ventures Logo Home Link">
+                <svg class="navigation__icon main-nav-logo" width="40" height="33" viewBox="0 0 40 33" fill="#e42313" 
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#header_logo)">
+        <path d="M18.185 0H0V3.63008H18.185V0Z"/>
+        <path d="M36.4044 7.26016H10.9247V10.8902H36.4044V7.26016Z"/>
+        <path d="M40.0345 14.5549H10.9247V18.185H40.0345V14.5549Z"/>
+        <path d="M36.4044 21.8151H10.9247V25.4451H36.4044V21.8151Z"/>
+        <path d="M29.1096 29.1097H10.9247V32.7398H29.1096V29.1097Z"/>
+    </g>
+    <defs>
+        <clipPath id="header_logo">
+            <rect width="40" height="32.7398"/>
+        </clipPath>
+    </defs>
+</svg>
+            </a>
+        </div>
+        <ul class="navigation__list js-navigation__list row row-xs--middle">
+            
+                
+                    <li data-navigation-link="Team" data-link="/team/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/team/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Team
+                            </a>
+                        
+                    </li>
+                
+                    <li data-navigation-link="Philosophy" data-link="/philosophy/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/philosophy/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Philosophy
+                            </a>
+                        
+                    </li>
+                
+                    <li data-navigation-link="Companies" data-link="/companies/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/companies/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Companies
+                            </a>
+                        
+                    </li>
+                
+                    <li data-navigation-link="Perspectives" data-link="/perspectives/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/perspectives/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Perspectives
+                            </a>
+                        
+                    </li>
+                
+                    <li data-navigation-link="Resources" data-link="/index-press/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/index-press/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Resources
+                            </a>
+                        
+                    </li>
+                
+            
+            <li data-navigation-link="Search" class="navigation__item">
+                <button type="button" class="js-search-icon" aria-label="Search">
+                    <span class="navigation__search-wrapper">
+                        <svg class="navigation__icon" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.7306 11.6666L17.0639 17M13.4445 7.22232C13.4445 3.78591 10.6587 1 7.22232 1C3.78572 1 1 3.78591 1 7.22232C1 10.6587 3.78572 13.4445 7.22232 13.4445C10.6587 13.4445 13.4445 10.6587 13.4445 7.22232Z" />
+</svg>
+
+                    </span>
+                </button>
+            </li>
+            <li class="navigation__item-wrapper">
+                <button class="navigation__anchor js-nav-menu-link" aria-label="Open Menu" aria-expanded="false">
+                    <span class="navigation__menu-icon-wrapper">
+                        <i class="navigation__menu-icon"></i>
+                    </span>
+                </button>
+            </li>
+        </ul>
+    </div>
+
+    <div class="navigation__menu js-nav-menu" aria-hidden="true">
+        <div class="navigation__menu-primary-link-wrapper">
+            <ul>
+                
+                <li data-navigation-link="Team" class="navigation__menu-primary-link">
+                    
+                        <a href="/team/">
+                            Team
+                        </a>
+                    
+                </li>
+                
+                <li data-navigation-link="Philosophy" class="navigation__menu-primary-link">
+                    
+                        <a href="/philosophy/">
+                            Philosophy
+                        </a>
+                    
+                </li>
+                
+                <li data-navigation-link="Companies" class="navigation__menu-primary-link">
+                    
+                        <a href="/companies/">
+                            Companies
+                        </a>
+                    
+                </li>
+                
+                <li data-navigation-link="Perspectives" class="navigation__menu-primary-link">
+                    
+                        <a href="/perspectives/">
+                            Perspectives
+                        </a>
+                    
+                </li>
+                
+                <li data-navigation-link="Resources" class="navigation__menu-primary-link">
+                    
+                        <a href="/index-press/">
+                            Resources
+                        </a>
+                    
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+
+</nav>
+
+    <div class="navigation__search js-search-wrapper">
+        
+
+<div class="search-page">
+    <div class="search-page__wrapper real-time-search__wrapper">
+        <div class="navigation__search-inner-wrapper">
+            <div class="search-page__header">
+                <div class="row row-xs--center">
+                    <div class="col-xs-20 col-md-18">
+                        <div class="js-search-form"></div>
+                        <div class="navigation__search__label" data-default="Find a team member, company, Perspectives piece or Index Press resource">
+                            Find a team member, company, Perspectives piece or Index Press resource
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="real-time-search">
+                <div class="search-title">
+                    <div class="row row-xs--center row-xs--grow">
+                        <div class="col-xs-20 col-md-18">
+                            <div class="search-title-inner">
+                                <div class="search-back-button">
+                                    <span class="search-back-icon"><svg width="9" height="16" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 1L1 8L8 15" stroke="#181818"/>
+</svg>
+</span>
+                                    <span class="search-back-text">Back</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="search-in-progress">
+                    <div class="index-ventures-hand">
+                        <div><span></span></div>
+                        <div><span></span></div>
+                        <div><span></span></div>
+                        <div><span></span></div>
+                        <div><span></span></div>
+                    </div>
+                </div>
+
+                <div class="search-results">
+                    <div class="row row-xs--center">
+                        <div class="col-xs-20 col-md-18">
+                            <div class="content-type-sections">
+                                <div class="content-type-section" data-section="perspectives.AbstractPerspectivesDetailPage" data-search-title="@total Perspectives" data-section-name="Perspectives" data-show-all-text="See All @total Perspectives">
+                                    <div class="content-type-name">Perspectives</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="companies.Company" data-search-title="@total Companies" data-section-name="Companies" data-show-all-text="See All @total Companies">
+                                    <div class="content-type-name">Companies</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="press.PressDetailPage" data-search-title="@total Index Press" data-section-name="Index Press" data-show-all-text="See All @total Index Press">
+                                    <div class="content-type-name">Index Press</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="team.TeamMember" data-search-title="@total Team Members" data-section-name="Team Members" data-show-all-text="See All @total Team Members">
+                                    <div class="content-type-name">Team</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="startup_jobs.JobModel" data-search-title="@total Jobs" data-section-name="Jobs" data-show-all-text="See All @total Jobs">
+                                    <div class="content-type-name">Startup Jobs</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row row-xs--center">
+                    <div class="col-xs-20 col-md-18">
+                        <div id="real-time-search-pager" class="item-list">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+    </div>
+            
+            <div id="main-content" class="content-container close-during-search" data-barba="container" data-barba-namespace="main">
+                
+
+                <article role="main">
+                
+    <div class='article-detail' data-content-group-name="">
+        
+
+<header class="article-post-hero">
+    <div class="row row-xs--center">
+        <div class="col-xs-20">
+            <div class="article-post-hero__wrapper js-scroll-target">
+                
+                    
+
+<div class="breadcrumbs">
+    <a href="/perspectives/" class="breadcrumbs__breadcrumb"><span class="-visually-hidden">Navigate back to</span>
+            Perspectives
+        </a><img src="/static/svg/arrow_right.svg" class="svg breadcrumbs__arrow" width="8" height="14" alt="" role="presentation"/><span class="-visually-hidden">Navigate back to</span>
+            Insights
+</div>
+
+                
+                <h1 class="article-post-hero__headline">Candid with Index: In Conversation with Fireworks’ Lin Qiao</h1>
+                <div class="container">
+                    <div class="row">
+                        <div>
+                            
+                        </div>
+                        <div class="article-post-hero__social" data-title="Candid with Index: In Conversation with Fireworks’ Lin Qiao" data-url="https://www.indexventures.com/perspectives/candid-with-index-in-conversation-with-fireworks-lin-qiao/">
+                            <ul class="share__social-list">
+                                <li class="share__links-item">
+                                    <span>
+                                        <button type="button" class="share__links-link--social twitter" data-track-event-category="Social Share Click" data-track-event-action="Twitter">
+                                            <span class="share__links-link">X.com</span>
+                                            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" width="9" height="1" fill="currentColor"></rect>
+    <rect x="12" width="9" height="1" transform="rotate(90 12 0)" fill="currentColor"></rect>
+    <rect x="11.7422" y="0.960938" width="15.6047" height="1" transform="rotate(135 11.7422 0.960938)" fill="currentColor"></rect>
+</svg>
+                                        </button>
+                                    </span>
+                                </li>
+                                <li class="share__links-item">
+                                    <span>
+                                        <button type="button" class="share__links-link--social facebook" data-track-event-category="Social Share Click" data-track-event-action="Facebook">
+                                            <span class="share__links-link">Facebook</span>
+                                            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" width="9" height="1" fill="currentColor"></rect>
+    <rect x="12" width="9" height="1" transform="rotate(90 12 0)" fill="currentColor"></rect>
+    <rect x="11.7422" y="0.960938" width="15.6047" height="1" transform="rotate(135 11.7422 0.960938)" fill="currentColor"></rect>
+</svg>
+                                        </button>
+                                    </span>
+                                </li>
+                                <li class="share__links-item">
+                                    <span>
+                                        <button type="button" class="share__links-link--social linkedin" data-track-event-category="Social Share Click" data-track-event-action="LinkedIn">
+                                            <span class="share__links-link">Linkedin</span>
+                                            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" width="9" height="1" fill="currentColor"></rect>
+    <rect x="12" width="9" height="1" transform="rotate(90 12 0)" fill="currentColor"></rect>
+    <rect x="11.7422" y="0.960938" width="15.6047" height="1" transform="rotate(135 11.7422 0.960938)" fill="currentColor"></rect>
+</svg>
+                                        </button>
+                                    </span>
+                                </li>
+                                <li class="share__links-item share__links-item--webshare">
+                                    <span>
+                                        <button type="button" class="share__links-link--social webshare" data-track-event-category="Social Share Click" data-track-event-action="Webshare">
+                                            <span class="share__links-link">Share</span>
+                                            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" width="9" height="1" fill="currentColor"></rect>
+    <rect x="12" width="9" height="1" transform="rotate(90 12 0)" fill="currentColor"></rect>
+    <rect x="11.7422" y="0.960938" width="15.6047" height="1" transform="rotate(135 11.7422 0.960938)" fill="currentColor"></rect>
+</svg>
+                                        </button>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+        
+            <div class="article-detail__image-section">
+                
+                    
+
+<div class="image-block js-scroll-target image-block--no-caption">
+    <div class="row row-xs--center">
+        <div class="col-xs-20">
+            <div class="row ">
+                <div class="image-block__image-wrapper  col-md-16 ">
+                    
+
+    
+
+    
+        
+		
+			<img src="https://www.indexventures.com/media/images/LinQiao_2964.original.format-webp.webp" srcset="https://www.indexventures.com/media/images/LinQiao_2964.width-320.format-webp.webp 320w, https://www.indexventures.com/media/images/LinQiao_2964.width-480.format-webp.webp 480w, https://www.indexventures.com/media/images/LinQiao_2964.width-768.format-webp.webp 768w, https://www.indexventures.com/media/images/LinQiao_2964.width-1024.format-webp.webp 1024w, https://www.indexventures.com/media/images/LinQiao_2964.width-1200.format-webp.webp 1200w, https://www.indexventures.com/media/images/LinQiao_2964.width-1440.format-webp.webp 1440w, https://www.indexventures.com/media/images/LinQiao_2964.width-1600.format-webp.webp 1600w, https://www.indexventures.com/media/images/LinQiao_2964.width-1920.format-webp.webp 1920w, https://www.indexventures.com/media/images/LinQiao_2964.width-2560.format-webp.webp 2560w, https://www.indexventures.com/media/images/LinQiao_2964.width-2880.format-webp.webp 2880w, https://www.indexventures.com/media/images/LinQiao_2964.width-3840.format-webp.webp 3840w, https://www.indexventures.com/media/images/LinQiao_2964.original.format-webp.webp 5506w" sizes="100vw" style="" class="image-base styled styled image-block__image image-132850" height="4405" width="5506" alt="" />
+		
+    
+
+                    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+                
+            </div>
+        
+        
+        <div class="article-detail__body-content">
+            
+
+
+
+    
+        
+
+<div class="body-copy -bg-color-transparent">
+    <div class="row row-xs--center">
+        <div class="col-xs-20">
+            <div class="row-md--baseline row row-xs--center">
+            	
+                <div class="col-xs-20 col-md-14 ">
+                    <div class="rich-text"><p data-block-key="60n6r">As a girl growing up in China, Lin Qiao spent hours in her father’s office. A mechanical engineer, he designed massive cargo ships, and Lin would sit with his blueprints, tracing the angles and studying how each piece solved a problem.</p><p data-block-key="qg3">Decades later, Lin is picking up where her father left off, only in a different medium. Where he built infrastructure that moved the physical economy, she’s building the infrastructure that moves the intelligent one. At Meta, she led the team behind PyTorch, the open-source framework that became the foundation nearly all modern AI is built on. And now at <a href="https://fireworks.ai/" target="_blank" rel="noopener noreferrer">Fireworks</a>, she’s building the infrastructure companies use to run, customize, and own that intelligence.</p><p data-block-key="9b9i">When we met Lin, she painted a compelling vision for the future of AI. Instead of intelligence belonging to a few big labs and everyone else renting it, she saw a world where every company builds specialized intelligence of its own, harnessing its data, workflows, and customer context to build, serve, and scale the models that matter most to its business.</p><p data-block-key="8aune">That specialized approach is fast becoming the enterprise default. Since we <a href="/perspectives/inference-is-the-new-runtime-our-investment-in-fireworks/">first invested in Fireworks last October</a>, the company’s ARR has grown from $280 million to well over $1 billion, while daily tokens served have nearly tripled, from 15 trillion to more than 43 trillion. Around two-thirds of those tokens now come from specialized models, reflecting how, as open models improve, enterprises like Meta, Uber, and Shopify are increasingly choosing them for the flexibility, economics, and performance they offer.</p><p data-block-key="7lcf8">Today we’re excited to support Fireworks again, co-leading a $1.5 billion Series D alongside our friends at Atreides Management and TCV. This round will help Lin, her co-founders Dmytro Dzhulgakov, Dmytro Ivchenko, James Reed, Pawel Garbacki, Benny Chen, Chenyu Zhao, and the team scale their platform, expand their global compute infrastructure, and help many more enterprises build specialized intelligence of their own.</p><p data-block-key="akaup">To mark the news, our partner Sahir Azam caught up with Lin to talk through her journey, from her early days at IBM and LinkedIn to the insight she saw at Meta that led her to start Fireworks, to the democratized intelligence she sees as the future of AI.</p></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+    
+        <div class="blog-video">
+    <div class="row row-xs--center">
+        <div class="col-xs-20 video">
+            
+                
+
+<div class="youtube-player-container">
+  <div class="youtube-player generate-element-id" data-playable="true"
+       data-url="https://www.youtube.com/watch?v=n7ZBBFL09Nk"
+       data-video-id="n7ZBBFL09Nk"
+  >
+    
+
+    
+
+    
+        
+		
+			<img src="https://www.indexventures.com/media/images/IV_Perspectives_Default.original.format-webp.webp" srcset="https://www.indexventures.com/media/images/IV_Perspectives_Default.width-320.format-webp.webp 320w, https://www.indexventures.com/media/images/IV_Perspectives_Default.width-480.format-webp.webp 480w, https://www.indexventures.com/media/images/IV_Perspectives_Default.width-768.format-webp.webp 768w, https://www.indexventures.com/media/images/IV_Perspectives_Default.original.format-webp.webp 900w" sizes="100vw" style="display: none;" class="image-base styled styled video_thumbnail_fallback image-28919" height="601" width="900" alt="" />
+		
+    
+
+
+    
+      
+
+    
+
+    
+        
+		
+			<img src="https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01PM.original.format-webp.webp" srcset="https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01P.width-320.format-webp.webp 320w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01P.width-480.format-webp.webp 480w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01P.width-768.format-webp.webp 768w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01.width-1024.format-webp.webp 1024w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01.width-1200.format-webp.webp 1200w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01.width-1440.format-webp.webp 1440w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5_AJW7Y8L.30.01.width-1600.format-webp.webp 1600w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01.width-1920.format-webp.webp 1920w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01.width-2560.format-webp.webp 2560w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01.width-2880.format-webp.webp 2880w, https://www.indexventures.com/media/images/Screenshot_2026-07-15_at_5.30.01PM.original.format-webp.webp 2918w" sizes="100vw" style="" class="image-base styled styled video_thumbnail image-132866" height="1534" width="2918" alt="" />
+		
+    
+
+    
+    <img src="/static/svg/play_button.svg" width="70" height="70" class="play-button" alt="Play video" role="presentation"/>
+  </div>
+</div>
+
+            
+
+            
+        </div>
+    </div>
+</div>
+
+    
+
+        </div>
+
+        <div class="row row-xs--center">
+            <div class="col-xs-20 col-md-14">
+                
+                    <p class="article-detail__tags">In this post:
+                        
+                            <a href="/team/sahir-azam/" class="article-detail__tags__tag">Sahir Azam</a>,
+                        
+                            <a href="/companies/fireworks-ai/" class="article-detail__tags__tag">Fireworks</a>
+                        
+                    </p>
+                
+                <p class="article-detail__published-date">
+                    Published — July 16, 2026
+                </p>
+            </div>
+        </div>
+
+        
+            
+
+<div class="featured-posts">
+    <div class="row row-xs--center">
+        <div class="col-xs-20 col-md-18">
+            <ul class="featured-posts__list row row-md--between row-md--top featured-posts__list--double js-scroll-target">
+                
+                    
+                        
+                        <li class="featured-posts__post">
+                            
+                                <a href="/perspectives/scott-morton-revel/" class="featured-posts__image-link">
+                                <span class="featured-posts__image-wrapper">
+                                    
+                                        
+
+    
+
+    
+        
+		
+			<img src="https://www.indexventures.com/media/images/ScottMorton_2394_wlR2H9a.original.format-webp.webp" srcset="https://www.indexventures.com/media/images/ScottMorton_2394_GLb2twS.width-320.format-webp.webp 320w, https://www.indexventures.com/media/images/ScottMorton_2394_gojLYuo.width-480.format-webp.webp 480w, https://www.indexventures.com/media/images/ScottMorton_2394_uPtx3wP.width-768.format-webp.webp 768w, https://www.indexventures.com/media/images/ScottMorton_2394_sAHSPCm.width-1024.format-webp.webp 1024w, https://www.indexventures.com/media/images/ScottMorton_2394_1BAztHd.width-1200.format-webp.webp 1200w, https://www.indexventures.com/media/images/ScottMorton_2394_aCzKpJ3.width-1440.format-webp.webp 1440w, https://www.indexventures.com/media/images/ScottMorton_2394_AV2AVq0.width-1600.format-webp.webp 1600w, https://www.indexventures.com/media/images/ScottMorton_2394_osL8djz.width-1920.format-webp.webp 1920w, https://www.indexventures.com/media/images/ScottMorton_2394_wlR2H9a.original.format-webp.webp 2391w" sizes="(max-width: 767px) 84vw, 34vw" style="" class="image-base styled styled featured-posts__image featured-posts__image-thumbnail image-137301" height="1594" width="2391" alt="" />
+		
+    
+
+                                    
+                                    
+                                    <span class="-off-screen"> This link opens the post, &quot;Maximum Impact, Maximum Adventure: How Scott Morton and Revel Are Enabling the Next Generation of Hardware Companies&quot;</span>
+                                </span>
+                                
+                                <span class="featured-posts__content-wrapper">
+                                    <span class="featured-posts__post-title">Maximum Impact, Maximum Adventure: How Scott Morton and Revel Are Enabling the Next Generation of Hardware Companies</span>
+                                        
+                                        
+                                </span>
+                            </a>
+                        </li>
+                        
+                    
+                
+                    
+                        
+                        <li class="featured-posts__post">
+                            
+                                <a href="/perspectives/radical-care-why-alans-co-founder-is-rewriting-the-rules-of-healthcare/" class="featured-posts__image-link">
+                                <span class="featured-posts__image-wrapper">
+                                    
+                                        
+
+    
+
+    
+        
+		
+			<img src="https://www.indexventures.com/media/images/alan_thumbnail.original.format-webp.webp" srcset="https://www.indexventures.com/media/images/alan_thumbnail.width-320.format-webp.webp 320w, https://www.indexventures.com/media/images/alan_thumbnail.width-480.format-webp.webp 480w, https://www.indexventures.com/media/images/alan_thumbnail.width-768.format-webp.webp 768w, https://www.indexventures.com/media/images/alan_thumbnail.width-1024.format-webp.webp 1024w, https://www.indexventures.com/media/images/alan_thumbnail.width-1200.format-webp.webp 1200w, https://www.indexventures.com/media/images/alan_thumbnail.width-1440.format-webp.webp 1440w, https://www.indexventures.com/media/images/alan_thumbnail.width-1600.format-webp.webp 1600w, https://www.indexventures.com/media/images/alan_thumbnail.original.format-webp.webp 1800w" sizes="(max-width: 767px) 84vw, 34vw" style="" class="image-base styled styled featured-posts__image featured-posts__image-thumbnail image-131871" height="1200" width="1800" alt="" />
+		
+    
+
+                                    
+                                    
+                                    <span class="-off-screen"> This link opens the post, &quot;Radical Care: Why Alan’s Co-Founder is Rewriting The Rules of Healthcare&quot;</span>
+                                </span>
+                                
+                                <span class="featured-posts__content-wrapper">
+                                    <span class="featured-posts__post-title">Radical Care: Why Alan’s Co-Founder is Rewriting The Rules of Healthcare</span>
+                                        
+                                        
+                                </span>
+                            </a>
+                        </li>
+                        
+                    
+                
+            </ul>
+        </div>
+    </div>
+    
+
+    
+</div>
+        
+    </div>
+
+                </article>
+
+				
+					
+				
+
+                
+                  
+
+
+<footer class="footer-container ">
+  <div class=" row row-xs--center">
+    <div class="col-xs-24">
+      <div class="footer ">
+        
+        <div class=" row row-xs--center">
+          <div class="col-xs-20 footer-wrapper">
+            <div class="footer__upper-wrapper">
+              <div class="footer__brand">
+                <svg class="footer__brand-icon footer-logo" width="40" height="33" viewBox="0 0 40 33" fill="#e42313" 
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#footer_logo)">
+        <path d="M18.185 0H0V3.63008H18.185V0Z"/>
+        <path d="M36.4044 7.26016H10.9247V10.8902H36.4044V7.26016Z"/>
+        <path d="M40.0345 14.5549H10.9247V18.185H40.0345V14.5549Z"/>
+        <path d="M36.4044 21.8151H10.9247V25.4451H36.4044V21.8151Z"/>
+        <path d="M29.1096 29.1097H10.9247V32.7398H29.1096V29.1097Z"/>
+    </g>
+    <defs>
+        <clipPath id="footer_logo">
+            <rect width="40" height="32.7398"/>
+        </clipPath>
+    </defs>
+</svg>
+                <span
+                  class="footer__brand-text">Index Ventures</span>
+                <span
+                  class="footer__brand-tooltip footer__lower"><span>We chose the hand as our mark symbolizing the humility, care and effort of entrepreneurs building their businesses. It also stands for our commitment to them as partners in realizing their vision.</span></span>
+              </div>
+              
+              <a
+                class="footer__clocks-wrapper"
+                href="/contact-us/">
+                
+                <span class="footer__clock-item">
+                <span class="footer__clock-item-svg-wrapper">
+                <svg class="footer__clock-item-svg js-clock" data-timezone="America/Los_Angeles" viewBox="0 0 136 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 4.000000)" stroke-width="8">
+            <circle cx="64" cy="64" r="64"></circle>
+            <path class="hand" d="M64,64 L64,12" data-hand="minuteHand" stroke-linecap="square"></path>
+            <path class="hand" d="M64,64 L64,38" data-hand="hourHand" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
+
+                </span>
+                <span
+                  class="footer__clock-item-country-name"> San Francisco </span>
+                </span>
+                
+                <span class="footer__clock-item">
+                <span class="footer__clock-item-svg-wrapper">
+                <svg class="footer__clock-item-svg js-clock" data-timezone="America/New_York" viewBox="0 0 136 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 4.000000)" stroke-width="8">
+            <circle cx="64" cy="64" r="64"></circle>
+            <path class="hand" d="M64,64 L64,12" data-hand="minuteHand" stroke-linecap="square"></path>
+            <path class="hand" d="M64,64 L64,38" data-hand="hourHand" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
+
+                </span>
+                <span
+                  class="footer__clock-item-country-name"> New York </span>
+                </span>
+                
+                <span class="footer__clock-item">
+                <span class="footer__clock-item-svg-wrapper">
+                <svg class="footer__clock-item-svg js-clock" data-timezone="Europe/London" viewBox="0 0 136 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 4.000000)" stroke-width="8">
+            <circle cx="64" cy="64" r="64"></circle>
+            <path class="hand" d="M64,64 L64,12" data-hand="minuteHand" stroke-linecap="square"></path>
+            <path class="hand" d="M64,64 L64,38" data-hand="hourHand" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
+
+                </span>
+                <span
+                  class="footer__clock-item-country-name"> London </span>
+                </span>
+                
+              </a>
+              
+            </div>
+
+            <div class="footer__lower-wrapper">
+              <div class="footer__lower ">
+                <div class="footer__links">
+                  <ul class="footer__panels-list">
+                    
+                    <li>
+                      <p class="footer__panel-title">CONTACT</p>
+                      <ul class="footer__links-list">
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="/contact-us/">Offices</a>
+                        </li>
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="/team/">Team</a>
+                        </li>
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="https://x.com/indexventures">X.com</a>
+                        </li>
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="https://www.linkedin.com/company/index-ventures">LinkedIn</a>
+                        </li>
+                        
+                      </ul>
+                    </li>
+                    
+                    <li>
+                      <p class="footer__panel-title">RESOURCES</p>
+                      <ul class="footer__links-list">
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="/startup-jobs/">Startup Jobs</a>
+                        </li>
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="/index-press/rewarding-talent/">Stock Options</a>
+                        </li>
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="/index-press/winning-in-the-us/">Winning in the US</a>
+                        </li>
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="/index-press/scaling-through-chaos/">Scaling Through Chaos</a>
+                        </li>
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="https://www.notoptional.eu">Not Optional</a>
+                        </li>
+                        
+                      </ul>
+                    </li>
+                    
+                    <li>
+                      <p class="footer__panel-title">LP</p>
+                      <ul class="footer__links-list">
+                        
+                        <li class="footer__links-item">
+                          <a
+                            class=""
+                            href="/lp-login/">Login</a>
+                        </li>
+                        
+                      </ul>
+                    </li>
+                    
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="footer__legal-links">
+              <ul class="footer__legal-links__list">
+                
+                <li class="footer__links-links__item">
+                  <a class=""
+                     href="/disclaimer/">Disclaimers &amp; Disclosures</a>
+                </li>
+                
+                <li class="footer__links-links__item">
+                  <a class=""
+                     href="/modern-slavery-act/">Modern Slavery Act</a>
+                </li>
+                
+                <li class="footer__links-links__item">
+                  <a class=""
+                     href="/tcfd-disclosure-statement/">TCFD Diclosure</a>
+                </li>
+                
+                <li class="footer__links-links__item">
+                  <a class=""
+                     href="/privacy-policy/">Privacy</a>
+                </li>
+                
+              </ul>
+            </div>
+            <div class="footer__copyright">
+              Copyright &copy;2026 Index Ventures
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+                
+            </div>
+        </div>
+        <div class="search-scrim js-search-scrim"></div>
+
+        
+
+
+<div class="wtm_cookie_bar_wrapper">
+    <div id="wtm_cookie_bar" class="cleanslate hidden">
+        <div class="inner col-xs-20">
+			<div class="icon-and-title">
+				<svg xmlns="http://www.w3.org/2000/svg"
+					 enable-background="new 0 0 24 24" height="24px"
+					 viewBox="0 0 24 24" width="24px" fill="#fff">
+					<rect fill="none" height="24" width="24"/>
+					<path d="M10.5,13H8v-3h2.5V7.5h3V10H16v3h-2.5v2.5h-3V13z M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2 z M18,11.09c0,4-2.55,7.7-6,8.83c-3.45-1.13-6-4.82-6-8.83v-4.7l6-2.25l6,2.25V11.09z"/>
+				</svg>
+				<h2>This website uses cookies</h2>
+			</div>
+			<div class="inner-container">
+				<div class="content-container">
+					<p>
+						This website uses cookies and other tracking technologies for
+						functional and analytical purposes.
+						To improve your browsing experience on our site,
+						we would also like to place tracking cookies.
+					</p>
+					<p id="thumbnail-link-text" class="hidden" aria-hidden="true">
+						If you prefer to reject the cookies, please use this link to access the video:<br/>
+						<a id="thumbnail-video-link" href="https://www.indexventures.com" target="_blank" rel="noopener noreferrer">www.indexventures.com</a>
+					</p>
+				</div>
+            	<div class="action-container">
+                <button id="wtm_cookie_bar_manage" class="button button-label" aria-label="Manage cookies">
+                    <span>Manage cookies</span>
+                </button>
+                <div id="declaration-container-outer" class="hidden">
+                    <div id="declaration-container">
+                        <div class="accordion is-open">
+                            <div id="accordion-header-necessary" class="accordion-header">
+                                <svg class="accordion-arrow" xmlns="http://www.w3.org/2000/svg" height="24px"
+                                     viewBox="0 0 24 24" width="24px" fill="#FFFFFF">
+                                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                                    <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z"/>
+                                </svg>
+                                <h3 class="accordion-title">Necessary</h3>
+                                <input type="checkbox" name="necessary" required="" disabled="" id="id_necessary"
+                                       checked="" aria-label="Necessary cookies">
+                            </div>
+
+                            <div class="accordion-content">
+                                <table id="necessary-table" class="declaration-table">
+                                    <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Domain</th>
+                                        <th>Purpose</th>
+                                        <th>Expiration</th>
+                                        <th>Security</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td data-label="Name">Homepage Popup</td>
+                                        <td data-label="Domain">indexventures.com</td>
+                                        <td data-label="Purpose">We set a cookie to prevent showing you the home screen
+                                            overlay more than once.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+									<tr>
+										<td data-label="Name">Newsletter Popup</td>
+										<td data-label="Domain">indexventures.com</td>
+										<td data-label="Purpose">We set a cookie to prevent showing you the newsletter
+											popup more than once.
+										</td>
+										<td data-label="Expiration">1 year</td>
+										<td data-label="Security">HTTPS</td>
+									</tr>
+                                    <tr>
+                                        <td data-label="Name">Index</td>
+                                        <td data-label="Domain">indexventures.com</td>
+                                        <td data-label="Purpose">We store your cookie preferences.</td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="accordion">
+                            <div id="accordion-header-media" class="accordion-header">
+                                <svg class="accordion-arrow" xmlns="http://www.w3.org/2000/svg" height="24px"
+                                     viewBox="0 0 24 24" width="24px" fill="#FFFFFF">
+                                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                                    <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z"/>
+                                </svg>
+                                <h3 class="accordion-title">Media</h3>
+                                <input type="checkbox" name="media" id="id_media" aria-label="Media cookies">
+                            </div>
+
+                            <div class="accordion-content">
+                                <table id="media-table" class="declaration-table">
+                                    <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Domain</th>
+                                        <th>Purpose</th>
+                                        <th>Expiration</th>
+                                        <th>Security</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td data-label="Name">LinkedIn</td>
+                                        <td data-label="Domain">linkedin.com</td>
+                                        <td data-label="Purpose">If enabled we will embed LinkedIn posts directly on the
+                                            site.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="Name">X</td>
+                                        <td data-label="Domain">x.com</td>
+                                        <td data-label="Purpose">If enabled we will embed posts directly on the site.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="Name">TypeForm</td>
+                                        <td data-label="Domain">typeform.com</td>
+                                        <td data-label="Purpose">If enabled we will embed TypeForm forms directly on the
+                                            site.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="Name">Vimeo</td>
+                                        <td data-label="Domain">vimeo.com</td>
+                                        <td data-label="Purpose">If enabled we will embed Vimeo videos directly on the
+                                            site, if not we'll display a thumbnail. Vimeo sends data collected to a
+                                            server located in USA.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="Name">Youtube</td>
+                                        <td data-label="Domain">youtube.com</td>
+                                        <td data-label="Purpose">If enabled we will embed youtube videos directly on the
+                                            site, if not we'll display a thumbnail.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="Name">Simplecast</td>
+                                        <td data-label="Domain">simplecast.com</td>
+                                        <td data-label="Purpose">If enabled we will embed Simplecast player directly on the
+                                            site, if not we'll display a prompt.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="accordion">
+                            <div id="accordion-header-analytics" class="accordion-header">
+                                <svg class="accordion-arrow" xmlns="http://www.w3.org/2000/svg" height="24px"
+                                     viewBox="0 0 24 24" width="24px" fill="#FFFFFF">
+                                    <path d="M0 0h24v24H0V0z" fill="none"></path>
+                                    <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z"></path>
+                                </svg>
+                                <h3 class="accordion-title">Analytics</h3>
+                                <input type="checkbox" name="analytics" id="id_analytics" aria-label="Analytics cookies">
+                            </div>
+
+                            <div class="accordion-content">
+                                <table id="analytics-table" class="declaration-table">
+                                    <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Domain</th>
+                                        <th>Purpose</th>
+                                        <th>Expiration</th>
+                                        <th>Security</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td data-label="Name">Google Analytics</td>
+                                        <td data-label="Domain">google.com</td>
+                                        <td data-label="Purpose">To help us provide the best quality content we monitor
+                                            the most popular pages on our site.
+                                        </td>
+                                        <td data-label="Expiration">1 year</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="Name">Hubspot</td>
+                                        <td data-label="Domain">hubspot.com</td>
+                                        <td data-label="Purpose">We use hubspot for managing our newsletter</td>
+                                        <td data-label="Expiration">6 months</td>
+                                        <td data-label="Security">HTTPS</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="buttons-right">
+                            <button id="wtm_cookie_bar_submit" class="button" aria-label="Save preferences">Save preferences</button>
+                        </div>
+                    </div>
+                </div>
+                <button id="wtm_cookie_bar_accept_all" class="button" aria-label="Accept all cookies">Accept all
+                    cookies
+                </button>
+            </div>
+			</div>
+        </div>
+    </div>
+    <div id="wtm_cookie_bar_open_button">
+        <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24"
+             width="24px" fill="#666">
+            <rect fill="none" height="24" width="24"/>
+            <path d="M10.5,13H8v-3h2.5V7.5h3V10H16v3h-2.5v2.5h-3V13z M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2 z M18,11.09c0,4-2.55,7.7-6,8.83c-3.45-1.13-6-4.82-6-8.83v-4.7l6-2.25l6,2.25V11.09z"/>
+        </svg>
+    </div>
+</div>
+
+
+
+        
+        <script type="text/javascript" src="https://www.indexventures.com/static/js/app.bundle.af23dc8b15ec.js" ></script>
+
+        <!-- Build: 7578c9efe20f26d7821b1b2118e230febca30077 -->
+    </body>
+</html>

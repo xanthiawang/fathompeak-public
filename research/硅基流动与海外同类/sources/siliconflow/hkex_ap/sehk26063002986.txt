@@ -1,0 +1,4337 @@
+[p1] The following is the text of a report set out on pages I-1 to I-[41], received from the Company’s
+reporting accountant, PricewaterhouseCoopers, Certified Public Accountants, Hong Kong, for the
+purpose of incorporation in this document. It is prepared and addressed to the directors of the Company
+and to the Joint Sponsors pursuant to the requirements of HKSIR 200 Accountants’ Reports on Historical
+Financial Information in Investment Circulars issued by the Hong Kong Institute of Certified Public
+Accountants.
+[Letterhead of PricewaterhouseCoopers]
+[DRAFT]
+ACCOUNTANT’S
+REPORT
+ON
+HISTORICAL
+FINANCIAL
+INFORMATION
+TO
+THE
+DIRECTORS
+OF
+BEIJING
+SILICONFLOW
+TECHNOLOGY
+CO.,
+LTD.
+AND
+HUATAI
+FINANCIAL
+HOLDINGS
+(HONG
+KONG)
+LIMITED
+AND
+HAITONG
+INTERNATIONAL
+CAPITAL LIMITED
+Introduction
+We report on the historical financial information of Beijing SiliconFlow Technology Co., Ltd. (the
+“Company”) and its subsidiaries (together, the “Group”) set out on pages I-[3] to I-[41] which comprises
+the consolidated and the company statements of financial position as at December 31, 2023, 2024 and
+2025, and the consolidated statements of loss, the consolidated statements of comprehensive loss, the
+consolidated statements of changes in deficit and the consolidated statements of cash flows for the period
+from August 29, 2023 (date of incorporation) to December 31, 2023 and for each of the years ended
+December 31, 2024 and 2025 (the “Track Record Period”) and material accounting policy information and
+other explanatory information (together, the “Historical Financial Information”). The Historical Financial
+Information set out on pages I-[3] to I-[41] forms an integral part of this report, which has been prepared
+for inclusion in the document of the Company dated [date] (the “Document”) in connection with the initial
+[REDACTED] of H shares of the Company on the Main Board of The Stock Exchange of Hong Kong
+Limited.
+Directors’ responsibility for the Historical Financial Information
+The directors of the Company are responsible for the preparation of Historical Financial Information
+that gives a true and fair view in accordance with the basis of preparation set out in Note 2 to the Historical
+Financial Information, and for such internal control as the directors determine is necessary to enable the
+preparation of Historical Financial Information that is free from material misstatement, whether due to
+fraud or error.
+Reporting accountant’s responsibility
+Our responsibility is to express an opinion on the Historical Financial Information and to report our
+opinion to you. We conducted our work in accordance with Hong Kong Standard on Investment Circular
+Reporting Engagements 200, Accountants’ Reports on Historical Financial Information in Investment
+Circulars issued by the Hong Kong Institute of Certified Public Accountants (“HKICPA”). This standard
+requires that we comply with ethical standards and plan and perform our work to obtain reasonable
+assurance about whether the Historical Financial Information is free from material misstatement.
+Our work involved performing procedures to obtain evidence about the amounts and disclosures in
+the Historical Financial Information. The procedures selected depend on the reporting accountant’s
+judgement, including the assessment of risks of material misstatement of the Historical Financial
+Information, whether due to fraud or error. In making those risk assessments, the reporting accountant
+considers internal control relevant to the entity’s preparation of Historical Financial Information that gives
+a true and fair view in accordance with the basis of preparation set out in Note 2 to the Historical Financial
+Information in order to design procedures that are appropriate in the circumstances, but not for the purpose
+of expressing an opinion on the effectiveness of the entity’s internal control. Our work also included
+evaluating the appropriateness of accounting policies used and the reasonableness of accounting estimates
+made by the directors, as well as evaluating the overall presentation of the Historical Financial
+Information.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-1 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for
+our opinion.
+Opinion
+In our opinion, the Historical Financial Information gives, for the purposes of the accountant’s
+report, a true and fair view of the financial position of the Company and the consolidated financial position
+of the Group as at December 31, 2023, 2024 and 2025 and of its consolidated financial performance and
+its consolidated cash flows for the Track Record Period in accordance with the basis of preparation set out
+in Note 2 to the Historical Financial Information.
+Report on matters under the Rules Governing the Listing of Securities on The Stock Exchange of
+Hong Kong Limited and the Companies (Winding Up and Miscellaneous Provisions) Ordinance
+Adjustments
+In preparing the Historical Financial Information, no adjustments to the Underlying Financial
+Statements as defined on page I-[3] have been made.
+Dividends
+We refer to note 28 to the Historical Financial Information which states that no dividends have been
+paid by Beijing SiliconFlow Technology Co., Ltd. in respect of the Track Record Period.
+[PricewaterhouseCoopers]
+Certified Public Accountants
+Hong Kong, [Date]
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-2 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] I.
+HISTORICAL FINANCIAL INFORMATION OF THE GROUP
+Preparation of Historical Financial Information
+Set out below is the Historical Financial Information which forms an integral part of this
+accountant’s report.
+The consolidated financial statements of the Group for the Track Record Period, on which the
+Historical Financial Information is based, were audited by PricewaterhouseCoopers in accordance with
+International Standards on Auditing issued by the International Auditing and Assurance Standards Board
+(the “Underlying Financial Statements”).
+The Historical Financial Information is presented in Renminbi (“RMB”) and all values are rounded
+to the nearest thousand of RMB (RMB’000) except when otherwise indicated.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-3 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p4] CONSOLIDATED STATEMENTS OF LOSS AND OTHER COMPREHENSIVE LOSS
+Note
+Period from
+August 29 to
+December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Revenue 
+6
+6
+7,346
+55,330
+Cost of revenue 
+7
+(1)
+(4,452)
+(68,632)
+Gross profit/(loss)
+5
+2,894
+(13,302)
+Selling and marketing expenses 
+7
+(110)
+(6,392)
+(83,743)
+General and administrative expenses 
+7
+(1,219)
+(9,094)
+(21,843)
+Research and development expenses 
+7
+(10,841)
+(64,475)
+(209,176)
+Net impairment losses on financial assets 
+–
+(91)
+(306)
+Other income and (losses)/gains-net 
+9
+–
+(100)
+5,020
+Operating losses 
+(12,165)
+(77,258)
+(323,350)
+Finance income 
+10
+–
+422
+1,420
+Finance costs
+10
+(58)
+(5,079)
+(23,561)
+Finance costs – net
+(58)
+(4,657)
+(22,141)
+Loss before income tax
+(12,223)
+(81,915)
+(345,491)
+Income tax expense 
+11
+–
+–
+–
+Loss for the period/year 
+(12,223)
+(81,915)
+(345,491)
+Loss attributable to:
+Owners of the Company
+(12,223)
+(81,915)
+(345,491)
+Other comprehensive income
+Total other comprehensive income for the
+period/year, net of tax
+–
+–
+–
+Total comprehensive loss for the
+period/year 
+(12,223)
+(81,915)
+(345,491)
+Total comprehensive loss attributable to: 
+Owners of the Company
+(12,223)
+(81,915)
+(345,491)
+Loss per share attributable to the owners of
+the Company
+Basic and diluted loss per share (in RMB per
+share) 
+12
+(8.77)
+(19.33)
+(33.33)
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-4 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p5] CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+As at December 31,
+Note
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Assets
+Non-current assets:
+Property, plant and equipment 
+14
+–
+527
+927
+Right-of-use assets
+15
+1,989
+6,176
+5,358
+Other non-current assets
+17
+–
+–
+1,096
+Total non-current assets 
+1,989
+6,703
+7,381
+Current assets:
+Prepayments and other receivables 
+17
+446
+4,251
+15,541
+Trade receivables
+18
+–
+3,597
+10,582
+Time deposits 
+19
+–
+–
+100,000
+Cash and cash equivalents 
+20
+4,874
+49,737
+171,533
+Total current assets 
+5,320
+57,585
+297,656
+Total assets
+7,309
+64,288
+305,037
+Net current assets
+2,898
+28,356
+118,697
+Deficit
+Paid-in capital 
+21
+22
+12,758
+16,527
+Share-based payments reserves 
+22
+–
+8,411
+50,947
+Capital reserves 
+22
+11,423
+(4,859)
+(16,532)
+Accumulated losses 
+(12,223)
+(94,138)
+(439,629)
+Deficit attributable to owners of the
+Company 
+(778)
+(77,828)
+(388,687)
+Total deficit 
+(778)
+(77,828)
+(388,687)
+Liabilities
+Non-current liabilities
+Lease liabilities 
+15
+642
+3,629
+1,298
+Redemption liabilities 
+23
+5,023
+107,243
+498,629
+Share-based compensation liabilities 
+24
+–
+2,015
+14,838
+Total non-current liabilities 
+5,665
+112,887
+514,765
+Current liabilities
+Borrowings 
+27
+–
+–
+40,000
+Trade and other payables 
+25
+1,100
+12,825
+31,455
+Share-based compensation liabilities 
+24
+–
+12,458
+92,437
+Contract liabilities 
+6
+–
+1,122
+653
+Receipts in advance 
+26
+–
+331
+10,243
+Lease liabilities 
+15
+1,322
+2,493
+4,171
+Total current liabilities
+2,422
+29,229
+178,959
+Total liabilities 
+8,087
+142,116
+693,724
+Total liabilities and deficit 
+7,309
+64,288
+305,037
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-5 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p6] COMPANY STATEMENTS OF FINANCIAL POSITION
+As at December 31,
+Note
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Assets
+Non-current assets
+Property, plant and equipment 
+14
+–
+527
+927
+Right-of-use assets
+15
+1,989
+6,176
+5,358
+Other non-current assets
+17
+–
+–
+1,096
+Total non-current assets 
+1,989
+6,703
+7,381
+Current assets
+Prepayments and other receivables 
+17
+446
+4,251
+12,165
+Trade receivable 
+18
+–
+3,597
+10,582
+Time deposits 
+19
+–
+–
+100,000
+Cash and cash equivalents 
+20
+4,874
+49,736
+171,523
+Total current assets 
+5,320
+57,584
+294,270
+Total assets
+7,309
+64,287
+301,651
+Net current assets
+2,898
+28,355
+118,699
+Deficit
+Deficit attributable to owners of the
+Company
+Paid-in capital 
+21
+22
+12,758
+16,527
+Share-based payments reserves 
+22
+–
+8,411
+50,947
+Capital reserves 
+22
+11,423
+(4,859)
+(16,532)
+Accumulated losses 
+(12,223)
+(94,139)
+(439,627)
+Total deficit 
+(778)
+(77,829)
+(388,685)
+Liabilities
+Non-current liabilities
+Lease liabilities 
+15
+642
+3,629
+1,298
+Redemption liabilities 
+23
+5,023
+107,243
+498,629
+Share-based compensation liabilities 
+24
+–
+2,015
+14,838
+Total non-current liabilities 
+5,665
+112,887
+514,765
+Current liabilities
+Borrowing 
+27
+–
+–
+40,000
+Trade and other payables 
+25
+1,100
+12,825
+28,067
+Share-based compensation liabilities 
+24
+–
+12,458
+92,437
+Contract liabilities 
+6
+–
+1,122
+653
+Receipts in advance 
+26
+–
+331
+10,243
+Lease liabilities 
+15
+1,322
+2,493
+4,171
+Total current liabilities
+2,422
+29,229
+175,571
+Total liabilities 
+8,087
+142,116
+690,336
+Total liabilities and deficit 
+7,309
+64,287
+301,651
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-6 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p7] CONSOLIDATED STATEMENTS OF CHANGES IN DEFICIT
+Attributable to owners of the Company
+Note
+Paid-in
+capital
+Capital
+Reserves
+Share-based
+payments
+reserves
+Accumulated
+losses
+Total deficit
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+Balance at August 29,
+2023 
+–
+–
+–
+–
+–
+Comprehensive loss
+Loss for the period 
+–
+–
+–
+(12,223)
+(12,223)
+Total comprehensive loss
+for the period 
+–
+–
+–
+(12,223)
+(12,223)
+Transactions with owners
+in their capacity as
+owners:
+Contribution from
+shareholders 
+22
+5,378
+–
+–
+5,400
+Recognition of redemption
+liabilities
+23
+–
+(5,000)
+–
+–
+(5,000)
+Debt waived by the
+Controlling Shareholder 
+22
+–
+11,045
+–
+–
+11,045
+Total transactions with
+owners in their
+capacity as owners 
+22
+11,423
+–
+–
+11,445
+Balance at December 31,
+2023 
+22
+11,423
+–
+(12,223)
+(778)
+Balance at January 1,
+2024 
+22
+11,423
+–
+(12,223)
+(778)
+Comprehensive loss
+Loss for the year 
+–
+–
+–
+(81,915)
+(81,915)
+Total comprehensive loss
+for the year 
+–
+–
+–
+(81,915)
+(81,915)
+Transactions with owners
+in their capacity as
+owners:
+Contribution from
+shareholders 
+354
+93,300
+–
+–
+93,654
+Recognition of redemption
+liabilities
+23
+–
+(97,200)
+–
+–
+(97,200)
+Share-based compensation 
+–
+–
+8,411
+–
+8,411
+Capital reserve transferred
+to paid-in capital 
+12,382
+(12,382)
+–
+–
+–
+Total transactions with
+owners in their
+capacity as owners 
+12,736
+(16,282)
+8,411
+–
+4,865
+Balance at December 31,
+2024 
+12,758
+(4,859)
+8,411
+(94,138)
+(77,828)
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-7 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p8] Attributable to owners of the Company
+Note
+Paid-in
+capital
+Capital
+Reserves
+Share-based
+payments
+reserves
+Accumulated
+losses
+Total deficit
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+Balance at January 1,
+2025 
+12,758
+(4,859)
+8,411
+(94,138)
+(77,828)
+Comprehensive loss
+Loss for the year 
+–
+–
+–
+(345,491)
+(345,491)
+Total comprehensive loss
+for the year 
+–
+–
+–
+(345,491)
+(345,491)
+Transactions with owners
+in their capacity as
+owners:
+Contribution from
+shareholders 
+3,769
+356,637
+–
+–
+360,406
+Recognition of redemption
+liabilities
+23
+–
+(368,310)
+–
+–
+(368,310)
+Share-based compensation 
+–
+–
+42,536
+–
+42,536
+Total transactions with
+owners in their
+capacity as owners 
+3,769
+(11,673)
+42,536
+–
+34,632
+Balance at December 31,
+2025 
+16,527
+(16,532)
+50,947
+(439,629)
+(388,687)
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-8 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p9] CONSOLIDATED STATEMENTS OF CASH FLOWS
+Note
+Period from
+August 29 to
+December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Cash flows from operating activities
+Cash used in operations 
+29
+(298)
+(46,932)
+(173,822)
+Interest received 
+–
+422
+1,420
+Net cash used in operating activities 
+(298)
+(46,510)
+(172,402)
+Cash flows from investing activities
+Payments for purchase of property, plant and
+equipment 
+(28)
+(651)
+(758)
+Payments of deposits related to lease 
+–
+–
+(1,108)
+Purchase of time deposits
+–
+–
+(100,000)
+Net cash used in investing activities 
+(28)
+(651)
+(101,866)
+Cash flows from financing activities
+Proceeds from issuance of shares 
+5,000
+97,230
+368,310
+Payments of issuance costs
+–
+(3,576)
+(7,904)
+Proceeds from borrowings – related party 
+31
+200
+–
+–
+Proceeds from bank borrowings 
+27
+–
+–
+40,000
+Repayments of borrowings – related party
+31
+–
+(200)
+–
+Payments of interests on bank borrowings 
+10
+–
+–
+(105)
+Payments of lease liabilities 
+–
+(1,430)
+(4,237)
+Net cash generated from financing
+activities 
+5,200
+92,024
+396,064
+Net increase in cash and cash equivalents 
+4,874
+44,863
+121,796
+Cash and cash equivalents at beginning of the
+period/year
+–
+4,874
+49,737
+Cash and cash equivalents at end of the
+period/year 
+20
+4,874
+49,737
+171,533
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-9 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p10] 1
+GENERAL INFORMATION
+Beijing SiliconFlow Technology Co., Ltd. (“SiliconFlow” or the “Company”) was incorporated on August 29, 2023 as a
+limited liability company in the People’s Republic of China (“China”). The Company is ultimately controlled by Dr. Yuan Jinhui (the
+“Controlling Shareholder”).
+The Company together with its subsidiaries (collectively referred to as the “Group”) are primarily engaged in providing
+scalable AI infrastructure for tokens delivery and on-premises deployment solutions to developers and enterprise customers.
+The Company’s principal subsidiaries during the Track Record Period and as at the date of this report are set out in Note 13.
+2
+BASIS OF PREPARATION
+(a)
+Basis of preparation
+The Historical Financial Information of the Group has been prepared in accordance with IFRS Accounting Standards (“IFRS
+Accounting Standards”) as issued by the International Accounting Standards Board (“IASB”).
+IFRS Accounting Standards comprise the following authoritative literature:
+–
+International Financial Reporting Standards (“IFRS”);
+–
+IAS Standards (“IAS”); and
+–
+Interpretations developed by the IFRS Interpretations Committee (“IFRIC Interpretations”) or its predecessor body, the
+Standing Interpretations Committee (“SIC Interpretations”).
+The Historical Financial Information has been prepared on a historical cost convention, except for financial assets at fair value
+through profit or loss, which are carried at fair value.
+The preparation of Historical Financial Information in conformity with IFRS Accounting Standards requires the use of certain
+critical accounting estimates. It also requires management to exercise its judgment in the process of applying the Group’s accounting
+policies. The areas involving a higher degree of judgment or complexity, or areas where assumptions and estimates are significant
+to the Historical Financial Information are disclosed in Note 4 below.
+The Historical Financial Information is presented in RMB and all values are rounded to the nearest thousand (RMB’000)
+unless when otherwise stated.
+(i)
+Going Concern basis
+The Group’s total liabilities were approximately RMB8,087,000, RMB142,116,000 and RMB693,724,000 on December 31,
+2023, 2024 and 2025, respectively. These liabilities were mainly due to the separate redemption rights granted to investors in
+financing, for which the Group recorded redemption liabilities (“Redemption Liabilities”) with amount of RMB5,023,000,
+RMB107,243,000 and RMB498,629,000 on December 31, 2023, 2024 and 2025, respectively (Note 23).
+The directors of the Company (the “Directors”) have assessed the redemption features of the Redemption Liabilities as set
+out in Note 23 and concluded that the only likely event or situation which may trigger the Group to redeem these financial
+instruments in cash is that the Company fails to complete a qualified [REDACTED] before December 31, 2030. Therefore, the
+Directors concluded that it is not expected the Group will incur any cash outflows to settle or redeem the Redemption Liabilities
+within the next twelve months from December 31, 2025.
+The Directors have reviewed the Group’s cash flow forecast which covers a period of not less than twelve months from
+December 31, 2025. Based on the review of the cash flow forecast and taking into account the considerations as mentioned in the
+preceding paragraph, the Directors have concluded that the Group will have adequate financial resources to continue its operations
+in the foreseeable future and to meet its financial obligations as and when they fall due within the next twelve months from December
+31, 2025. Accordingly, the Directors have prepared the Historical Financial Information on a going concern basis.
+(ii)
+New and amended standards adopted by the Group
+All effective standards, amendments to standards and interpretations, which are mandatorily effective for the financial year
+beginning on January 1, 2025, are consistently applied to the Group for the Track Record Period.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-10 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p11] Standards, amendments and interpretations that have been issued but not yet effective and not been early adopted by the Group
+during the Track Record Period are as follows:
+New and amended standards and annual improvements
+Effective for annual
+periods beginning
+on or after
+Amendments to IFRS 9
+and IFRS 7
+Amendments to the Classification and Measurement of Financial
+Instruments
+January 1, 2026
+Amendments to IFRS 9
+and IFRS 7
+Contracts referencing nature-dependent electricity
+January 1, 2026
+Annual Improvements to
+IFRS
+Volume 11 IFRS accounting standards
+January 1, 2026
+IFRS 18
+Presentation and Disclosure in Financial Statements
+January 1, 2027
+IFRS 19
+Subsidiaries without Public Accountability: Disclosures
+January 1, 2027
+Amendments to IAS 21
+Translation to a Hyperinflationary Presentation Currency
+January 1, 2027
+Amendments to IFRS 10
+and IAS 28
+Sale or Contribution of Assets between an Investor and its
+Associate or Joint Venture
+To be determined
+The Group has already commenced an assessment of the impact of these new or revised standards, amendments and
+interpretations, certain of which are relevant to the Group’s operations. According to the preliminary assessment made by the
+directors, these standards and amendments are not expected to have a material impact on the Group’s financial performance and
+position, except IFRS 18.
+IFRS 18 will replace IAS 1 Presentation of Financial Statements, introducing new requirements that will help to achieve
+comparability of the financial performance of similar entities and provide more relevant information and transparency to users. Even
+though IFRS 18 will not impact the recognition or measurement of items in the financial statements, its impacts on presentation and
+disclosure are expected to be pervasive, in particular those related to the statement of financial performance and providing
+management-defined performance measures within the financial statements.
+The application of IFRS 18 is not expected to have a material impact on the financial position of the Group but is expected
+to affect the statement of cash flows and additional disclosure will be included in the financial statements.
+The Group expects to apply the new standard from its mandatory effective date on January 1, 2027. Retrospective application
+is required, and so the comparative information for the financial year will be restated upon the adoption of IFRS 18 in 2027.
+3
+FINANCIAL RISK MANAGEMENT
+3.1
+Financial risk factors
+The Group’s activities expose it to a variety of financial risks: market risk (including interest rate risk), credit risk and
+liquidity risk. The Group’s overall risk management program focuses on the unpredictability of financial markets and seeks to
+minimize potential adverse effects on the Group’s financial performance. Risk management is carried out by the senior management
+of the Group.
+(a)
+Market risk
+(i)
+Interest rate risk
+Except for cash and cash equivalents, redemption liabilities and borrowings, the Group has no other significant
+interest-bearing assets or liabilities.
+The Group’s interest rate risk primarily arises from borrowings. Borrowings carried at variable rates expose the Group to cash
+flow interest rate risk whereas those at fixed rates expose the Group to fair value interest rate risk.
+The interest rates and terms of repayments of borrowings are disclosed in Note 27. The Group did not use any interest rate
+swap contracts or other financial instruments to hedge against its interest rate risk for the Track Record Period. As at December 31,
+2023 and 2024, the Group had no outstanding borrowings. As at December 31 2025, the Group’s borrowings at fixed rates are
+RMB40,000,000.
+The Group regularly monitors its interest rate risk to ensure there is no undue exposure to significant interest rate movements.
+(b)
+Credit risk
+Credit risk arises from cash and cash equivalents, trade receivables, and other receivables. The carrying amount of each class
+of the above financial assets represents the Group’s maximum exposure to credit risk in relation to the corresponding class of
+financial assets.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-11 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p12] (i)
+Risk management
+The credit risk of cash and cash equivalents is limited because the counterparties are mainly state-owned or reputable
+commercial institutions located in the PRC.
+For trade receivables and other receivables, management makes periodic as well as individual assessments on the
+recoverability based on historical settlement records and past experience and adjusts for forward looking information on
+macroeconomic factors affecting the ability of the debtors to settle the receivables.
+(ii)
+Impairment of financial assets
+The Group has three types of financial assets that are subject to the expected credit loss model:
+•
+Trade receivables
+•
+Other receivables
+•
+Other non-current assets
+While cash and cash equivalents and time deposits are also subject to the impairment requirements of IFRS 9, the identified
+impairment loss was immaterial.
+Trade receivables
+The Group applies the IFRS 9 simplified approach to measure expected credit losses which uses a lifetime expected loss
+allowance for all trade receivables.
+To measure the expected credit losses, trade receivables have been grouped based on shared credit risk characteristics.
+The directors of the Group believe that there is no material credit risk inherent in the Group’s outstanding balance of trade
+receivables, details of which have been disclosed in Note 18.
+The movements on the allowance for impairment of trade receivables are as follows:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+At beginning of the period/year                 
+–
+–
+87
+Impairment losses on trade receivables             
+–
+87
+296
+Reversal of impairment of trade receivables          
+–
+–
+–
+At end of the period/year (Note 18)               
+–
+87
+383
+Other receivables and other non-current assets
+The Group classifies other receivables and other non-current assets which reflect their credit risks and how the expected credit
+loss provision is determined for each of those categories. The Group accounts for its credit risk by appropriately providing for
+expected credit losses on a timely basis. In calculating the expected credit loss rates, the Group considers both historical loss rates
+and forward-looking macroeconomic data. There are no significant increases in credit risk of the receivables comparing with initial
+recognition. Management believes that the credit risk inherent in these outstanding receivables is not significant.
+(c)
+Liquidity Risk
+The Group aims to maintain sufficient cash to meet obligations falling due as well as operating and capital requirements.
+The table below analyzes the Group’s non-derivative financial liabilities into relevant maturity grouping based on the
+remaining year at each balance sheet date to the contractual maturity date. Balances due within 12 months equal their carrying
+balances as the impact of discounting is not significant.
+The amounts disclosed in the table are the contractual undiscounted cash flows as at December 31, 2023:
+Less than 1
+year
+Between 1 and
+2 years
+Between 2 and
+5 years
+Over 5 years
+Total
+Carrying
+amount
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+At December 31, 2023
+Trade and other
+payables        
+1,100
+–
+–
+–
+1,100
+1,100
+Lease liabilities     
+1,349
+674
+–
+–
+2,023
+1,964
+Redemption liabilities  
+–
+–
+–
+7,829
+7,829
+5,023
+2,449
+674
+–
+7,829
+10,952
+8,087
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-12 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p13] The amounts disclosed in the table are the contractual undiscounted cash flows as at December 31, 2024:
+Less than 1
+year
+Between 1 and
+2 years
+Between 2 and
+5 years
+Over 5 years
+Total
+Carrying
+amount
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+At December 31, 2024
+Trade and other
+payables        
+12,825
+–
+–
+–
+12,825
+12,825
+Lease liabilities     
+2,610
+1,936
+1,936
+–
+6,482
+6,122
+Redemption liabilities  
+–
+–
+–
+157,412
+157,412
+107,243
+15,435
+1,936
+1,936
+157,412
+176,719
+126,190
+The amounts disclosed in the table are the contractual undiscounted cash flows as at December 31, 2025:
+Less than 1
+year
+Between 1 and
+2 years
+Between 2 and
+5 years
+Over 5 years
+Total
+Carrying
+amount
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+At December 31, 2025
+Trade and other
+payables        
+31,455
+–
+–
+–
+31,455
+31,455
+Lease liabilities     
+4,221
+1,407
+–
+–
+5,628
+5,469
+Redemption liabilities  
+–
+–
+692,014
+–
+692,014
+498,629
+Borrowings        
+40,000
+–
+–
+–
+40,000
+40,000
+75,676
+1,407
+692,014
+–
+769,097
+575,553
+The liquidity risk of redemption liabilities is the principal amount of the redemption liabilities plus the respective
+predetermined interest (Note 23).
+3.2
+Capital risk management
+The Group’s objectives when managing capital are to:
+•
+Safeguard its ability to continue as a going concern, so that it can continue to provide returns for shareholders and
+benefits for other stakeholders, and
+•
+Maintain an optimal capital structure to reduce the cost of capital.
+The Group monitors capital by regularly reviewing the capital structure. As a part of this review, the Group considers the cost
+of capital and the risks associated with the issued share capital. The Group may adjust the number of dividends paid to shareholders,
+return capital to shareholders, issue new shares or repurchase the Company’s shares. In the opinion of the directors of the Company,
+the Group’s capital risk is not significant.
+3.3
+Fair value estimation
+(a)
+Financial instruments carried at fair value
+(i)
+Fair value hierarchy
+This section explains the judgements and estimates made in determining the fair values of the financial instruments that are
+recognized and measured at fair value in the financial statements. To provide an indication about the reliability of the inputs used
+in determining fair value, the Group has classified its financial instruments into the three levels prescribed under the accounting
+standards.
+The Group’s policy is to recognize transfers into and out of fair value hierarchy levels as at the end of the reporting period.
+Level 1: The fair value of financial instruments traded in active markets (such as publicly traded derivatives, and equity
+securities) is based on quoted market prices at the end of the reporting period. The quoted market price used for financial assets held
+by the Group is the current bid price. These instruments are included in level 1.
+Level 2: The fair value of financial instruments that are not traded in an active market (for example, over-the-counter
+derivatives) is determined by using valuation techniques which maximize the use of observable market data and rely as little as
+possible on entity-specific estimates. If all significant inputs required to fair value an instrument are observable, the instrument is
+included in level 2.
+Level 3: If one or more of the significant inputs is not based on observable market data, the instrument is included in level
+3. This is the case for unlisted equity securities and financial liabilities at fair value through profit or loss.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-13 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p14] During the Track Record Period, except for the share-based compensation liabilities arising from the cash-settlement
+alternative of certain RSUs under the 2024 Plan (Note 24), the Group had no financial instruments or other liabilities measured at
+fair value. The share-based compensation liabilities were measured at fair value at each reporting date, with changes in fair value
+recognized in profit or loss within employee benefit expenses.
+The following table presents the Group’s share-based compensation liabilities measured at fair value:
+Level 1
+Level 2
+Level 3
+Total
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+At December 31, 2023              
+–
+–
+–
+–
+At December 31, 2024              
+–
+–
+14,473
+14,473
+At December 31, 2025              
+–
+–
+107,275
+107,275
+The fair value measurement of the share-based compensation liabilities is categorized within Level 3 of the fair value
+hierarchy as the Company’s paid in capital were not quoted in an active market and the valuation was based on a recent private
+financing price, which is not based on observable market data.
+(ii)
+Valuation processes
+The Group finance team manages the valuation exercise of level 3 instruments for financial reporting purposes. The team
+manages the valuation exercise of the financial instruments on a case-by-case basis. At least once every year, the team would use
+valuation techniques to determine the fair value of the Group’s level 3 instruments if needed. External valuation experts will be
+involved when necessary.
+(b)
+Financial instruments carried at other than fair value
+The carrying amounts of the Group’s financial instruments carried at other than fair value, including cash and cash
+equivalents, trade receivables, other receivables, trade payables, other payables and accruals (excluding salary and tax payables),
+borrowings, lease liabilities and redemption liabilities, approximate to their fair values.
+4
+CRITICAL ACCOUNTING ESTIMATES AND JUDGEMENTS
+The preparation of Historical Financial Information requires the use of accounting estimates which, by definition, will likely
+differ from the actual results. Management also needs to exercise judgement in applying the Group’s accounting policies.
+Estimates and judgements are continually evaluated. They are based on historical experience and other factors, including
+expectations of future events that might have a financial impact on the entity and that are believed to be reasonable under the
+circumstances.
+(a)
+Share-based payment expenses
+As mentioned in Note 24, the Company has adopted 2024 Employee Incentive Plan (the “2024 Plan”) and grants restricted
+share units (“RSUs”) to the Group’s management and employees. The Company has engaged an independent valuer to determine the
+fair value of RSUs.
+The fair value of liability component of compound instruments was determined by reference to the fair value of the underlying
+shares and remeasured at fair value at each reporting date, with changes recognized in profit or loss (within employee benefit
+expenses), in accordance with IFRS 2.
+The fair value of equity component of compound instruments was measured as option to acquire equity shares upon lock-up
+expiry by forfeiting the cash compensation used the Binomial option-pricing model.
+The fair value of equity-settled awards was determined by reference to the fair value of the underlying ordinary shares on the
+dates of grant. Key assumptions are disclosed in Note 24.
+5
+SEGMENT INFORMATION
+The Group’s chief operating decision-maker (“CODM”) has been identified as the chairman of the Board of Directors of the
+Company, who reviews consolidated results when making decisions about allocating resources and assessing performance of the
+Group by service types and hence, the Group has two reportable segments.
+Public cloud-based services: this segment provides model inference services on a shared-resource basis or offers dedicated
+instances providing reserved computing capacity on a public cloud basis.
+On-premise deployment solutions: this segment offers on-premise deployment solutions, which comprise software licensing
+and/or customized services according to the customers’ specific instructions and needs at the customers’ infrastructure.
+The CODM uses gross profit/(loss) for the Group’s two reportable segments to assess the Group’s overall performance,
+compare actual results to budgets, and guide decisions on capital investments and other resource allocations. The reconciliation of
+total segment gross profit/(loss) to the Group’s loss before tax is the same as that presented in the consolidated statement of loss,
+and accordingly no separate reconciliation is presented.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-14 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p15] The table below summarizes gross profit/(loss) related segment information used by the CODM to evaluate the Group’s
+performance. The Group does not allocate any assets to its business segments as the Group’s CODM does not use this information
+to measure the performance of the operating segments:
+Period from August 29 to December 31, 2023
+Public cloud-based
+services
+On-premise
+deployment solutions
+Total
+RMB’000
+RMB’000
+RMB’000
+Segment revenue derived from external customers      
+–
+6
+6
+Segment costs of revenue                    
+–
+(1)
+(1)
+Segment gross profit                       
+–
+5
+5
+Year ended December 31, 2024
+Public cloud-based
+services
+On-premise
+deployment solutions
+Total
+RMB’000
+RMB’000
+RMB’000
+Segment revenue derived from external customers      
+1,069
+6,277
+7,346
+Segment costs of revenue                    
+(3,972)
+(480)
+(4,452)
+Segment gross profit                       
+(2,903)
+5,797
+2,894
+Year ended December 31, 2025
+Public cloud-based
+services
+On-premise
+deployment solutions
+Total
+RMB’000
+RMB’000
+RMB’000
+Segment revenue derived from external customers      
+29,261
+26,069
+55,330
+Segment costs of revenue                    
+(64,082)
+(4,550)
+(68,632)
+Segment gross loss                        
+(34,821)
+21,519
+(13,302)
+Information about major customers
+The major customers who contributed more than 10% of total revenue of the Group during the Track Record Period are listed
+as below:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Percentage of revenue from the major customer to the total
+revenue of the Group
+Company A
+                           
+83%
+*
+–
+Company B
+                           
+17%
+–
+–
+Company C
+                           
+–
+61%
+*
+Company D
+                           
+–
+14%
+*
+Company E
+                           
+–
+–
+14%
+Company F
+                           
+–
+–
+13%
+*
+Less than 10% of the total revenue of the Group in the respective year.
+As substantially all of the Group’s long-lived assets are located in Chinese Mainland and substantially all of the Group’s
+revenue of reportable segments are derived from Chinese Mainland, no geographical information is presented for the period from
+August 29 to December 31, 2023 and the years ended December 31, 2024 and 2025.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-15 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p16] 6
+REVENUE
+(a)
+Disaggregation of revenue from contracts with customers
+Disaggregation of revenue from contracts with customers by major service types and timing of revenue recognition are as
+follows:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Revenue from contracts with customers within
+the scope of IFRS 15
+Disaggregated by major service types:
+Public cloud-based services                   
+–
+1,069
+29,261
+On-premise deployment solutions                
+6
+6,277
+26,069
+6
+7,346
+55,330
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Timing of revenue recognition
+At a point in time                         
+6
+6,732
+43,921
+Over time                              
+–
+614
+11,409
+6
+7,346
+55,330
+(b)
+Contract liabilities
+The Group has recognized the following liabilities related to contracts with customers:
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Contract liabilities                         
+–
+1,122
+653
+The following table shows how much of the revenue which was included in the contract liabilities at the beginning of the
+reporting year, recognized during the Track Record Period relates to carried-forward contract liabilities:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Revenue recognized that was included in the contract
+liability balance at the beginning of the period/year    
+–
+–
+1,122
+(c)
+Accounting policies of revenue recognition
+Revenue is measured at the fair value of the consideration received or receivable and recognized when, or as, the control of
+the goods or services is transferred to the customer.
+Depending on the terms of the contract and the laws applicable, control of the goods and services may be transferred over
+time or at a point in time. Control of the goods and services is transferred over time if the Group’s performance:
+•
+provides all of the benefits received and consumed simultaneously by the customer;
+•
+creates and enhances an asset that the customer controls as the Group performs; or
+•
+does not create an asset with an alternative use to the Group and the Group has an enforceable right to payment for
+performance completed to date (collectively referred as “Over Time Conditions”).
+If controls of the goods and services transfer over time, revenue is recognized over the period of the contract by reference
+to the progress towards complete satisfaction of that performance obligation. Otherwise, revenue is recognized at a point in time
+when the customer obtains control of the goods and services.
+If contracts involve the sale of multiple services, the transaction price will be allocated to each performance obligation based
+on their relative stand-alone selling prices. If the stand-alone selling prices are not directly observable, they are estimated based on
+expected cost plus a margin or adjusted market assessment approach, depending on the availability of observable information.
+When either party to a contract has performed, the Group presents the contracts in balance sheets as a contract asset, account
+receivable or a contract liability, depending on the relationship between the Group’s performance and customers’ payment.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-16 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p17] A contract asset is the Group’s right to consideration in exchange for goods or services which the Group has transferred to
+customers. Contract assets are subject to the impairment of expected credit losses model under IFRS 9.
+Incremental costs incurred to obtain a contract, if recoverable, are capitalized and presented as contract assets and
+subsequently amortized when the related revenue is recognized. For those costs with amortization periods of less than 1 year, they
+are expensed as incurred.
+If a customer pays consideration or the Group has a right to an amount of consideration that is unconditional, before the Group
+transfers a good or service to the customer, the Group presents the contract as a contract liability when the payment is made or the
+receivable is recorded (whichever is earlier). A contract liability is the Group’s obligation to transfer goods or services to a customer
+for which the Group has received consideration (or an amount of consideration is due) from the customer.
+A receivable is recorded when the Group has an unconditional right to consideration. Right to consideration is unconditional
+if only the passage of time is required before payment of that consideration is due.
+(i)
+Public cloud-based services
+Serverless token services:
+The Group provides model inference services on a shared-resource basis, allowing customers to access AI capabilities
+by consuming tokens. Revenue is derived from usage-based charges measured in tokens consumed, primarily under prepaid
+credit arrangements, with certain customers on postpaid monthly settlement terms.
+Revenue from serverless token services is recognized based on the customer’s utilization of the tokens, reflecting the
+transfer of the promised service. The transaction price is determined based on the agreed usage rate per token, adjusted for
+any discounts offered.
+The Group provides coupons to users through user registration, identity verification and referral programmes. These
+coupons can be used to access serverless token services on the platform for free. Such coupons are not exchangeable for cash
+and can only be redeemed for services provided on the platform. No revenue is recognized when these coupons are granted
+or redeemed.
+For users who have not made any paid consumptions on the platform and with whom the Group does not have
+enforceable rights and obligations, the Group does not consider such users to be customers under IFRS 15. Coupons granted
+to these users are accounted for as marketing incentives for user acquisition. The related computing resource costs incurred
+upon redemption are recognized as selling and marketing expenses.
+For users who have made paid consumption on the platform and are customers of the Group, coupon redemption
+represents the provision of serverless token services to existing customers. No revenue is recognized for the portion of usage
+settled by coupons, as the Group does not receive consideration for such usage. The related computing resource costs are
+recognized as cost of services when the services are rendered, consistent with the classification of costs incurred to provide
+services to customers.
+Dedicated instances:
+The Group offers dedicated instances providing reserved computing capacity on a public cloud basis, where computing
+resources are allocated exclusively to specific customers and are not shared with other users. These services are primarily
+targeted at customers with higher requirements for performance, stability, or data isolation. Revenue from dedicated instance
+services may comprise fixed recurring fees for reserved computing capacity and usage-based charges measured by the number
+of tokens consumed.
+For arrangements with fixed recurring fees, revenue is recognized over time on a straight-line basis over the contractual
+service period, as the customer simultaneously receives and consumes the benefits of the reserved computing capacity
+provided. This reflects the Group’s ongoing fulfillment of its performance obligation to stand ready and provide access to the
+dedicated computing resources.
+For arrangements with usage-based charges, revenue is recognized based on the customer’s actual utilization of the
+dedicated instances, measured by the tokens consumed, reflecting the transfer of the promised service as the service is
+rendered. Usage-based charges, including volume-based discounts and time-based pricing, are accounted for as variable
+consideration. The transaction price for each billing period is determined based on the actual tokens consumed during that
+period and the applicable contractual rates after taking into account the customer’s actual usage level, applicable pricing tier
+and time of usage.
+(ii)
+On-premise deployment solutions
+The Group offers on-premise deployment solutions, which comprise software licensing and/or customized services according
+to the customers’ specific instructions and needs at the customers’ infrastructure.
+For software licenses that are distinct and provide the customer with a right to use the software as it exists at the point of
+delivery, revenue is recognized at a point in time when control of the license is transferred to the customer, which generally occurs
+upon delivery and acceptance.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-17 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p18] For customized services, in cases including several services in one contract, the Group evaluates whether these promises
+constitute distinct performance obligations. If the services, or components thereof, are capable of being distinct and the promises are
+separately identifiable in the context of the contract, the Group accounts for them as separate performance obligations. The
+transaction price is allocated to each distinct performance obligation based on its relative standalone selling price. Revenue for each
+distinct performance obligation is recognized at a point in time when control of that specific good or service is transferred to the
+customer.
+7
+EXPENSES BY NATURE
+Expenses included in cost of revenue, selling and marketing expenses, general and administrative expenses and research and
+development expenses are analyzed as follows:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Computing resource purchased                  
+2,169
+11,820
+159,081
+Employee benefit expenses                    
+9,199
+66,705
+206,281
+Depreciation and amortization                  
+553
+1,472
+4,611
+Professional service expenses                  
+217
+1,882
+2,167
+Technology service fees                     
+–
+1,172
+6,472
+Other expenses                           
+33
+1,362
+4,782
+12,171
+84,413
+383,394
+8
+EMPLOYEE BENEFIT EXPENSES
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Wages, salaries and bonuses                   
+9,098
+38,599
+59,098
+Share-based payments expenses (Note 24)           
+–
+22,885
+135,338
+Pension expenses - defined contribution plan (a)       
+42
+1,986
+4,406
+Housing funds and other social securities insurance
+expenses                             
+59
+2,886
+6,275
+Others                                
+–
+349
+1,164
+9,199
+66,705
+206,281
+(a)
+Pension expenses-defined contribution plan
+The employees of the Group in the PRC are members of a state-managed pension scheme operated by the PRC government.
+The Group is required to contribute a specified percentage of payroll costs as determined by local government authority to the
+pension obligations to fund the benefits. The only obligation of the Group with respect to the retirement benefits scheme is to make
+the specified contribution under the scheme. There were no significant forfeited contributions during the Track Record Period.
+(b)
+Five highest paid individuals
+The five individuals whose emoluments were the highest in the Group for the period from August 29 to December 31, 2023
+and for the years ended December 31, 2024 and 2025, included 1, 2 and 4 directors respectively, whose emoluments are disclosed
+in Note 32. The emoluments payable to the remaining 4, 3 and 1 individuals for the period from August 29 to December 31, 2023
+and for the years ended December 31, 2024 and 2025 respectively are as follows:
+Period from
+August 29 to
+December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Wages and salaries                        
+850
+3,000
+720
+Bonuses                               
+–
+570
+180
+Share-based payments expenses                 
+–
+3,761
+9,439
+Pension expenses-defined contribution plan (a)        
+81
+167
+68
+Housing funds and other social securities insurance
+expenses                             
+229
+477
+192
+1,160
+7,975
+10,599
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-18 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p19] The emoluments fell within the following bands:
+Period from
+August 29 to
+December 31,
+Year ended December 31,
+2023
+2024
+2025
+HK$1-HK$500,000                        
+4
+–
+–
+HK$2,500,001 to HK$3,000,000                 
+–
+1
+–
+HK$3,000,001 to HK$3,500,000                 
+–
+2
+–
+HK$12,000,001 to HK$12,500,000               
+–
+–
+1
+4
+3
+1
+9
+OTHER INCOME AND (LOSSES)/GAINS-NET
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Government grants                        
+–
+–
+4,970
+Donation                              
+–
+(100)
+–
+Others
+                              
+–
+–
+50
+–
+(100)
+5,020
+10
+FINANCE COSTS – NET
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Finance income
+Interest income                          
+–
+422
+1,420
+Finance costs
+Interest expenses on redemption liabilities           
+(23)
+(5,020)
+(23,076)
+Interest expenses on lease liabilities              
+(35)
+(53)
+(224)
+Interest expenses on bank borrowings             
+–
+–
+(105)
+Others                                
+–
+(6)
+(156)
+(58)
+(5,079)
+(23,561)
+Finance costs – net                        
+(58)
+(4,657)
+(22,141)
+11
+INCOME TAX EXPENSES
+(a)
+PRC Corporate Income Tax (“CIT”)
+The income tax provision of the Group in respect of its operations in Chinese Mainland was calculated at tax rate of 25% on
+the assessable profits for the periods presented, based on the existing legislation, interpretation and practices in respect thereof.
+The Company is qualified as “High and New Technology Enterprises” (“HNTEs”) under the relevant PRC laws and
+regulations. Accordingly, the Company is entitled to a preferential income tax rate of 15% since 2025. This status is subject to a
+re-application requirement every three years.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-19 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p20] The income tax on the Group’s loss before income tax differs from the theoretical amount that would arise using the enacted
+tax rate applicable to losses of the subsidiaries as follows:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Loss before income tax
+                    
+(12,223)
+(81,915)
+(345,491)
+Tax calculated at statutory income tax rate of 25%      
+(3,056)
+(20,479)
+(86,373)
+Tax effects of:
+– Effect of preferential income tax rates            
+–
+–
+34,549
+– Expenses not deductible for tax purposes (i)        
+–
+5,711
+20,359
+– Super deduction for research and development expenses
+(ii)                                
+(2,710)
+(11,228)
+(14,387)
+– Tax losses and temporary differences for which no
+deferred income tax assets were recognized (iii)      
+5,766
+25,996
+45,852
+–
+–
+–
+(i)
+Expenses not deductible for tax purposes mainly comprise share-based payment expenses relating to the share-based
+awards granted by the Company to the employees. These share-based payment expenses were non-deductible for tax
+purposes during the Track Record Period, according to the applicable tax regulations.
+(ii)
+According to the relevant laws and regulations promulgated by the State Taxation Administration of the PRC,
+enterprises engaging in research and development activities are entitled to claim 100% of their research and
+development expenses during the Track Record Period, so incurred as tax deductible expenses when determining their
+assessable profits for that year (“Super-deduction”). The Group has made its best estimation for the Super-deduction
+to be claimed for the Group’s entities in ascertaining their assessable profits for the period from August 29 to December
+31, 2023 and years ended December 31, 2024 and 2025.
+(iii)
+As at December 31, 2023, 2024, and 2025, the Group had temporary differences which were not recognized as deferred
+income tax assets (except for unrecognized tax losses) of approximately RMB293,000, RMB6,282,000 and
+RMB25,043,000 respectively that can be carried forward against future taxable income, which are mainly comprise of
+interest from redemption liabilities (Note 23). According to the applicable tax regulations, such interest could be
+deducted when the Group repaid the principles and interest upon the investors exercise their redemption rights
+As at December 31, 2023, 2024 and 2025, the Group had unrecognized tax losses to be carried forward against future
+taxable income amounted to RMB22,772,000, RMB120,473,000 and RMB401,111,000 respectively which would not
+be utilized based on its estimate of the operating performance of these Group entities. These unrecognized tax losses
+will mainly expire within 5 to 10 years. As at December 31, 2023, 2024 and 2025, the potential deferred tax assets in
+respect of the above unrecognized tax losses amounted to RMB5,693,000, RMB30,118,000 and RMB60,167,000,
+respectively.
+12
+LOSS PER SHARE
+(i)
+Basic
+Basic loss per share is calculated by dividing the net loss attributable to owners of the Company by the weighted average
+number of ordinary shares outstanding during the financial year.
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Loss attributable to owners of the Company (RMB’000)   
+(12,223)
+(81,915)
+(345,491)
+Weighted average number of ordinary shares outstanding
+(thousands)                           
+1,394
+4,237
+10,367
+Basic losses per share (RMB)                  
+(8.77)
+(19.33)
+(33.33)
+The weighted average number of ordinary shares used in calculating basic and diluted loss per share has been determined
+based on the registered capital of the Company then outstanding, on the basis that each RMB1 of registered capital was converted
+into one ordinary share upon the Company’s conversion into a joint stock limited liability company on June 22, 2026. The weighted
+average number of ordinary shares has been retrospectively adjusted for the capitalization of capital reserve into registered capital
+approved in September 2024, as if the event had occurred at the beginning of the earliest period presented, because they resulted
+in changes in the number of ordinary shares without a corresponding change in the resources of the Company.
+The loss per share information presented above have not been taken into account the proposed share subdivision pursuant to
+the resolutions of shareholders of the Company dated June 26, 2026 because the proposed share subdivision has not become effective
+as at the date of this report.
+(ii)
+Diluted
+During the Track Record Period, financial instruments issued were not included in the calculation of diluted loss per share
+as their inclusion would have been anti-dilutive. Accordingly, diluted loss per share for the Track Record Period are the same as basic
+loss per share for the respective years/period.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-20 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p21] 13
+SUBSIDIARIES
+(a)
+Subsidiaries of the Company
+The Company’s principal subsidiaries at December 31, 2023, 2024 and 2025 are set out below. Unless otherwise stated, the
+proportion of ownership interests held equals to the voting rights held by the Company. The country of incorporation or registration
+is also their principal place of business.
+Name
+Place of operation and date
+of incorporation/
+establishment
+Principal activities
+Paid in
+capital as
+at
+December
+31, 2025
+Ownership interest held By the Company as at
+December 31,
+Date of
+report
+2023
+2024
+2025
+Direct
+Indirect
+Direct
+Indirect
+Direct
+Indirect
+SiliconFlow (Shanghai)
+Technology Co., Ltd.
+Shanghai, PRC
+December 5,2024
+AI infrastructure
+–
+–
+–
+–
+–
+100%
+–
+100%
+Silicon Cloud Link
+(Shanghai)
+Technology Co.,
+Ltd.         
+Shanghai, PRC May
+16, 2025
+AI infrastructure
+–
+–
+–
+100%
+–
+100%
+–
+100%
+The English names of certain subsidiaries referred herein represent the directors’ best effort at translating the Chinese names
+of these companies as no English names have been registered.
+(b)
+Investment in subsidiaries – the Company
+As at December 31, 2023, December 31, 2024 and December 31, 2025, the registered capital of subsidiaries have not been
+fully paid up by the Company.
+14
+PROPERTY, PLANT AND EQUIPMENT
+The Group and the Company
+Electronic equipment
+Office furniture
+Total
+RMB’000
+RMB’000
+RMB’000
+At August 29 2023, December 31, 2023 and January 1,
+2024
+Cost                                 
+–
+–
+–
+Accumulated depreciation                    
+–
+–
+–
+Net book amount                         
+–
+–
+–
+Year ended December 31, 2024
+Addition                              
+651
+–
+651
+Depreciation charge                        
+(124)
+–
+(124)
+Closing net book amount                     
+527
+–
+527
+At December 31, 2024
+Cost                                 
+651
+–
+651
+Accumulated depreciation                    
+(124)
+–
+(124)
+Net book amount                         
+527
+–
+527
+At January 1, 2025
+Cost                                 
+651
+–
+651
+Accumulated depreciation                    
+(124)
+–
+(124)
+Net book amount                         
+527
+–
+527
+Year ended December 31, 2025
+Addition                              
+720
+38
+758
+Depreciation charge                        
+(355)
+(3)
+(358)
+Closing net book amount                     
+892
+35
+927
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-21 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p22] Electronic equipment
+Office furniture
+Total
+RMB’000
+RMB’000
+RMB’000
+At December 31, 2025
+Cost                                 
+1,371
+38
+1,409
+Accumulated depreciation                    
+(479)
+(3)
+(482)
+Net book amount                         
+892
+35
+927
+Depreciation expenses have been charged to profit or loss and are presented in the consolidated statements of comprehensive
+loss as follows:
+Period from
+August 29 to
+December 31
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Cost of revenue                          
+–
+4
+7
+Selling and marketing expenses                 
+–
+13
+48
+General and administrative expenses              
+–
+38
+106
+Research and development expenses              
+–
+69
+197
+–
+124
+358
+(a)
+Depreciation methods and useful lives
+Property, plant and equipment are stated at historical cost less accumulated depreciation and impairment losses (if any).
+Historical cost includes expenditure that is directly attributable to the acquisition of the items.
+Depreciation is calculated using the straight-line method to allocate their cost, net of their residual values, over their estimated
+useful lives, as follows:
+•
+Electronic equipment
+3 years
+•
+Office furniture
+5 years
+The assets’ residual values and useful lives are reviewed, and adjusted if appropriate, at the end of each reporting period.
+15
+LEASES
+This note provides information for leases where the Group is a lessee.
+(a)
+Amounts recognized in the consolidated statements of financial position
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Right-of-use assets
+Buildings                              
+1,989
+663
+5,358
+Computing resources                       
+–
+5,513
+–
+1,989
+6,176
+5,358
+Lease liabilities
+Current                               
+1,322
+2,493
+4,171
+Non-current                            
+642
+3,629
+1,298
+1,964
+6,122
+5,469
+Additions to right-of-use assets during the period from August 29 to December 31, 2023, and for the years ended December
+31, 2024 and 2025 were RMB2,542,000, RMB5,535,000 and RMB7,565,000, respectively.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-22 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p23] (b)
+Amounts recognized in the consolidated statements of comprehensive loss
+Period from
+August 29 to
+December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Depreciation charge of right-of-use assets
+Buildings                              
+553
+1,326
+2,870
+Computing resources                       
+–
+22
+1,383
+553
+1,348
+4,253
+Interest expense (Note 10)                    
+35
+53
+224
+Expense relating to short-term and low-value leases not
+included in lease liabilities                  
+2,299
+11,799
+159,097
+The total cash outflows for lease payments during the period from August 29 to December 31, 2023, and for the years ended
+December 31, 2024 and 2025 were nil, RMB19,653,000 and RMB107,121,000, respectively.
+(c)
+The Group’s leasing activities and how these are accounted for
+The Group leases offices and computing resources as lessee. Leases are recognized as a right-of-use asset and a corresponding
+liability at the date at which the leased asset is available for use by the Group. Assets and liabilities arising from a lease are initially
+measured on a present value basis. Lease liabilities include the net present value of the following lease payments:
+•
+fixed payments (including in-substance fixed payments), less any lease incentives receivable
+•
+amounts expected to be payable by the Group under residual value guarantees
+•
+the exercise price of a purchase option if the Group is reasonably certain to exercise that option
+•
+payments of penalties for terminating the lease, if the lease term reflects the Group exercising that option, and
+•
+lease payments to be made under reasonably certain extension options are also included in the measurement of lease
+liabilities.
+The lease payments are discounted using the interest rate implicit in the lease. If that rate cannot be readily determined, which
+is generally the case for leases of the Group, the lessee’s incremental borrowing rate is used, being the rate that the individual lessee
+would have to pay to borrow the funds necessary to obtain an asset of similar value to the right-of-use asset in a similar economic
+environment with similar terms, security and conditions.
+Right-of-use assets are measured at cost comprising the following:
+•
+the amount of the initial measurement of lease liability
+•
+any lease payments made at or before the commencement date less any lease incentives received, and
+•
+any initial direct costs.
+Right-of-use assets are generally depreciated over the shorter of the asset’s useful life and the lease term on a straight-line
+basis. If the Group is reasonably certain to exercise a purchase option, the right-of-use asset is depreciated over the underlying asset’s
+useful life.
+Payments associated with short-term leases and all leases of low-value assets are recognized on a straight-line basis as an
+expense in profit or loss. Short-term leases are leases with a lease term of 12 months or less without a purchase option.
+The Group’s lease payments are deductible upon payment for tax purposes. In accounting for the deferred tax relating to the
+lease, the Group separately accounts for the deferred taxation on the taxable temporary difference and the deductible temporary
+difference, which upon initial recognition are equal and offset to zero. Deferred tax is recognized on subsequent changes to the
+taxable and temporary differences.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-23 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p24] (d)
+The movement in right-of-use assets in the consolidated balance sheets are as follows:
+Buildings
+Computing resources
+Total
+RMB’000
+RMB’000
+RMB’000
+At August 29, 2023
+Cost                                 
+–
+–
+–
+Accumulated depreciation                    
+–
+–
+–
+Net book amount                         
+–
+–
+–
+Year ended December 31, 2023
+Opening net book amount                    
+–
+–
+–
+Additions                              
+2,542
+–
+2,542
+Depreciation charges                       
+(553)
+–
+(553)
+Closing net book amount                    
+1,989
+–
+1,989
+At December 31, 2023
+Cost                                 
+2,542
+–
+2,542
+Accumulated depreciation                    
+(553)
+–
+(553)
+Net book amount                         
+1,989
+–
+1,989
+Year ended December 31, 2024
+Opening net book amount                    
+1,989
+–
+1,989
+Additions                              
+–
+5,535
+5,535
+Depreciation charges                       
+(1,326)
+(22)
+(1,348)
+Closing net book amount                    
+663
+5,513
+6,176
+At December 31, 2024
+Cost                                 
+2,542
+5,535
+8,077
+Accumulated depreciation                    
+(1,879)
+(22)
+(1,901)
+Net book amount                         
+663
+5,513
+6,176
+Year ended December 31, 2025
+Opening net book amount                    
+663
+5,513
+6,176
+Additions                              
+7,565
+–
+7,565
+Early termination                         
+–
+(4,130)
+(4,130)
+Depreciation charges                       
+(2,870)
+(1,383)
+(4,253)
+Closing net book amount                    
+5,358
+–
+5,358
+At December 31, 2025
+Cost                                 
+7,565
+–
+7,565
+Accumulated depreciation                    
+(2,207)
+–
+(2,207)
+Net book amount                         
+5,358
+–
+5,358
+16
+FINANCIAL INSTRUMENTS BY CATEGORY
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Financial assets
+Financial assets at amortized cost:
+– Trade receivables                        
+–
+3,597
+10,582
+– Other receivables                        
+406
+3,217
+5,609
+– Time deposits                          
+–
+–
+100,000
+– Cash and cash equivalents                   
+4,874
+49,737
+171,533
+– Other non-current assets                    
+–
+–
+1,096
+5,280
+56,551
+288,820
+Financial liabilities
+Financial liabilities at amortized cost:
+– Trade and other payables                    
+1,100
+12,825
+31,455
+– Lease liabilities                         
+1,964
+6,122
+5,469
+– Redemption liabilities                     
+5,023
+107,243
+498,629
+– Borrowings                            
+–
+–
+40,000
+8,087
+126,190
+575,553
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-24 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p25] 17
+PREPAYMENTS AND OTHER RECEIVABLES
+The Group
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Non-current
+Rental and other deposits                     
+–
+–
+1,108
+Less: loss allowance                       
+–
+–
+(12)
+Total non-current assets                      
+–
+–
+1,096
+Current
+Input VAT to be deducted                    
+–
+817
+7,912
+Other receivables                         
+406
+3,221
+5,611
+Prepayment to suppliers                     
+40
+217
+2,020
+Less: loss allowance                       
+–
+(4)
+(2)
+Total prepayment and other receivables            
+446
+4,251
+15,541
+The Company
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Non-current
+Rental and other deposits                     
+–
+–
+1,108
+Less: loss allowance                       
+–
+–
+(12)
+Total non-current assets                      
+–
+–
+1,096
+Current
+Input VAT to be deducted                    
+–
+817
+5,695
+Other receivables                         
+406
+3,220
+5,610
+Prepayment to suppliers                     
+40
+218
+862
+Less: loss allowance                       
+–
+(4)
+(2)
+Total prepayment and other receivables            
+446
+4,251
+12,165
+18
+TRADE RECEIVABLES
+The Group and the Company
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Trade receivables                         
+–
+3,684
+10,965
+Less: loss allowance                       
+–
+(87)
+(383)
+Total trade receivables, net                    
+–
+3,597
+10,582
+The Group decides trading terms with customers on a case-by-case basis. The credit terms given to trade customers
+are determined on an individual basis with the normal contractual credit period mainly within 180 days. The aging analysis
+of the trade receivables based on date of revenue recognition is as follows:
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Within 6 months                          
+–
+3,684
+10,803
+6 months to 1 year                        
+–
+–
+153
+1 year to 2 years                          
+–
+–
+9
+Total                                 
+–
+3,684
+10,965
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-25 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p26] Due to the short-term nature of the current receivables, their carrying amounts are considered to be approximately the
+same as their fair values.
+As at December 31, 2023, 2024 and 2025, the Group did not identify any individually impaired trade receivables for
+the assessment of loss allowance. The movement on the allowance for impairment of trade receivables please refer to Note
+3.1.
+19
+TIME DEPOSITS
+The Group and the Company
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Current assets:
+Time deposits                           
+–
+–
+100,000
+–
+–
+100,000
+Time deposits represented deposits placed at financial institutions in the PRC with original maturity dates over three months,
+and they bear interest ranged from 1.50% to 1.60% during the Track Record Period.
+20
+CASH AND CASH EQUIVALENTS
+(a)
+Cash and cash equivalents
+The Group
+Cash and cash equivalents of the Group are denominated in RMB:
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Cash at banks                           
+4,874
+29,737
+171,533
+Time deposits                           
+–
+20,000
+100,000
+Subtotal                               
+4,874
+49,737
+271,533
+Less:
+Non-pledged time deposits with original maturity of more
+than three months when acquired               
+–
+–
+(100,000)
+Cash and cash equivalents                    
+4,874
+49,737
+171,533
+Cash at banks earns interest at floating rates based on daily bank deposit rates. Time deposits are presented as cash equivalents
+if they have a maturity of three months or less from the date of acquisition. The bank balances and time deposits are deposited with
+creditworthy banks with no recent history of default.
+The Company
+Cash and cash equivalents of the Company are denominated in RMB:
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Cash at banks                           
+4,874
+29,736
+171,523
+Time deposits                           
+–
+20,000
+100,000
+Subtotal                               
+4,874
+49,736
+271,523
+Less:
+Non-pledged time deposits with original maturity of more
+than three months when acquired               
+–
+–
+(100,000)
+Cash and cash equivalents                    
+4,874
+49,736
+171,523
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-26 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p27] 21
+PAID-IN CAPITAL
+The Group and the Company
+Paid-in capital
+RMB’000
+At August 29, 2023                                              
+–
+Contributions from shareholders                                       
+22
+At December 31, 2023                                            
+22
+Contributions from shareholders                                       
+354
+Capital reserve transfer to paid in capital                                 
+12,382
+At December 31, 2024                                            
+12,758
+Contributions from shareholders                                       
+3,769
+At December 31, 2025                                            
+16,527
+22
+RESERVES
+The Group and the Company
+Reserves
+Capital reserves
+Share-based
+payments reserves
+Total reserves
+RMB’000
+RMB’000
+RMB’000
+At August 29, 2023                        
+–
+–
+–
+Contribution from shareholders                 
+5,378
+–
+5,378
+Debt waived by the Controlling Shareholder (i)        
+11,045
+–
+11,045
+Recognition of redemption liabilities (Note 23)        
+(5,000)
+–
+(5,000)
+At December 31, 2023                      
+11,423
+–
+11,423
+Reserves
+Capital reserves
+Share-based
+payments reserves
+Total reserves
+RMB’000
+RMB’000
+RMB’000
+At January 1, 2024                        
+11,423
+–
+11,423
+Contribution from shareholders                 
+93,300
+–
+93,300
+Share-based payment compensation liabilities         
+–
+8,411
+8,411
+Recognition of redemption liabilities (Note 23)        
+(97,200)
+–
+(97,200)
+Capital reserve transferred to share capital           
+(12,382)
+–
+(12,382)
+At December 31, 2024                      
+(4,859)
+8,411
+3,552
+Reserves
+Capital reserves
+Share-based
+payments reserves
+Total reserves
+RMB’000
+RMB’000
+RMB’000
+At January 1, 2025                        
+(4,859)
+8,411
+3,552
+Contribution from shareholders                 
+356,637
+–
+356,637
+Share-based payment compensation liabilities         
+–
+42,536
+42,536
+Recognition of redemption liabilities (Note 23)        
+(368,310)
+–
+(368,310)
+At December 31, 2025                      
+(16,532)
+50,947
+34,415
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-27 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p28] (i)
+In 2023, Beijing OneFlow Technology Co., Ltd. (“OneFlow”, a company controlled by Dr. Yuan Jinhui) provided
+computing resources, rental, and employee services to the Company. Pursuant to an agreement entered into between
+OneFlow, Dr. Yuan Jinhui and the Company, OneFlow agreed that the RMB11 million debt owed by the Company as
+the consideration for these services would be assumed by Dr. Yuan Jinhui. Dr. Yuan Jinhui simultaneously waived the
+corresponding debt owed by the Company by the end of 2023.
+23
+REDEMPTION LIABILITIES
+The Group and the Company
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Redemption liabilities                       
+5,023
+107,243
+498,629
+Since the date of incorporation of the Company, it has completed several rounds of financing including Series Angel, Series
+Angel+, Series Pre A, and Series A in the way of capital increase and capital transfer between investors. In addition to subscribing
+to the registered capital of the Company, the Company granted these investors preferential rights such as redemption rights,
+liquidation preferences, and anti-dilution rights.
+The key terms of the preferred rights granted to the abovementioned investors are summarized as follows:
+Redemption rights
+Investors have a right to require the Company to redeem their investments if (a) the Company fails to achieve a Qualified
+[REDACTED] (“Qualified [REDACTED]”) by December 31, 2030; or (b) the founder or the Group has severely violated the
+provisions of the transaction documents and fails to take timely remedial action within 30 business days after the investors give
+written notice to request the remedy, or (c) the control of the Group changes or the founder loses actual control over the Group, or
+(d) The founder departs from the Group.
+The redemption amount is the original investment principal from the investors, plus an annual rate of 8% of the original
+investment principal for a period of time commencing from the relevant closing date of investments to the fully repayment date for
+the redeemed shares and any accumulated or declared but undistributed profit.
+Liquidation preferences
+In the event of a Legal Liquidation Event (refers to the liquidation, dissolution or closure of the Company) or a Deemed
+Liquidation Event (as defined in shareholder agreement), the distributable liquidation property (after satisfaction of all creditors’
+claims and claims that may be preferred by law in a Legal Liquidation Event and the total consideration received by the Company
+or the shareholders in a Deemed Liquidation Event) shall be distributed in the amount equal to the 100% of the original investment
+principal, plus annual rate of 8% of the original investment principal, and plus the declared but undistributed retained earnings on
+the equity held.
+The distributable liquidation property can be distributed according to the equity proportion at that time, and in the priority
+order of Series A, Series Pre A, Series Angel+ to Series Angel.
+Anti-dilution right
+If the Company increases its registered capital at a price lower than the price paid by the Anti-Dilution Right Holder (the
+Series A, Series Pre A, Series Angel+ and Series Angel investors with preferred rights granted) (the “New Low Financing”), the
+subscription price per unit invested by the Anti-dilution Right Holder in the Company will be adjusted.
+The Anti-Dilution Right Holder has the right to require the Company to issue new capitals for a nominal consideration or a
+minimum price permitted by applicable laws and permit the Anti-Dilution Right Holder to increase capitals then, so that the equity
+proportion held by the Anti-Dilution Right Holder can reach that can be subscribed according to the adjusted subscription price per
+unit.
+The redemption rights and liquidation preferences granted to the investors constitute as the Company’s obligations to
+repurchase its own equity instruments. These obligations were recognized as redemption liabilities which are initially measured at
+fair value (representing the present value of the expected cash flows for settling the related obligations if these rights are exercised
+by the investors) and subsequently measured at amortized cost. The Company applied a redemption discount rate ranged from 6.55%
+to 7.01% to determine the initial recognition amount of the redemption liabilities. The anti-dilution right is a derivative financial
+instrument measured at fair value through profit or loss, of which the fair value was considered close to nil as the directors of
+Company expected the New Low Financing would never occur before the Company’s success in the Qualified [REDACTED].
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-28 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p29] Series
+Year of
+subscription
+Registered
+capital
+subscribed
+Consideration
+per registered
+capital
+Total
+consideration
+Present value of
+expected
+redemption
+amount as of
+issue date
+RMB
+RMB
+RMB’000
+RMB’000
+Series Angel              
+2023-2024
+2,089,330
+22.59
+47,200
+47,200
+Series Angel+             
+2024-2025
+1,632,050
+40.34
+65,840
+65,840
+Series Pre A              
+2025
+1,097,523
+65.13
+71,480
+71,480
+Series A                 
+2025
+2,402,939
+119.02
+285,990
+285,990
+The movements of redemption liabilities during the year ended December 31 2023, 2024 and 2025 are set out below:
+RMB’000
+At August 29, 2023                                              
+–
+Recognition of redemption liabilities                                    
+5,000
+Interest charged to finance costs                                       
+23
+At December 31, 2023                                            
+5,023
+At January 1, 2024
+5,023
+Recognition of redemption liabilities                                    
+97,200
+Interest charged to finance costs                                       
+5,020
+At December 31, 2024
+107,243
+At January 1, 2025
+107,243
+Recognition of redemption liabilities                                    
+368,310
+Interest charged to finance costs                                       
+23,076
+At December 31, 2025
+498,629
+24
+SHARE-BASED COMPENSATION
+(i)
+Employee Incentive Plan
+After the establishment of the Company, certain shares were reserved in 4 partnership platforms for future employee incentive
+grant. These employee incentive platforms, namely Beijing Silicon Innovation Enterprise Management Partnership (Limited
+Partnership), Beijing Silicon Future Enterprise Management Partnership (Limited Partnership), Beijing Silicon Exploration
+Enterprise Management Partnership (Limited Partnership), and Beijing Silicon Excellence Enterprise Management Partnership
+(Limited Partnership), have been consolidated into the Group’s financial statements.
+The 2024 Employee Incentive Plan (the “2024 Plan”) was adopted in October 2024 and have a ten-year term. The restricted
+interests granted allow employees to gain certain interests of the partnership platforms and indirectly hold the shares of the Company.
+For the purpose of the 2024 Plan, the total registered capital of RMB7,680,433 contributed to the Company by partnership
+platforms has been notionally subdivided into 768,043,300 virtual shares (“VS”), which do not represent any direct legal or registered
+ownership interest in the Company. These VS are used as the underlying instruments for granting share-based awards.
+There are certain vesting conditions for the 2024 Plan, including service condition and performance condition. The VS of the
+Company held by the grantees indirectly through the partnership platforms, which are subject to service condition and performance
+condition during the period from August 29 to December 31, 2023 and during each year ended December 31, 2024 and 2025 are set
+out below:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+Outstanding at the beginning of the period/year        
+–
+–
+414,718,460
+Granted                               
+–
+414,718,460
+53,785,060
+Forfeited                              
+–
+–
+–
+Outstanding at the end of the period/year           
+–
+414,718,460
+468,503,520
+Weighted average remaining contractual life of the restricted
+VS outstanding at the end of the period/year        
+–
+9.79
+8.79
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-29 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p30] Total expenses arising from share-based payment transactions recognized during the period from August 29 to December 31,
+2023 and during each year ended December 31, 2024 and 2025 as part of employee benefit expense were as follows:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+General and administrative expenses              
+–
+1,941
+11,682
+Research and development expenses              
+–
+19,564
+113,265
+Selling and marketing expenses                 
+–
+1,215
+9,513
+Cost of revenue                          
+–
+165
+878
+–
+22,885
+135,338
+(ii)
+Accounting policies
+The Group grants restricted share units (“RSUs”) under the 2024 Plan. The RSUs become exercisable upon satisfaction of the
+specified vesting conditions, including the completion of the requisite service period, the occurrence of a Qualified [REDACTED]
+(“Qualified [REDACTED]”) and the expiry of the one-year lock-up period following the Qualified [REDACTED].
+The Group accounts for the RSUs in accordance with IFRS 2 Share-based Payment. Share-based compensation expense is
+recognized for services received from employees over the relevant vesting period, with a corresponding increase to equity and/or
+recognition of a liability, depending on the settlement terms of the awards.
+The 2024 Plan contains two settlement scenarios, which gives rise to different accounting treatments under IFRS 2:
+(a)
+RSUs with service vesting dates before the lock-up period expiry (Compound instruments)
+For RSUs for which the specified service period is completed before the expiry of the one-year lock-up period following the
+Qualified [REDACTED], if a grantee has satisfied the service condition but the lock-up period has not yet expired and the grantee
+elects to leave the Group, the Company will repurchase the vested RSUs at 30% of the lower of: (i) the share price of the Company’s
+most recent completed financing round at the time of the employee’s resignation; and (ii) the share price of the Company’s most
+recent completed financing round at the time the Company decides to repurchase.
+Accordingly, these awards are accounted for as compound share-based payment arrangements under IFRS 2, as the grantee
+has, in substance, an alternative between cash settlement upon leaving the Group before the expiry of the lock-up period and equity
+settlement by remaining in service until the relevant equity-settlement condition is satisfied.
+As at grant date, the compound award is separated into a liability component and an equity component. The liability
+component represents the cash-settlement alternative available to the grantee. It is measured first and recognized as employee benefit
+expenses over the requisite service period, with a corresponding liability recognized. The liability component is remeasured at fair
+value at each reporting date and at the settlement date, with changes in fair value recognized in profit or loss as employee benefit
+expenses.
+The equity component represents the grantee’s right to receive the underlying equity interests by forfeiting the cash-settlement
+alternative. It is measured at grant date as an option with the cash compensation that the grantee would otherwise receive treated
+as the deemed exercise price and is recognized as employee benefit expenses over the period from grant date to the date on which
+the relevant vesting conditions, including the expiry of the one-year lock-up period following the Qualified [REDACTED], are
+expected to be satisfied, with a corresponding increase to equity.
+(b)
+RSUs with service vesting dates after the lock-up period expiry (Equity-settled awards)
+For RSUs for which the specified service vesting dates fall after the expiry of the one-year lock-up period following the
+Qualified [REDACTED], the awards are accounted for as equity-settled share-based payments. The fair value of these awards is
+measured at grant date by reference to the fair value of the underlying equity interests at the grant date. The grant-date fair value
+is recognized as employee benefit expenses over the vesting period, with a corresponding increase to equity.
+(iii)
+Fair value of the awards
+(a)
+RSUs Vesting Prior to the Lock-up Period Expiry (Compound Instrument)
+Liability component: Measured first, based on the present value of the cash settlement amount that the grantee could demand
+upon departure. This measurement considers the fair value of the underlying shares at each reporting date. This component is
+remeasured at fair value at each reporting date, with changes recognized in profit or loss (within employee benefit expenses), in
+accordance with IFRS 2.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-30 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p31] Liabilities recognized in the consolidated statements of financial position:
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Current portion                          
+–
+12,458
+92,437
+Non-current portion                        
+–
+2,015
+14,838
+–
+14,473
+107,275
+Equity component: Measured as option to acquire equity shares upon lock-up expiry by forfeiting the cash compensation used
+the Binomial option-pricing model. This component is not remeasured after the grant date.
+Key assumptions are set out below:
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+Risk-free interest rate                       
+–
+2.14%
+1.81%
+Expected volatility                        
+–
+76.8%
+73.7%
+Expected dividends                        
+–
+–
+–
+(b)
+RSUs Vesting after the Lock-up Period Expiry (Equity-settled Awards)
+In the years ended December 31, 2024 and 2025, the Group used the back-solving method to determine the fair value of the
+Company. The fair value of the RSUs is determined on the basis of the fair value of the underlying ordinary shares on the date when
+the equity instruments are granted.
+25
+TRADE AND OTHER PAYABLES
+The Group
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Payroll and welfare payables                   
+415
+6,522
+14,484
+Trade payables                           
+450
+3,396
+13,898
+Tax payables                            
+7
+2,628
+2,666
+Others                                
+228
+279
+407
+1,100
+12,825
+31,455
+The Company
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Payroll and welfare payables                   
+415
+6,522
+14,484
+Trade payables                           
+450
+3,396
+12,728
+Tax payables                            
+7
+2,628
+448
+Others                                
+228
+279
+407
+1,100
+12,825
+28,067
+26
+RECEIPTS IN ADVANCE
+The Group and the Company
+For serverless token service, the amounts received from users in advance of service delivery are initially recognized as
+receipts in advance, because users have an unconditional right to request a full refund of the unutilized prepaid balance at any time,
+prior to service consumption.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-31 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p32] 27
+BORROWINGS
+The Group and the Company
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Bank loan (i)                            
+–
+–
+40,000
+–
+–
+40,000
+(i)
+The interest rate of bank borrowings for the year ended December 31, 2025 was 3%.
+28
+DIVIDENDS
+No dividend has been paid or declared by the Company for the period from August 29 to December 31, 2023 and for each
+of the years ended December 31, 2024 and 2025.
+29
+CASH FLOW INFORMATION
+(a)
+Cash used in operations
+Reconciliation of loss for the year to cash used in operations:
+Period from
+August 29 to
+December 31,
+Year ended December 31,
+Note
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Loss before income tax:                
+(12,223)
+(81,915)
+(345,491)
+Adjustments for:
+Depreciation and amortization expense      
+7
+553
+1,472
+4,611
+Finance costs                     
+10
+58
+5,073
+23,300
+Share-based compensation expenses        
+24
+–
+22,885
+135,338
+Debt waived by the Controlling Shareholder   
+22
+11,045
+–
+–
+Provision for impairment of financial assets   
+–
+91
+306
+Changes in working capital:
+– Trade receivable                  
+–
+(3,683)
+(7,281)
+– Prepayments and other receivables        
+(17)
+(3,809)
+(11,287)
+– Other non-current assets              
+–
+–
+(1,109)
+– Trade and other payables             
+899
+11,501
+18,348
+– Contract liabilities                 
+–
+1,122
+(469)
+– Change in operating lease right-of-use assets  
+(613)
+–
+–
+– Receipts in advance                
+–
+331
+9,912
+Cash used in operations               
+(298)
+(46,932)
+(173,822)
+(b)
+Non-cash investing and financing activities
+Period from
+August 29 to
+December 31,
+Year ended December 31,
+Note
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Debt waived by the Controlling Shareholder     
+22
+11,045
+–
+–
+Increase in right-of-use assets during the
+year/period                       
+15
+2,542
+5,535
+7,565
+Early termination of right-of-use assets        
+15
+–
+–
+(4,130)
+13,587
+5,535
+3,435
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-32 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p33] (c)
+Reconciliation of liabilities generated from financing activities
+Redemption
+liabilities
+Lease liabilities
+Other payables
+Borrowings
+Total
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+Liabilities from financing activities
+as at August 29 2023        
+–
+–
+–
+–
+–
+Additions of financing liabilities:
+Financing cash flows         
+–
+–
+200
+–
+200
+Non-cash transaction         
+–
+(613)
+–
+–
+(613)
+Additions of redemption liabilities 
+5,000
+–
+–
+–
+5,000
+Additions of new leases       
+–
+2,542
+–
+–
+2,542
+Interest accrual during the period  
+23
+35
+–
+–
+58
+Liabilities from financing activities
+as at December 31, 2023     
+5,023
+1,964
+200
+–
+7,187
+Additions of financing liabilities:
+Financing cash flows         
+–
+(1,430)
+(200)
+–
+(1,630)
+Additions of redemption liabilities 
+97,200
+–
+–
+–
+97,200
+Additions of new leases       
+–
+5,535
+–
+–
+5,535
+Interest accrual during the year   
+5,020
+53
+–
+–
+5,073
+Liabilities from financing activities
+as at December 31, 2024     
+107,243
+6,122
+–
+–
+113,365
+Additions of financing liabilities:
+Financing cash flows         
+–
+(4,237)
+–
+39,895
+35,658
+Additions of redemption liabilities 
+368,310
+–
+–
+–
+368,310
+Additions of new leases       
+–
+7,565
+–
+–
+7,565
+Early termination of leasing
+contract               
+–
+(4,205)
+–
+–
+(4,205)
+Interest accrual during the year   
+23,076
+224
+–
+105
+23,405
+Liabilities from financing activities
+as at December 31, 2025     
+498,629
+5,469
+–
+40,000
+544,098
+30
+COMMITMENTS
+(a)
+Capital commitments
+There were no material capital expenditures contracted for as at the end of each reporting period that were not recognized as
+liabilities.
+31
+RELATED PARTY TRANSACTIONS
+Parties are considered to be related if one party has the ability, directly or indirectly, to control the other party or exercise
+significant influence over the other party in making financial and operation decisions. Parties are also considered to be related if they
+are subject to common control. Members of key management and their close family members of the Group are also considered as
+related parties.
+The following transactions were carried out between the Group and its related parties during the years presented. In the
+opinion of the directors of the Company, the related party transactions were carried out in the normal course of business and at terms
+negotiated between the Group and the respective related parties.
+(a)
+Names and relationships with related parties
+Name of the related party
+Relationship with the Group
+Beijing OneFlow Technology Co., Ltd.     
+Under common control of the Controlling Shareholder
+SILICONFLOW TECHNOLOGY PTE.LTD.  
+Under common control of the Controlling Shareholder
+Dr. Yuan Jinhui                  
+The Controlling Shareholder, Chief Executive Officer of the Group
+Ms. Zhao Zhen                   
+Co-founder and Chief Operating Officer of the Group
+Alibaba and its affiliates (“Alibaba Group”)* 
+A shareholder with significant influence over the Company
+Huawei and its affiliates (“Huawei Group”)* 
+A shareholder with significant influence over the Company
+*
+Huawei became a related party of the Group in May 2024, and Alibaba became a related party of the Group in May
+2025. Since then, their transactions with the Group have been regarded as related party transactions.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-33 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p34] (b)
+Transactions with related parties
+(i)
+Services purchased from related parties
+Employee expenses
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Beijing OneFlow Technology Co., Ltd.             
+8,713
+12,083
+6,434
+Computing resource
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Beijing OneFlow Technology Co., Ltd.             
+2,169
+6,774
+5,483
+Huawei Group                           
+–
+–
+12,616
+Alibaba Group                           
+–
+–
+19,702
+2,169
+6,774
+37,801
+Rental expenses
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Beijing OneFlow Technology Co., Ltd.             
+613
+1,387
+693
+Commission fee
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+SILICONFLOW TECHNOLOGY PTE.LTD.          
+1
+12
+107
+(ii)
+Services provided to related parties
+On-premise deployment solutions
+Period from August
+29 to December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Huawei Group                           
+–
+–
+7,100
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-34 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p35] (c)
+Balances with related parties
+Other receivables
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+SILICONFLOW TECHNOLOGY PTE.LTD.          
+6
+587
+2,875
+Dr. Yuan Jinhui                          
+400
+2,189
+2,189
+Ms. Zhao Zhen                           
+–
+11
+11
+406
+2,787
+5,075
+Trade and other payables
+As at December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Beijing OneFlow Technology Co., Ltd.             
+449
+3,372
+436
+Alibaba Group                           
+–
+–
+6,633
+SILICONFLOW TECHNOLOGY PTE.LTD.          
+1
+13
+120
+Dr. Yuan Jinhui                          
+200
+–
+–
+650
+3,385
+7,189
+(d)
+Key management compensation
+Period from
+August 29, to
+December 31,
+Year ended December 31,
+2023
+2024
+2025
+RMB’000
+RMB’000
+RMB’000
+Wages and salaries                        
+900
+2,940
+3,661
+Bonuses                               
+–
+545
+900
+Share-based payments expenses                 
+–
+8,664
+52,572
+Pension expenses-defined contribution plan          
+81
+265
+341
+Housing funds and other social securities insurance
+expenses                             
+115
+382
+480
+1,096
+12,796
+57,954
+32
+BENEFITS AND INTERESTS OF DIRECTORS
+(a)
+Directors’ emoluments
+The remuneration of every director of the Company for the period from August 29, 2023 to December 31, 2023 and for each
+of the years ended December 31, 2024 and 2025 were set out below:
+Period from August 29, 2023 to December 31, 2023
+Director
+fees
+Wages and
+salaries
+Discretionary
+bonuses
+Social securities
+and housing
+fund
+Share-based
+compensation
+Total
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+Directors
+Dr. Yuan Jinhui (appointed on
+August 29, 2023)      
+–
+300
+–
+65
+–
+365
+Supervisor
+Ms. Zhao Zhen (appointed on
+August 29, 2023)      
+–
+300
+–
+66
+–
+366
+–
+600
+–
+131
+–
+731
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-35 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p36] Year ended December 31, 2024
+Director
+fees
+Wages and
+salaries
+Discretionary
+bonuses
+Social securities
+and housing
+fund
+Share-based
+compensation
+Total
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+Directors
+Dr. Yuan Jinhui         
+–
+720
+180
+160
+–
+1,060
+Mr. Liu Juncheng (appointed
+on October 18, 2024)    
+–
+180
+45
+40
+4,148
+4,413
+Mr. Zeng Hua (appointed on
+July 17, 2024)        
+–
+360
+88
+81
+1,743
+2,272
+Ms. Zhang Shi (appointed on
+July 17, 2024)        
+–
+360
+89
+–
+972
+1,421
+Mr. Niu Jibin (appointed on 2
+February 2024 and resigned
+on October 18, 2024)    
+–
+270
+–
+–
+–
+270
+Mr. Wen Tingcan (appointed
+on July 17, 2024)      
+–
+–
+–
+–
+–
+–
+Mr. Liao Cheng (appointed on
+July 17, 2024 and resigned
+on October 18, 2024)    
+–
+–
+–
+–
+–
+–
+Mr. Li Pu (appointed on
+October 18, 2024)      
+–
+–
+–
+–
+–
+–
+Mr. Ren Bobing (appointed on
+February 2, 2024)      
+–
+–
+–
+–
+–
+–
+Supervisor
+Ms. Zhao Zhen         
+–
+720
+–
+161
+1,778
+2,659
+–
+2,610
+402
+442
+8,641
+12,095
+Year ended December 31, 2025
+Director
+fees
+Wages and
+salaries
+Discretionary
+bonuses
+Social securities
+and housing
+fund
+Share-based
+compensation
+Total
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+RMB’000
+Directors
+Dr. Yuan Jinhui         
+–
+720
+180
+164
+–
+1,064
+Mr. Liu Juncheng        
+–
+781
+180
+164
+22,024
+23,149
+Mr. Zeng Hua          
+–
+720
+180
+164
+13,277
+14,341
+Dr. Hu Jian (appointed on
+March 10, 2025)       
+–
+600
+150
+137
+7,833
+8,720
+Ms. Zhang Shi (resigned on
+May 20, 2025)        
+–
+300
+75
+–
+–
+375
+Mr. Chen Yingjie (appointed
+on May 20, 2025)      
+–
+–
+–
+–
+–
+–
+Mr. Ren Bobing         
+–
+–
+–
+–
+–
+–
+Mr. Wen Tingcan (resigned on
+May 20, 2025)        
+–
+–
+–
+–
+–
+–
+Mr. Li Pu            
+–
+–
+–
+–
+–
+–
+Ms. Wu Haiyan (appointed on
+March 10, 2025 and
+resigned on May 20, 2025) 
+–
+–
+–
+–
+–
+–
+Supervisor
+Ms. Zhao Zhen         
+–
+720
+180
+164
+9,439
+10,503
+–
+3,841
+945
+793
+52,573
+58,152
+(b)
+Directors’ retirement and termination benefits
+No retirement or termination benefits have been paid to the Company’s directors for the period from August 29 to December
+31, 2023 and years ended December 31, 2024 and 2025.
+(c)
+Consideration provided to third parties for making available directors’ services
+No consideration was provided to third parties for making available directors’ services during the period from August 29 to
+December 31, 2023 and years ended December 31, 2024 and 2025.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-36 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p37] (d)
+Information about loans, quasi-loans or other dealings in favour of directors, controlled bodies corporate by and
+connected entities with such directors
+No loans, quasi-loans or other dealings were entered into by the Company in favour of directors, controlled bodies corporate
+by and connected entities with such directors during the period from August 29 to December 31, 2023 and years ended December
+31, 2024 and 2025.
+(e)
+Directors’ material interests in transactions, arrangements or contracts
+No significant transactions, arrangements and contracts in relation to the Group’s business to which the Group was a party
+and in which a director of the Company had a material interest, whether directly or indirectly, subsisted at the end of the years or
+at any time during the period from August 29 to December 31, 2023 and years ended December 31, 2024 and 2025.
+33
+EVENTS AFTER THE REPORTING PERIOD
+Subsequent to December 31, 2025, the Company completed the Series A+, Series B and Series B+ financings with certain
+investors. Pursuant to the relevant financing agreements, the Company received aggregate cash consideration of approximately
+RMB1,480 million.
+On June 22, 2026, the Company was converted into a joint stock limited liability company and the registered capital of the
+Company of RMB25,489,202 was divided into 25,489,202 ordinary shares with nominal value of RMB1 each. Immediately prior to
+the [REDACTED], the ordinary shares of the Company will be split on a [REDACTED] basis.
+In June 2026, the Company entered into an asset purchase agreement with Beijing OneFlow Technology Co., Ltd., to acquire
+a portfolio of intellectual property rights from Beijing OneFlow Technology Co., Ltd., for a consideration of RMB44.5 million.
+In June 2026, the Company entered into a 60-month computing power service agreement with a third-party for a total service
+fee of RMB 3,491 million, pursuant to which the Company will lease computing resources with related networking, deployment,
+operation and maintenance and support service.
+34
+SUMMARY OF OTHER POTENTIALLY MATERIAL ACCOUNTING POLICIES
+34.1
+Subsidiaries and principles of consolidation
+(a)
+Subsidiaries
+Subsidiaries are all entities (including structured entities) over which the Group has control. The Group controls an entity
+where the Group is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect
+those returns through its power to direct the activities of the entity. Subsidiaries are fully consolidated from the date on which control
+is transferred to the Group. They are deconsolidated from the date when control ceases.
+Inter-company transactions, balances and unrealized gains on transactions between Group companies are eliminated.
+Unrealized losses are also eliminated unless the transaction provides evidence of an impairment of the transferred asset. Accounting
+policies of subsidiaries have been changed where necessary to ensure consistency with the policies adopted by the Group
+Non-controlling interests in the results and equity of subsidiaries are shown separately in the consolidated statement of profit
+or loss, statement of comprehensive income, statement of changes in equity and statement of financial position respectively.
+(b)
+Changes in ownership interests
+The Group treats transactions with non-controlling interests that do not result in a loss of control as transactions with equity
+owners of the Group. A change in ownership interest results in an adjustment between the carrying amounts of the controlling and
+non-controlling interests to reflect their relative interests in the subsidiary. Any difference between the amount of the adjustment to
+non-controlling interests and any consideration paid or received is recognized in a separate reserve within equity attributable to
+owners of the Group.
+34.2
+Separate financial statements
+Investments in subsidiaries are accounted for at cost less impairment. Cost includes direct attributable costs of investment.
+The results of subsidiaries are accounted for by the Company on the basis of dividend received and receivable. Impairment testing
+of the investments in subsidiaries is required upon receiving a dividend from these investments if the dividend exceeds the total
+comprehensive income of the subsidiary in the period the dividend is declared or if the carrying amount of the investment in the
+separate financial statements exceeds the carrying amount in the consolidated financial statements of the investee’s net assets
+including goodwill in the financial statements.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-37 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p38] 34.3
+Foreign currency translation
+(a)
+Functional and presentation currency
+Items included in the financial statements of each of the Group’s entities are measured using the currency of the primary
+economic environment in which the entity operates (the “functional currency”). The Company has determined RMB as its functional
+currency and several of its overseas subsidiaries have determined the local currencies in their respective place of incorporation and
+operation as their functional currency. As the major operations of the Group are within the Chinese mainland, the Group determined
+to present its consolidated financial statements in RMB (unless otherwise stated).
+(b)
+Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates at the dates of the
+transactions. Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation of
+monetary assets and liabilities denominated in foreign currencies at year-end exchange rates are generally recognized in consolidated
+statements of profit or loss.
+Foreign exchange gains and losses that relate to borrowings are presented in the statement of profit or loss, within finance
+costs.
+Non-monetary items that are measured at fair value in a foreign currency are translated using the exchange rates at the date
+when the fair value was determined. Translation differences on assets and liabilities carried at fair value are reported as part of the
+fair value gain or loss. For example, translation differences on non-monetary assets and liabilities such as equities held at fair value
+through profit or loss are recognized in profit or loss as part of the fair value gain or loss.
+(c)
+Group companies
+The results and financial position of foreign operations (none of which has the currency of a hyperinflationary economy) that
+have a functional currency different from the presentation currency are translated into the presentation currency as follows:
+•
+assets and liabilities for each statement of financial position presented are translated at the closing rate at the date of
+that statement of financial position
+•
+income and expenses for each statement of profit or loss and statement of comprehensive income are translated at
+average exchange rates (unless this is not a reasonable approximation of the cumulative effect of the rates prevailing
+on the transaction dates, in which case income and expenses are translated at the dates of the transactions), and
+•
+all resulting exchange differences are recognized in other comprehensive income.
+On consolidation, exchange differences arising from the translation of any net investment in foreign entities, are recognized
+in other comprehensive income. When a foreign operation is sold or any borrowings forming part of the net investment are repaid,
+the associated exchange differences are reclassified to profit or loss, as part of the gain or loss on sale.
+34.4
+Impairment of assets
+Non-financial assets are tested for impairment whenever events or changes in circumstances indicate that the carrying amount
+might not be recoverable. An impairment loss is recognized for the amount by which the asset’s carrying amount exceeds its
+recoverable amount. The recoverable amount is the higher of an asset’s fair value less costs of disposal and value in use. For the
+purposes of assessing impairment, assets are Grouped at the lowest levels for which there are separately identifiable cash inflows
+which are largely independent of the cash inflows from other assets or Groups of assets (cash-generating units). Non-financial assets
+other than goodwill that suffered an impairment are reviewed for possible reversal of the impairment at the end of each reporting
+period.
+34.5
+Investments and other financial assets
+(a)
+Classification
+The Group classifies its financial assets in the following measurement categories:
+•
+those to be measured subsequently at fair value (either through OCI or through profit or loss), and
+•
+those to be measured at amortized cost.
+The classification depends on the entity’s business model for managing the financial assets and the contractual terms of the
+cash flows.
+For assets measured at fair value, gains and losses will be recorded either in profit or loss or in OCI. For investments in equity
+instruments that are not held for trading, this will depend on whether the Group has made an irrevocable election at the time of initial
+recognition to present subsequent changes in fair value in other comprehensive income.
+The Group reclassifies debt instruments when and only when its business model for managing those assets changes.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-38 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p39] (b)
+Recognition and derecognition
+Regular way purchases and sales of financial assets are recognized on trade-date, the date on which the Group commits to
+purchase or sell the asset. Financial assets are derecognized when the rights to receive cash flows from the financial assets have
+expired or have been transferred and the Group has transferred substantially all of the risks and rewards of ownership.
+(c)
+Measurement
+At initial recognition, the Group measures a financial asset at its fair value plus, in the case of a financial asset not at fair
+value through profit or loss (FVTPL), transaction costs that are directly attributable to the acquisition of the financial asset.
+Transaction costs of financial assets carried at FVTPL are expensed in profit or loss.
+Financial assets with embedded derivatives are considered in their entirety when determining whether their cash flows are
+solely payment of principal and interest.
+Debt instruments
+Subsequent measurement of debt instruments depends on the Group’s business model for managing the asset and the
+cash flow characteristics of the asset. There are three measurement categories into which the Group classifies its debt
+instruments:
+•
+Amortized cost: assets that are held for collection of contractual cash flows where those cash flows represent solely
+payments of principal and interest are measured at amortized cost. Interest income from these financial assets is
+included in finance income using the effective interest rate method. Any gain or loss arising on derecognition is
+recognized directly in profit or loss and presented in other gains/(losses) together with foreign exchange gains and
+losses. Impairment losses are presented as a separate line item in the statement of profit or loss.
+•
+FVOCI: assets that are held for collection of contractual cash flows and for selling the financial assets, where the
+assets’ cash flows represent solely payments of principal and interest, are measured at FVOCI. Movements in the
+carrying amount are taken through OCI, except for the recognition of impairment gains or losses, interest income and
+foreign exchange gains and losses which are recognized in profit or loss. When the financial asset is derecognized, the
+cumulative gain or loss previously recognized in OCI is reclassified from equity to profit or loss and recognized in
+other gains/(losses). Interest income from these financial assets is included in finance income using the effective
+interest rate method. Foreign exchange gains and losses are presented in other gains/(losses) and impairment expenses
+are presented as a separate line item in the statement of profit or loss.
+•
+FVTPL: Assets that do not meet the criteria for amortised cost or FVOCI are measured at FVTPL. A gain or loss on
+a debt instrument that is subsequently measured at FVTPL is recognized in profit or loss and presented net within other
+gains/(losses) in the period in which it arises.
+Equity instruments
+The Group subsequently measures all equity investments at fair value. Changes in the fair value of financial assets at
+FVTPL are recognized in “other income and other gains/(losses)-net” in the statements of profit or loss as applicable.
+(d)
+Impairment
+The Group assesses on a forward-looking basis the expected credit losses associated with its debt instruments carried at
+amortised cost and FVOCI. The impairment methodology applied depends on whether there has been a significant increase in credit
+risk.
+34.6
+Trade receivables
+Trade receivables are recognized initially at the amount of consideration that is unconditional unless they contain significant
+financing components, in which case they are recognized at fair value. The Group holds the trade receivables with the objective of
+collecting the contractual cash flows and therefore measures them subsequently at amortised cost using the effective interest method.
+See Note 18 for further information about the Group’s accounting for trade receivables and Note 3.1 for a description of the Group’s
+impairment policies.
+34.7
+Cash and cash equivalents
+For the purpose of presentation in the statement of cash flows, cash and cash equivalents includes cash on hand, demand
+deposits held at call with financial institutions, other short-term, highly liquid investments with original maturities of three months
+or less that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+Bank deposits with initial terms of over three months are presented as time deposits on the consolidated statements of financial
+positions.
+34.8
+Share capital
+Ordinary shares are classified as equity
+Incremental costs directly attributable to the issue of new shares or options are shown in equity as a deduction, net of
+tax, from the proceeds.
+34.9
+Trade and other payables
+These amounts represent liabilities for goods and services provided to the Group prior to the end of financial year which are
+unpaid. Trade and other payables are presented as current liabilities, unless payment is not due within 12 months after the reporting
+period. They are recognized initially at their fair value and subsequently measured at amortised cost using the effective interest
+method.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-39 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p40] 34.10 Borrowings
+Borrowings are initially recognized at fair value, net of transaction costs incurred. Borrowings are subsequently measured at
+amortised cost. Any difference between the proceeds (net of transaction costs) and the redemption amount is recognized in profit or
+loss over the period of the borrowings using the effective interest method. Fees paid on the establishment of loan facilities are
+recognized as transaction costs of the loan to the extent that it is probable that some or all of the facility will be drawn down. In
+this case, the fee is deferred until the draw-down occurs. To the extent that there is no evidence that it is probable that some or all
+of the facility will be drawn down, the fee is capitalised as a prepayment for liquidity services and amortised over the period of the
+facility to which it relates.
+Borrowings are recognized when the obligation specified in the contract is extinguished, cancelled or expired. The difference
+between the carrying amount of a financial liability that has been extinguished or transferred to another party and the consideration
+paid, including any non-cash assets transferred or liabilities assumed, is recognized in profit or loss as finance costs.
+Borrowings are classified as current liabilities unless, at the end of the reporting period, the Group has a right to defer
+settlement of the liability for at least 12 months after the reporting period.
+Where the terms of a financial liability are renegotiated and the entity issues equity instruments to a creditor to extinguish
+all or part of the liability, a gain or loss is recognized in profit or loss, which is measured as the difference between the carrying
+amount of the financial liability and the fair value of the equity instruments issued.
+34.11 Borrowing costs
+General and specific borrowing costs that are directly attributable to the acquisition, construction or production of a qualifying
+asset are capitalised during the period of time that is required to complete and prepare the asset for its intended use or sale. Qualifying
+assets are assets that necessarily take a substantial period of time to get ready for their intended use or sale.
+Investment income earned on the temporary investment of specific borrowings pending their expenditure on qualifying assets
+is deducted from the borrowing costs eligible for capitalisation.
+Other borrowing costs are expensed in the period in which they are incurred.
+34.12 Current and deferred income tax
+The income tax expense or credit for the period is the tax payable on the current period’s taxable income based on the
+applicable income tax rate for each jurisdiction adjusted by changes in deferred tax assets and liabilities attributable to temporary
+differences and to unused tax losses.
+(a)
+Current income tax
+The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the end of the
+reporting period in the countries where the company and its subsidiaries and associates operate and generate taxable income.
+Management periodically evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is
+subject to interpretation, and it considers whether it is probable that a taxation authority will accept an uncertain tax treatment. The
+Group measures its tax balances either based on either the most likely amount or the expected value, depending on which method
+provides a better prediction of the resolution of the uncertainty.
+(b)
+Deferred income tax
+Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax bases
+of assets and liabilities and their carrying amounts in the consolidated financial statements. However, deferred tax liabilities are not
+recognized if they arise from the initial recognition of goodwill. Deferred income tax is also not accounted for if it arises from initial
+recognition of an asset or liability in a transaction other than a business combination that at the time of the transaction affects neither
+accounting nor taxable profit or loss and does not give rise to equal taxable and deductible temporary differences. Deferred income
+tax is determined using tax rates (and laws) that have been enacted or substantively enacted by the end of the reporting period and
+are expected to apply when the related deferred income tax asset is realised or the deferred income tax liability is settled.
+Deferred tax assets are recognized only if it is probable that future taxable amounts will be available to utilise those temporary
+differences and losses.
+Deferred tax liabilities and assets are not recognized for temporary differences between the carrying amount and tax bases
+of investments in foreign operations where the company is able to control the timing of the reversal of the temporary differences
+and it is probable that the differences will not reverse in the foreseeable future.
+Deferred tax assets and liabilities are offset where there is a legally enforceable right to offset current tax assets and liabilities
+and where the deferred tax balances relate to the same taxation authority. Current tax assets and tax liabilities are offset where the
+entity has a legally enforceable right to offset and intends either to settle on a net basis, or to realise the asset and settle the liability
+simultaneously.
+Current and deferred tax is recognized in profit or loss, except to the extent that it relates to items recognized in other
+comprehensive income or directly in equity. In this case, the tax is also recognized in other comprehensive income or directly in
+equity, respectively.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-40 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p41] 34.13 Employee benefits
+(a)
+Short-term obligations
+Liabilities for wages and salaries, including non-monetary benefits that are expected to be settled wholly within 12 months
+after the end of the period in which the employees render the related service are recognized in respect of employees’ services up to
+the end of the reporting period, and they are measured at the amounts expected to be paid when the liabilities are settled. The
+liabilities are presented as current employee benefit obligations in the statement of financial position.
+(b)
+Pension obligations
+The Group participates in various defined contribution retirement benefit plans which are available to all relevant employees.
+These plans are generally funded through payments to schemes established by governments. For defined contribution plans, the
+Group pays contributions to publicly or privately administered pension insurance plans on a mandatory, contractual or voluntary
+basis. The Group has no further payment obligations once the contributions have been paid. The contributions are recognized as
+employee benefit expense when they are due. Prepaid contributions are recognized as an asset to the extent that a cash refund or a
+reduction in the future payments is available.
+(c)
+Housing funds, medical insurances and other social insurances
+The employees of the Group in the PRC are entitled to participate in various government-supervised housing funds, medical
+insurance and other employee social insurance plan. The Group contributes on a monthly basis to these funds based on certain
+percentages of the salaries of the employees, subject to certain ceiling. The Group’s liability in respect of these funds is limited to
+the contributions payable in each period. Contributions to the housing funds, medical insurances and other social insurances are
+expensed as incurred.
+(d)
+Termination benefits
+Termination benefits are payable when employment is terminated by the Group before the normal retirement date, or when
+an employee accepts voluntary redundancy in exchange for these benefits. The Group recognises termination benefits at the earlier
+of the following dates: (a) when the Group can no longer withdraw the offer of those benefits; and (b) when the entity recognises
+costs for a restructuring that is within the scope of IAS 37 and involves the payment of terminations benefits. In the case of an offer
+made to encourage voluntary redundancy, the termination benefits are measured based on the number of employees expected to
+accept the offer. Benefits falling due more than 12 months after the end of the reporting period are discounted to present value.
+34.14 Government grants
+Grants from the government are recognized at their fair value where there is a reasonable assurance that the grant will be
+received and the Group will comply with all attached conditions
+Government grants relating to costs are deferred and recognized in profit or loss over the period necessary to match them with
+the costs that they are intended to compensate. Government grants relating to the purchase of property, plant and equipment are
+included in non-current liabilities as deferred income and they are credited to profit or loss on a straight-line basis over the expected
+useful lives of the related assets.
+34.15 Interest income
+Interest income is calculated by applying the effective interest rate to the gross carrying amount of a financial asset except
+for financial assets that subsequently become credit-impaired. For credit-impaired financial assets the effective interest rate is applied
+to the net carrying amount of the financial asset (after deduction of the loss allowance).
+Interest income is presented as finance income where it is earned from financial assets that are held for cash management
+purposes. Any other interest income is included in other income.
+35
+SUBSEQUENT FINANCIAL STATEMENTS
+No audited financial statements have been prepared by the Company or any of the companies now comprising the Group in
+respect of any period subsequent to December 31, 2025 and up to the date of this report.
+APPENDIX I
+ACCOUNTANT’S REPORT
+– I-41 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

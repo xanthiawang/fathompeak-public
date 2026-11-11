@@ -1,0 +1,103 @@
+[p1] IMPORTANT NOTICE TO PROSPECTIVE [REDACTED]
+This document is issued by our Company solely in connection with the [REDACTED] and the
+[REDACTED] and does not constitute an [REDACTED] to sell or a solicitation of an
+[REDACTED] to buy any security other than the [REDACTED] by this document pursuant to the
+[REDACTED]. This document may not be used for the purpose of making, and does not constitute,
+an [REDACTED] or invitation in any other jurisdiction or in any other circumstances. No action
+has been taken to permit a [REDACTED] of the [REDACTED] in any jurisdiction other than Hong
+Kong and no action has been taken to permit the publication of this document in any jurisdiction
+other than Hong Kong. The distribution of this document for purposes of a [REDACTED] and the
+[REDACTED] and sale of the Hong Kong [REDACTED] in other jurisdictions are subject to
+restrictions and may not be made except as permitted under the applicable securities laws of such
+jurisdictions pursuant to registration with or authorization by the relevant securities regulatory
+authorities or an exemption therefrom.
+You should rely only on the information contained in this document to make your
+[REDACTED] decision. The [REDACTED] is made solely on the basis of the information
+contained and the representations made in this document. We have not authorized anyone to provide
+you with information that is different from what is contained in this document. Any information or
+representation not contained nor made in this document must not be relied on by you as having been
+authorized by our Company, the Joint Sponsors, the [REDACTED], any of our or their respective
+affiliates, directors, officers, employees, advisors, agents or representatives, or any other persons
+involved in the [REDACTED].
+Page
+Important . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ii
+Expected Timetable. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+iv
+Contents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+vii
+Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+Glossary of Technical Terms
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+Forward-looking Statements
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+34
+Risk Factors
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+35
+Waivers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+65
+Information about This Document and the [REDACTED] . . . . . . . . . . . . . . . . . . . . . . . . .
+68
+Directors and Parties Involved in the [REDACTED] . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+Corporate Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+74
+Industry Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+76
+CONTENTS
+– vii –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] Regulatory Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+89
+History, Development and Corporate Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+102
+Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+120
+Financial Information
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+171
+Relationship with Our Controlling Shareholders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+200
+Share Capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+203
+Substantial Shareholders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+206
+Directors and Senior Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+208
+Future Plans and Use of [REDACTED] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+215
+[REDACTED]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+218
+Structure of [REDACTED]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+229
+How to Apply for [REDACTED] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+238
+Appendix I
+Accountant’s Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+I-1
+Appendix II
+Unaudited [REDACTED] Financial Information . . . . . . . . . . . . . . . . . . .
+II-1
+Appendix III
+Summary of Articles of Association. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+III-1
+Appendix IV
+Statutory and General Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+IV-1
+Appendix V
+Documents Delivered to the Registrar of Companies and Available on
+Display . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+V-1
+CONTENTS
+– viii –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

@@ -1,0 +1,395 @@
+Customer Stories | Together AI
+Webflow Analyze/Optimize tracking bridge -->
+Introducing Together Link: Run open models inside the harness you already use →
+The Open Source AI Stack: models, inference, routers, harnesses & tools →
+📈 GLM-5.3 vs. GLM 5.3 Flash on DeepSWE →
+⚡ On-demand B200s now available on Together GPU Clusters →
+Inference
+Serverless Inference
+High-performance inference as APIs
+Batch Inference
+Inference for batch workloads
+Provisioned Throughput
+Token-based capacity with SLAs
+Dedicated Model Inference
+Inference on custom hardware
+Dedicated Container Inference
+Inference for custom models
+Together Link
+Run open models in your harness
+MiniMax M3
+Gemma 4 31B
+DeepSeek V4 Pro
+GLM-5.2
+kimi K2.7 Code
+gpt-oss-120B
+Model library
+Explore the top open-source models
+Explore Top Open-Source Models
+Chat
+Image
+Code
+Vision
+Video
+Show all
+Compute
+Accelerated Compute
+GPU Clusters
+Reliable GPU clusters at scale
+AI Factory
+Custom infrastructure at frontier scale
+Developer Environments
+Sandbox
+Build development environments for AI
+Storage
+Managed Storage
+Store model weights & data securely
+GB300
+GB200
+B200
+H200
+H100
+Model Shaping
+Custom Training
+Post-training for frontier quality at scale
+Fine-Tuning
+Shape models with your data
+Evaluations
+Measure model quality
+kimi K2.7 Code
+Gemma 4 31B-it FP8
+GLM 5.1 FP4
+gpt-oss-120b
+Qwen3.5 397B A17b
+Llama 4 Maverick
+Model library
+Fine-tune top open-source models
+Research
+Research
+Systems research for production AI
+Research blog
+All our research publications
+Featured publications
+FlashAttention
+ATLAS
+Kernel Collection
+ThunderKittens
+DSGym
+Show all
+Developers
+Documentation
+Technical docs for Together AI
+Demos
+Our open-source demo apps
+Cookbooks
+Practical implementation guides
+Voice Agents
+Build voice agents for production
+Open-source AI
+Build better with open models
+Together Link
+Run open models in your harness
+Model Library
+Playground
+Together Chat
+Which LLM to use
+Open-source ROI calculator
+Company
+Resources
+Customer stories
+Testimonials from AI Natives
+Startup accelerator
+Build and scale your startup
+Customer support
+Find answers to your questions
+Blog
+Our latest news & blog posts
+Events
+Explore our events calendar
+Company
+About
+Get to know us
+Careers
+Join our mission
+Press
+Together in the news
+Pricing
+Serverless Inference
+High-performance inference as APIs
+Batch Inference
+Inference for batch workloads
+Provisioned Throughput
+Token-based capacity with SLAs
+Dedicated Model Inference
+Inference on custom hardware
+Dedicated Container Inference
+Inference for custom models
+Together Link
+Run open models in your harness
+MiniMax M3
+Gemma 4 31B
+DeepSeek V4 Pro
+GLM-5.2
+kimi K2.7 Code
+gpt-oss-120B
+Model library
+Explore the top open-source models
+Explore Top Open-Source Models
+Chat
+Image
+Code
+Vision
+Video
+Show all
+Accelerated Compute
+GPU Clusters
+Reliable GPU clusters at scale
+AI Factory
+Custom infrastructure at frontier scale
+Developer Environments
+Sandbox
+Build development environments for AI
+Storage
+Managed Storage
+Store model weights & data securely
+GB300
+GB200
+B200
+H200
+H100
+Custom Training
+Post-training for frontier quality at scale
+Fine-Tuning
+Shape models with your data
+Evaluations
+Measure model quality
+kimi K2.7 Code
+Gemma 4 31B-it FP8
+GLM 5.1 FP4
+gpt-oss-120b
+Qwen3.5 397B A17b
+Llama 4 Maverick
+Model library
+Fine-tune top open-source models
+Research
+Systems research for production AI
+Research blog
+All our research publications
+Featured publications
+FlashAttention
+ATLAS
+Kernel Collection
+ThunderKittens
+DSGym
+Show all
+Documentation
+Technical docs for Together AI
+Demos
+Our open-source demo apps
+Cookbooks
+Practical implementation guides
+Voice Agents
+Build voice agents for production
+Open-source AI
+Build better with open models
+Together Link
+Run open models in your harness
+Model Library
+Playground
+Together Chat
+Which LLM to use
+Open-source ROI calculator
+Resources
+Customer stories
+Testimonials from AI Natives
+Startup accelerator
+Build and scale your startup
+Customer support
+Find answers to your questions
+Blog
+Our latest news & blog posts
+Events
+Explore our events calendar
+Company
+About
+Get to know us
+Careers
+Join our mission
+Press
+Together in the news
+Contact sales
+Contact sales
+Sign in
+Customer stories
+The teams shipping AI at production scale
+Together AI is the end-to-end platform trusted for reliability, leading price economics, and research-backed performance. Hear from the teams building on the AI Native Cloud.
+How Cursor partnered with Together AI to deliver real-time, low-latency inference at scale
+Inference, GPU clusters, RESEARCH  •  Enterprise
+How Decagon Engineered Sub-Second Voice AI with Together AI
+Inference, GPU clusters, RESEARCH
+6x
+Cost reduction per turn vs. gpt-5 mini
+11x
+Faster Inference
+All customer stories
+<500ms
+time-to-first-token
+How Deep Cogito trained and deployed frontier reasoning models on Together AI
+GPU Clusters
+Inference
+2x
+faster inference
+How Yutori runs browser-use AI agents at production scale on Together AI’s inference platform
+Inference
+90ms
+Model latency
+How Cartesia Runs Real-Time Voice AI on Together AI’s GPU Infrastructure
+GPU Clusters
+Training
+Inference
+87%
+EOB accuracy
+How XY.AI Labs Built Customer-Specific EOB Parsers with Serverless Fine-Tuning
+Fine-Tuning
+6×
+reduction in cost per turn
+How Decagon Engineered Sub-Second Voice AI with Together AI
+Inference
+Fine-Tuning
+72 GPUs
+GB200 NVL72 topology
+Learn how Cursor partnered with Together AI to deliver real-time, low-latency inference at scale
+Inference
+~3 months
+time saved
+How Scaled Cognition Trains APT-1 on Together AI GPU Clusters
+GPU Clusters
+Training
+5-10×
+vs. competitors
+How Runware Scales Generative Video & Image APIs with Together AI's Flexible GPU Infrastructure
+GPU Clusters
+Inference
+7×
+training cost
+Together AI’s Instant Clusters Enable Latent Health to Build Clinical AI That Outperforms GPT-4
+GPU Clusters
+2 seconds
+response time
+How The Washington Post Achieved AI Independence with Reliable Inference
+Inference
+3x
+training frequency
+How Slingshot AI Accelerated Mental Health AI with Fine-tuning at Together AI
+Fine-Tuning
+10×
+faster launch
+How HeroUI Chat launched 10x faster with Together Code Sandbox
+Code Sandbox
+60%
+cost savings
+How Hedra Scales Viral AI Video Generation with 60% Cost Savings
+Inference
+GPU Clusters
+Training
+95%
+faster TTFT
+From AWS to Together Dedicated Endpoints: Arcee AI's journey to greater inference flexibility
+Inference
+3 months
+faster launch
+How LegionEdge Built a Real-Time AI Prototyping Platform with Together Code Sandbox
+Code Sandbox
+50%
+cloud savings
+Building World-Class Thai Language Models with Purpose-Built AI Infrastructure
+Training
+GPU Clusters
+Inference
+92%
+vs. OpenAI
+When Standard Inference Frameworks Failed, Together AI Enabled 5x Performance Breakthrough
+Inference
+2x
+CSAT score
+How Zomato built an AI customer support bot that doubled customer satisfaction and scaled to over 1,000 messages per minute
+Inference
+0.4s
+median TTFT
+Scaling AI Companions: How Dippy AI Reached Over 4 Million Tokens/Minute with Together Dedicated Endpoints
+Inference
+Load more
+Scale your infrastructure with Together
+View All Stories
+"Together AI offers optimized performance at scale, and at a lower cost than closed-source providers – all while maintaining strict privacy standards."
+Vineet Khosla
+CTO, The Washington Post
+~33%
+Cost savings
+2x
+Latency reduction
+"We’ve been thoroughly impressed with Together. They delivered a 2x reduction in latency and cut our costs by approximately a third."
+Caiming Xiong
+VP, Salesforce AI Research
+"Together GPU Clusters provided a combination of amazing training performance, expert support, and the ability to scale to meet our rapid growth to help us serve our growing community of AI creators."
+Demi Guo
+CEO, Pika
+“Together AI provides the performance and reliability we need for real-time, high-quality image and video generation at scale. We value that Together AI is much more than an infrastructure provider — they're a true innovation partner, enabling us to push creative boundaries without compromise.”
+Victor Perez
+Co-Founder, Krea
+“Together AI’s infrastructure has the capacity to soak up our viral moments without breaking a sweat. During major traffic surges, Dedicated Container Inference scales seamlessly while maintaining performance. And because we trained on Together’s Accelerated Compute, deploying to production was frictionless—one platform, zero artifact transfers, no deployment headaches.”
+Terrance Wang
+Founding ML Engineer, Hedra
+Why Together AI?
+Cost reduction
+6x
+With Together Inference
+workload at scale
+72 GPUs
+NVIDIA Blackwell on Together Managed Clusters
+Lower latency
+95×
+With Together Inference
+Start building on the AI Native Cloud
+Talk to our experts to find the ideal setup for production performance, cost, and scaling strategy.
+Explore models
+Contact Sales
+Products
+Accelerated Compute
+Together Link
+Serverless Inference
+Provisioned Throughput
+Dedicated Inference
+Fine-Tuning
+Sandbox
+Evaluations
+Models
+See all models
+DeepSeek
+Meta
+Qwen
+Google
+OpenAI
+Mistral AI
+Custom models
+Developers
+Research
+Docs
+Open-source AI
+OSS ROI calculator
+Pricing
+Pricing overview
+Inference
+Fine-Tuning
+GPU Clusters
+Resources
+Blog
+About us
+Careers
+Customer Stories
+Support
+Privacy Policy
+Terms of service
+Cookie Policy
+Consent Preferences
+© 2026 Together AI. All Rights Reserved.

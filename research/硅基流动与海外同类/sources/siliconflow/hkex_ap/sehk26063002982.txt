@@ -1,0 +1,176 @@
+[p1] FUTURE PLANS
+For a detailed description of our future plans, see “Business — Our Strategies.”
+USE OF [REDACTED]
+Assuming that the [REDACTED] is not exercised, after deducting the [REDACTED] and other
+estimated [REDACTED] expenses payable by us in connection with the [REDACTED], and based on the
+[REDACTED] of HK$[REDACTED] per H Share, we estimate that we will receive net [REDACTED]
+of
+approximately
+HK$[REDACTED]
+million
+from
+the
+[REDACTED].
+We
+intend
+to
+use
+the
+[REDACTED] from the [REDACTED] for the purposes and in the amounts set forth below:
+(i)
+Approximately [REDACTED]% (or HK$[REDACTED] million) will be used to further
+strengthen our research and development capabilities, with a focus on enhancing our token
+production efficiency:
+(a)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to the
+ongoing research and development of the core technology architecture, including: (i)
+upgrades to the technology architecture of our deep learning inference frameworks and
+inference middleware, with the aim of reducing per-token production costs and enhancing
+token production stability; (ii) upgrades to the technology architecture of our computing
+resource orchestration system, with the aim of optimizing scheduling efficiency and cost
+control for model inference; and (iii) support and adaptation for new models and new
+chips, to address evolving business requirements and increase the diversity of our
+computing resource supply. Specifically:
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the leasing of computing resources; and
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the recruitment and compensation of research and development personnel,
+(b)
+approximately [REDACTED]% (or [REDACTED] million) will be allocated to ongoing
+research and development and upgrades of our existing business lines, including: (i)
+performance optimization, testing and validation of our public cloud-based serverless
+token services and dedicated instances; (ii) assessment, optimization, testing and
+validation of operational efficiency for heterogeneous computing clusters; and (iii)
+enhancements and improvements to our on-premise deployment solution products.
+Specifically:
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the leasing of computing hardware; and
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the recruitment and compensation of research and development personnel.
+(c)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to
+research and development of next generation inference technologies, including the
+architecture design, engineering optimization, testing and validation of a decentralized,
+dataflow-based inference architecture and a large-scale context memory system for
+next-generation AI applications. Specifically:
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the leasing of computing hardware; and
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the recruitment and compensation of research and development personnel.
+FUTURE PLANS AND USE OF [REDACTED]
+– 215 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p2] (d)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to the
+research and development of innovative products and frontier AI infrastructure software
+technologies, including: architecture design, product development, testing and validation
+of innovative products such as AI agent middleware frameworks. Specifically:
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the leasing of computing hardware; and
+•
+approximately [REDACTED]% (or HK$[REDACTED] million) will be used for
+the recruitment and compensation of research and development personnel.
+(ii)
+Approximately [REDACTED]% (or HK$[REDACTED] million) will be used to lease
+computing resources to support our ongoing operational needs, especially for public cloud-
+based services. We intend to apply such funds toward token production, enabling us to grow
+the volume and reliability of our token supply offerings.
+(iii) Approximately [REDACTED]% (or HK$[REDACTED] million) will be used to expand our
+coverage of key customers and enhance our market presence:
+(a)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to
+brand building and the enhancement of our market influence. We intend to apply such
+funds toward: (i) participation in industry conferences, forums and exhibitions, including
+AI infrastructure conferences and other domestic industry events, to increase brand
+visibility and improve customer acquisition and conversion efficiency; and (ii) online
+brand advertising, including placement on major domestic platforms, to strengthen our
+brand presence across key markets and increase market awareness of our platform;
+(b)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to
+expanding our online and channel-based sales model for our public cloud-based services.
+We intend to apply such funds toward: (i) the recruitment and compensation of online
+operations and marketing personnel to expand our channel sales model through customer
+acquisition initiatives via our official website and developer platforms, online marketing
+activities and content marketing; (ii) online product advertising expenditure to broaden
+our market reach and improve accessibility to our platform for a wider range of customers
+and developers; and (iii) development and expansion of our integrated solution vendor
+partner network, including the commissions to such vendors, to accelerate customer
+acquisition.
+(c)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to
+strengthening our direct sales capabilities targeting key industries and large enterprise
+customers for our on-premise deployment solutions. We intend to apply such funds
+toward the recruitment and compensation of direct sales and solution personnel with deep
+experience in AI infrastructure, cloud computing, enterprise software and industry
+solutions, with the aim of expanding our enterprise customer base, to facilitate broader
+customer acquisition across industries.
+(iv)
+Approximately [REDACTED]% (or HK$[REDACTED] million) will be used to advance our
+global
+expansion
+strategy
+by
+leveraging
+overseas
+ecosystems
+and
+our
+technological
+advantages:
+(a)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to
+expanding our overseas customer base through online and offline channels and digital
+marketing. We intend to apply such funds toward: (a) participation in international
+exhibitions and conferences to increase brand visibility in key overseas markets; (b)
+overseas online channel advertising expenditure, including placements on international
+online platforms, to drive customer acquisition and accelerate global platform adoption;
+FUTURE PLANS AND USE OF [REDACTED]
+– 216 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
+
+[p3] (b)
+approximately [REDACTED]% (or HK$[REDACTED] million) will be allocated to
+strengthening localized ecosystem partnerships and building local operational capabilities
+in key overseas markets. We intend to apply such funds toward: (a) the recruitment and
+compensation of overseas sales, after-sales and technical personnel with relevant market
+experience, to enhance customer service capabilities, market responsiveness and local
+delivery capabilities; (b) the establishment and operation of localized branch offices in
+selected overseas markets, including initial set-up costs and ongoing operating expenses,
+to support our local teams and strengthen our market presence in those jurisdictions; and
+(c) establishment and development of integrated solution vendor partnerships in key
+overseas markets to accelerate our platform adoption among overseas enterprise
+customers and developers.
+(v)
+Approximately [REDACTED]% (or HK$[REDACTED] million) will be used for working
+capital and other general corporate purposes.
+The additional net [REDACTED] that we would receive if the [REDACTED] were exercised in full
+would be HK$[REDACTED] million (based on the [REDACTED] of HK$[REDACTED] per H Share).
+To the extent that the net [REDACTED] from the [REDACTED] are either more or less than
+expected, we will adjust our allocation of the net [REDACTED] for the above purposes on a pro rata
+basis.
+To the extent that the net [REDACTED] of the [REDACTED] are not immediately used for the
+above purposes, we will only deposit such funds into short-term interest-bearing accounts at licensed
+commercial banks and/or other authorized financial institutions (as defined under the Securities and
+Futures Ordinance or applicable laws and regulations in other jurisdictions). In such event, we will comply
+with the appropriate disclosure requirements under the Listing Rules. We will issue an appropriate
+announcement if there is any material change to the above proposed use of [REDACTED] in accordance
+with the Listing Rules.
+If any part of our development plan does not proceed as planned for reasons such as changes in
+government policies that would hinder the development of any of our projects, or the occurrence of force
+majeure events, the Directors will carefully evaluate the situation and may reallocate the net
+[REDACTED] from the [REDACTED]. In such event, we will comply with the appropriate disclosure
+requirements under the Listing Rules.
+FUTURE PLANS AND USE OF [REDACTED]
+– 217 –
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THE INFORMATION MUST BE READ IN
+CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

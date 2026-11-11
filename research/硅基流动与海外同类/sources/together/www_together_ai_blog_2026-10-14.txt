@@ -1,0 +1,775 @@
+Blog | Together AI
+Webflow Analyze/Optimize tracking bridge -->
+Introducing Together Link: Run open models inside the harness you already use →
+The Open Source AI Stack: models, inference, routers, harnesses & tools →
+📈 GLM-5.3 vs. GLM 5.3 Flash on DeepSWE →
+⚡ On-demand B200s now available on Together GPU Clusters →
+Inference
+Serverless Inference
+High-performance inference as APIs
+Batch Inference
+Inference for batch workloads
+Provisioned Throughput
+Token-based capacity with SLAs
+Dedicated Model Inference
+Inference on custom hardware
+Dedicated Container Inference
+Inference for custom models
+Together Link
+Run open models in your harness
+MiniMax M3
+Gemma 4 31B
+DeepSeek V4 Pro
+GLM-5.2
+kimi K2.7 Code
+gpt-oss-120B
+Model library
+Explore the top open-source models
+Explore Top Open-Source Models
+Chat
+Image
+Code
+Vision
+Video
+Show all
+Compute
+Accelerated Compute
+GPU Clusters
+Reliable GPU clusters at scale
+AI Factory
+Custom infrastructure at frontier scale
+Developer Environments
+Sandbox
+Build development environments for AI
+Storage
+Managed Storage
+Store model weights & data securely
+GB300
+GB200
+B200
+H200
+H100
+Model Shaping
+Custom Training
+Post-training for frontier quality at scale
+Fine-Tuning
+Shape models with your data
+Evaluations
+Measure model quality
+kimi K2.7 Code
+Gemma 4 31B-it FP8
+GLM 5.1 FP4
+gpt-oss-120b
+Qwen3.5 397B A17b
+Llama 4 Maverick
+Model library
+Fine-tune top open-source models
+Research
+Research
+Systems research for production AI
+Research blog
+All our research publications
+Featured publications
+FlashAttention
+ATLAS
+Kernel Collection
+ThunderKittens
+DSGym
+Show all
+Developers
+Documentation
+Technical docs for Together AI
+Demos
+Our open-source demo apps
+Cookbooks
+Practical implementation guides
+Voice Agents
+Build voice agents for production
+Open-source AI
+Build better with open models
+Together Link
+Run open models in your harness
+Model Library
+Playground
+Together Chat
+Which LLM to use
+Open-source ROI calculator
+Company
+Resources
+Customer stories
+Testimonials from AI Natives
+Startup accelerator
+Build and scale your startup
+Customer support
+Find answers to your questions
+Blog
+Our latest news & blog posts
+Events
+Explore our events calendar
+Company
+About
+Get to know us
+Careers
+Join our mission
+Press
+Together in the news
+Pricing
+Serverless Inference
+High-performance inference as APIs
+Batch Inference
+Inference for batch workloads
+Provisioned Throughput
+Token-based capacity with SLAs
+Dedicated Model Inference
+Inference on custom hardware
+Dedicated Container Inference
+Inference for custom models
+Together Link
+Run open models in your harness
+MiniMax M3
+Gemma 4 31B
+DeepSeek V4 Pro
+GLM-5.2
+kimi K2.7 Code
+gpt-oss-120B
+Model library
+Explore the top open-source models
+Explore Top Open-Source Models
+Chat
+Image
+Code
+Vision
+Video
+Show all
+Accelerated Compute
+GPU Clusters
+Reliable GPU clusters at scale
+AI Factory
+Custom infrastructure at frontier scale
+Developer Environments
+Sandbox
+Build development environments for AI
+Storage
+Managed Storage
+Store model weights & data securely
+GB300
+GB200
+B200
+H200
+H100
+Custom Training
+Post-training for frontier quality at scale
+Fine-Tuning
+Shape models with your data
+Evaluations
+Measure model quality
+kimi K2.7 Code
+Gemma 4 31B-it FP8
+GLM 5.1 FP4
+gpt-oss-120b
+Qwen3.5 397B A17b
+Llama 4 Maverick
+Model library
+Fine-tune top open-source models
+Research
+Systems research for production AI
+Research blog
+All our research publications
+Featured publications
+FlashAttention
+ATLAS
+Kernel Collection
+ThunderKittens
+DSGym
+Show all
+Documentation
+Technical docs for Together AI
+Demos
+Our open-source demo apps
+Cookbooks
+Practical implementation guides
+Voice Agents
+Build voice agents for production
+Open-source AI
+Build better with open models
+Together Link
+Run open models in your harness
+Model Library
+Playground
+Together Chat
+Which LLM to use
+Open-source ROI calculator
+Resources
+Customer stories
+Testimonials from AI Natives
+Startup accelerator
+Build and scale your startup
+Customer support
+Find answers to your questions
+Blog
+Our latest news & blog posts
+Events
+Explore our events calendar
+Company
+About
+Get to know us
+Careers
+Join our mission
+Press
+Together in the news
+Contact sales
+Contact sales
+Sign in
+Blog
+Inference
+Together Link: frontier-quality open models in the harness you already use
+Together Link brings frontier open models like GLM 5.3 and Kimi K3 into the coding agent your team already uses, cutting model spend by over 50%.
+Inference
+The Open Source AI Stack
+A deep dive into the open model AI stack — model, inference, gateways and routers, harness, and tools — and how keeping each layer independent lets you swap in a new open model in minutes instead of rebuilding your workflow.
+GPU Clusters
+Together AI and Y Combinator partner to launch the first dedicated GPU cluster for the YC community
+No more two-year compute contracts. Together AI and YC just gave YC startups a faster way to get GPUs.
+Model Library
+GLM-5.3 vs. Claude Fable 5 on DeepSWE: Cost, Coding, and Routing
+We ran 904 DeepSWE rollouts on GLM-5.3 and Claude Fable 5. A tie on pass@1, but GLM-5.3 wins pass@4 and costs 5.4x less: \$3.99 per rollout vs. \$21.63.
+Model Library
+DeepSeek V4 Pro 0813 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing
+We ran 904 DeepSWE rollouts on DeepSeek V4 Pro 0813 and GPT-5.6 Sol. Sol leads pass@1 by 10 points at 35x the cost; Pro wins pass@4, and a Pro-first cascade hits 83.0%.
+Model Library
+GLM-5.3 vs. GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing
+We ran 904 DeepSWE rollouts on GLM-5.3 and GPT-5.6 Sol. Sol leads pass@1 by 3.7 points; GLM-5.3 wins pass@4 at half the cost, and a GLM-first cascade hits 85.9%.
+Inference
+A/B test models in production
+Shadow traffic proves a candidate is operationally sound. It can't tell you if users like it better. Run the split at the endpoint instead of in your app code.
+Model Library
+DeepSeek-V4 Flash 0731 vs GPT-5.6 Luna on DeepSWE: Cost and Coding
+We ran 900 DeepSWE rollouts on DeepSeek-V4 Flash and GPT-5.6 Luna. Luna leads pass@1 by 14 points; DeepSeek delivers 4.8x the solves per dollar.
+Inference
+Canary rollouts: upgrade models in production without downtime
+A hard model swap exposes every user at once, and rolling back means cold-starting the old deployment under pressure. Here's how staged traffic ramps, metric gates, and automatic rollback work on dedicated inference.
+Research
+Together AI at ICML 2026: frontier research across the full stack
+Nine papers at ICML 2026 across the full stack. The research that becomes the Together platform. Find us at booth B714 in Seoul.
+Model Library
+Kimi K3: the complete developer guide
+Kimi K3 is the first open 3T-class model. See how it benchmarks, what it costs, and how to call it on the Together AI API, with copy-paste code examples.
+Research
+ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale
+ThunderAgent is a program-aware scheduler for agentic inference. By treating each agent workflow as a schedulable program, it eliminates KV cache thrashing to deliver more than 2x single-node throughput and near-linear multi-node scaling.
+Inference
+Autoscaling endpoints for LLM inference
+GPU utilization can read healthy while your queue backs up, and a new replica takes minutes to warm. Here's how to pick autoscaling metrics, tune scale-up/down windows, and budget for cold starts on dedicated inference.
+Inference
+Configuring Dedicated Model Inference
+The three-part resource model behind Together AI Dedicated Model Inference—endpoints, deployments, configs—and how capacity-aware routing ties them together.
+Model Library
+Kimi K3 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing
+We ran 904 DeepSWE rollouts on Kimi K3 and GPT-5.6 Sol. Sol leads pass@1; Kimi K3 wins pass@4 at 2.8x the solves per dollar, and routing between them reaches ~85.6%.
+Inference
+The production platform for open-weight AI inference
+Run open models in production with full control over performance, cost, and quality. Deploy in minutes, roll out safely, and scale to your SLOs.
+Inference
+Together AI brings Thinking Machines Lab’s new model Inkling on day 0
+Together AI offers day zero access to Inkling, Thinking Machines Lab's multimodal mixture-of-experts model for text, image, and audio reasoning.
+Model Library
+Kimi K3 vs Claude Fable 5 on DeepSWE: Cost and Coding
+We ran 452 DeepSWE rollouts on Kimi K3 and Claude Fable 5. Fable leads pass@1 by 1.4 points; Kimi K3 wins pass@4 and delivers 2.8x the solves per dollar.
+GPU Clusters
+New in Together GPU Clusters: Reliability and control for production GPU clusters
+See how Together AI is improving production GPU clusters with passive health checks, node repair, stronger Slurm reliability, OIDC, and startup scripts.
+Inference
+What does 99.9% uptime mean for inference?
+Reliability numbers are easy to publish. We break down what 99%, 99.9%, and 99.99% uptime actually require, the failure domains each tier has to survive, and the questions to ask any inference provider before you commit.
+Inference
+Open, convenient and predictable: Introducing Provisioned Throughput
+Provisioned Throughput gives you reserved inference capacity for frontier open models like MiniMax M3 and GLM-5.2. Token-based pricing, a 99% uptime SLA, and up to 90% lower cost than proprietary APIs. No GPU-hour math, no infrastructure to manage.
+Inference
+Kimi K2.7 Code vs Claude Fable 5: Landing pages that cost 94% less
+We generated 12 landing pages with Kimi K2.7 Code and Claude Fable 5. Kimi cost 94% less and scored within a few points on every page. Here's what actually moved the needle.
+Research
+ParallelKernelBench: Frontier LLMs can't write fast multi-GPU kernels (yet)
+ParallelKernelBench tests whether LLMs can write fast multi-GPU CUDA kernels across 87 real workloads. The best model solves under a third, but a few generated kernels beat any public implementation.
+Company
+Building trust in enterprise AI: Together AI earns ISO 27001:2022 certification
+Together AI has earned ISO 27001:2022 certification, validating our commitment to enterprise-grade security for production AI workloads.
+Inference
+Benchmarking inference at scale: coding agents
+Real-world inference benchmarks for coding agents: 31% more TPS than TensorRT-LLM, 2× better TTFT at saturation, and 76% lower cost than Claude Opus 4.6.
+Inference
+Serving MiniMax-M3 for efficient inference: Unlocking 1M-Token Context and Multimodality Without Regrets
+How Together served MiniMax-M3 efficiently with KV-block-major sparse attention, paged MSA decode, optimized index scoring, and a Rust-based multimodal gateway.
+Inference
+Foundational research powering efficient inference at scale
+As AI moves from research to production, the challenge for AI-native teams shifts from building models to running them — efficiently, reliably, and at scale.
+Company
+What is an AI Native Cloud?
+AI-native companies need infrastructure built for models, not legacy workloads. Learn what defines an AI Native Cloud and why it matters for the next platform shift.
+Research
+Inside the Together AI kernels team
+The team behind FlashAttention and ThunderKittens — how Together AI's kernel researchers close the gap between GPU hardware and production AI.
+Research
+Mamba-3
+Meet Mamba-3: the SSM built for inference. Faster than Transformers at decode, stronger than Mamba-2, and open-source from day one.
+Company
+Together AI at NVIDIA GTC 2026: Explore our latest innovations across research and products
+Together AI arrives at NVIDIA GTC 2026 with new launches in inference, agents, voice AI, and open models — plus technical sessions from its research and engineering leaders.
+Research
+Key research and product announcements at the AI Native Conf
+At AI Native Conf, Together AI announced breakthroughs across kernels, RL, and inference optimization — including FlashAttention-4, ThunderAgent, and together.compile. Research that ships to production. That's the AI Native Cloud.
+Research
+FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling
+As GPU throughput outpaces memory bandwidth, kernels must evolve. We introduce FlashAttention-4, featuring new pipelining for maximum overlap, 2-CTA MMA modes to reduce shared memory traffic, and a hardware-software hybrid approach to softmax exponentials.
+Product updates
+Inference
+Together Link: frontier-quality open models in the harness you already use
+Together Link brings frontier open models like GLM 5.3 and Kimi K3 into the coding agent your team already uses, cutting model spend by over 50%.
+Fine-Tuning
+How to train your own Jev for $17
+We just launched our own Jev-like classifier, together/Tev1-4B-experimental, on top of Qwen3.5 4B on Together’s serverless platform. In this blog post we’ll show you how to fine-tune your own version!
+Inference
+Canary rollouts: upgrade models in production without downtime
+A hard model swap exposes every user at once, and rolling back means cold-starting the old deployment under pressure. Here's how staged traffic ramps, metric gates, and automatic rollback work on dedicated inference.
+Research blog
+Foundational systems research for production AI.
+Kernels
+To Infinity and Beyond: ThunderKittens Now on NVIDIA Vera Rubin NVL72!
+Dylan Lim, Xinyi Li, Sonny Li, Peter Wu, Dan Fu, Simran Arora
+Read More
+Agents
+ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale
+Hao Kang, Ziyang Li, Weili Xu, Xinyu Yang, Yinfang Chen, Junxiong Wang, Beidi Chen, Tushar Krishna, Chenfeng Xu, Simran Arora.
+Read More
+Kernels
+Together AI at ICML 2026: frontier research across the full stack
+Together Research
+Read More
+Kernels
+ParallelKernelBench: Frontier LLMs can't write fast multi-GPU kernels (yet)
+Willy Chan, Nathan Paek, Simon Guo, Simran Arora, Daniel Y. Fu
+Read More
+Agents
+Violin: An open-source video translation skill that breaks language barriers
+Shang Zhu, Kevin Qinghong Lin (Oxford), James Zou
+Read More
+Inference
+Accelerate RL rollouts by up to 50% with distribution-aware speculative decoding
+Zelei Shao, Vikranth Srivatsa, Sanjana Srivastava, Qingyang Wu, Alpay Ariyak, Xiaoxia Wu, Ameen Patel, Jue Wang, Percy Liang, Tri Dao, Ce Zhang, Yiying Zhang, Ben Athiwaratkun, Chenfeng Xu, Junxiong Wang
+Read More
+Architecture
+Parcae: Doing more with fewer parameters using stable looped models
+Hayden Prairie, Zachary Novack, Taylor Berg-Kirkpatrick, Dan Fu
+Read More
+Agents
+EinsteinArena: Harnessing the collective intelligence of agents in the wild to advance science
+Federico Bianchi,* Yongchan Kwon,* James Zou
+Read More
+Agents
+AI for Systems: Using LLMs to Optimize Database Query Execution
+Mehmet Hamza Erol, Xiangpeng Hao, Federico Bianchi, Ciro Greco, Jacopo Tagliabue, James Zou
+Read More
+Kernels
+Inside the Together AI kernels team
+Will Van Eaton
+Read More
+Inference
+Aurora
+Junxiong Wang, Fengxiang Bie, Jisen Li, Zhongzhu Zhou, Zelei Shao, Yubo Wang, Yinghui Liu, Qingyang Wu, Avner May, Sri Yanamandra, Ce Zhang, Tri Dao, Percy Liang, Shuaiwen Leon Song, Ben Athiwaratkun, Chenfeng Xu, Xiaoxia Wu
+Read More
+Agents
+Plan, divide, and conquer: How weak models excel at long context tasks
+Zhen Xu, Shang Zhu, Jue Wang, Junlin Wang, Ben Athiwaratkun, Chi Wang, James Zou, Ce Zhang
+Read More
+Architecture
+Mamba-3
+Aakash Lahoti* (CMU), Kevin Y. Li* (CMU), Berlin Chen* (Princeton), Caitlin Wang* (Princeton), Aviv Bick (CMU), J. Zico Kolter (CMU), Tri Dao (Princeton, Together AI), Albert Gu (CMU, Cartesia A)
+Read More
+Kernels
+Key research and product announcements at the AI Native Conf
+Read More
+Kernels
+FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling
+Ted Zadouri (Princeton University, Together AI), Markus Hoehnerbach (Meta), Jay Shah (Colfax Research), Timmy Liu (NVIDIA), Vijay Thakkar (Meta, Georgia Tech), Tri Dao (Princeton University, Together AI)
+Read More
+Inference
+Cache-aware prefill–decode disaggregation (CPD) for up to 40% faster long-context LLM serving
+Jiejing Zhang, Yubo Wang, Yinghui Liu, Mourya Vangala Srinivasa, Chenxi Li, Jue Wang, Yineng Zhang, Shuaiwen Leon Song, Ce Zhang
+Read More
+Agents
+CoderForge-Preview: SOTA open dataset for training efficient coding agents
+By Alpay Ariyak*, Junda Zhang, Junxiong Wang, Shang Zhu, Federico Bianchi, Sanjana Srivastava, Ashwinee Panda, Siddhant Bharti, Chenfeng Xu, John Heo, Xiaoxia Shirley Wu, James Zou, Percy Liang, Leon Song, Ce Zhang, Ben Athiwaratkun, Zhongzhu Zhou*, Qingyang Wu* *Project Core Leads
+Read More
+Agents
+How speech models fail where it matters the most and what to do about it
+Kaitlyn Zhou, Martijn Bartelds, Federico Bianchi, James Zou
+Read More
+Inference
+Consistency diffusion language models: Up to 14x faster inference without sacrificing quality
+Minseo Kim, Chenfeng Xu, Coleman Richard Charles Hooper, Harman Singh, Ben Athiwaratkun, Ce Zhang, Kurt Keutzer, Amir Gholami | Seoul National University, University of California, Berkeley, Together AI
+Read More
+Agents
+What do LLMs think when you don't tell them what to think about?
+Yongchan Kwon and James Zou
+Read More
+Agents
+DSGym: A holistic framework for evaluating and training data science agents
+Fan Nie, Junlin Wang, Harper Hua, Federico Bianchi, Yongchan Kwon, Zhenting Qi, Owen Queen, Shang Zhu, James Zou
+Read More
+Kernels
+Research POV: Yes, AGI Can Happen – A Computational Perspective
+Together AI
+Read More
+Model Shaping
+How to run TorchForge reinforcement learning pipelines in the Together AI Native Cloud
+Together AI Training and Research, The PyTorch team at Meta
+Read More
+Model Shaping
+Introducing AutoJudge: Streamlined inference acceleration via automated dataset curation
+Roman Garipov, Fedor Velikonivtsev, Ivan Ermakov, Ruslan Svirschevski, Vage Egiazarian, Max Ryabinin
+Read More
+Agents
+Large Reasoning Models Fail to Follow Instructions During Reasoning: A Benchmark Study
+Yongchan Kwon, Shang Zhu, Federico Bianchi, Kaitlyn Zhou, James Zou
+Read More
+Inference
+AdapTive-LeArning Speculator System (ATLAS): A New Paradigm in LLM Inference via Runtime-Learning Accelerators
+Junxiong Wang, Shirley Wu, Zelei Shao, Vikranth Srivatsa, Jue Wang, Roy Yuan, Qingyang Wu, Alpay Ariyak, Rupert Wu, Wai Tong Chung, Chenfeng Xu, Yonatan Oren, Pragaash Ponnusamy, Yineng Zhang, Avner May, Leon Song, Tri Dao, Percy Liang, Ce Zhang, Ben Athiwaratkun
+Read More
+Agents
+How Together AI Uses AI Agents to Automate Complex Engineering Tasks: Lessons from Developing Efficient LLM Inference Systems
+Shang Zhu, Federico Bianchi, Wai Tong Chung, Zain Hasan, Rupert Wu, Ce Zhang, James Zou, Ben Athiwaratkun
+Read More
+Agents
+Back to The Future: Evaluating AI Agents on Predicting Future Events
+Federico Bianchi, Junlin Wang, Zain Hasan, Shang Zhu, Roy Yuan, Clémentine Fourrier, James Zou
+Read More
+Inference
+DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL
+Michael Luo*, Naman Jain*, Jaskirat Singh*, Sijun Tan*, Ameen Patel*, Qingyang Wu*, Alpay Ariyak*, Colin Cai*, Tarun Venkat, Shang Zhu, Ben Athiwaratkun, Manan Roongta, Ce Zhang, Li Erran Li, Raluca Ada Popa, Koushik Sen, Ion Stoica
+Read More
+Agents
+From Zero to One: Building An Autonomous and Open Data Scientist Agent from Scratch
+Federico Bianchi, Shang Zhu, Zain Hasan, Ben Athiwaratkun and James Zou
+Read More
+Inference
+Model-Preserving Adaptive Rounding with YAQA
+Albert Tseng, Zhaofeng Sun, and Chris De Sa
+Read More
+Agents
+Mixture-of-Agents Alignment: Harnessing the Collective Intelligence of Open-Source LLMs to Improve Post-Training
+Junlin Wang, Roy Xie, Shang Zhu, Jue Wang, Ben Athiwaratkun, Bhuwan Dhingra, Shuaiwen Leon Song, Ce Zhang, James Zou
+Read More
+Inference
+Boosting DeepSeek-R1’s Speed with Customized Speculative Decoding
+Wai Tong Chung, Dan Waters, Avner May, Ben Athiwaratkun
+Read More
+Kernels
+Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas
+Austin Silveria, Soham Govande, Dan Fu
+Read More
+Model Shaping
+Direct Preference Optimization: A Technical Deep Dive
+Ivan Provilkov, Zain Hasan, Max Ryabinin
+Read More
+Model Shaping
+Continued Fine-tuning of LLMs: A Technical Deep Dive
+Artem Chumachenko, Zain Hasan, Max Ryabinin
+Read More
+Agents
+Open Deep Research
+Together AI
+Read More
+Inference
+DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level
+Michael Luo*, Sijun Tan*, Roy Huang*, Ameen Patel*, Alpay Ariyak*, Qingyang Wu*, Xiaoxiang Shi, Rachel Xin, Colin Cai, Maurice Weber, Ce Zhang, Li Erran Li, Raluca Ada Popa, Ion Stoica
+Read More
+Kernels
+ThunderKittens Now Optimized for NVIDIA Blackwell GPUs
+Benjamin Spector, Aaryan Singhal, Dan Fu, Chris Ré
+Read More
+Inference
+Minions: embracing small LMs, shifting compute on-device, and cutting cloud costs in the process
+Avanika Narayan*, Dan Biderman*, Sabri Eyuboglu*, Avner May, Scott Linderman, James Zou, Christopher Ré
+Read More
+Model Shaping
+Long Context Fine-Tuning: A Technical Deep Dive
+George Grigorev, Zain Hasan, Max Ryabinin
+Read More
+Model Shaping
+Fine-Tuning LLMs for Multi-Turn Conversations: A Technical Deep Dive
+Artem Chumachenko, Zain Hasan, Max Ryabinin
+Read More
+Inference
+Even Better, Even Faster Quantized LLMs with QTIP
+Albert Tseng, Qingyao Sun, David Hou, Chris De Sa
+Read More
+Architecture
+Linearizing LLMs with LoLCATs
+Michael Zhang, Simran Arora, Rahul Chalamala, Alan Wu, Benjamin Spector, Aaryan Singhal, Krithik Ramesh, Christopher Ré
+Read More
+Applications
+Multimodal Document RAG with Llama 3.2 Vision and ColQwen2
+Zain Hasan
+Read More
+Architecture
+The Mamba in the Llama: Distilling and Accelerating Hybrid Models
+Junxiong Wang, Daniele Paliotta, Avner May, Alexander M. Rush, Tri Dao
+Read More
+Inference
+Speculative decoding for high-throughput long-context inference
+Jian Chen, Vashisth Tiwari, Ranajoy Sadhukhan, Yunho Jin, Zhuoming Chen, Jinyuan Shi, Ian En-Hsu Yen, Avner May, Beidi Chen
+Read More
+Inference
+TEAL: Training-Free Activation Sparsity in Large Language Models
+James Liu, Pragaash Ponnusamy, Tianle Cai, Han Guo, Yoon Kim, Ben Athiwaratkun
+Read More
+Kernels
+FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision
+Jay Shah (Colfax Research), Ganesh Bikshandi (Colfax Research), Ying Zhang (Meta), Vijay Thakkar (NVIDIA), Pradeep Ramani (NVIDIA), Tri Dao (Princeton University, Together AI)
+Read More
+Applications
+Building a personalized code assistant with open-source LLMs using RAG Fine-tuning
+Kezhen Chen, Linda He, Ben Athiwaratkun, Jue Wang, Maurice Weber, Heejin Jeong, Yonatan Oren, Michael Poli
+Read More
+Inference
+SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices
+Ruslan Svirschevski, Avner May, Zhuoming Chen, Beidi Chen, Zhihao Jia, Max Ryabinin
+Read More
+Agents
+Together MoA — collective intelligence of open-source models pushing the frontier of LLM capabilities
+Junlin Wang, Jue Wang, Ben Athiwaratkun, Ce Zhang, James Zou
+Read More
+Architecture
+Dragonfly: A large vision-language model with multi-resolution zoom
+Kezhen Chen, Rahul Thapa, Rahul Chalamala, Ben Athiwaratkun, Shuaiwen Leon Song, James Zou
+Read More
+Kernels
+ThunderKittens: A Simple Embedded DSL for AI kernels
+Benjamin Spector, Aaryan Singhal, Simran Arora, Chris Re
+Read More
+Inference
+FAQ: Building LLMs with RedPajama-v2, a 30 trillion token web dataset
+Together AI
+Read More
+Inference
+Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding
+Zhuoming Chen, Avner May, Ruslan Svirschevski, Yuhsun Huang, Max Ryabinin, Zhihao Jia, Beidi Chen
+Read More
+Architecture
+BASED: Simple linear attention language models balance the recall-throughput tradeoff
+Simran Arora, Sabri Eyuboglu, Michael Zhang, Aman Timalsina, Silas Alberti, Dylan Zinsley, James Zou, Atri Rudra, Christopher Ré
+Read More
+Architecture
+Evo: Long-context modeling from molecular to genome scale
+Eric Nguyen, Michael Poli, Matthew Durrant, Patrick Hsu, Brian Hie
+Read More
+Inference
+BitDelta: Your Fine-Tune May Only Be Worth One Bit
+James Liu, Guangxuan Xiao, Kai Li, Jason D. Lee, Song Han, Tri Dao, Tianle Cai
+Read More
+Inference
+Long context retrieval models with Monarch Mixer
+Jon Saad-Falcon, Dan Fu, Simran Arora
+Read More
+Architecture
+Mamba-3B-SlimPJ: State-space models rivaling the best Transformer architecture
+Tri Dao, Albert Gu
+Read More
+Architecture
+Paving the way to efficient architectures:  StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers
+Together
+Read More
+Kernels
+FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores
+Dan Fu, Hermann Kumbong, Eric Nguyen, Chris Ré
+Read More
+Inference
+RedPajama-Data-v2: An open dataset with 30 trillion tokens for training large language models
+Together
+Read More
+Kernels
+Flash-Decoding for long-context inference
+Tri Dao, Daniel Haziza, Francisco Massa, Grigory Sizov
+Read More
+Inference
+Medusa: Simple framework for accelerating LLM generation with multiple decoding heads
+Tianle Cai*, Yuhong Li*, Zhengyang Geng, Hongwu Peng, Tri Dao (* Equal contribution)
+Read More
+Model Shaping
+Llama-2-7B-32K-Instruct — and fine-tuning for Llama-2 models with Together API
+Together
+Read More
+Inference
+Faster inference enables up to 5x price reduction on Together API
+Together
+Read More
+Inference
+Preparing for the era of 32K context: Early learnings and explorations
+Together
+Read More
+Architecture
+Monarch Mixer: A new model architecture for increased efficiency
+Dan Fu, Simran Arora, Chris Ré
+Read More
+Model Shaping
+Fine-tuning language models over slow networks using activation compression with guarantees
+Jue Wang, Binhang Yuan, Luka Rimanic, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, Ce Zhang
+Read More
+Model Shaping
+Decentralized training of foundation models in heterogeneous environments
+Binhang Yuan, Yongjun He, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, Ce Zhang
+Read More
+Kernels
+FlashAttention: Fast and memory-efficient exact attention with IO-Awareness
+Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré
+Read More
+Model Shaping
+CocktailSGD: Fine-tuning foundation models over 500Mbps networks
+Jue Wang, Binhang Yuan, Luka Rimanic, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, Ce Zhang
+Read More
+Inference
+FlexGen: High-throughput generative inference of large language models with a single GPU
+Ying Sheng, Lianmin Zheng, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang
+Read More
+Architecture
+Hyena Hierarchy: Towards larger convolutional language models
+Michael Poli, Stefano Massaroli, Eric Nguyen, Daniel Y. Fu, Tri Dao, Stephen Baccus, Yoshua Bengio, Stefano Ermon, Christopher Ré
+Read More
+Kernels
+FlashConv: Speeding up state space models
+Dan Fu and Tri Dao
+Read More
+Architecture
+Hungry Hungry Hippos: Towards language modeling with state space models
+Daniel Y. Fu, Tri Dao, Khaled K. Saab, Armin W. Thomas, Atri Rudra, Christopher Ré
+Read More
+Model Shaping
+NeurIPS 2022: Overcoming communication bottlenecks for decentralized training (2/2)
+Together
+Read More
+Model Shaping
+NeurIPS 2022: Overcoming communication bottlenecks for decentralized training (1/2)
+Together
+Read More
+Inference
+HELM: benchmarking large language models on the Together Research Computer
+Together
+Read More
+recognized by
+Company updates
+Company
+Expanding our enterprise inference capacity with IBM Cloud and NVIDIA
+Enterprises can now run open models at production scale on a dedicated B300 inference cluster, built by Together AI, IBM Cloud, and NVIDIA
+Company
+Together AI announces strategic partnership with Moonshot AI to natively serve Kimi models
+Together AI partners with Moonshot AI to natively serve Kimi models, starting with the 2.8T parameter Kimi K3, with day zero access and post-training.
+Company
+Announcing our $800M Series C to accelerate the shift to open-source AI
+We raised $800M to accelerate the shift to open-source AI. Here's why the economics of closed models don't scale, and what we're building next.
+Latest blog posts
+All
+Company
+Research
+Model Library
+Inference
+Fine-Tuning
+GPU Clusters
+Pre-Training
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Company
+Expanding our enterprise inference capacity with IBM Cloud and NVIDIA
+Enterprises can now run open models at production scale on a dedicated B300 inference cluster, built by Together AI, IBM Cloud, and NVIDIA
+Oct
+.
+06
+,
+2026
+Inference
+Together Link: frontier-quality open models in the harness you already use
+Together Link brings frontier open models like GLM 5.3 and Kimi K3 into the coding agent your team already uses, cutting model spend by over 50%.
+Oct
+.
+05
+,
+2026
+Fine-Tuning
+How to train your own Jev for $17
+We just launched our own Jev-like classifier, together/Tev1-4B-experimental, on top of Qwen3.5 4B on Together’s serverless platform. In this blog post we’ll show you how to fine-tune your own version!
+Sep
+.
+23
+,
+2026
+Inference
+Canary rollouts: upgrade models in production without downtime
+A hard model swap exposes every user at once, and rolling back means cold-starting the old deployment under pressure. Here's how staged traffic ramps, metric gates, and automatic rollback work on dedicated inference.
+Sep
+.
+22
+,
+2026
+Inference
+How a global fintech scaled coding agent traffic with Dedicated Model Inference
+Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing.
+Sep
+.
+18
+,
+2026
+Inference
+Migrating from closed to open source models, Together
+Moving from closed to open source models can take weeks, not years. A five-stage playbook: discover, evaluate, adapt, decide, and production.
+Sep
+.
+16
+,
+2026
+1
+...
+1 / 42
+No search result
+Try expanding your search or changing the filters.
+Start building on Together AI
+From optimized training and model shaping to large-scale production inference
+Get Started now
+Contact Sales
+Products
+Accelerated Compute
+Together Link
+Serverless Inference
+Provisioned Throughput
+Dedicated Inference
+Fine-Tuning
+Sandbox
+Evaluations
+Models
+See all models
+DeepSeek
+Meta
+Qwen
+Google
+OpenAI
+Mistral AI
+Custom models
+Developers
+Research
+Docs
+Open-source AI
+OSS ROI calculator
+Pricing
+Pricing overview
+Inference
+Fine-Tuning
+GPU Clusters
+Resources
+Blog
+About us
+Careers
+Customer Stories
+Support
+Privacy Policy
+Terms of service
+Cookie Policy
+Consent Preferences
+© 2026 Together AI. All Rights Reserved.

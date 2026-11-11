@@ -1,0 +1,2922 @@
+
+<!DOCTYPE html>
+<html lang="en" class="text-gray-800 antialiased leading-snug">
+
+<head>
+  
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="canonical" href="https://sacra.com/research/together-ai-the-vercel-of-generative-ai/" />
+  <link rel="icon" sizes="any" href="/static/img/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="64x64" href="/static/img/favicon-64x64.png" />
+  <meta name="twitter:site" content="@sacrainc" />
+
+  
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Together AI: the $44M/year Vercel of generative AI" />
+<meta property="og:title" content="Together AI: the $44M/year Vercel of generative AI" />
+<meta name="twitter:description" content="TL;DR: Sacra estimates that Together AI hit $44M in annual recurring revenue (ARR) in April with their developer experience-centric layer built on top of CoreWeave and Lambda Labs’s GPU cloud products. For more, check out our full report and dataset on Together AI..." />
+<meta property="og:description" content="TL;DR: Sacra estimates that Together AI hit $44M in annual recurring revenue (ARR) in April with their developer experience-centric layer built on top of CoreWeave and Lambda Labs’s GPU cloud products. For more, check out our full report and dataset on Together AI..." />
+<meta property="og:url" content="https://sacra.com/research/together-ai-the-vercel-of-generative-ai/" />
+
+<meta name="twitter:image" content="https://images.prismic.io/sacra/ZkFLikFLKBtrWzM5_Group1-13-.jpg?auto=format,compress">
+<meta property="og:image" content="https://images.prismic.io/sacra/ZkFLikFLKBtrWzM5_Group1-13-.jpg?auto=format,compress">
+
+<meta name="description" content="TL;DR: Sacra estimates that Together AI hit $44M in annual recurring revenue (ARR) in April with their developer experience-centric layer built on top of CoreWeave and Lambda Labs’s GPU cloud products. For more, check out our full report and dataset on Together AI..." />
+
+  
+<title>Together AI: the $44M/year Vercel of generative AI | Sacra</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic" />
+  <link rel="stylesheet" href="/static/css/nav-search.css" />
+  
+<link rel="stylesheet" type="text/css" href="/static/parcel/parcel-entry.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/report_overwrite.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/base.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/highlight.css" />
+
+  <link rel="stylesheet" type="text/css" href="/static/css/layout.css" />
+  <link rel="stylesheet" type="text/css" href="/static/css/modal.css" />
+  <link rel="stylesheet" type="text/css" href="/static/parcel/parcel-entry.css" />
+  
+  <script id="user-id" type="application/json">null</script>
+  <script id="user-email" type="application/json">""</script>
+  <script id="user-username" type="application/json">""</script>
+  <script id="user-date-joined" type="application/json">""</script>
+  <script id="user-membership" type="application/json">null</script>
+  <script id="is-authenticated" type="application/json">false</script>
+  <script id="intercom-app-id" type="application/json">"s2xhybfw"</script>
+  <script id="intercom-api-base" type="application/json">"https://api-iam.intercom.io"</script>
+  <script id="intercom-user-jwt" type="application/json">null</script>
+  <script id="intercom-session-duration-ms" type="application/json">86400000</script>
+  
+  <!-- Stytch Configuration -->
+  <meta name="stytch-public-token" content="public-token-live-d81da3bc-827f-4d4c-863a-5449bd9a8177" />
+  <meta name="base-url" content="https://sacra.com" />
+
+  
+  
+  <script defer src="/static/parcel/rudder_analytics.js"></script>
+  
+  <script src="/static/parcel/intercom.js"></script>
+  
+  
+  
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8981742.js"></script>
+  <script async defer src="https://static.cdn.prismic.io/prismic.js?new=true&repo=sacra"></script>
+  <script src="/static/parcel/mobile_nav.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-preset-algolia"></script>
+  <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"
+    integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+
+      <!-- ClientAuthService with Stytch SDK bundled -->
+    <script src="/static/parcel/client_auth_service.js"></script>
+
+  
+</head>
+
+<body>
+  
+  <!-- Header - outside wrapper to ensure sticky positioning works -->
+  
+<header class="w-full sticky top-0 z-30 bg-white">
+  <div id="appHeader"
+    class="w-auto flex justify-between items-center px-4 py-2 lg:px-12 lg:py-3 bg-white border-b border-gray-400">
+    <div class="marketing-nav flex h-full items-center flex-none">
+      
+      <a href="/" class="mr-4 flex-shrink-0">
+        <img class="h-10 min-h-[40px] w-auto" height="2.5rem" src="/static/svg/logo_mark.87413ae1.svg" alt="Sacra Logo" />
+      </a>
+      
+      <a href="/features/"
+        class="relative mx-4 w-16 h-full items-center justify-center font-semibold text-gray-800 hidden lg:flex">
+        Features
+      </a>
+      <a href="/customers/"
+        class="relative mx-4 w-20 h-full items-center justify-center font-semibold text-gray-800 hidden lg:flex">
+        Customers
+      </a>
+      <a href="https://docs.sacra.com/"
+        class="relative mx-4 w-10 h-full items-center justify-center font-semibold text-gray-800 hidden lg:flex">
+        Docs
+      </a>
+      <a href="/pricing/"
+        class="relative mx-4 w-14 h-full items-center justify-center font-semibold text-gray-800 hidden lg:flex">
+        Pricing
+      </a>
+    </div>
+    <div id="autocomplete" class="hidden lg:block flex-1 min-w-0 mx-6" style="max-width:506px;">
+    </div>
+    <div class="flex items-center justify-end flex-none gap-3">
+      <!-- Upgrade Button -->
+      
+        <!-- Unauthenticated users go to signup -->
+        <a href="/access/standard/?next=/research/together-ai-the-vercel-of-generative-ai/"
+           class="px-6 lg:px-8 py-2 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition-all duration-200 shadow-md hover:shadow-lg text-sm whitespace-nowrap flex-shrink-0">
+          Unlock Full Access
+        </a>
+      
+      
+      
+      <a href="/login/" class="font-semibold whitespace-nowrap flex-shrink-0">
+        Sign In
+      </a>
+      
+    </div>
+  </div>
+  <div class="block lg:hidden bg-gray-100 border-b border-gray-400">
+    <!-- <div id="mobile-autocomplete" class="relative mx-4 my-3 z-30">
+    </div> -->
+    <div class="flex flex-wrap px-4 w-full mobile-nav-text">
+        <a href="/dashboard/"
+            class="flex-1 flex items-center justify-center py-4 font-semibold cursor-pointer relative border-0">
+            
+            Your&nbsp;Feed
+        </a>
+        <button id="workspace-btn"
+            class="flex-1 flex items-center justify-center py-4 font-semibold relative cursor-pointer border-0"
+            style="outline:none;">
+            
+            <div class="mr-1">Workspace</div>
+            <svg width="6" height="3" viewBox="0 0 6 3" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3.00004 2.71436L0.525677 0.142925L5.47439 0.142925L3.00004 2.71436Z" fill="#323232" />
+            </svg>
+            <div class="text-left workspace--dropdown z-40 absolute origin-top-right rounded-md shadow-lg w-32 bg-white py-2">
+                <a href="/workspace/charts/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Charts
+                </a>
+                <a href="/workspace/highlights/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Highlights
+                </a>
+                <a href="/workspace/questions/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Questions
+                </a>
+            </div>
+        </button>
+        <button id="explore-btn"
+            class="flex-1 flex items-center justify-center py-4 font-semibold relative cursor-pointer border-0"
+            style="outline:none;">
+            
+            <div class="mr-1">Explore</div>
+            <svg width="6" height="3" viewBox="0 0 6 3" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3.00004 2.71436L0.525677 0.142925L5.47439 0.142925L3.00004 2.71436Z" fill="#323232" />
+            </svg>
+            <div class="text-left explore--dropdown z-40 absolute origin-top-right rounded-md shadow-lg w-32 bg-white py-2">
+                <a href="/explore/companies/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Companies
+                </a>
+                <a href="/explore/categories/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Categories
+                </a>
+                <a href="/explore/reports/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Reports
+                </a>
+            </div>
+        </button>
+        <button id="about-btn"
+            class="flex-1 flex items-center justify-center py-4 font-semibold relative cursor-pointer border-0"
+            style="outline:none;">
+            
+            <div class="mr-1">About</div>
+            <svg width="6" height="3" viewBox="0 0 6 3" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3.00004 2.71436L0.525677 0.142925L5.47439 0.142925L3.00004 2.71436Z" fill="#323232" />
+            </svg>
+            <div class="text-left about--dropdown z-40 absolute origin-top-right rounded-md shadow-lg w-32 bg-white py-2">
+                <a href="/features/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Features
+                </a>
+                <a href="/customers/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Customers
+                </a>
+                <a href="https://docs.sacra.com/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Docs
+                </a>
+                <a href="/pricing/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Pricing
+                </a>
+                <a href="/community/"
+                    class="block px-4 py-2 font-semibold text-sm leading-5 hover:bg-gray-100 focus:outline-none focus:bg-gray-200 focus:text-gray-900">
+                    Community
+                </a>
+            </div>
+        </button>
+    </div>
+    <div id="mobile-autocomplete" class="relative block lg:hidden mx-4 mb-4 z-30">
+    </div>
+</div>
+
+  <progress value="0" id="headerProgress" class="article--progress absolute bottom-0 z-0 inset-x-0 w-full h-1 bg-transparent hidden"></progress>
+
+</header>
+
+<!-- Global Invite Modal (for Pro/Platform users, accessible from user dropdown) -->
+
+
+  
+  <!-- Wrapper div with touch attribute -->
+  <div ontouchstart="">
+    
+    
+    <!-- Main layout - using grid with constrained widths -->
+    <div class="grid grid-cols-12 gap-x-4 max-w-[1400px] mx-auto">
+      <!-- Left sidebar - consistent width through constraints -->
+      <div class="sacra-sidebar-column hidden lg:block col-span-3">
+        
+          <aside class="sacra-sidebar-shell sacra-left-gutter" data-left-gutter data-threads-url="/api/app/chat/threads/" data-needs-refresh="true" aria-label="Sacra navigation">
+  
+  <nav class="flex-none" aria-label="Primary navigation">
+    <div class="space-y-1">
+      <a href="/agent/" class="sacra-sidebar-nav-item " data-sidebar-new-chat >
+        <svg viewBox="0 0 24 24" class="h-5 w-5 flex-none" fill="none" aria-hidden="true">
+          <path d="M5 19h14M6 15.5l.4-3.4L16.7 1.8a1.8 1.8 0 0 1 2.5 0l1 1a1.8 1.8 0 0 1 0 2.5L9.9 15.6 6 16l.4-3.9" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="truncate">New Chat</span>
+      </a>
+      <a href="/dashboard/" class="sacra-sidebar-nav-item " >
+  <svg viewBox="0 0 24 24" class="h-5 w-5 flex-none" fill="none" aria-hidden="true">
+    <path d="M5 18.5a1 1 0 1 0 0 .01M4 11a9 9 0 0 1 9 9M4 5a15 15 0 0 1 15 15" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+  </svg>
+  <span class="truncate">Your Feed</span>
+</a>
+
+      
+      <a href="/agent/briefings/" class="sacra-sidebar-nav-item " >
+        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="1.7"/>
+          <path d="M12 7.5V12l3.2 2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="truncate">Briefings</span>
+      </a>
+      
+    </div>
+
+    <section class="sacra-sidebar-group" aria-labelledby="sidebar-workspace-heading">
+      <h2 id="sidebar-workspace-heading" class="sacra-sidebar-group-label">Workspace</h2>
+
+      <div class="space-y-1">
+  <a href="/workspace/charts/" class="sacra-sidebar-subnav-link ">
+    <svg viewBox="0 0 18 18" fill="none" aria-hidden="true">
+      <path d="M2.5 15.5h13M4 13V9h2.5v4H4Zm4-6h2.5v6H8V7Zm4-4h2.5v10H12V3Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <span>Charts</span>
+  </a>
+  <a href="/workspace/highlights/" class="sacra-sidebar-subnav-link ">
+    <svg viewBox="0 0 18 18" fill="none" aria-hidden="true">
+      <path d="m11.8 2.2 4 4-7.9 7.9-4.8.8.8-4.8 7.9-7.9ZM10.4 3.6l4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <span>Highlights</span>
+  </a>
+  <a href="/workspace/questions/" class="sacra-sidebar-subnav-link ">
+    <svg viewBox="0 0 18 18" fill="none" aria-hidden="true">
+      <circle cx="9" cy="9" r="7" stroke="currentColor" stroke-width="1.5"/>
+      <path d="M7.2 6.8A2 2 0 0 1 9.1 5.5c1.2 0 2.1.7 2.1 1.8 0 1.5-1.8 1.7-2.1 3M9.1 12.8v.1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <span>Questions</span>
+  </a>
+</div>
+
+    </section>
+
+    <section class="sacra-sidebar-group" aria-labelledby="sidebar-explore-heading">
+      <h2 id="sidebar-explore-heading" class="sacra-sidebar-group-label">Explore</h2>
+
+      <div class="space-y-1">
+  <a href="/explore/companies/" class="sacra-sidebar-subnav-link ">
+    <svg viewBox="0 0 18 18" fill="none" aria-hidden="true">
+      <path d="M2.5 15.5V3h8v12.5M10.5 7h5v8.5M5 6h3M5 9h3M5 12h3M12.5 10h1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <span>Companies</span>
+  </a>
+  <a href="/explore/categories/" class="sacra-sidebar-subnav-link ">
+    <svg viewBox="0 0 18 18" fill="none" aria-hidden="true">
+      <path d="M3 3.5h4l1.2 1.7H15v9.3H3v-11ZM6 8h6M6 11h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <span>Categories</span>
+  </a>
+  <a href="/explore/reports/" class="sacra-sidebar-subnav-link is-active">
+    <svg viewBox="0 0 18 18" fill="none" aria-hidden="true">
+      <path d="M4 2.5h6l4 4v9H4v-13ZM10 2.5v4h4M6.5 10h5M6.5 12.8h5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <span>Reports</span>
+  </a>
+</div>
+
+      <div class="mt-1">
+        <a href="/community/" class="sacra-sidebar-nav-item " >
+  <svg viewBox="0 0 24 24" class="h-5 w-5 flex-none" fill="none" aria-hidden="true">
+    <path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm8-1a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5ZM3 19v-1a5 5 0 0 1 10 0v1M14 14a4 4 0 0 1 7 2.7V18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  <span class="truncate">Community</span>
+</a>
+
+      </div>
+    </section>
+  </nav>
+
+  
+
+</aside>
+
+
+
+<script src="/static/parcel/left_gutter.js"></script>
+
+
+        
+      </div>
+      
+      <!-- Main content area - with constrained canvas for consistent content width -->
+      <div class="col-span-12 lg:col-span-6 min-w-0">
+        <!-- Inner container for constrained content width -->
+        <div class="mx-auto px-4" style="max-width: 625px;">
+          
+  
+<div id="company-popover-container" class="company-popover-container absolute z-40" style="display: none;">
+    <div class="relative z-50 w-full pt-5" id="company-popover"></div>
+</div>
+<article class="space-y-10 pb-12" id="content-view">
+  <header>
+    
+    
+    <div class="mt-10">
+      <div
+  class="
+    mb-4
+    md:mb-6
+    sm:flex sm:items-center sm:justify-between sm:space-y-0
+    space-y-4
+  "
+>
+	<div class="flex items-stretch gap-2 flex-wrap">
+		
+			
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/together-ai/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1281.png?v=8660ccc7" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">Together AI</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+			
+			
+			
+		
+	</div>
+	<div class="flex items-center space-x-4 text-gray-700 text-sm">
+		
+			
+				<div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/cloud-gpus/">
+		<span class="cursor-pointer">#cloud-gpus</span>
+	</a>
+</div>
+
+			
+				<div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/ai/">
+		<span class="cursor-pointer">#ai</span>
+	</a>
+</div>
+
+			
+		
+	</div>
+</div>
+
+    </div>
+    
+    <div class="relative">
+      <h1 id="document_title" class="mb-2 md:mb-6 font-serif text-xl md:text-4xl leading-snug">
+        Together AI: the $44M/year Vercel of generative AI
+      </h1>
+      <div class="flex items-center mb-6 md:mb-8">
+  <img
+        class="h-6 w-6 md:h-8 md:w-8 mr-2 rounded-full"
+        src="https://prismic-io.s3.amazonaws.com/sacra/869b3341-1d4e-4cdd-abfc-731301d0af9d_CleanShot+2020-09-04+at+16.02.20%402x.png?rect=43%2C0%2C1148%2C1148&w=500&h=500"
+    > 
+  <address class="mr-2 md:mr-4 font-semibold text-sm md:text-base not-italic">
+    Jan-Erik Asplund
+  </address>
+  
+  <time
+    class="text-sm md:text-base text-gray-700"
+    pubdate=""
+    datetime="2024-05-12"
+    >Published May 12th, 2024</time
+  >
+  
+</div>
+
+    </div>
+  </header>
+
+  <!-- Mobile sidebar content - document buttons only -->
+  <div class="lg:hidden mt-6 mb-8">
+    <!-- Document Action Buttons Component -->
+<!-- This can be included in both desktop sidebar and mobile layouts -->
+
+<div class="bg-white flex flex-col space-y-4">
+  <!-- View PDF Button -->
+  
+    <a href="/document/together-ai-the-vercel-of-generative-ai/export/pdf/" 
+       target="_blank" rel="noreferrer" 
+       class="flex bg-yellow-800 h-12 w-full rounded cursor-pointer">
+      <div class="flex items-center justify-center p-4" style="border-right: 1px solid #E39B00">
+        <svg width="12" height="16" viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0.375 0.9375V15.5625H11.625V4.64648L7.91602 0.9375H0.375ZM1.5 2.0625H7.125V5.4375H10.5V14.4375H1.5V2.0625ZM8.25 2.85352L9.70898 4.3125H8.25V2.85352ZM5.4375 6.5625V9.375H3.75L6 11.625L8.25 9.375H6.5625V6.5625H5.4375ZM3.75 12.1875V13.3125H8.25V12.1875H3.75Z" fill="#231F20"/>
+        </svg>                  
+      </div>
+      <div class="flex items-center justify-center font-semibold text-sm flex-1">View PDF</div>
+    </a>
+  
+  
+  <!-- Embed Button (hidden for restricted/private docs — they aren't embeddable) -->
+  
+    <button
+        data-embed-trigger="desktop"
+        name="toggle-embed-pdf-modal-button"
+        class="embed-trigger-button flex bg-transparent border border-gray-800 text-gray-800 items-center h-12 w-full rounded cursor-pointer">
+      <div class="flex items-center justify-center p-4 border-r border-gray-800">              
+        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 640 512">
+          <path d="M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z"/>
+        </svg>
+      </div>
+      <div class="flex items-center justify-center font-semibold text-sm flex-1">Embed PDF</div>
+    </button>
+  
+  
+  <!-- View Model/Dataset Button -->
+  
+</div> 
+  </div>
+
+  <section id="document_body_root" class="relative prose max-w-none">
+    
+<a href="/access/">
+  
+  <div id="highlight-action" class="z-10 relative select-none bg-black absolute hidden text-white rounded-full px-2">
+    <button id="action-save" style="padding: 7px; outline: none; font-size: 14px; border-color: rgb(75 85 99);">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"
+        style="display: inline;">
+        <path
+          d="M12.2891 0.972656L11.8848 1.32422L3.25391 8.8125L2.97266 9.07617L3.11328 9.44531L3.20117 9.72656C3.24805 9.96094 3.27148 10.2012 3.27148 10.4473C3.2832 10.7754 3.23633 11.0859 3.13086 11.3789C3.01367 11.7422 2.81445 12.0645 2.5332 12.3457V12.3633L2.42773 12.4863L0.125 14.7363L3.14844 15.5625L4.30859 14.4023L4.44922 14.2793H4.4668C4.74805 13.998 5.07031 13.7988 5.43359 13.6816C5.72656 13.5762 6.03711 13.5293 6.36523 13.541C6.61133 13.541 6.85156 13.5645 7.08594 13.6113L7.36719 13.6992L7.73633 13.8398L8 13.5586L15.8398 4.52344L12.2891 0.972656ZM12.2188 2.51953L14.293 4.59375L9.37109 10.2539L6.55859 7.44141L12.2188 2.51953ZM5.71484 8.17969L8.63281 11.0977L7.54297 12.3633L4.44922 9.26953L5.71484 8.17969ZM4.37891 10.7812L6.03125 12.4336C5.14062 12.4688 4.36133 12.8086 3.69336 13.4531L3.51758 13.5938L3.21875 13.2949L3.3418 13.1543L3.35938 13.1191C4.00391 12.4512 4.34375 11.6719 4.37891 10.7812Z"
+          fill="white" />
+      </svg>
+      Highlight
+    </button>
+    <div style="
+    z-index: -1;
+    position: absolute;
+    width: 16px; 
+    height: 16px;
+    background-color: black;
+    transform: rotate(45deg);
+    margin-left: auto;
+    margin-right: auto;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    "></div>
+  </div>
+  
+</a>
+
+<div id="existing-highlight-action" class="z-10 bg-black absolute hidden text-white rounded-full px-2">
+  <button id="action-unsave" style="padding: 7px; outline: none; font-size: 14px; border-color: rgb(75 85 99)">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"
+      style="display: inline;">
+      <path
+        d="M12.3848 0L11.9732 0.385388L3.18565 8.59689L2.89928 8.88601L3.0431 9.29141L3.1328 9.59986C3.18044 9.86019 3.20404 10.125 3.20327 10.3903C3.21689 10.7376 3.16828 11.0844 3.06008 11.4119C2.93935 11.8129 2.73057 12.1766 2.45146 12.4722V12.4915L2.34447 12.6278L0 15.094L3.07834 16L4.26035 14.7276L4.40321 14.5927H4.42051C4.69502 14.2922 5.03266 14.0674 5.40487 13.9371C5.70902 13.8206 6.03115 13.7682 6.35368 13.7829C6.59997 13.7825 6.84568 13.8084 7.08723 13.8602L7.3736 13.9564L7.74966 14.1114L8.0181 13.8029L16 3.89391L12.3848 0ZM12.3134 1.69647L14.4253 3.97119L9.41408 10.1781L6.55036 7.09398L12.3134 1.69647ZM5.69124 7.90374L8.66228 11.1035L7.55266 12.4915L4.40257 9.09889L5.69124 7.90374ZM4.33114 10.7564L6.01349 12.5688C5.10676 12.6069 4.31331 12.9796 3.63315 13.6866L3.45408 13.8409L3.14977 13.5131L3.27534 13.3589L3.29296 13.3202C3.94942 12.5879 4.29547 11.7332 4.33114 10.7564V10.7564Z"
+        fill="white" />
+      <path d="M4.1343 0.294053L3.10098 1.40703L14.5286 13.7156L15.5619 12.6026L4.1343 0.294053Z" fill="white" />
+    </svg>
+    Unhighlight
+  </button>
+  <div style="
+  z-index: -1;
+  position: absolute;
+  width: 16px; 
+  height: 16px;
+  background-color: black;
+  transform: rotate(45deg);
+  margin-left: auto;
+  margin-right: auto;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  text-align: center;
+"></div>
+</div>
+     
+        <div class='document-in-view'
+            style='
+                --bg-opacity: 1;
+                background-color: rgba(255,255,255,var(--bg-opacity));
+        '>
+    <div><p style="scroll-margin-top: 100px;" id="_73700b48-1626-51d9-826f-0441445628a3"><strong class="whitespace-pre-wrap">TL;DR: Sacra estimates that <a href=https://sacra.com/c/together-ai/ rel="noopener noreferrer" target="_blank">Together AI</a> hit <a href=https://sacra.com/research/together-ai-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">$44M in annual recurring revenue (ARR)</a> in April with their developer experience-centric layer built on top of <a class="company-highlight" href=/c/coreweave/ rel="noopener noreferrer" target="_blank">CoreWeave</a> and <a class="company-highlight" href=/c/lambda-labs/ rel="noopener noreferrer" target="_blank">Lambda Labs</a>’s GPU cloud products. For more, check out our <a href=https://sacra.com/c/together-ai/ rel="noopener noreferrer" target="_blank">full report</a> and <a href=https://sacra.com/research/together-ai-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a> on <a class="company-highlight" href=/c/together-ai/ rel="noopener noreferrer" target="_blank">Together AI</a>.</strong></p></div><img src="https://images.prismic.io/sacra/ZkFLikFLKBtrWzM5_Group1-13-.jpg?auto=format,compress" alt="None" /><div><p style="scroll-margin-top: 100px;" id="_860ccdda-7428-514a-8162-a1cc4e11577a">Key points from our research:</p></div><ul><li id="86e00182-93ff-54d9-af94-449e00a01803"><strong class="whitespace-pre-wrap">Companies use cloud GPU hosts <a href=https://sacra.com/c/together-ai/ rel="noopener noreferrer" target="_blank">Together AI</a>, <a href=https://sacra.com/c/coreweave rel="noopener noreferrer" target="_blank">CoreWeave</a>, and <a href=https://sacra.com/c/lambda-labs rel="noopener noreferrer" target="_blank">Lambda Labs</a> to use Nvidia (NASDAQ: NVDA) graphics processing units (GPUs) to train AI models on their datasets, fine-tune them, and deploy them into production. </strong><a href=https://sacra.com/c/together-ai/ rel="noopener noreferrer" target="_blank">Together AI</a> differentiated itself as a GPU cloud platform early by indexing on open source, allowing its customers access to 100+ open models from <a class="company-highlight" href=/c/mistral/ rel="noopener noreferrer" target="_blank">Mistral</a> to Llama-2 to rapidly experiment with training different LLMs on their data.</li><li id="bcc052bd-dd8b-5a1f-9aa4-98d4fb641902"><a href=https://sacra.com/c/together-ai/ rel="noopener noreferrer" target="_blank"><strong class="whitespace-pre-wrap">Together AI</a> found product-market fit charging per-token, based on the number of API calls, as a developer experience-centric layer on top of <a href=https://sacra.com/c/coreweave rel="noopener noreferrer" target="_blank">CoreWeave</a> and <a class="company-highlight" href=/c/lambda-labs/ rel="noopener noreferrer" target="_blank">Lambda Labs</a>’s per-hour pricing, allowing them to win early-stage startups and individual developers who can mitigate the risk of paying for idle GPU time. </strong>While <a href=https://sacra.com/c/coreweave rel="noopener noreferrer" target="_blank">CoreWeave</a> and <a href=https://sacra.com/c/lambda-labs rel="noopener noreferrer" target="_blank">Lambda Labs</a> focus on locking in multi-year reservations to recoup the fixed capex costs of their data centers and GPUs, <a class="company-highlight" href=/c/together-ai/ rel="noopener noreferrer" target="_blank">Together AI</a> operates a layer above, aligning their pricing with the spiky API volumes of startups training new models and launching new products. </li><li id="68943334-093f-5c0a-8ad1-df45046f67a6"><strong class="whitespace-pre-wrap">Sacra estimates that <a href=https://sacra.com/c/together-ai/ rel="noopener noreferrer" target="_blank">Together AI</a> hit $44M in annualized revenue in April 2024, up 2095% year-over-year, with <a class="ai-highlight" href=/chat/h/3a19a432-171c-4bed-9305-c5b28d7eb760/ rel="noopener noreferrer" target="_blank">90% of revenue coming from sales of bundled on-demand GPU compute and training</a> via Together Inference and ~45% gross margin</strong>. Compare to ~80% gross margin GPU cloud providers like <a href=https://sacra.com/c/coreweave/ rel="noopener noreferrer" target="_blank">CoreWeave</a> with <a href=https://sacra.com/research/coreweave-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">$440M of revenue in 2023</a>, up 1,660% from $25M in 2022, and <a href=https://sacra.com/c/lambda-labs/ rel="noopener noreferrer" target="_blank">Lambda Labs</a> at <a href=https://sacra.com/research/lambda-labs-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">$250M of revenue in 2023</a>, up 1,150% from $20M in 2022, and fellow reseller Crusoe Energy at $100M of revenue in 2023, up 400% from ~$20M in 2022.</li></ul><div><p style="scroll-margin-top: 100px;" id="_b14b5f1c-8769-54d5-a0d6-54f77bd596a5">For more, check out this other research from our platform:</p></div><ul><li id="9153041c-f6c0-565b-8e35-060f3061a9f5"><a href=https://sacra.com/research/openai-vs-anthropic-vs-cohere/ rel="noopener noreferrer" target="_blank">OpenAI vs. Anthropic vs. Cohere</a></li><li id="ec905c08-95eb-55bd-9052-fd2d7dbcb666"><a href=https://sacra.com/research/perplexity-google-search-for-work/ rel="noopener noreferrer" target="_blank">Perplexity: the $11M/year Cliff Notes for the web growing 4,272%</a></li><li id="b4097937-d2cd-528c-ae97-516539a1da61"><a href=https://sacra.com/c/perplexity rel="noopener noreferrer" target="_blank">Perplexity (dataset)</a></li><li id="fccd637d-01cd-51e1-819b-98fff9d271c7"><a href=https://sacra.com/c/anthropic rel="noopener noreferrer" target="_blank">Anthropic</a> (<a href=https://sacra.com/research/anthropic-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a>)</li><li id="64ea43c8-d2bb-5ac9-a83c-49056368b727"><a href=https://sacra.com/c/openai/ rel="noopener noreferrer" target="_blank">OpenAI</a> (<a href=https://sacra.com/research/openai-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a>)</li><li id="a4fe1071-ac72-524d-9d02-35bc8e617040"><a href=https://sacra.com/c/scale-ai/ rel="noopener noreferrer" target="_blank">Scale</a> (<a href=https://sacra.com/research/scale-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a>)</li><li id="e3a92135-74dd-504e-aa73-e7ed4f187a84"><a href=https://sacra.com/c/hugging-face rel="noopener noreferrer" target="_blank">Hugging Face</a> (<a href=https://sacra.com/research/hugging-face-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a>)</li><li id="41a5e6b9-abc8-5eed-85f9-9a90a3830528"><a href=https://sacra.com/c/coreweave/ rel="noopener noreferrer" target="_blank">CoreWeave</a> (<a href=https://sacra.com/research/coreweave-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a>)</li><li id="ffdf9321-e256-5310-ab02-b3a3971af863"><a href=https://sacra.com/c/lambda-labs/ rel="noopener noreferrer" target="_blank">Lambda Labs</a> (<a href=https://sacra.com/research/lambda-labs-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a>)</li><li id="0399852e-fee3-5dfb-bcae-f419a941b644"><a href=https://sacra.com/c/scale-ai/ rel="noopener noreferrer" target="_blank">Scale</a> (<a href=https://sacra.com/research/scale-revenue-growth-valuation/ rel="noopener noreferrer" target="_blank">dataset</a>)</li><li id="adb437a5-0de2-54cd-a035-55afd58fc24f"><a href=https://sacra.com/research/ai-wearables-land-grab/ rel="noopener noreferrer" target="_blank">Apple vs. Limitless vs. Gong</a></li><li id="0badcc3d-5741-50cb-bc09-dd787a5d9463"><a href=https://sacra.com/research/jenni-ai-the-chegg-of-generative-ai/ rel="noopener noreferrer" target="_blank">Jenni AI: the $5M/year Chegg of generative AI</a></li><li id="69bcb020-13a4-56d3-bc66-e32aefcfd46c"><a href=https://sacra.com/research/david-park-jenni-ai-prosumer-gen-ai/ rel="noopener noreferrer" target="_blank">David Park, CEO and co-founder of Jenni AI, on prosumer generative AI apps post-ChatGPT</a></li><li id="b4a5d028-ef0a-5974-bf2c-929248a8b719"><a href=https://sacra.com/research/copy-ai-jasper-ai-writing-tools/ rel="noopener noreferrer" target="_blank">AI writing goes enterprise</a></li><li id="24f00161-d1a1-5528-a059-a68074de1bf8"><a href=https://sacra.com/research/photoroom-background-removal-app/ rel="noopener noreferrer" target="_blank">Photoroom: the $65M/year background removal app</a></li><li id="e7c47aa1-93fe-5366-997e-751976b944aa"><a href=https://sacra.com/research/hugging-face-the-anti-openai/ rel="noopener noreferrer" target="_blank">Hugging Face: the $70M/year anti-OpenAI growing 367% year-over-year</a></li></ul></div> 
+  </section>
+  <section style="margin-top: 3.75rem;" id="document_read_more">
+    
+    <!-- READ MORE FROM COMPANIES -->
+
+<section class="mt-5">
+  
+    
+      <h3 class="text-2xl mt mb-5 font-serif flex items-center align-center justify-start gap-4" >Read more from 
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/together-ai/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1281.png?v=8660ccc7" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">Together AI</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+</h3>
+      
+        <div
+  id=""
+  class="
+    document--card
+    bg-white
+    border border-gray-400
+    mb-6
+    md:mb-8
+    overflow-hidden
+    rounded-lg
+  "
+>
+  <div class="p-4 pb-0">
+    <div class="w-full">
+      
+        <div
+  class="
+    mb-3
+    desktop-company-tabs
+    flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    gap-4
+    "
+>
+  <div class="flex items-stretch gap-2 flex-wrap w-full justify-start">
+    
+      
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/together-ai/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1281.png?v=8660ccc7" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">Together AI</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+      
+      
+      
+    
+  </div>
+  <div class="flex items-center justify-start md:justify-end flex-wrap gap-2 text-gray-700 text-sm w-full">
+    
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/ai/">
+		<span class="cursor-pointer">#ai</span>
+	</a>
+</div>
+
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/cloud-gpus/">
+		<span class="cursor-pointer">#cloud-gpus</span>
+	</a>
+</div>
+
+      
+    
+  </div>
+</div>
+
+      
+    </div>
+    <div class="preview-window relative md:grid md:grid-cols-12 gap-4">
+      <div class="col-span-8 col-start-1">
+        <a href="/research/together-ai-revenue-growth-valuation/">
+          <h2 class="font-serif mb-2 md:text-lg text-md">
+            Together AI revenue, growth, and valuation
+          </h2>
+        </a>
+        
+<div
+  class="
+    pr-4
+    pb-3
+    flex flex-col sm:flex-row sm:items-center sm:justify-between sm:space-y-0
+    gap-4
+  "
+>
+  <div
+    class="
+      bg-gray-200
+      flex
+      font-medium
+      items-center
+      justify-center
+      px-4
+      py-2
+      rounded
+      space-x-2
+      text-gray-700 text-sm
+    "
+  >
+    
+      <svg height="14" width="14" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.46 47.47">
+        <defs>
+            <style>.cls-1{stroke:#4A5568;stroke-miterlimit:10;}</style>
+        </defs>
+        <title>lightningbolt_icon</title>
+        <path
+          class="cls-1"
+          d="M15,23.5H26.85c.06,0,.08,0,.09.08a.16.16,0,0,0,0,.06s-14.76,27.14-15.08,27S13.61,31.5,13.61,31.5h-12c-.06,0-.07-.06-.08-.09a.09.09,0,0,1,0-.07S16.77,3.86,16.64,4.18,14.85,23.5,14.85,23.5Z"
+          transform="translate(-0.98 -3.68)"
+          fill="#4A5568"
+        />
+      </svg>
+    
+    
+      <span class="whitespace-no-wrap">Unlocked Report</span>
+    
+  </div>
+  
+    
+      <a
+        class="flex items-center justify-center sm:justify-start space-x-2"
+        href="/research/together-ai-revenue-growth-valuation/"
+      >
+    
+  
+    <span class="font-semibold text-sm whitespace-no-wrap">Continue Reading</span>
+    <svg
+      viewBox="0 0 18 18"
+      height="18"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9.5.594c-1.545 0-2.98.39-4.307 1.169a8.396 8.396 0 00-3.055 3.055 8.353 8.353 0 00-1.17 4.307c0 1.545.39 2.98 1.17 4.307a8.396 8.396 0 003.055 3.055 8.353 8.353 0 004.307 1.17 8.35 8.35 0 004.307-1.17 8.395 8.395 0 003.055-3.055 8.353 8.353 0 001.17-4.307 8.35 8.35 0 00-1.17-4.307 8.396 8.396 0 00-3.055-3.055A8.353 8.353 0 009.5.593zm0 1.312a7.1 7.1 0 013.65.985 7.31 7.31 0 012.584 2.584 7.1 7.1 0 01.985 3.65 7.1 7.1 0 01-.985 3.65 7.31 7.31 0 01-2.584 2.584 7.1 7.1 0 01-3.65.985 7.1 7.1 0 01-3.65-.985 7.31 7.31 0 01-2.584-2.584 7.1 7.1 0 01-.985-3.65 7.1 7.1 0 01.985-3.65A7.31 7.31 0 015.85 2.89a7.1 7.1 0 013.65-.985zM11.469 6.5v1.969H4.906V9.78h6.563v1.969l2.625-2.625L11.469 6.5z"
+        fill="#231F20"
+      />
+    </svg>
+  </a>
+</div>
+
+
+      </div>
+        
+    </div>
+  </div>
+</div>
+
+      
+    
+  
+  </section>
+
+<!-- READ MORE FROM CATEGORIES -->
+
+  <section class="mt-5">
+    
+  </section>
+
+    
+    
+    <!-- READ MORE FROM COMPANIES -->
+
+<section class="mt-5">
+  
+  </section>
+
+<!-- READ MORE FROM CATEGORIES -->
+
+  <section class="mt-5">
+    
+      
+        <h3 class="text-2xl mb-5 font-serif flex items-center align-center justify-start gap-4" >Read more from <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/cloud-gpus/">
+		<span class="cursor-pointer">#cloud-gpus</span>
+	</a>
+</div>
+</h3>
+        
+          <div
+  id=""
+  class="
+    document--card
+    bg-white
+    border border-gray-400
+    mb-6
+    md:mb-8
+    overflow-hidden
+    rounded-lg
+  "
+>
+  <div class="p-4 pb-0">
+    <div class="w-full">
+      
+        <div
+  class="
+    mb-3
+    desktop-company-tabs
+    flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    gap-4
+    "
+>
+  <div class="flex items-stretch gap-2 flex-wrap w-full justify-start">
+    
+      
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/modal-labs/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1968.png?v=2eab753d" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">Modal Labs</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+      
+      
+      
+    
+  </div>
+  <div class="flex items-center justify-start md:justify-end flex-wrap gap-2 text-gray-700 text-sm w-full">
+    
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/cloud-gpus/">
+		<span class="cursor-pointer">#cloud-gpus</span>
+	</a>
+</div>
+
+      
+    
+  </div>
+</div>
+
+      
+    </div>
+    <div class="preview-window relative md:grid md:grid-cols-12 gap-4">
+      <div class="col-span-8 col-start-1">
+        <a href="/research/modal-labs-revenue-growth-valuation/">
+          <h2 class="font-serif mb-2 md:text-lg text-md">
+            Modal Labs revenue, growth, and valuation
+          </h2>
+        </a>
+        
+<div
+  class="
+    pr-4
+    pb-3
+    flex flex-col sm:flex-row sm:items-center sm:justify-between sm:space-y-0
+    gap-4
+  "
+>
+  <div
+    class="
+      bg-gray-200
+      flex
+      font-medium
+      items-center
+      justify-center
+      px-4
+      py-2
+      rounded
+      space-x-2
+      text-gray-700 text-sm
+    "
+  >
+    
+      <svg height="14" width="14" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.46 47.47">
+        <defs>
+            <style>.cls-1{stroke:#4A5568;stroke-miterlimit:10;}</style>
+        </defs>
+        <title>lightningbolt_icon</title>
+        <path
+          class="cls-1"
+          d="M15,23.5H26.85c.06,0,.08,0,.09.08a.16.16,0,0,0,0,.06s-14.76,27.14-15.08,27S13.61,31.5,13.61,31.5h-12c-.06,0-.07-.06-.08-.09a.09.09,0,0,1,0-.07S16.77,3.86,16.64,4.18,14.85,23.5,14.85,23.5Z"
+          transform="translate(-0.98 -3.68)"
+          fill="#4A5568"
+        />
+      </svg>
+    
+    
+      <span class="whitespace-no-wrap">Unlocked Report</span>
+    
+  </div>
+  
+    
+      <a
+        class="flex items-center justify-center sm:justify-start space-x-2"
+        href="/research/modal-labs-revenue-growth-valuation/"
+      >
+    
+  
+    <span class="font-semibold text-sm whitespace-no-wrap">Continue Reading</span>
+    <svg
+      viewBox="0 0 18 18"
+      height="18"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9.5.594c-1.545 0-2.98.39-4.307 1.169a8.396 8.396 0 00-3.055 3.055 8.353 8.353 0 00-1.17 4.307c0 1.545.39 2.98 1.17 4.307a8.396 8.396 0 003.055 3.055 8.353 8.353 0 004.307 1.17 8.35 8.35 0 004.307-1.17 8.395 8.395 0 003.055-3.055 8.353 8.353 0 001.17-4.307 8.35 8.35 0 00-1.17-4.307 8.396 8.396 0 00-3.055-3.055A8.353 8.353 0 009.5.593zm0 1.312a7.1 7.1 0 013.65.985 7.31 7.31 0 012.584 2.584 7.1 7.1 0 01.985 3.65 7.1 7.1 0 01-.985 3.65 7.31 7.31 0 01-2.584 2.584 7.1 7.1 0 01-3.65.985 7.1 7.1 0 01-3.65-.985 7.31 7.31 0 01-2.584-2.584 7.1 7.1 0 01-.985-3.65 7.1 7.1 0 01.985-3.65A7.31 7.31 0 015.85 2.89a7.1 7.1 0 013.65-.985zM11.469 6.5v1.969H4.906V9.78h6.563v1.969l2.625-2.625L11.469 6.5z"
+        fill="#231F20"
+      />
+    </svg>
+  </a>
+</div>
+
+
+      </div>
+        
+    </div>
+  </div>
+</div>
+
+        
+          <div
+  id=""
+  class="
+    document--card
+    bg-white
+    border border-gray-400
+    mb-6
+    md:mb-8
+    overflow-hidden
+    rounded-lg
+  "
+>
+  <div class="p-4 pb-0">
+    <div class="w-full">
+      
+        <div
+  class="
+    mb-3
+    desktop-company-tabs
+    flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    gap-4
+    "
+>
+  <div class="flex items-stretch gap-2 flex-wrap w-full justify-start">
+    
+      
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/lambda-labs/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/761.png?v=c7e3b8ed" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">Lambda Labs</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+      
+      
+      
+    
+  </div>
+  <div class="flex items-center justify-start md:justify-end flex-wrap gap-2 text-gray-700 text-sm w-full">
+    
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/ai/">
+		<span class="cursor-pointer">#ai</span>
+	</a>
+</div>
+
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/cloud-gpus/">
+		<span class="cursor-pointer">#cloud-gpus</span>
+	</a>
+</div>
+
+      
+    
+  </div>
+</div>
+
+      
+    </div>
+    <div class="preview-window relative md:grid md:grid-cols-12 gap-4">
+      <div class="col-span-8 col-start-1">
+        <a href="/research/no-side-quests-for-lambda/">
+          <h2 class="font-serif mb-2 md:text-lg text-md">
+            No side quests for Lambda
+          </h2>
+        </a>
+        
+<div
+  class="
+    pr-4
+    pb-3
+    flex flex-col sm:flex-row sm:items-center sm:justify-between sm:space-y-0
+    gap-4
+  "
+>
+  <div
+    class="
+      bg-gray-200
+      flex
+      font-medium
+      items-center
+      justify-center
+      px-4
+      py-2
+      rounded
+      space-x-2
+      text-gray-700 text-sm
+    "
+  >
+    
+      <svg height="14" width="14" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M13.275 5.232l-4.457-.464L7 .68 5.182 4.768l-4.457.464L4.047 8.24l-.916 4.375L7 10.373l3.883 2.242-.93-4.375 3.322-3.008z"
+          fill="#4A5568"
+        />
+      </svg>
+    
+    
+      <span class="whitespace-no-wrap">Free Report</span>
+    
+  </div>
+  
+    
+      <a
+        class="flex items-center justify-center sm:justify-start space-x-2"
+        href="/research/no-side-quests-for-lambda/"
+      >
+    
+  
+    <span class="font-semibold text-sm whitespace-no-wrap">Continue Reading</span>
+    <svg
+      viewBox="0 0 18 18"
+      height="18"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9.5.594c-1.545 0-2.98.39-4.307 1.169a8.396 8.396 0 00-3.055 3.055 8.353 8.353 0 00-1.17 4.307c0 1.545.39 2.98 1.17 4.307a8.396 8.396 0 003.055 3.055 8.353 8.353 0 004.307 1.17 8.35 8.35 0 004.307-1.17 8.395 8.395 0 003.055-3.055 8.353 8.353 0 001.17-4.307 8.35 8.35 0 00-1.17-4.307 8.396 8.396 0 00-3.055-3.055A8.353 8.353 0 009.5.593zm0 1.312a7.1 7.1 0 013.65.985 7.31 7.31 0 012.584 2.584 7.1 7.1 0 01.985 3.65 7.1 7.1 0 01-.985 3.65 7.31 7.31 0 01-2.584 2.584 7.1 7.1 0 01-3.65.985 7.1 7.1 0 01-3.65-.985 7.31 7.31 0 01-2.584-2.584 7.1 7.1 0 01-.985-3.65 7.1 7.1 0 01.985-3.65A7.31 7.31 0 015.85 2.89a7.1 7.1 0 013.65-.985zM11.469 6.5v1.969H4.906V9.78h6.563v1.969l2.625-2.625L11.469 6.5z"
+        fill="#231F20"
+      />
+    </svg>
+  </a>
+</div>
+
+
+      </div>
+        
+    </div>
+  </div>
+</div>
+
+        
+          <div
+  id=""
+  class="
+    document--card
+    bg-white
+    border border-gray-400
+    mb-6
+    md:mb-8
+    overflow-hidden
+    rounded-lg
+  "
+>
+  <div class="p-4 pb-0">
+    <div class="w-full">
+      
+        <div
+  class="
+    mb-3
+    desktop-company-tabs
+    flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    gap-4
+    "
+>
+  <div class="flex items-stretch gap-2 flex-wrap w-full justify-start">
+    
+      
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/runpod/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1984.png?v=b737197e" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">RunPod</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+      
+      
+      
+    
+  </div>
+  <div class="flex items-center justify-start md:justify-end flex-wrap gap-2 text-gray-700 text-sm w-full">
+    
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/cloud-gpus/">
+		<span class="cursor-pointer">#cloud-gpus</span>
+	</a>
+</div>
+
+      
+    
+  </div>
+</div>
+
+      
+    </div>
+    <div class="preview-window relative md:grid md:grid-cols-12 gap-4">
+      <div class="col-span-8 col-start-1">
+        <a href="/research/runpod-revenue-growth-valuation/">
+          <h2 class="font-serif mb-2 md:text-lg text-md">
+            RunPod revenue, growth, and valuation
+          </h2>
+        </a>
+        
+<div
+  class="
+    pr-4
+    pb-3
+    flex flex-col sm:flex-row sm:items-center sm:justify-between sm:space-y-0
+    gap-4
+  "
+>
+  <div
+    class="
+      bg-gray-200
+      flex
+      font-medium
+      items-center
+      justify-center
+      px-4
+      py-2
+      rounded
+      space-x-2
+      text-gray-700 text-sm
+    "
+  >
+    
+      <svg height="14" width="14" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.46 47.47">
+        <defs>
+            <style>.cls-1{stroke:#4A5568;stroke-miterlimit:10;}</style>
+        </defs>
+        <title>lightningbolt_icon</title>
+        <path
+          class="cls-1"
+          d="M15,23.5H26.85c.06,0,.08,0,.09.08a.16.16,0,0,0,0,.06s-14.76,27.14-15.08,27S13.61,31.5,13.61,31.5h-12c-.06,0-.07-.06-.08-.09a.09.09,0,0,1,0-.07S16.77,3.86,16.64,4.18,14.85,23.5,14.85,23.5Z"
+          transform="translate(-0.98 -3.68)"
+          fill="#4A5568"
+        />
+      </svg>
+    
+    
+      <span class="whitespace-no-wrap">Unlocked Report</span>
+    
+  </div>
+  
+    
+      <a
+        class="flex items-center justify-center sm:justify-start space-x-2"
+        href="/research/runpod-revenue-growth-valuation/"
+      >
+    
+  
+    <span class="font-semibold text-sm whitespace-no-wrap">Continue Reading</span>
+    <svg
+      viewBox="0 0 18 18"
+      height="18"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9.5.594c-1.545 0-2.98.39-4.307 1.169a8.396 8.396 0 00-3.055 3.055 8.353 8.353 0 00-1.17 4.307c0 1.545.39 2.98 1.17 4.307a8.396 8.396 0 003.055 3.055 8.353 8.353 0 004.307 1.17 8.35 8.35 0 004.307-1.17 8.395 8.395 0 003.055-3.055 8.353 8.353 0 001.17-4.307 8.35 8.35 0 00-1.17-4.307 8.396 8.396 0 00-3.055-3.055A8.353 8.353 0 009.5.593zm0 1.312a7.1 7.1 0 013.65.985 7.31 7.31 0 012.584 2.584 7.1 7.1 0 01.985 3.65 7.1 7.1 0 01-.985 3.65 7.31 7.31 0 01-2.584 2.584 7.1 7.1 0 01-3.65.985 7.1 7.1 0 01-3.65-.985 7.31 7.31 0 01-2.584-2.584 7.1 7.1 0 01-.985-3.65 7.1 7.1 0 01.985-3.65A7.31 7.31 0 015.85 2.89a7.1 7.1 0 013.65-.985zM11.469 6.5v1.969H4.906V9.78h6.563v1.969l2.625-2.625L11.469 6.5z"
+        fill="#231F20"
+      />
+    </svg>
+  </a>
+</div>
+
+
+      </div>
+        
+    </div>
+  </div>
+</div>
+
+        
+      
+    
+      
+        <h3 class="text-2xl mb-5 font-serif flex items-center align-center justify-start gap-4" >Read more from <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/ai/">
+		<span class="cursor-pointer">#ai</span>
+	</a>
+</div>
+</h3>
+        
+          <div
+  id=""
+  class="
+    document--card
+    bg-white
+    border border-gray-400
+    mb-6
+    md:mb-8
+    overflow-hidden
+    rounded-lg
+  "
+>
+  <div class="p-4 pb-0">
+    <div class="w-full">
+      
+        <div
+  class="
+    mb-3
+    desktop-company-tabs
+    flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    gap-4
+    "
+>
+  <div class="flex items-stretch gap-2 flex-wrap w-full justify-start">
+    
+      
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/runway/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/165.png?v=b8194599" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">Runway</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+      
+      
+      
+    
+  </div>
+  <div class="flex items-center justify-start md:justify-end flex-wrap gap-2 text-gray-700 text-sm w-full">
+    
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/ai/">
+		<span class="cursor-pointer">#ai</span>
+	</a>
+</div>
+
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/generative-ai/">
+		<span class="cursor-pointer">#generative-ai</span>
+	</a>
+</div>
+
+      
+    
+  </div>
+</div>
+
+      
+    </div>
+    <div class="preview-window relative md:grid md:grid-cols-12 gap-4">
+      <div class="col-span-8 col-start-1">
+        <a href="/research/runway-revenue-growth-valuation/">
+          <h2 class="font-serif mb-2 md:text-lg text-md">
+            Runway revenue, growth, and valuation
+          </h2>
+        </a>
+        
+<div
+  class="
+    pr-4
+    pb-3
+    flex flex-col sm:flex-row sm:items-center sm:justify-between sm:space-y-0
+    gap-4
+  "
+>
+  <div
+    class="
+      bg-gray-200
+      flex
+      font-medium
+      items-center
+      justify-center
+      px-4
+      py-2
+      rounded
+      space-x-2
+      text-gray-700 text-sm
+    "
+  >
+    
+      <svg height="14" width="14" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.46 47.47">
+        <defs>
+            <style>.cls-1{stroke:#4A5568;stroke-miterlimit:10;}</style>
+        </defs>
+        <title>lightningbolt_icon</title>
+        <path
+          class="cls-1"
+          d="M15,23.5H26.85c.06,0,.08,0,.09.08a.16.16,0,0,0,0,.06s-14.76,27.14-15.08,27S13.61,31.5,13.61,31.5h-12c-.06,0-.07-.06-.08-.09a.09.09,0,0,1,0-.07S16.77,3.86,16.64,4.18,14.85,23.5,14.85,23.5Z"
+          transform="translate(-0.98 -3.68)"
+          fill="#4A5568"
+        />
+      </svg>
+    
+    
+      <span class="whitespace-no-wrap">Unlocked Report</span>
+    
+  </div>
+  
+    
+      <a
+        class="flex items-center justify-center sm:justify-start space-x-2"
+        href="/research/runway-revenue-growth-valuation/"
+      >
+    
+  
+    <span class="font-semibold text-sm whitespace-no-wrap">Continue Reading</span>
+    <svg
+      viewBox="0 0 18 18"
+      height="18"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9.5.594c-1.545 0-2.98.39-4.307 1.169a8.396 8.396 0 00-3.055 3.055 8.353 8.353 0 00-1.17 4.307c0 1.545.39 2.98 1.17 4.307a8.396 8.396 0 003.055 3.055 8.353 8.353 0 004.307 1.17 8.35 8.35 0 004.307-1.17 8.395 8.395 0 003.055-3.055 8.353 8.353 0 001.17-4.307 8.35 8.35 0 00-1.17-4.307 8.396 8.396 0 00-3.055-3.055A8.353 8.353 0 009.5.593zm0 1.312a7.1 7.1 0 013.65.985 7.31 7.31 0 012.584 2.584 7.1 7.1 0 01.985 3.65 7.1 7.1 0 01-.985 3.65 7.31 7.31 0 01-2.584 2.584 7.1 7.1 0 01-3.65.985 7.1 7.1 0 01-3.65-.985 7.31 7.31 0 01-2.584-2.584 7.1 7.1 0 01-.985-3.65 7.1 7.1 0 01.985-3.65A7.31 7.31 0 015.85 2.89a7.1 7.1 0 013.65-.985zM11.469 6.5v1.969H4.906V9.78h6.563v1.969l2.625-2.625L11.469 6.5z"
+        fill="#231F20"
+      />
+    </svg>
+  </a>
+</div>
+
+
+      </div>
+        
+    </div>
+  </div>
+</div>
+
+        
+          <div
+  id=""
+  class="
+    document--card
+    bg-white
+    border border-gray-400
+    mb-6
+    md:mb-8
+    overflow-hidden
+    rounded-lg
+  "
+>
+  <div class="p-4 pb-0">
+    <div class="w-full">
+      
+        <div
+  class="
+    mb-3
+    desktop-company-tabs
+    flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    gap-4
+    "
+>
+  <div class="flex items-stretch gap-2 flex-wrap w-full justify-start">
+    
+      
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/minimax/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/2071.png?v=4fc88d6d" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">MiniMax</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+      
+      
+      
+    
+  </div>
+  <div class="flex items-center justify-start md:justify-end flex-wrap gap-2 text-gray-700 text-sm w-full">
+    
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/ai/">
+		<span class="cursor-pointer">#ai</span>
+	</a>
+</div>
+
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/generative-ai/">
+		<span class="cursor-pointer">#generative-ai</span>
+	</a>
+</div>
+
+      
+    
+  </div>
+</div>
+
+      
+    </div>
+    <div class="preview-window relative md:grid md:grid-cols-12 gap-4">
+      <div class="col-span-8 col-start-1">
+        <a href="/research/minimax-revenue-growth-valuation/">
+          <h2 class="font-serif mb-2 md:text-lg text-md">
+            MiniMax revenue, growth, and valuation
+          </h2>
+        </a>
+        
+<div
+  class="
+    pr-4
+    pb-3
+    flex flex-col sm:flex-row sm:items-center sm:justify-between sm:space-y-0
+    gap-4
+  "
+>
+  <div
+    class="
+      bg-gray-200
+      flex
+      font-medium
+      items-center
+      justify-center
+      px-4
+      py-2
+      rounded
+      space-x-2
+      text-gray-700 text-sm
+    "
+  >
+    
+      <svg height="14" width="14" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.46 47.47">
+        <defs>
+            <style>.cls-1{stroke:#4A5568;stroke-miterlimit:10;}</style>
+        </defs>
+        <title>lightningbolt_icon</title>
+        <path
+          class="cls-1"
+          d="M15,23.5H26.85c.06,0,.08,0,.09.08a.16.16,0,0,0,0,.06s-14.76,27.14-15.08,27S13.61,31.5,13.61,31.5h-12c-.06,0-.07-.06-.08-.09a.09.09,0,0,1,0-.07S16.77,3.86,16.64,4.18,14.85,23.5,14.85,23.5Z"
+          transform="translate(-0.98 -3.68)"
+          fill="#4A5568"
+        />
+      </svg>
+    
+    
+      <span class="whitespace-no-wrap">Unlocked Report</span>
+    
+  </div>
+  
+    
+      <a
+        class="flex items-center justify-center sm:justify-start space-x-2"
+        href="/research/minimax-revenue-growth-valuation/"
+      >
+    
+  
+    <span class="font-semibold text-sm whitespace-no-wrap">Continue Reading</span>
+    <svg
+      viewBox="0 0 18 18"
+      height="18"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9.5.594c-1.545 0-2.98.39-4.307 1.169a8.396 8.396 0 00-3.055 3.055 8.353 8.353 0 00-1.17 4.307c0 1.545.39 2.98 1.17 4.307a8.396 8.396 0 003.055 3.055 8.353 8.353 0 004.307 1.17 8.35 8.35 0 004.307-1.17 8.395 8.395 0 003.055-3.055 8.353 8.353 0 001.17-4.307 8.35 8.35 0 00-1.17-4.307 8.396 8.396 0 00-3.055-3.055A8.353 8.353 0 009.5.593zm0 1.312a7.1 7.1 0 013.65.985 7.31 7.31 0 012.584 2.584 7.1 7.1 0 01.985 3.65 7.1 7.1 0 01-.985 3.65 7.31 7.31 0 01-2.584 2.584 7.1 7.1 0 01-3.65.985 7.1 7.1 0 01-3.65-.985 7.31 7.31 0 01-2.584-2.584 7.1 7.1 0 01-.985-3.65 7.1 7.1 0 01.985-3.65A7.31 7.31 0 015.85 2.89a7.1 7.1 0 013.65-.985zM11.469 6.5v1.969H4.906V9.78h6.563v1.969l2.625-2.625L11.469 6.5z"
+        fill="#231F20"
+      />
+    </svg>
+  </a>
+</div>
+
+
+      </div>
+        
+    </div>
+  </div>
+</div>
+
+        
+          <div
+  id=""
+  class="
+    document--card
+    bg-white
+    border border-gray-400
+    mb-6
+    md:mb-8
+    overflow-hidden
+    rounded-lg
+  "
+>
+  <div class="p-4 pb-0">
+    <div class="w-full">
+      
+        <div
+  class="
+    mb-3
+    desktop-company-tabs
+    flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    gap-4
+    "
+>
+  <div class="flex items-stretch gap-2 flex-wrap w-full justify-start">
+    
+      
+<div class="relative flex items-stretch space-x-2">
+  <div class="focus-trigger cursor-pointer focus:outline-none" tabindex="0">
+  <a href="/c/kling/">
+    <div class="inline-flex items-center p-2 rounded-full border border-gray-300">
+      <img src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/2965.png?v=a5a538c3" class="h-6 mr-2 rounded-full w-6" />
+      <span class="font-medium text-sm">Kling</span>
+    </div>
+  </a>
+</div>
+
+</div>
+
+
+      
+      
+      
+    
+  </div>
+  <div class="flex items-center justify-start md:justify-end flex-wrap gap-2 text-gray-700 text-sm w-full">
+    
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/ai/">
+		<span class="cursor-pointer">#ai</span>
+	</a>
+</div>
+
+      
+        <div class="focus-trigger md:relative focus:outline-none" tabindex="0">
+	<a href="/t/generative-ai/">
+		<span class="cursor-pointer">#generative-ai</span>
+	</a>
+</div>
+
+      
+    
+  </div>
+</div>
+
+      
+    </div>
+    <div class="preview-window relative md:grid md:grid-cols-12 gap-4">
+      <div class="col-span-8 col-start-1">
+        <a href="/research/kling-revenue-growth-valuation/">
+          <h2 class="font-serif mb-2 md:text-lg text-md">
+            Kling revenue, growth, and valuation
+          </h2>
+        </a>
+        
+<div
+  class="
+    pr-4
+    pb-3
+    flex flex-col sm:flex-row sm:items-center sm:justify-between sm:space-y-0
+    gap-4
+  "
+>
+  <div
+    class="
+      bg-gray-200
+      flex
+      font-medium
+      items-center
+      justify-center
+      px-4
+      py-2
+      rounded
+      space-x-2
+      text-gray-700 text-sm
+    "
+  >
+    
+      <svg height="14" width="14" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.46 47.47">
+        <defs>
+            <style>.cls-1{stroke:#4A5568;stroke-miterlimit:10;}</style>
+        </defs>
+        <title>lightningbolt_icon</title>
+        <path
+          class="cls-1"
+          d="M15,23.5H26.85c.06,0,.08,0,.09.08a.16.16,0,0,0,0,.06s-14.76,27.14-15.08,27S13.61,31.5,13.61,31.5h-12c-.06,0-.07-.06-.08-.09a.09.09,0,0,1,0-.07S16.77,3.86,16.64,4.18,14.85,23.5,14.85,23.5Z"
+          transform="translate(-0.98 -3.68)"
+          fill="#4A5568"
+        />
+      </svg>
+    
+    
+      <span class="whitespace-no-wrap">Unlocked Report</span>
+    
+  </div>
+  
+    
+      <a
+        class="flex items-center justify-center sm:justify-start space-x-2"
+        href="/research/kling-revenue-growth-valuation/"
+      >
+    
+  
+    <span class="font-semibold text-sm whitespace-no-wrap">Continue Reading</span>
+    <svg
+      viewBox="0 0 18 18"
+      height="18"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9.5.594c-1.545 0-2.98.39-4.307 1.169a8.396 8.396 0 00-3.055 3.055 8.353 8.353 0 00-1.17 4.307c0 1.545.39 2.98 1.17 4.307a8.396 8.396 0 003.055 3.055 8.353 8.353 0 004.307 1.17 8.35 8.35 0 004.307-1.17 8.395 8.395 0 003.055-3.055 8.353 8.353 0 001.17-4.307 8.35 8.35 0 00-1.17-4.307 8.396 8.396 0 00-3.055-3.055A8.353 8.353 0 009.5.593zm0 1.312a7.1 7.1 0 013.65.985 7.31 7.31 0 012.584 2.584 7.1 7.1 0 01.985 3.65 7.1 7.1 0 01-.985 3.65 7.31 7.31 0 01-2.584 2.584 7.1 7.1 0 01-3.65.985 7.1 7.1 0 01-3.65-.985 7.31 7.31 0 01-2.584-2.584 7.1 7.1 0 01-.985-3.65 7.1 7.1 0 01.985-3.65A7.31 7.31 0 015.85 2.89a7.1 7.1 0 013.65-.985zM11.469 6.5v1.969H4.906V9.78h6.563v1.969l2.625-2.625L11.469 6.5z"
+        fill="#231F20"
+      />
+    </svg>
+  </a>
+</div>
+
+
+      </div>
+        
+    </div>
+  </div>
+</div>
+
+        
+      
+    
+  </section>
+
+    
+  </section>
+  
+</article>
+
+
+  <!-- Blur Overlay - Position will be controlled by JS to cover just article content -->
+<style>
+  /* Style to ensure proper blurring of article content (OLD - check if still needed/desired) */
+  /* .paywall-active article {
+    filter: blur(8px);
+    opacity: 0.3;
+    transition: filter 0.5s, opacity 0.5s;
+  } */
+  
+  /* Ensure the paywall container is visible above the blur */
+  #universal-paywall-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1);
+    z-index: 50;
+    min-height: 50vh;
+    max-height: 90vh;
+    overflow-y: auto;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  /* Ensure header is always above paywall overlays */
+  header.sticky {
+    z-index: 51 !important; /* Always above shader (40), blocker (45), and paywall (50) */
+  }
+  
+  /* Special class for the pricing table step - removes width constraints */
+  .pricing-table-active {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  
+  /* Ensure the pricing table itself is properly sized */
+  #paywall-step-pricing-table stripe-pricing-table {
+    width: 100%;
+    min-height: 500px;
+  }
+
+  /* Style to hide elements following the paywalled content */
+  .hidden-by-paywall {
+    display: none !important;
+  }
+
+  /* Style to hide truncated elements within document_body_root */
+  .hidden-by-paywall-truncation {
+    display: none !important;
+  }
+
+  /* Universal Paywall Partial Blur on document_body_root */
+  /* We are removing the ::before pseudo-element shader as it will be replaced by a dedicated div */
+  /*
+  #document_body_root.partial-paywall-active::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+    pointer-events: none; 
+    opacity: 0; 
+    animation: paywallShaderFadeIn 0.3s ease-in-out forwards;
+  }
+
+  @keyframes paywallShaderFadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  */
+
+  #paywall-shader-overlay {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, 
+      rgba(0, 0, 0, 0.05) 0%,  /* Start with a slight tint */
+      rgba(0, 0, 0, 0.25) 30%,
+      rgba(0, 0, 0, 0.50) 60%,
+      rgba(0, 0, 0, 0.70) 85%,
+      rgba(0, 0, 0, 0.75) 100% /* Max darkness */
+    );
+    z-index: 40; /* Below content-interaction-blocker (45) and paywall (50) */
+    pointer-events: none; /* Allow clicks to pass through */
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  body.paywall-shader-active #paywall-shader-overlay {
+    display: block;
+    opacity: 1;
+  }
+
+  .paywall-initial-slide-down {
+    transform: translateY(100%); /* Start off-screen below */
+  }
+</style>
+
+<!-- Shader Overlay -->
+<div id="paywall-shader-overlay"></div>
+<!-- Universal Paywall Container - Slides up from the bottom -->
+<div
+  id="universal-paywall-container"
+  class="p-6 md:p-8 transform opacity-100 paywall-initial-slide-down pointer-events-auto"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="paywall-title-anon" 
+  style="display: none;"
+>
+  <!-- Navigation Controls -->
+  <!-- Close Button (optional visibility) -->
+  <button
+    id="universal-paywall-close"
+    type="button"
+    class="absolute top-4 right-4 text-gray-400 hover:text-gray-600"
+    aria-label="Close Paywall"
+  >
+    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+    </svg>
+  </button>
+
+  <!-- Wrapper for Different Steps/Views -->
+  <div id="paywall-steps-wrapper" class="max-w-3xl mx-auto relative">
+    <!-- Back Button (hidden by default, shown for steps that can go back) -->
+    <button
+      id="universal-paywall-back"
+      type="button"
+      class="absolute -top-1 left-0 inline-flex items-center text-gray-500 hover:text-gray-700 hidden"
+      aria-label="Go back to previous step"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M9.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L7.414 9H15a1 1 0 110 2H7.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd" />
+      </svg>
+    </button>
+
+    <!-- Step: Anonymous User Limit Reached -->
+<div id="paywall-step-anon-limit" class="hidden flex flex-col items-center justify-center">
+    <div class="w-full max-w-md"> <!-- Outer container for overall centering and max-width -->
+        <div class="flex justify-center mb-4">
+            <div class="bg-gray-100 p-3 rounded-full">
+                <svg class="h-8 w-8 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#6B7280">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+                </svg>
+            </div>
+        </div>
+
+        <h2 id="paywall-title-anon" class="text-2xl md:text-3xl font-bold text-gray-900 text-center">
+            Create a free account, or log in.
+        </h2>
+        <p class="mt-2 text-sm text-gray-600 text-center">
+            Gain access to limited free reports, models, datasets, interviews and memos.
+        </p>
+
+        <form id="anon-limit-form" class="mt-8 bg-white border border-gray-200 rounded-lg shadow-md p-6" method="POST" action="/paywall-auth-start/">
+            <input type="hidden" name="csrfmiddlewaretoken" value="r2QI0a2gFL4ryFeaoIN7kP92weUhCULDXz0g9owsvKe5LwRurYB0kkPvrZ9qjkd1">
+            <input type="hidden" name="next_url" id="paywall-next-url" value="">
+            <input type="hidden" name="required_plan" id="paywall-required-plan" value="">
+            <div class="google-oauth-section">
+  <div class="google-oauth-wrapper mb-4">
+    <button
+      type="button"
+      class="google-oauth-button w-full flex items-center justify-center py-3 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+    >
+      <svg class="w-5 h-5 mr-3" viewBox="0 0 24 24">
+        <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+        <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+        <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+        <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+      </svg>
+      Continue with Google
+    </button>
+    <p class="google-oauth-error mt-2 text-sm text-red-600 hidden"></p>
+  </div>
+
+  <div class="flex items-center mb-4">
+    <hr class="flex-grow border-t border-gray-300">
+    <span class="mx-4 text-xs text-gray-500 uppercase">or</span>
+    <hr class="flex-grow border-t border-gray-300">
+  </div>
+</div>
+
+            <div class="mb-4">
+                <label for="anon-limit-email-input" class="block text-sm font-medium text-gray-700 mb-1">Email</label>
+                <input type="email" name="email" id="anon-limit-email-input" class="paywall-form-email-input appearance-none block w-full px-4 py-3 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-yellow-500 focus:border-yellow-500 sm:text-sm" placeholder="you@example.com" required>
+                <p id="anon-limit-error" class="paywall-form-error mt-2 text-sm text-red-600 hidden"></p>
+            </div>
+
+            <div class="mb-4"> <!-- Adjusted margin for spacing, was mb-4, can be mt-6 if more space is needed before button -->
+                <button type="submit" id="anon-limit-submit-button" class="paywall-form-submit-button w-full inline-flex justify-center py-3 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-black bg-yellow-500 hover:bg-yellow-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500">
+                    <svg id="anon-limit-spinner" class="paywall-form-spinner hidden animate-spin h-5 w-5 text-black" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    <span id="anon-limit-button-text" class="paywall-form-button-text">Continue</span>
+                </button>
+            </div>
+        </form>
+        <p class="mt-4 text-xs text-gray-500 text-center">By continuing, you agree to our <a href="/privacy" class="underline hover:text-gray-700">Privacy Policy</a> and <a href="/terms" class="underline hover:text-gray-700">Terms of Service</a>.</p>
+    </div>
+</div> 
+    <!-- Step: Free Registered User Limit Reached -->
+<div id="paywall-step-free-limit" class="hidden flex flex-col items-center justify-center">
+    <div class="w-full max-w-md"> <!-- Outer container for overall centering and max-width of the entire component -->
+        <div class="flex justify-center mb-4">
+            <div class="bg-gray-100 p-3 rounded-full">
+                <svg class="h-8 w-8 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#6B7280">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+                </svg>
+            </div>
+        </div>
+
+        <h2 id="paywall-title-free" class="text-2xl md:text-3xl font-bold text-gray-900 text-center">Free article limit reached.</h2>
+        <p class="mt-2 text-sm text-gray-600 text-center">Upgrade your account to get unlimited access to all reports, interviews, and community features.</p>
+        <div class="mt-8 bg-white border border-gray-200 rounded-lg shadow-md p-6">
+            <a href="/access/" 
+               id="free-limit-subscribe-button" 
+               class="w-full flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-black bg-yellow-500 hover:bg-yellow-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-700">
+                Upgrade
+            </a>
+            <p class="mt-4 text-xs text-gray-500 text-center">Cancel anytime. No commitment required.</p>
+        </div>
+
+        <!-- Placeholder for potential error messages -->
+        <p id="free-limit-error" class="mt-4 text-xs text-red-600 hidden text-center"></p>
+        <p class="mt-4 text-xs text-gray-500 text-center">By continuing, you agree to our <a href="/privacy" class="underline hover:text-gray-700">Privacy Policy</a> and <a href="/terms" class="underline hover:text-gray-700">Terms of Service</a>.</p>
+    </div>
+</div> 
+    <!-- Step: Standard Membership Required -->
+<div id="paywall-step-standard-membership-required" class="hidden flex flex-col items-center justify-center">
+    <div class="w-full max-w-md"> <!-- Outer container for overall centering and max-width of the entire component -->
+        <div class="flex justify-center mb-4">
+            <div class="bg-gray-100 p-3 rounded-full">
+                <svg class="h-8 w-8 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#6B7280">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+                </svg>
+            </div>
+        </div>
+
+        <h2 id="paywall-title-standard-membership" class="text-2xl md:text-3xl font-bold text-gray-900 text-center">Standard membership required.</h2>
+        <p class="mt-2 text-sm text-gray-600 text-center">Upgrade your account to get unlimited access to all reports, interviews, and community features</p>
+        <div class="mt-8 bg-white border border-gray-200 rounded-lg shadow-md p-6">            
+            <a href="/access/" 
+               id="standard-membership-subscribe-button"
+               class="w-full flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-black bg-yellow-500 hover:bg-yellow-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-700">
+                Upgrade
+            </a>
+            <p class="mt-4 text-xs text-gray-500 text-center">Cancel anytime. No commitment required.</p>
+        </div>
+
+        <!-- Placeholder for potential error messages -->
+        <p id="standard-membership-error" class="mt-4 text-xs text-red-600 hidden text-center"></p>
+        <p class="mt-4 text-xs text-gray-500 text-center">By continuing, you agree to our <a href="/privacy" class="underline hover:text-gray-700">Privacy Policy</a> and <a href="/terms" class="underline hover:text-gray-700">Terms of Service</a>.</p>
+    </div>
+</div> 
+    <!-- Step: Anonymous Standard Membership Required -->
+<div id="paywall-step-anon-standard-membership-required" class="hidden flex flex-col items-center justify-center">
+    <div class="w-full max-w-md"> <!-- Outer container for overall centering and max-width -->
+        <div class="flex justify-center mb-4">
+            <div class="bg-gray-100 p-3 rounded-full">
+                <svg class="h-8 w-8 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#6B7280">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+                </svg>
+            </div>
+        </div>
+
+        <h2 id="paywall-title-anon-standard-membership" class="text-2xl md:text-3xl font-bold text-gray-900 text-center">
+            Standard membership required.
+        </h2>
+        <p class="mt-2 text-sm text-gray-600 text-center">
+            Sign up or log in to your Standard account to get unlimited access to all reports, interviews, and community features
+        </p>
+
+        <form id="anon-standard-membership-limit-form" class="mt-8 bg-white border border-gray-200 rounded-lg shadow-md p-6" method="POST" action="/paywall-auth-start/">
+            <input type="hidden" name="csrfmiddlewaretoken" value="r2QI0a2gFL4ryFeaoIN7kP92weUhCULDXz0g9owsvKe5LwRurYB0kkPvrZ9qjkd1">
+            <input type="hidden" name="next_url" id="paywall-next-url" value="">
+            <input type="hidden" name="required_plan" id="paywall-required-plan" value="">
+            <div class="google-oauth-section">
+  <div class="google-oauth-wrapper mb-4">
+    <button
+      type="button"
+      class="google-oauth-button w-full flex items-center justify-center py-3 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+    >
+      <svg class="w-5 h-5 mr-3" viewBox="0 0 24 24">
+        <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+        <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+        <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+        <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+      </svg>
+      Continue with Google
+    </button>
+    <p class="google-oauth-error mt-2 text-sm text-red-600 hidden"></p>
+  </div>
+
+  <div class="flex items-center mb-4">
+    <hr class="flex-grow border-t border-gray-300">
+    <span class="mx-4 text-xs text-gray-500 uppercase">or</span>
+    <hr class="flex-grow border-t border-gray-300">
+  </div>
+</div>
+
+            <div class="mb-4">
+                <label for="anon-standard-membership-limit-email-input" class="block text-sm font-medium text-gray-700 mb-1">Email</label>
+                <input type="email" name="email" id="anon-standard-membership-limit-email-input" class="paywall-form-email-input appearance-none block w-full px-4 py-3 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-yellow-500 focus:border-yellow-500 sm:text-sm" placeholder="you@example.com" required>
+                <p id="anon-standard-membership-limit-error" class="paywall-form-error mt-2 text-sm text-red-600 hidden"></p>
+            </div>
+
+            <div class="mb-4">
+                <button type="submit" id="anon-standard-membership-limit-submit-button" class="paywall-form-submit-button w-full inline-flex justify-center py-3 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-black bg-yellow-500 hover:bg-yellow-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500">
+                    <svg id="anon-standard-membership-limit-spinner" class="paywall-form-spinner hidden animate-spin h-5 w-5 text-black" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    <span id="anon-standard-membership-limit-button-text" class="paywall-form-button-text">Continue</span>
+                </button>
+            </div>
+        </form>
+        <p class="mt-4 text-xs text-gray-500 text-center">By continuing, you agree to our <a href="/privacy" class="underline hover:text-gray-700">Privacy Policy</a> and <a href="/terms" class="underline hover:text-gray-700">Terms of Service</a>.</p>
+    </div>
+</div> 
+
+    <!-- Add includes for other steps (onboarding, pricing, checkout) here as needed -->
+
+  </div>
+</div>
+  
+    
+
+<style>
+  .agent-chat-entry {
+    --agent-chat-entry-bottom: 1rem;
+    position: fixed;
+    left: 50%;
+    bottom: var(--agent-chat-entry-bottom);
+    /* Above the page shader (40), but below the expanded paywall (50). */
+    z-index: 49;
+    width: min(42rem, calc(100vw - 2rem));
+    border: 1px solid rgba(100, 116, 139, 0.38);
+    border-radius: 1.375rem;
+    background: rgba(255, 255, 255, 0.98);
+    box-shadow:
+      0 1px 3px rgba(15, 23, 42, 0.12),
+      0 10px 24px -12px rgba(15, 23, 42, 0.32),
+      0 30px 80px -24px rgba(15, 23, 42, 0.52);
+    backdrop-filter: blur(12px);
+    transform: translateX(-50%);
+  }
+
+  .agent-chat-entry .agent-chat-composer-shell {
+    border-color: #94a3b8;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.9),
+      0 1px 2px rgba(15, 23, 42, 0.1);
+  }
+
+  .agent-chat-entry .agent-chat-composer-send.is-loading {
+    border: 1px solid #d1d5db;
+    background: #ffffff;
+    color: #111827;
+    opacity: 1;
+  }
+
+  @media (min-width: 1024px) {
+    .agent-chat-entry {
+      width: min(38rem, calc(100vw - 2rem));
+    }
+  }
+</style>
+
+<div class="h-28" aria-hidden="true"></div>
+<section
+  class="agent-chat-entry"
+  data-agent-chat-entry
+  data-chat-message-url="/api/app/chat/message/"
+  data-chat-can-send="false"
+  data-chat-send-block-reason="authentication_required"
+  data-chat-auth-redirect-url="/login/?next=/research/together-ai-the-vercel-of-generative-ai/"
+  data-chat-origin-type="document"
+  data-chat-origin-ref="together-ai-the-vercel-of-generative-ai"
+>
+  
+<style>
+  .agent-chat-composer-drop-hint {
+    display: none;
+    position: absolute;
+    inset: 0;
+    z-index: 20;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    border: 2px solid #ffb61a;
+    border-radius: inherit;
+    background: rgba(255, 255, 255, 0.92);
+    color: #231f20;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-align: center;
+    pointer-events: none;
+  }
+  .agent-chat-composer-drop-hint svg {
+    width: 1.25rem;
+    height: 1.25rem;
+    flex: none;
+  }
+  .agent-chat-composer.is-file-dragover .agent-chat-composer-drop-hint {
+    display: flex;
+  }
+  .agent-chat-composer-status {
+    flex: 1;
+    min-width: 0;
+    margin: 0 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    overflow-wrap: anywhere;
+    color: #991b1b;
+  }
+  .agent-chat-composer-send.is-loading svg { display: none; }
+  .agent-chat-composer-send.is-loading::after {
+    content: "";
+    width: 1rem;
+    height: 1rem;
+    border: 2px solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    animation: agent-chat-attachment-spin 800ms linear infinite;
+  }
+
+  .agent-chat-composer-shell {
+    position: relative;
+    box-shadow: 0 1px 2px rgba(17, 24, 39, 0.06), 0 18px 42px -32px rgba(17, 24, 39, 0.5);
+  }
+
+  .agent-chat-composer-shell:focus-within {
+    border-color: #ecc94b;
+    box-shadow: 0 1px 2px rgba(17, 24, 39, 0.08), 0 22px 48px -34px rgba(17, 24, 39, 0.55);
+  }
+
+  .agent-chat-composer-attachments {
+    scrollbar-width: none;
+  }
+
+  .agent-chat-composer-attachments::-webkit-scrollbar {
+    display: none;
+  }
+
+  .agent-chat-composer-attachments:not(.hidden) {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .agent-chat-composer-action-menu.is-open {
+    display: block;
+  }
+
+  .agent-chat-composer-action-menu {
+    bottom: calc(100% + 0.5rem);
+    left: calc(1rem - 20px);
+  }
+
+  .agent-chat-composer-action-button,
+  .agent-chat-composer-send {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .agent-chat-composer-input {
+    min-height: 2.375rem;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .agent-chat-composer-controls {
+    margin-top: -0.25rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .agent-chat-composer-action {
+    margin-left: -0.25rem;
+  }
+
+  .agent-chat-composer-attachment-remove-button {
+    position: absolute;
+    top: 0.25rem;
+    right: 0.25rem;
+    z-index: 10;
+  }
+
+  .agent-chat-composer-file-thumbnail {
+    width: 2.5rem;
+    min-width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  .agent-chat-composer-file-thumbnail svg {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  .agent-chat-composer-file-card {
+    width: 14rem;
+    min-width: 14rem;
+    height: 3.5rem;
+  }
+
+  .agent-chat-composer-image-card {
+    width: 3.5rem;
+    min-width: 3.5rem;
+    height: 3.5rem;
+  }
+
+  .agent-chat-composer-image-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .agent-chat-composer-attachment-spinner::before {
+    content: "";
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 9999px;
+    border: 2px solid rgba(75, 85, 99, 0.25);
+    border-top-color: #111827;
+    animation: agent-chat-attachment-spin 800ms linear infinite;
+  }
+
+  @keyframes agent-chat-attachment-spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+</style>
+
+<form
+  class="agent-chat-composer relative w-full"
+  data-chat-composer
+  autocomplete="off"
+>
+  <div class="agent-chat-composer-shell flex flex-col gap-2 rounded-2xl border border-gray-300 bg-white px-4 py-3 shadow-sm transition-shadow duration-200 focus-within:border-gray-400 focus-within:shadow">
+    <div class="agent-chat-composer-drop-hint" aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+        <path d="M6.25 10.25 10.9 5.6a2.4 2.4 0 1 1 3.4 3.4l-5.55 5.55a3.65 3.65 0 0 1-5.16-5.16l5.72-5.72" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+      </svg>
+      <span>Drop files to attach</span>
+    </div>
+    <div
+  data-chat-composer-attachments
+  class="agent-chat-composer-attachments hidden w-full overflow-x-auto pb-1"
+  aria-label="Files attached to the next message"
+></div>
+
+    <textarea
+      data-chat-composer-input
+      class="agent-chat-composer-input block w-full resize-none border-0 bg-transparent p-0 text-lg leading-snug text-gray-900 placeholder-gray-600 focus:outline-none focus:ring-0"
+      rows="1"
+      placeholder="Ask Sacra Agent anything..."
+      aria-label="Message Sacra Agent"
+    ></textarea>
+    <div class="agent-chat-composer-controls flex min-h-8 items-center justify-between gap-2">
+      <div class="flex items-center">
+        <div class="agent-chat-composer-action flex-none">
+  <button
+    type="button"
+    data-chat-composer-action-button
+    class="agent-chat-composer-action-button inline-flex h-9 w-9 items-center justify-center rounded-full text-gray-500 transition-colors duration-150 hover:bg-gray-100 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-yellow-300"
+    aria-label="Open composer actions"
+    aria-haspopup="menu"
+    aria-expanded="false"
+  >
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" class="block h-5 w-5" aria-hidden="true">
+      <path d="M10 4v12M4 10h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+    </svg>
+  </button>
+
+  <div
+    data-chat-composer-action-menu
+    class="agent-chat-composer-action-menu absolute z-50 hidden w-64 rounded-xl border border-gray-200 bg-white p-1 shadow-xl"
+    role="menu"
+    aria-hidden="true"
+  >
+    <button
+      type="button"
+      data-chat-composer-file-picker-trigger
+      class="flex w-full items-center rounded-lg px-2 py-2.5 text-left text-sm font-medium text-gray-800 transition-colors duration-150 hover:bg-gray-200 focus:bg-gray-100 focus:outline-none"
+      role="menuitem"
+    >
+      <span class="inline-flex h-8 w-8 flex-none items-center justify-center rounded-lg text-gray-600" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" class="h-5 w-5">
+          <path d="M6.25 10.25 10.9 5.6a2.4 2.4 0 1 1 3.4 3.4l-5.55 5.55a3.65 3.65 0 0 1-5.16-5.16l5.72-5.72" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </span>
+      <span>Upload files or images</span>
+    </button>
+  </div>
+
+  <input
+    type="file"
+    data-chat-composer-file-input
+    class="hidden"
+    accept=".txt,.md,.csv,.tsv,.json,.pdf,.pptx,.docx,.png,.jpg,.jpeg,.webp"
+    multiple
+    aria-hidden="true"
+    tabindex="-1"
+  />
+</div>
+
+      </div>
+      <p data-chat-composer-status class="agent-chat-composer-status" role="status" aria-live="polite" aria-atomic="true" hidden></p>
+      <button
+        type="submit"
+        data-chat-composer-send
+        class="agent-chat-composer-send inline-flex h-9 w-9 flex-none items-center justify-center rounded-full bg-gray-900 text-white transition-opacity duration-150 hover:opacity-80 disabled:cursor-not-allowed disabled:opacity-40"
+        aria-label="Send message"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" class="h-5 w-5" aria-hidden="true">
+          <path d="M10 16V4" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+          <path d="M4.75 9.25 10 4l5.25 5.25" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+    </div>
+  </div>
+  <template data-chat-composer-image-attachment-card-template>
+  <div
+    data-chat-composer-attachment-card
+    class="agent-chat-composer-image-card group relative flex-none overflow-hidden rounded-lg border border-gray-200 bg-gray-100 shadow-sm"
+  >
+    <div
+      data-chat-composer-attachment-thumbnail
+      class="relative flex h-full w-full items-center justify-center overflow-hidden text-gray-500"
+      aria-hidden="true"
+    >
+      <span data-chat-composer-attachment-icon>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" class="h-7 w-7">
+          <path d="M4.5 5.25a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v9.5a2 2 0 0 1-2 2h-7a2 2 0 0 1-2-2v-9.5Z" stroke="currentColor" stroke-width="1.45" />
+          <path d="m5.25 13.75 3.2-3.2a1 1 0 0 1 1.42 0l1.05 1.05.7-.7a1 1 0 0 1 1.42 0l1.7 1.7" stroke="currentColor" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M12.75 7.25h.01" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+        </svg>
+      </span>
+      <span
+        data-chat-composer-attachment-spinner
+        class="agent-chat-composer-attachment-spinner absolute inset-0 hidden items-center justify-center bg-gray-100"
+      ></span>
+    </div>
+
+    <button
+      type="button"
+      data-chat-composer-attachment-remove
+      class="agent-chat-composer-attachment-remove-button inline-flex h-5 w-5 items-center justify-center rounded-full bg-white text-gray-700 shadow-sm transition-colors duration-150 hover:bg-gray-900 hover:text-white focus:outline-none focus:ring-2 focus:ring-yellow-300"
+      aria-label="Remove file"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" class="h-3 w-3" aria-hidden="true">
+        <path d="m6 6 8 8M14 6l-8 8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+      </svg>
+    </button>
+  </div>
+</template>
+
+  <template data-chat-composer-file-attachment-card-template>
+  <div
+    data-chat-composer-attachment-card
+    class="agent-chat-composer-file-card group relative flex flex-none items-center gap-2 rounded-lg border border-gray-200 bg-white p-2 shadow-sm"
+  >
+    <div
+      data-chat-composer-attachment-thumbnail
+      class="agent-chat-composer-file-thumbnail relative flex flex-none items-center justify-center overflow-hidden rounded-lg bg-gray-200 text-gray-600"
+      aria-hidden="true"
+    >
+      <span data-chat-composer-attachment-icon>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" class="h-7 w-7">
+          <path d="M5.75 2.75h5.1l3.4 3.45v11.05h-8.5a2 2 0 0 1-2-2V4.75a2 2 0 0 1 2-2Z" stroke="currentColor" stroke-width="1.45" stroke-linejoin="round" />
+          <path d="M10.75 2.9v3.45h3.35" stroke="currentColor" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </span>
+    </div>
+
+    <div class="min-w-0 flex-1 pr-6">
+      <p data-chat-composer-attachment-name class="truncate text-sm font-semibold leading-4 text-gray-900"></p>
+      <p data-chat-composer-attachment-meta class="truncate text-xs leading-4 text-gray-500"></p>
+    </div>
+
+    <button
+      type="button"
+      data-chat-composer-attachment-remove
+      class="agent-chat-composer-attachment-remove-button inline-flex h-5 w-5 items-center justify-center rounded-full bg-white text-gray-700 shadow-sm transition-colors duration-150 hover:bg-gray-900 hover:text-white focus:outline-none focus:ring-2 focus:ring-yellow-300"
+      aria-label="Remove file"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" class="h-3 w-3" aria-hidden="true">
+        <path d="m6 6 8 8M14 6l-8 8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+      </svg>
+    </button>
+  </div>
+</template>
+
+</form>
+
+</section>
+
+<script id="agent-chat-entry-origin-card" type="application/json">{"title": "Together AI: the $44M/year Vercel of generative AI", "subtitle": "", "url": "/research/together-ai-the-vercel-of-generative-ai/", "type_label": "Research"}</script>
+<script src="/static/parcel/chat_page_entry.js"></script>
+
+  
+
+
+        </div>
+      </div>
+      
+      <!-- Right sidebar - desktop only -->
+      
+      <div class="hidden lg:block col-span-3" style="max-width: 220px;">
+        
+  <div class="flex flex-col h-full mt-10">
+    <!-- Document Action Buttons Component -->
+<!-- This can be included in both desktop sidebar and mobile layouts -->
+
+<div class="bg-white flex flex-col space-y-4">
+  <!-- View PDF Button -->
+  
+    <a href="/document/together-ai-the-vercel-of-generative-ai/export/pdf/" 
+       target="_blank" rel="noreferrer" 
+       class="flex bg-yellow-800 h-12 w-full rounded cursor-pointer">
+      <div class="flex items-center justify-center p-4" style="border-right: 1px solid #E39B00">
+        <svg width="12" height="16" viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0.375 0.9375V15.5625H11.625V4.64648L7.91602 0.9375H0.375ZM1.5 2.0625H7.125V5.4375H10.5V14.4375H1.5V2.0625ZM8.25 2.85352L9.70898 4.3125H8.25V2.85352ZM5.4375 6.5625V9.375H3.75L6 11.625L8.25 9.375H6.5625V6.5625H5.4375ZM3.75 12.1875V13.3125H8.25V12.1875H3.75Z" fill="#231F20"/>
+        </svg>                  
+      </div>
+      <div class="flex items-center justify-center font-semibold text-sm flex-1">View PDF</div>
+    </a>
+  
+  
+  <!-- Embed Button (hidden for restricted/private docs — they aren't embeddable) -->
+  
+    <button
+        data-embed-trigger="desktop"
+        name="toggle-embed-pdf-modal-button"
+        class="embed-trigger-button flex bg-transparent border border-gray-800 text-gray-800 items-center h-12 w-full rounded cursor-pointer">
+      <div class="flex items-center justify-center p-4 border-r border-gray-800">              
+        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 640 512">
+          <path d="M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z"/>
+        </svg>
+      </div>
+      <div class="flex items-center justify-center font-semibold text-sm flex-1">Embed PDF</div>
+    </button>
+  
+  
+  <!-- View Model/Dataset Button -->
+  
+</div> 
+    
+      <div class="mt-8">
+        <div class="hidden md:flex flex-col gap-6">
+  
+  <div>
+    <div class="text-sm font-semibold mb-2">Featuring</div>
+    <div class="flex flex-col gap-2">
+      
+      <div class="bg-white flex md:justify-end">
+        <div class="w-full p-4 rounded-lg bg-white border border-gray-400">
+  <div class="md:flex md:items-center md:justify-between mb-4">
+    
+<a href="/c/together-ai/">
+  <div class="flex items-center">
+    <img
+      src="https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1281.png?v=8660ccc7"
+      class="h-8 w-8 rounded-full mr-3"
+    />
+    <div class="leading-none">
+      <span class="block font-semibold leading-6">
+        Together AI
+      </span>
+      
+      <span class="text-sm">
+        San Francisco, United States
+
+      </span>
+      
+    </div>
+  </div>
+</a>
+
+  </div>
+  
+  <p class="text-sm">
+    Together AI provides AI companies with cloud GPUs and tooling for training and fine-tuning open source models.
+  </p>
+
+</div>
+
+      </div>
+      
+    </div>
+  </div>
+  
+  
+  <div>
+    <div class="text-sm font-semibold mb-2">Listed In</div>
+    <div class="w-full border border-gray-400 rounded-lg bg-white">
+      
+      <a href="/t/cloud-gpus/">
+        <div>
+          <div class="flex items-center p-4">
+            <span class="text-sm font-semibold">
+              #cloud-gpus
+            </span>
+          </div>
+        </div>
+        
+        <div class="w-full border-b border-gray-400"></div>
+        
+      </a>
+      
+      <a href="/t/ai/">
+        <div>
+          <div class="flex items-center p-4">
+            <span class="text-sm font-semibold">
+              #ai
+            </span>
+          </div>
+        </div>
+        
+      </a>
+      
+    </div>
+  </div>
+  
+</div>
+
+      </div>
+    
+    <div class="sticky-column flex-1">
+      
+      <div class="sticky top-10 mt-8">
+        
+<nav
+  id="navToggle"
+  class="article--nav-wrapper rounded-md lg:rounded-none lg:sticky z-20 p-3 -mt-6 overflow-auto"
+>
+
+</nav>
+      </div>
+      
+    </div>
+  </div>
+
+      </div>
+    </div>
+
+    <!-- Modals block - outside grid for proper overlay behavior -->
+    
+  <div
+      id="embed-modal-overlay"
+      class="overlay fixed w-full h-full top-0 z-50 hidden"
+  >
+      
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css">
+<script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script>
+<style>
+    #embed-modal-overlay {
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-sizing: border-box;
+        overflow-y: auto;
+        padding: 1rem;
+        z-index: 60 !important;
+    }
+
+    #embed-modal-overlay.hidden {
+        display: none;
+    }
+
+    #embed-pdf-container {
+        position: relative;
+        top: auto;
+        left: auto;
+        transform: none;
+        width: min(calc(100vw - 2rem), 92rem);
+        max-height: calc(100vh - 2rem);
+        overflow: hidden;
+    }
+
+    #embed-pdf-inner {
+        max-height: calc(100vh - 4rem);
+        min-height: 0;
+        width: 100%;
+    }
+
+    #embed-pdf-left {
+        flex: 0 0 min(700px, calc(100vw - 2rem));
+        width: min(700px, calc(100vw - 2rem));
+    }
+
+    #embed-pdf-left,
+    #embed-pdf-right {
+        min-height: 0;
+        overflow-y: auto;
+    }
+
+    #embed-pdf-left iframe {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #embed-pdf-right {
+        flex: 1 1 34rem;
+        min-width: 28rem;
+    }
+</style>
+<div
+    id="embed-pdf-container"
+    class="
+        modal
+        bg-white
+        border border-gray-400
+        rounded-lg
+        p-4
+    "
+>
+    <div
+        id="embed-pdf-inner"
+        class="flex divide-x"
+    >
+        <div
+            id="embed-pdf-left"
+        >
+        </div>
+        <div
+            id="embed-pdf-right"
+            class="flex flex-col justify-between pl-8"
+        >
+            <div
+                id="embed-pdf-header"
+                class="flex justify-between"
+            >
+                <div
+                    id="embed-pdf-title"
+                    class="text-2xl font-semibold"
+                >
+                    Embed Document PDF
+                </div>
+                <button
+                    id="embed-pdf-close-modal-button"
+                >
+                    <svg height="1em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M376.6 84.5c11.3-13.6 9.5-33.8-4.1-45.1s-33.8-9.5-45.1 4.1L192 206 56.6 43.5C45.3 29.9 25.1 28.1 11.5 39.4S-3.9 70.9 7.4 84.5L150.3 256 7.4 427.5c-11.3 13.6-9.5 33.8 4.1 45.1s33.8 9.5 45.1-4.1L192 306 327.4 468.5c11.3 13.6 31.5 15.4 45.1 4.1s15.4-31.5 4.1-45.1L233.7 256 376.6 84.5z"/></svg>
+                </button>
+            </div>
+            <div
+                id="embed-pdf-main"
+            >
+                <div
+                    id="embed-pdf-code"
+                    class="text-white bg-monokaiBackground p-8"
+                >
+                    <code>
+                        Embed code is missing!
+                    </code>
+                </div>
+                <div
+                    id="embed-pdf-options"
+                    class="mt-12"
+                >
+                    <div
+                        id="embed-pdf-options-header"
+                        class="mb-6 font-semibold text-lg"
+                    >
+                        Embed options
+                    </div>
+                    <div
+                        id="embed-pdf-options"
+                    >
+                        <div
+                            id="embed-pdf-option-height"
+                            class="mb-4"
+                        >
+                            <label
+                                id="embed-pdf-options-height-label"
+                                for="embed-pdf-options-height-input"
+                                class="block text-sm text-gray-700 font-semibold mb-2"
+                            >
+                                Height
+                            </label>
+                            <input 
+                                type="text"
+                                id="embed-pdf-options-height-input"
+                                name="embed-pdf-options-height-input"
+                                class="appearance-none block w-full border border-gray-400 rounded-md py-3 px-4 leading-tight focus:outline-none focus:border-gray-500 focus:shadow-focus"
+                                value="700"
+                            />
+                        </div>
+                        <div
+                            id="embed-pdf-option-width"
+                            class="mb-4"
+                        >
+                            <label
+                                id="embed-pdf-options-width-label"
+                                for="embed-pdf-options-width-input"
+                                class="block text-sm text-gray-700 font-semibold mb-2"
+                            >
+                                Width
+                            </label>
+                            <input 
+                                type="text"
+                                id="embed-pdf-options-width-input"
+                                name="embed-pdf-options-width-input"
+                                class="appearance-none block w-full border border-gray-400 rounded-md py-3 px-4 leading-tight focus:outline-none focus:border-gray-500 focus:shadow-focus"
+                                value="700"
+                            />
+                        </div>
+                    </div>
+                </div>
+                <div
+                    id="embed-pdf-disclaimer"
+                    class="mt-12"
+                >
+                    By embedding Sacra content on your site, you are agreeing to <a class='font-semibold underline text-yellow-800' href='https://sacra.com/terms/'> Sacra Terms of Service </a>
+                </div>
+            </div>
+            <div
+                id="embed-pdf-footer"
+                class="flex justify-end"
+            >
+                <button
+                    id="embed-pdf-copy-button"
+                    class="bg-yellow-800 text-gray-800 text-sm font-semibold py-3 px-4 rounded-full flex items-center"
+                >
+                    <svg height="1em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M208 0H332.1c12.7 0 24.9 5.1 33.9 14.1l67.9 67.9c9 9 14.1 21.2 14.1 33.9V336c0 26.5-21.5 48-48 48H208c-26.5 0-48-21.5-48-48V48c0-26.5 21.5-48 48-48zM48 128h80v64H64V448H256V416h64v48c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V176c0-26.5 21.5-48 48-48z"/></svg>
+                    <div class="mx-2"> Copy </div>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/static/parcel/embed_document_pdf_modal.js" defer></script>
+
+  </div>
+
+    
+    <!-- Page-specific scripts -->
+    
+  <script>
+    var CSRFTOKEN = "r2QI0a2gFL4ryFeaoIN7kP92weUhCULDXz0g9owsvKe5LwRurYB0kkPvrZ9qjkd1";
+    var SLUG = "together-ai-the-vercel-of-generative-ai";
+    var MEMBERSHIP_TYPE = "standard"
+    var USER_MEMBERSHIP_TYPE = "None"
+    var COMPANY_SLUG_TO_COMPANY_META = "{\"together-ai\": {\"name\": \"Together AI\", \"prismic_id\": \"Zh1atxIAAOxtRs_T\", \"prismic_uid\": \"together-ai\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1281.png?v=8660ccc7\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}], \"description\": \"API and compute layer for developers to train and deploy open-source AI models\", \"revenue_value\": 300000000, \"revenue_date\": \"2025-10-15\", \"growth_rate_value\": 400, \"growth_rate_date\": \"2024-12-01\", \"valuation_value\": 3300000000, \"valuation_date\": \"2026-01-11\", \"funding_value\": 533500000, \"funding_date\": \"2026-01-11\", \"ceo_name\": \"Vipul Ved Prakash\", \"website\": {\"key\": \"675de06e-9848-4a16-bc8d-e82b05ed618a\", \"url\": \"https://www.together.ai/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"lambda-labs\": {\"name\": \"Lambda Labs\", \"prismic_id\": \"Zc_vkBYAAC8AvbnH\", \"prismic_uid\": \"lambda-labs\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/761.png?v=c7e3b8ed\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}], \"description\": \"Cloud GPU provider for training and fine-tuning AI models at scale\", \"revenue_value\": null, \"revenue_date\": null, \"growth_rate_value\": null, \"growth_rate_date\": null, \"valuation_value\": 5900000000, \"valuation_date\": \"2025-11-18\", \"funding_value\": 2300000000, \"funding_date\": \"2025-11-19\", \"ceo_name\": \"Stephen Balaban\", \"website\": {\"key\": \"cb03f677-46bd-49cd-b4fa-87e8caca29b6\", \"url\": \"https://lambda.ai/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"coreweave\": {\"name\": \"CoreWeave\", \"prismic_id\": \"Zc9XmxYAAC4Auxnr\", \"prismic_uid\": \"coreweave\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/760.png?v=ca672a7e\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}], \"description\": \"Cloud GPU provider offering production-grade compute infrastructure for AI model training and deployment\", \"revenue_value\": 1900000000, \"revenue_date\": \"2024-12-01\", \"growth_rate_value\": 730, \"growth_rate_date\": \"2024-12-01\", \"valuation_value\": 23000000000, \"valuation_date\": \"2024-12-01\", \"funding_value\": 3500000000, \"funding_date\": \"2024-12-01\", \"ceo_name\": \"Michael Intrator\", \"website\": {\"key\": \"3ad6f63b-a41e-4f5a-bc3b-647893d6de26\", \"url\": \"https://www.coreweave.com/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"mistral\": {\"name\": \"Mistral\", \"prismic_id\": \"aJgCKhYAAC8Ah5oX\", \"prismic_uid\": \"mistral\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1645.png?v=59a8aa67\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 92, \"name\": \"AI models\", \"slug\": \"ai-models\"}], \"description\": \"Open-weight LLMs and AI tools for developers, enterprises, and on-premise deployment\", \"revenue_value\": null, \"revenue_date\": null, \"growth_rate_value\": null, \"growth_rate_date\": null, \"valuation_value\": 24000000000, \"valuation_date\": \"2026-09-08\", \"funding_value\": null, \"funding_date\": null, \"ceo_name\": \"Arthur Mensch\", \"website\": {\"key\": \"556453b5-bbb0-415b-976a-b29b2b6c4d0a\", \"url\": \"https://mistral.ai\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"anthropic\": {\"name\": \"Anthropic\", \"prismic_id\": \"ZQCjaBEAAC4Ak0kx\", \"prismic_uid\": \"anthropic\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/649.png?v=f80e4898\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}, {\"id\": 92, \"name\": \"AI models\", \"slug\": \"ai-models\"}], \"description\": \"API and chatbot for developers and businesses to access Claude large language models\", \"revenue_value\": null, \"revenue_date\": null, \"growth_rate_value\": null, \"growth_rate_date\": null, \"valuation_value\": 965000000000, \"valuation_date\": \"2026-05-28\", \"funding_value\": null, \"funding_date\": null, \"ceo_name\": \"Dario Amodei\", \"website\": {\"key\": \"7522a741-1674-4e2f-9b0c-e04caaa2bf1c\", \"url\": \"https://www.anthropic.com/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"openai\": {\"name\": \"OpenAI\", \"prismic_id\": \"ZCrwkREAAC8AFFhM\", \"prismic_uid\": \"openai\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/579.png?v=6fbc6c70\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}, {\"id\": 92, \"name\": \"AI models\", \"slug\": \"ai-models\"}], \"description\": \"AI research lab offering GPT models via API and ChatGPT for consumers\", \"revenue_value\": 25000000000, \"revenue_date\": \"2026-04-01\", \"growth_rate_value\": null, \"growth_rate_date\": null, \"valuation_value\": 852000000000, \"valuation_date\": \"2026-03-31\", \"funding_value\": 178000000000, \"funding_date\": \"2026-04-01\", \"ceo_name\": \"Sam Altman\", \"website\": {\"key\": \"180ab141-5c13-4c90-8219-0d945520a521\", \"url\": \"https://openai.com\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"cohere\": {\"name\": \"Cohere\", \"prismic_id\": \"ZTKNIBEAACsAvJeB\", \"prismic_uid\": \"cohere\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/703.png?v=f4a36a17\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}, {\"id\": 92, \"name\": \"AI models\", \"slug\": \"ai-models\"}], \"description\": \"API for fast, cost-effective large language models tailored to enterprise deployments\", \"revenue_value\": null, \"revenue_date\": null, \"growth_rate_value\": null, \"growth_rate_date\": null, \"valuation_value\": 7000000000, \"valuation_date\": \"2025-09-24\", \"funding_value\": null, \"funding_date\": null, \"ceo_name\": \"Aidan Gomez\", \"website\": {\"key\": \"e52dafbe-5f40-42d3-a031-3ec2739ab197\", \"url\": \"https://cohere.com/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"perplexity\": {\"name\": \"Perplexity\", \"prismic_id\": \"ZeoJXhEAAC8AyhyD\", \"prismic_uid\": \"perplexity\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/767.png?v=4118619a\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}, {\"id\": 143, \"name\": \"ai search\", \"slug\": \"ai-search\"}], \"description\": \"AI-powered search tool for answering complex, multi-sentence queries with cited summaries\", \"revenue_value\": 150000000, \"revenue_date\": \"2025-07-23\", \"growth_rate_value\": 800, \"growth_rate_date\": \"2024-12-31\", \"valuation_value\": 20000000000, \"valuation_date\": \"2025-09-10\", \"funding_value\": 1220000000, \"funding_date\": \"2025-11-26\", \"ceo_name\": \"Aravind Srinivas\", \"website\": {\"key\": \"c7fd8000-f0b5-4785-8e80-05ee20d27ef8\", \"url\": \"https://www.perplexity.ai/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"hugging-face\": {\"name\": \"Hugging Face\", \"prismic_id\": \"Zdks_REAAC8A1FLy\", \"prismic_uid\": \"hugging-face\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/763.png?v=11a506a9\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}], \"description\": \"Model hub and collaboration tools for developers building with open-source AI models\", \"revenue_value\": 70000000, \"revenue_date\": \"2023-12-01\", \"growth_rate_value\": 367, \"growth_rate_date\": \"2023-12-01\", \"valuation_value\": 4500000000, \"valuation_date\": \"2023-08-24\", \"funding_value\": 395200000, \"funding_date\": \"2023-12-01\", \"ceo_name\": \"Cl\u00e9ment Delangue\", \"website\": {\"key\": \"65bc4eab-6070-46bb-818c-bd0e36394b46\", \"url\": \"https://huggingface.co/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"limitless\": {\"name\": \"Limitless\", \"prismic_id\": \"Zj6vvBIAACkABqdz\", \"prismic_uid\": \"limitless\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1299.png?v=2be26f0c\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}, {\"id\": 141, \"name\": \"wearables\", \"slug\": \"wearables\"}], \"description\": \"Wearable and software tool for recording, transcribing, and searching workplace conversations\", \"revenue_value\": 2200000, \"revenue_date\": \"2024-04-01\", \"growth_rate_value\": 207, \"growth_rate_date\": \"2024-04-01\", \"valuation_value\": 350000000, \"valuation_date\": \"2024-04-01\", \"funding_value\": null, \"funding_date\": null, \"ceo_name\": \"Dan Siroker\", \"website\": {\"key\": \"6f830d75-33c8-4261-9ac5-95fc914aa0e2\", \"url\": \"https://www.limitless.ai/\", \"target\": \"\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"gong\": {\"name\": \"Gong\", \"prismic_id\": \"YtlKoxIAACoAuZUJ\", \"prismic_uid\": \"gong\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/413.png?v=c165d596\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 13, \"name\": \"b2b\", \"slug\": \"b2b\"}, {\"id\": 83, \"name\": \"sales\", \"slug\": \"sales\"}], \"description\": \"Software for recording, analyzing, and storing sales calls to support revenue teams\", \"revenue_value\": 298000000, \"revenue_date\": \"2024-11-10\", \"growth_rate_value\": 28, \"growth_rate_date\": \"2024-11-10\", \"valuation_value\": 4500000000, \"valuation_date\": \"2026-07-16\", \"funding_value\": 584000000, \"funding_date\": \"2026-07-16\", \"ceo_name\": \"Amit Bendov\", \"website\": {\"key\": \"078bbf47-f6a7-445c-a27d-921e16dd67c0\", \"url\": \"https://gong.io\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"jenni-ai\": {\"name\": \"Jenni AI\", \"prismic_id\": \"Ziw7LhIAADoiLqRg\", \"prismic_uid\": \"jenni-ai\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1285.png?v=c346d514\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}, {\"id\": 102, \"name\": \"generative AI\", \"slug\": \"generative-ai\"}], \"description\": \"Writing tool for students generating essays with AI suggestions and auto-citations\", \"revenue_value\": 5100000, \"revenue_date\": \"2024-04-26\", \"growth_rate_value\": 481, \"growth_rate_date\": \"2024-04-26\", \"valuation_value\": null, \"valuation_date\": null, \"funding_value\": 850000, \"funding_date\": \"2024-04-26\", \"ceo_name\": \"David Park\", \"website\": {\"key\": \"9128180a-b292-48c7-8b0a-ceca56f8fbed\", \"url\": \"https://jenni.ai/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}, \"photoroom\": {\"name\": \"Photoroom\", \"prismic_id\": \"ZfTIMREAACsA6VW5\", \"prismic_uid\": \"photoroom\", \"logo\": {\"url\": \"https://sacra-logos.s3.us-east-2.amazonaws.com/company_logos/1164.png?v=4ac4318b\", \"dimensions\": {\"width\": 400, \"height\": 400}}, \"categories\": [{\"id\": 13, \"name\": \"b2b\", \"slug\": \"b2b\"}, {\"id\": 87, \"name\": \"ai\", \"slug\": \"ai\"}], \"description\": \"Mobile image editor for ecommerce sellers to remove backgrounds and generate product photos\", \"revenue_value\": 94000000, \"revenue_date\": \"2024-12-15\", \"growth_rate_value\": 89, \"growth_rate_date\": \"2024-12-08\", \"valuation_value\": 500000000, \"valuation_date\": \"2024-03-15\", \"funding_value\": null, \"funding_date\": null, \"ceo_name\": \"Matthieu Rouif\", \"website\": {\"key\": \"1e59c744-0707-4c8a-a35c-73ff9789de15\", \"url\": \"https://www.photoroom.com/\", \"link_type\": \"Web\"}, \"is_company_followed\": false}}"
+    var COMPANY_SLUG_TO_COMPANY_META_MAP = JSON.parse(COMPANY_SLUG_TO_COMPANY_META)
+    var IS_AUTHENTICATED = "False"
+  </script>
+
+  <script id="paywall_data" type="application/json">{"can_view": false, "required_plan": "standard", "reason": "AUTH_FAILED_AND_MEMBERSHIP_REQUIRED", "views_used": null, "limit": 5, "user_type": "anonymous", "stripe_checkout_url": null, "show_paywall": true}</script>
+  <script id="slug" type="application/json">"together-ai-the-vercel-of-generative-ai"</script>
+  <script id="file_url" type="application/json">"/access/pro/"</script>
+  <script id="is_member" type="application/json">false</script>
+  
+  <input type="hidden" value="DNVDTZW1WK" id="algolia_app_id">
+  <input type="hidden" value="prod_DOCUMENTS" id="algolia_document_index">
+
+  <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"
+    integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js"
+    integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+  
+  <script src="/static/parcel/outline_navigation.js"></script>
+  <script src="/static/parcel/highlight.js"></script>
+  <script src="/static/parcel/bookmark.js"></script>
+  <script src="/static/parcel/popover.js"></script>
+  <script src="/static/parcel/embed_document_pdf_modal.js" defer></script>
+  <script src="/static/parcel/subscribe_cta.js"></script>
+  <script src="/static/parcel/universal_paywall.js" defer></script>
+
+  </div>
+
+
+  <div id="announcement-modal-container">
+    
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const container = document.getElementById('announcement-modal-container');
+      if (!container) return;
+
+      function closeAnnouncementModal() {
+        const overlay = container.querySelector('.modal-overlay');
+        if (overlay) {
+          overlay.remove();
+        }
+      }
+
+      container.addEventListener('click', function (event) {
+        if (event.target.closest('[data-announcement-close]')) {
+          closeAnnouncementModal();
+        }
+      });
+
+      container.addEventListener('submit', function (event) {
+        const form = event.target.closest('form[data-announcement-dismiss]');
+        if (!form) return;
+
+        event.preventDefault();
+        closeAnnouncementModal();
+
+        fetch(form.action, {
+          method: (form.method || 'POST').toUpperCase(),
+          body: new FormData(form),
+          credentials: 'same-origin',
+          headers: {
+            'X-Requested-With': 'XMLHttpRequest',
+          },
+        }).catch(function (error) {
+          console.error('Failed to dismiss announcement', error);
+          window.location.reload();
+        });
+      });
+    });
+  </script>
+
+  
+    
+
+<link rel="stylesheet" type="text/css" href="/static/css/footer.css" />
+
+<footer class="py-10 bg-gray-800 min-h-[275px] h-auto">
+    <div class="w-full max-w-6xl mx-auto flex flex-col-reverse md:flex-row px-10 md:px-0 text-sacra-white footer-new">
+        <div class="flex-1 flex flex-col items-center md:items-start text-center md:text-left">
+            <img src="/static/img/logo-inline-white-condensed.png" class="h-6" />
+            <h6 class="font-serif text-xl my-4">The private markets research you need to be a better investor.</h6>
+            <nav class="text-sm">
+                <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Service</a>
+            </nav>
+            <span class="text-xs mt-4 block">Sacra 2025 © All Rights Reserved</span>
+        </div>
+        <nav class="flex footer-new-nav md:mx-20 justify-between my-10 md:my-0">
+            <div class="text-base">
+                <ol>
+                    <li>
+                        <a href="/">
+                            Home
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/features">
+                            Features
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/customers/">
+                            Customers
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/pricing/">
+                            Pricing
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/about">
+                            About
+                        </a>
+                    </li>
+                </ol>
+                <ol>
+                    <li>
+                        <a href="/signup">
+                            Sign Up
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/login">
+                            Login
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://support.sacra.com/">
+                            Support
+                        </a>
+                    </li>
+                </ol>
+            </div>
+            <div>
+                <ol>
+                    <li>
+                        <a href="/explore/companies">
+                            Companies
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/explore/categories">
+                            Categories
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/explore/reports">
+                            Reports
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/explore/q-a/">
+                            Q&A
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/search/">
+                            Search
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://docs.sacra.com/">
+                            Docs
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/integrations/">
+                            Integrations
+                        </a>
+                    </li>
+                </ol>
+            </div>
+        </nav>
+        <div class="flex-1">
+            <p class="mb-4">
+                Join the Sacra community and get private markets research and data straight to your inbox.
+            </p>
+            
+
+  <link rel="stylesheet" type="text/css" href="/static/css/subscribe-form.css" />
+
+
+<form action="/" method="post" class="subscribe-form-new">
+  <input type="hidden" name="csrfmiddlewaretoken" value="r2QI0a2gFL4ryFeaoIN7kP92weUhCULDXz0g9owsvKe5LwRurYB0kkPvrZ9qjkd1">
+  <div>
+    <input type="email" name="your_email" placeholder="Sign up for our free newsletter" maxlength="320" required id="id_your_email">
+    
+      <input type="hidden" name="document_slug" id="id_document_slug">
+    
+</div>
+  
+  <button type="submit" name="Get Access">Join</button>
+</form>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Select all forms with the class
+  const subscribeForms = document.querySelectorAll('.subscribe-form-new');
+
+  // Iterate over each form
+  subscribeForms.forEach(form => {
+    // Find the button within this specific form
+    const submitButton = form.querySelector('button[type="submit"]');
+    const originalButtonHTML = submitButton.innerHTML; // Store original HTML content
+
+    form.addEventListener('submit', function(event) {
+      // 'this' refers to the form that was submitted
+      const currentButton = this.querySelector('button[type="submit"]');
+
+      // Disable the button
+      currentButton.disabled = true;
+
+      // Add spinner and change text using innerHTML
+      currentButton.innerHTML = '<span class="spinner"></span>'; // Add text for visibility
+    });
+  });
+});
+</script>
+
+
+        </div>
+    </div>
+</footer>
+
+  
+  <input type="hidden" value="DNVDTZW1WK" id="algolia_app_id" />
+  <input type="hidden" value="prod_EXPLORE" id="algolia_explore_index" />
+  <input type="hidden" value="prod_ALPHABETICAL_EXPLORE" id="algolia_alphabetical_explore_index" />
+  <input type="hidden" value="prod_EXPLORE_AUTOCOMPLETE" id="algolia_autocomplete_index" />
+  <script src="/static/parcel/nav_search.js"></script>
+</body>
+
+</html>
