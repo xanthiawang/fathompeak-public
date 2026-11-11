@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base href="../../">
+<title>沐仞 · 一起向上</title><link rel="stylesheet" href="fonts/fonts.css">
+<style>
+:root{--sans:"DM Sans","PingFang SC",sans-serif;--serif:"Fraunces","Songti SC",serif;--r24:16px}
+*{box-sizing:border-box}body{margin:0;background:#F3F1EA;color:#212021;font-family:var(--sans)}
+.ac{display:grid;grid-template-columns:minmax(0,min(48%,calc((100svh - 24px)*.666667))) minmax(0,1fr);min-height:100svh;padding:12px;max-width:1680px;margin:auto}
+.ac-art{position:relative;isolation:isolate;align-self:start;aspect-ratio:2/3;border-radius:var(--r24);overflow:hidden;background:#DCE7F7;color:#212021}
+.ac-engraving{display:block;width:100%;height:auto;aspect-ratio:2/3;user-select:none}
+.ac-engraving-effects{position:absolute;inset:0;pointer-events:none}
+.ac-wind{position:absolute;inset:0;width:100%;height:100%;overflow:hidden}
+.ac-wind-field{opacity:.36}
+.ac-ribbon,.ac-spark,.ac-ink-trace,.ac-tether{fill:none;stroke-linecap:round;stroke-linejoin:round}
+.ac-ribbon{stroke:var(--flow-color);stroke-width:1.7;stroke-dasharray:280 140}
+.ac-spark{stroke:#2F63B8;stroke-width:3.5;stroke-dasharray:320 1280;opacity:0}
+.ac-ink-trace{stroke:var(--flow-color);stroke-width:2.2}
+.ac-tether{stroke:#4E3F66;stroke-width:2}
+.ac-ink-light{position:absolute;left:29%;top:33%;width:74%;height:48%;opacity:0;background:radial-gradient(ellipse at 58% 47%,rgba(82,132,215,.24),rgba(232,212,204,.12) 32%,transparent 67%);mix-blend-mode:multiply;pointer-events:none}
+.ac-touch{position:absolute;left:43%;top:47%;width:34%;height:29%;border:0;background:transparent;border-radius:48%;color:#3D314F;cursor:grab;padding:0;touch-action:none;-webkit-user-select:none;user-select:none}
+.ac-touch span{position:absolute;left:95%;top:55%;width:76px;text-align:left;font:500 12px/1.55 var(--sans);opacity:0;transform:translateY(4px);transition:opacity .25s,transform .3s;pointer-events:none}
+.ac-touch:hover span,.ac-touch:focus-visible span,.ac-art[data-gripping="true"] .ac-touch span{opacity:1;transform:translateY(0)}
+.ac-art[data-gripping="true"],.ac-art[data-gripping="true"] .ac-touch{cursor:grabbing}
+.ac-touch:focus-visible{outline:1px dashed #4E3F66;outline-offset:5px}
+.ac-art[data-input="pointer"] .ac-touch:focus{outline:none}
+.ac-art [hidden]{display:none!important}
+@media(prefers-reduced-motion:reduce){.ac-engraving-effects,.ac-touch{display:none!important}}
+
+.review{min-height:100svh;display:grid;grid-template-columns:minmax(0,auto) 250px;gap:64px;align-items:center;justify-content:center;padding:32px}
+.review .ac-art{width:min(54vw,calc((100svh - 64px)*.666667));border-radius:8px}
+.review aside{max-width:250px}.brand{font:400 24px var(--serif);margin:0 0 48px}
+h1{font:400 36px/1.25 var(--serif);margin:0 0 20px}
+p{font-size:14px;line-height:1.8;color:#625B6B;margin:0 0 24px}
+ul{list-style:none;padding:0;margin:0 0 36px;border-top:1px solid #D7D2D6}
+li{padding:14px 0;border-bottom:1px solid #D7D2D6;font-size:13px;line-height:1.6}
+li span{display:block;color:#706778;font-size:12px}
+a{color:inherit;text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:4px;font-size:13px}
+a:focus-visible{outline:2px solid #4E3F66;outline-offset:5px}
+.links{display:flex;gap:24px;flex-wrap:wrap}.foot{font-size:13px;margin-top:32px;color:#625B6B}
+@media(max-width:700px){.review{display:flex;flex-direction:column;gap:28px;padding:16px;align-items:center}.review .ac-art{width:min(100%,480px)}.review aside{max-width:480px;width:100%;padding:8px}.brand{margin-bottom:28px}h1{font-size:30px}}
+</style></head>
+<body><main class="review">
+    <div class="ac-art" data-engraving data-art-preview data-running="false">
+      <img class="ac-engraving" src="art/account/engraved-ascent_2026-10-14.webp" width="1024" height="1536" decoding="async" alt="沐仞科技 FathomPeak Tech。栉风沐雨，登高万仞。人手与机械手相握，身后是蓝紫色山峦与上行的风线。" draggable="false">
+      <div class="ac-engraving-effects" aria-hidden="true"></div>
+      <button class="ac-touch" type="button" aria-label="一起向上：触发登高线条" hidden><span aria-hidden="true">一起向上 ↗</span></button>
+
+    </div>
+
+<aside><div class="brand">Fathom<i>Peak</i> Tech</div><h1>借一阵风，<br>一起向上。</h1><p>试着按住握手，往上拉。<br>停一会儿，再松开。</p>
+<ul><li>划过画面<span>留下短暂的蓝紫色墨迹，拨动风线</span></li><li>按住握手 · 向上拖动<span>线条绷紧蓄力，松手后弹开成风</span></li><li>轻触也有回应<span>点一下吹起微风；拖得越远，风势越强</span></li></ul>
+<div class="links"><a href="#login">看登录页 ↗</a><a href="design/login-engraved-motion_2026-10-14/selected-original.png" target="_blank" rel="noopener">查看原图 ↗</a></div>
+<p class="foot">空格可蓄力，回车可轻触。<br>移开鼠标后，风线自然平静。</p></aside>
+</main><script type="module" src="art/account/engraved-motion_2026-10-14.js?v=20261014-pointer"></script></body></html>

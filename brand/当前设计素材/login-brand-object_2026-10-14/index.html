@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<base href="../../"><title>沐仞 · 旋转品牌视觉</title>
+<link rel="stylesheet" href="fonts/fonts.css">
+<style>
+:root{--serif:"Fraunces","FP Brand Serif",serif;--sans:"DM Sans",sans-serif;--r24:24px}
+*{box-sizing:border-box}body{margin:0;background:#3D314F}
+.ac{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);min-height:100svh;padding:12px}
+.ac-art{position:relative;isolation:isolate;border-radius:var(--r24);overflow:hidden;background:#3D314F}
+@font-face{font-family:"FP Brand Serif";src:url('fonts/noto-serif-sc-brand-motto.ttf') format('truetype');font-weight:400;font-display:swap}
+/* The lettering is part of a rotating, textured 3D brand object. */
+.ac-scene{position:absolute;inset:0;pointer-events:none}
+.ac-atmosphere{position:absolute;inset:-3%;background:url('art/account/ascent-print_2026-10-14.webp') center 35%/cover;opacity:.72}
+.ac-scene:after{content:"";position:absolute;inset:48% 0 0;background:linear-gradient(transparent,rgba(33,32,33,.35) 65%,rgba(33,32,33,.72))}
+.ac-object{position:absolute;z-index:1;inset:14% 3% auto;height:55%;min-height:250px}
+.ac-object canvas{position:absolute;inset:0;display:block;width:100%;height:100%;opacity:0;cursor:grab;touch-action:pan-y;transition:opacity .35s}
+.ac-object canvas:active{cursor:grabbing}
+.ac-object canvas:focus-visible{outline:1px solid #DCE7F7;outline-offset:-10px;border-radius:20px}
+.ac-object.is-ready canvas{opacity:1}
+.ac-brand-fallback{position:absolute;left:14%;right:14%;top:15%;bottom:15%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;background:#4E3F66 url('art/account/brand-mineral_2026-10-14.webp') center/cover;color:#F3F1EA;clip-path:polygon(4% 18%,15% 8%,32% 4%,43% 9%,59% 0,75% 8%,92% 13%,100% 44%,96% 81%,80% 97%,52% 93%,31% 100%,7% 85%,0 48%);transform:rotate(-4deg)}
+.ac-brand-fallback strong{font:400 clamp(28px,3vw,44px)/1.3 "FP Brand Serif",var(--serif)}
+.ac-brand-fallback span{font:400 clamp(18px,2vw,29px)/1.2 "Fraunces",var(--serif)}
+.ac-object.is-ready .ac-brand-fallback{visibility:hidden}
+.ac-drag-hint{position:absolute;left:0;right:0;bottom:-9px;text-align:center;font:400 11px/1.4 var(--sans);letter-spacing:.08em;color:rgba(220,231,247,.62);opacity:0;pointer-events:none}
+.ac-object.is-ready .ac-drag-hint{opacity:1}
+.ac-art-in{position:absolute;z-index:1;left:44px;right:44px;bottom:48px;color:#fff}
+.ac-art-in b{display:block;font-size:clamp(30px,3.2vw,44px);line-height:1.08;max-width:12em}
+.ac-art-in p{margin:14px 0 0;color:rgba(255,255,255,.75);max-width:26em}
+.ac-motion{position:absolute;z-index:2;right:20px;bottom:18px;display:grid;place-items:center;width:32px;height:32px;padding:0;border:1px solid rgba(220,231,247,.3);border-radius:50%;color:#DCE7F7;background:rgba(61,49,79,.3);cursor:pointer;transition:background .2s}
+.ac-motion:hover{background:rgba(78,63,102,.8)}
+.ac-motion:focus-visible{outline:2px solid #DCE7F7;outline-offset:4px}
+.ac-motion svg{width:12px;height:12px;fill:currentColor}
+.ac-motion .ac-play,.ac-motion[aria-pressed="true"] .ac-pause{display:none}
+.ac-motion[aria-pressed="true"] .ac-play{display:block}
+.ac-motion[hidden]{display:none}
+@media(prefers-reduced-motion:reduce){.ac-object canvas{transition:none}.ac-motion{display:none}}
+
+.ac-art{display:block;min-height:100svh;border-radius:0}
+.ac-art-in{display:none}
+.ac-object{inset:10% 3% auto;height:74%;min-height:0}
+.ac-motion{right:24px;bottom:24px;width:40px;height:40px}
+.ac-drag-hint{bottom:0;font-size:12px}
+</style></head><body><section class="on" data-route="login"><div class="ac-art" data-running="false">
+      <div class="ac-scene" aria-hidden="true"><div class="ac-atmosphere"></div></div>
+      <div class="ac-object">
+        <div class="ac-brand-fallback" aria-hidden="true"><strong>沐仞科技</strong><span>FathomPeak Tech</span></div>
+        <canvas role="img" aria-label="沐仞品牌岩片：拖动或使用左右方向键旋转，空格暂停。正面为沐仞科技 FathomPeak Tech，背面为栉风沐雨，登高万仞。" tabindex="0"></canvas>
+        <span class="ac-drag-hint" aria-hidden="true">拖动旋转</span>
+      </div>
+      <div class="ac-art-in"><b class="display">一个账户，管理全部 API Key</b><p>用量、账单和每笔订单的能源记录，都在控制台里。</p></div>
+      <button class="ac-motion" type="button" aria-label="暂停动画" title="暂停动画" aria-pressed="false" hidden><svg viewBox="0 0 12 12" aria-hidden="true"><path class="ac-pause" d="M2 1h3v10H2zm5 0h3v10H7z"/><path class="ac-play" d="M3 1l8 5-8 5z"/></svg></button>
+    </div></section><script type="module" id="account-art-motion">
+/* Local 3D branding: exact website fonts are printed into the mineral material. */
+(function(){
+  const cards=[...document.querySelectorAll('.ac-art')];
+  const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+  const wide=matchMedia('(min-width: 0px)');
+  const states=new Map();
+  let paused=false, resources;
+  try{paused=sessionStorage.getItem('fp-art-paused')==='1'}catch(error){}
+  function loadResources(){
+    if(!resources)resources=Promise.all([
+      import('./vendor/three-r180/three.module.min.js'),
+      new Promise((resolve,reject)=>{const image=new Image();image.onload=()=>resolve(image);image.onerror=()=>reject(new Error('Mineral texture failed to load'));image.src='art/account/brand-mineral_2026-10-14.webp'}),
+      document.fonts.load('400 160px "FP Brand Serif"','沐仞科技栉风雨登高万'),
+      document.fonts.load('400 80px "Fraunces"','FathomPeak Tech')
+    ]);
+    return resources;
+  }
+  function togglePause(){
+    paused=!paused;
+    try{sessionStorage.setItem('fp-art-paused',paused?'1':'0')}catch(error){}
+    sync();
+  }
+  function active(s){return wide.matches&&s.visible&&!document.hidden&&s.card.closest('[data-route]').classList.contains('on')}
+  function label(s){
+    const en=document.documentElement.lang==='en';
+    const text=en?(paused?'Play animation':'Pause animation'):(paused?'播放动画':'暂停动画');
+    s.button['__zh_aria-label']=paused?'播放动画':'暂停动画';
+    s.button.__zh_title=paused?'播放动画':'暂停动画';
+    s.button.setAttribute('aria-label',text);s.button.title=text;
+    s.button.setAttribute('aria-pressed',String(paused));
+    s.button.hidden=!s.ready||reduced.matches;
+    s.hint.textContent=en?'Drag to rotate':'拖动旋转';
+    const description=en?'FathomPeak brand object. Drag or use left and right arrow keys to rotate; space pauses. Front: 沐仞科技, FathomPeak Tech. Back: 栉风沐雨，登高万仞。':'沐仞品牌岩片：拖动或使用左右方向键旋转，空格暂停。正面为沐仞科技 FathomPeak Tech，背面为栉风沐雨，登高万仞。';
+    s.canvas.setAttribute('aria-label',description);
+    s.canvas.tabIndex=s.ready?0:-1;
+  }
+  function sync(){
+    states.forEach(s=>{
+      const visible=active(s);
+      if(visible&&!s.started)init(s);
+      s.running=visible&&s.ready&&!paused&&!reduced.matches;
+      s.card.dataset.running=String(s.running);
+      if(s.running&&!s.frame){s.last=performance.now();s.frame=requestAnimationFrame(t=>tick(s,t))}
+      if(!s.running&&s.frame){cancelAnimationFrame(s.frame);s.frame=0}
+      if(s.ready&&visible)draw(s);
+      label(s);
+    });
+  }
+  function draw(s){
+    s.model.rotation.set(-.08,s.angle,-.065);
+    s.renderer.render(s.scene,s.camera);
+  }
+  function tick(s,time){
+    s.frame=0;
+    if(!s.running)return;
+    const delta=Math.min((time-s.last)/1000,.05);s.last=time;
+    if(!s.drag&&time>s.resumeAt)s.angle+=delta*(.25+.65*Math.sin(s.angle)**2);
+    draw(s);
+    s.frame=requestAnimationFrame(t=>tick(s,t));
+  }
+  async function init(s){
+    s.started=true;
+    try{
+      const [T,image]=await loadResources();
+      const renderer=new T.WebGLRenderer({canvas:s.canvas,alpha:true,antialias:true,powerPreference:'low-power'});
+      renderer.setPixelRatio(Math.min(devicePixelRatio,1.5));
+      renderer.setClearColor(0x000000,0);
+      renderer.outputColorSpace=T.SRGBColorSpace;
+      renderer.toneMapping=T.ACESFilmicToneMapping;
+      renderer.toneMappingExposure=1.05;
+      const scene=new T.Scene();
+      const camera=new T.OrthographicCamera(-3,3,1.95,-1.95,.1,30);camera.position.set(0,0,8);
+      scene.add(new T.HemisphereLight(0xDCE7F7,0x3D314F,2.4));
+      const key=new T.DirectionalLight(0xFFF3EA,3);key.position.set(-3,5,6);scene.add(key);
+      const fill=new T.DirectionalLight(0xA9C3E8,2);fill.position.set(4,1,-5);scene.add(fill);
+      const model=new T.Group();scene.add(model);
+      const points=[[-1.72,-.94],[-1.88,-.55],[-1.92,-.10],[-1.78,.30],[-1.74,.64],[-1.47,.96],[-1.12,1.02],[-.81,1.17],[-.40,1.07],[-.04,1.27],[.35,1.33],[.67,1.14],[1.06,1.08],[1.45,.94],[1.71,.64],[1.89,.34],[1.81,-.05],[1.91,-.35],[1.76,-.66],[1.56,-.97],[1.09,-1.09],[.73,-1.03],[.29,-1.13],[-.15,-1.05],[-.61,-1.14],[-1.16,-1.06]];
+      const shape=new T.Shape();shape.moveTo(...points[0]);points.slice(1).forEach(p=>shape.lineTo(...p));shape.closePath();
+      const mineral=new T.Texture(image);mineral.colorSpace=T.SRGBColorSpace;mineral.wrapS=mineral.wrapT=T.RepeatWrapping;mineral.needsUpdate=true;
+      const relief=new T.Texture(image);relief.wrapS=relief.wrapT=T.RepeatWrapping;relief.needsUpdate=true;
+      const material=(map)=>new T.MeshStandardMaterial({map,bumpMap:relief,bumpScale:.035,roughness:.98,metalness:0});
+      const bodyGeometry=new T.ExtrudeGeometry(shape,{depth:.36,steps:1,bevelEnabled:true,bevelThickness:.075,bevelSize:.08,bevelSegments:3,curveSegments:8});
+      bodyGeometry.translate(0,0,-.18);
+      model.add(new T.Mesh(bodyGeometry,material(mineral)));
+      function printedFace(back){
+        const plate=document.createElement('canvas');plate.width=1400;plate.height=1000;
+        const ctx=plate.getContext('2d');ctx.drawImage(image,0,0,1400,1000);
+        ctx.textAlign='center';ctx.fillStyle='#F3F1EA';
+        if(back){
+          ctx.font='400 142px "FP Brand Serif"';
+          ctx.fillText('栉风沐雨',700,410);ctx.fillText('登高万仞',700,610);
+          ctx.font='400 30px "Fraunces"';ctx.fillText('FathomPeak Tech',700,744);
+        }else{
+          ctx.save();ctx.translate(650,185);ctx.scale(4.2,4.2);
+          ctx.fill(new Path2D('M3 20 10 6l4 7 3-4 4 11z'));ctx.restore();
+          ctx.font='400 162px "FP Brand Serif"';ctx.fillText('沐仞科技',700,470);
+          ctx.font='400 88px "Fraunces"';ctx.fillText('FathomPeak Tech',700,617);
+        }
+        const map=new T.CanvasTexture(plate);map.colorSpace=T.SRGBColorSpace;
+        map.anisotropy=Math.min(4,renderer.capabilities.getMaxAnisotropy());
+        const geo=new T.ShapeGeometry(shape),pos=geo.attributes.position,uv=geo.attributes.uv;
+        for(let i=0;i<pos.count;i++){const u=(pos.getX(i)+2.1)/4.2;uv.setXY(i,back?1-u:u,(pos.getY(i)+1.5)/3)}
+        const mat=material(map);mat.side=back?T.BackSide:T.FrontSide;
+        const mesh=new T.Mesh(geo,mat);mesh.position.z=back?-.256:.256;model.add(mesh);
+      }
+      printedFace(false);printedFace(true);
+      Object.assign(s,{renderer,scene,camera,model,ready:true});
+      function resize(){
+        const box=s.object.getBoundingClientRect();if(box.width<1||box.height<1)return;
+        const ratio=box.width/box.height,halfHeight=Math.max(1.95,2.5/ratio);
+        s.camera.left=-halfHeight*ratio;s.camera.right=halfHeight*ratio;s.camera.top=halfHeight;s.camera.bottom=-halfHeight;
+        s.camera.updateProjectionMatrix();s.renderer.setSize(box.width,box.height,false);draw(s);
+      }
+      s.resize=new ResizeObserver(resize);s.resize.observe(s.object);resize();
+      s.object.classList.add('is-ready');sync();
+      s.canvas.addEventListener('webglcontextlost',event=>{event.preventDefault();s.ready=false;s.object.classList.remove('is-ready');sync()});
+      s.canvas.addEventListener('webglcontextrestored',()=>{s.ready=true;s.object.classList.add('is-ready');resize();sync()});
+    }catch(error){
+      s.ready=false;s.object.classList.remove('is-ready');label(s);
+      console.warn('Brand object unavailable; showing the static wordmark.',error);
+    }
+  }
+  const observer=new IntersectionObserver(entries=>{entries.forEach(entry=>{states.get(entry.target).visible=entry.isIntersecting});sync()});
+  cards.forEach(card=>{
+    const object=card.querySelector('.ac-object'),canvas=object.querySelector('canvas');
+    const s={card,object,canvas,button:card.querySelector('.ac-motion'),hint:card.querySelector('.ac-drag-hint'),ready:false,started:false,visible:false,frame:0,angle:-.18,resumeAt:0,drag:null};
+    states.set(card,s);observer.observe(card);s.button.addEventListener('click',togglePause);
+    canvas.addEventListener('pointerdown',event=>{
+      if(!s.ready||event.button!==0)return;
+      s.drag={x:event.clientX,angle:s.angle};canvas.setPointerCapture(event.pointerId);
+    });
+    canvas.addEventListener('pointermove',event=>{
+      if(!s.drag)return;
+      s.angle=s.drag.angle+(event.clientX-s.drag.x)*.012;draw(s);
+    });
+    function release(){s.drag=null;s.resumeAt=performance.now()+4000}
+    canvas.addEventListener('pointerup',release);canvas.addEventListener('pointercancel',release);canvas.addEventListener('lostpointercapture',release);
+    canvas.addEventListener('keydown',event=>{
+      if(!s.ready)return;
+      if(event.key==='ArrowLeft'||event.key==='ArrowRight'){event.preventDefault();s.angle+=event.key==='ArrowLeft'?-.3:.3;s.resumeAt=performance.now()+4000;draw(s)}
+      if(event.code==='Space'){event.preventDefault();togglePause()}
+      if(event.key==='Home'){event.preventDefault();s.angle=-.18;s.resumeAt=performance.now()+4000;draw(s)}
+    });
+  });
+  [reduced,wide].forEach(query=>query.addEventListener('change',sync));
+  document.addEventListener('visibilitychange',sync);window.addEventListener('hashchange',sync);
+  new MutationObserver(sync).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});
+  sync();
+})();
+</script></body></html>

@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-12",
+  "sources": [
+    "https://www.together.ai/",
+    "https://www.apexialabs.in/work/wurldtech",
+    "https://www.crusoe.ai/",
+    "https://www.emeraldai.co/"
+  ],
+  "method": "网页正文读取及浏览器视觉检查；Wurldtech 4 张参考图从已查看网页素材保存",
+  "reference_use": "内部研究参考；不得当作自有设计资产发布",
+  "observations": [
+    {
+      "id": "A",
+      "name": "空间连接",
+      "ref": "Together AI",
+      "url": "https://www.together.ai/",
+      "learn": "借鉴首页的大留白、无衬线标题和空间几何关系。对象、构图和标识重新设计。"
+    },
+    {
+      "id": "B",
+      "name": "分层协同",
+      "ref": "Wurldtech × Apexia Labs",
+      "url": "https://www.apexialabs.in/work/wurldtech",
+      "learn": "借鉴深色基底、单一强调色、模块化页面，以及设备线稿和分层插画的系统。设备与符号为新概念。"
+    },
+    {
+      "id": "C",
+      "name": "模块算网",
+      "ref": "Crusoe",
+      "url": "https://www.crusoe.ai/",
+      "learn": "借鉴工业基础设施的清晰表达、模块系统和克制的高对比强调色。此处使用抽象雕塑，不表示现有设备。"
+    }
+  ]
+}

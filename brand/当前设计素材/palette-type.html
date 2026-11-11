@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>沐仞品牌色卡与字体</title>
+</head>
+<body>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Noto+Serif+SC:wght@400;500;700;900&family=DM+Sans:opsz,wght@9..40,300..700&family=Noto+Sans+SC:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap">
+<style>
+:root{--paper:#F8F8F8;--paper-2:#F3F1EA;--card:#FFFFFF;--ink:#000000;--ink-85:rgba(0,0,0,.85);--ink-70:rgba(0,0,0,.7);--ink-50:rgba(0,0,0,.5);--ink-30:rgba(0,0,0,.3);--line:rgba(0,0,0,.08);--line-2:rgba(0,0,0,.05);
+--accent:#2F63B8;--accent-fill:#5284D7;--accent-soft:#DCE7F7;--accent-tint:#EEF3FB;--peak:#4E3F66;--peak-soft:#EAE4F0;
+--field-1:#A9C3E8;--field-2:#E3ECF8;--field-3:#EBCFC4;--field-4:#D6CBDD;--hz-1:#5284D7;--hz-2:#B7A8A3;--hz-2b:#3D314F;--hz-3:#212021;--hz-haze:#E8D4CC;
+--serif:"Fraunces","Noto Serif SC","Songti SC",serif;--sans:"DM Sans","Noto Sans SC","PingFang SC",system-ui,sans-serif;--mono:"DM Mono","SF Mono",ui-monospace,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#F8F8F8}} :root[data-theme="dark"]{--paper:#F8F8F8}
+*{box-sizing:border-box} html,body{margin:0;background:var(--paper);color:var(--ink);font:400 16px/1.6 var(--sans)}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px 90px}
+h1{font-family:var(--serif);font-weight:400;font-size:clamp(34px,5vw,56px);letter-spacing:-.03em;line-height:1.08;margin:80px 0 10px;font-variation-settings:"opsz" 144}
+h2{font-family:var(--serif);font-weight:400;font-size:30px;letter-spacing:-.02em;margin:64px 0 10px}
+h3{font-family:var(--serif);font-weight:500;font-size:19px;margin:0 0 6px;letter-spacing:-.01em}
+p{margin:6px 0;color:var(--ink-70)} .lead{font-size:18px;color:var(--ink);max-width:64ch}
+.k{font:400 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-50)}
+.mono{font-family:var(--mono)}
+.hero{position:relative;height:420px;border-radius:16px;overflow:hidden;background:var(--hz-3);margin-top:22px}
+.hero .field{position:absolute;inset:0;background:radial-gradient(circle at 50% calc(130px + 60vw),var(--hz-3) 0,var(--hz-3) calc(60vw - 1px),var(--hz-2b) calc(60vw + 16px),#7A6071 calc(60vw + 34px),#A88E92 calc(60vw + 52px),var(--hz-2) calc(60vw + 66px),#D9C0B9 calc(60vw + 84px),#E9DCD8 calc(60vw + 100px),#CFD9E4 calc(60vw + 118px),#9DBBE4 calc(60vw + 142px),#6F9CE0 calc(60vw + 175px),var(--hz-1) calc(60vw + 230px),#4A7CD3 calc(60vw + 700px))}
+.hero .t{position:absolute;left:24px;right:24px;top:190px;text-align:center;color:#fff;font-family:var(--serif);font-size:30px;letter-spacing:-.02em}
+.hero .s{position:absolute;left:24px;right:24px;top:240px;text-align:center;color:#fff;font-family:var(--serif);font-size:18px}
+.hero .curve{position:absolute;left:-10%;width:120%;bottom:0;height:90px;background:var(--paper);border-radius:50% 50% 0 0/100% 100% 0 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;margin-top:14px}
+.sw{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+.sw .c{height:88px} .sw .bd{padding:10px 12px 12px} .sw .n{font-weight:500;font-size:14px} .sw .h{font:400 12px var(--mono);color:var(--ink-70)} .sw .u{font-size:12px;color:var(--ink-50);margin-top:4px}
+table{border-collapse:collapse;width:100%;margin:14px 0;font-size:14px;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top} th{font-weight:500;background:var(--paper-2);font-size:12.5px}
+.ok{color:#1F6E3A;font-family:var(--mono)} .warn{color:#8A4B00;font-family:var(--mono)}
+.ramp{height:56px;border-radius:12px;margin-top:10px;border:1px solid var(--line)}
+.type{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px 24px;margin-top:14px}
+.type .row{display:grid;grid-template-columns:230px 1fr;gap:18px;align-items:baseline;padding:14px 0;border-bottom:1px solid var(--line-2)} .type .row:last-child{border-bottom:0}
+.type .spec{font:400 12px/1.6 var(--mono);color:var(--ink-50)}
+.d1{font-family:var(--serif);font-size:56px;letter-spacing:-.03em;line-height:1.08;font-variation-settings:"opsz" 144}
+.d2{font-family:var(--serif);font-size:38px;letter-spacing:-.025em;line-height:1.15}
+.d3{font-family:var(--serif);font-size:28px;letter-spacing:-.02em}
+.d4{font-family:var(--serif);font-size:20px;font-weight:500;letter-spacing:-.01em}
+.b1{font-size:17px;line-height:1.6} .b2{font-size:15px;line-height:1.55} .b3{font-size:13px;color:var(--ink-70)}
+.lab{font:400 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-50)}
+.num{font:400 15px var(--mono)}
+.btn{display:inline-flex;align-items:center;height:45px;padding:0 32px;border-radius:999px;background:#000;color:#fff;font:500 16px var(--sans);margin-right:10px} .btn.lg{height:56px;font-size:18px;padding:0 40px} .btn.gray{background:rgba(235,235,235,.7);color:#000}
+.pill{display:inline-flex;align-items:center;gap:28px;height:52px;padding:0 24px 0 6px;background:#F8F8F8;border:1px solid rgba(0,0,0,.08);border-radius:16px;box-shadow:0 2px 8px rgba(0,0,0,.06),0 0 2px rgba(0,0,0,.04);font-size:16px} .pill i{width:40px;height:40px;border-radius:12px;display:inline-block;background:#000;mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M3 20 10 6l4 7 3-4 4 11z'/></svg>") center/22px no-repeat;-webkit-mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M3 20 10 6l4 7 3-4 4 11z'/></svg>") center/22px no-repeat}
+pre{background:#141416;color:#E8E6DF;border-radius:12px;padding:16px 18px;font:400 12.5px/1.65 var(--mono);overflow-x:auto}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px} @media (max-width:800px){.two{grid-template-columns:1fr} .type .row{grid-template-columns:1fr}}
+.note{font-size:13px;color:var(--ink-50)}
+</style>
+<div class="wrap">
+<span class="k">沐仞科技 · 品牌视觉规范 · 2026-10-12 定稿</span>
+<h1>色卡与字体</h1>
+<p class="lead">定稿方案「晨昏蓝」：白色是最大底色，一个蓝色强调色，首屏用一道从天空到地平线的弧形渐变做情绪。标题用衬线，正文用无衬线，数字和标签用等宽。</p>
+
+<div class="hero"><div class="field"></div><div class="t">主流模型 × 异构算力，一站式大模型 API 平台。</div><div class="s">低成本、高可用、全兼容。</div><div class="curve"></div></div>
+<p class="note">首屏色场：径向渐变，圆心在首屏下方约一个屏宽处，圆内炭黑，沿圆的外缘依次是暮紫、藕色、霞粉、近白、淡蓝，最外天空蓝。标题反白落在黑色区，白色弧线接回纸面。</p>
+
+<h2>色卡</h2>
+<p>十五个色值，分四组。每一组写明用在哪里；对比度按 WCAG 2.1 计算，正文要求 4.5，大字和图形要求 3。</p>
+
+<span class="k">基底</span>
+<div class="grid">
+  <div class="sw"><div class="c" style="background:#F8F8F8;border-bottom:1px solid var(--line)"></div><div class="bd"><div class="n">纸白</div><div class="h">#F8F8F8</div><div class="u">页面底色、导航胶囊</div></div></div>
+  <div class="sw"><div class="c" style="background:#F3F1EA"></div><div class="bd"><div class="n">暖纸</div><div class="h">#F3F1EA</div><div class="u">表头、说明块底</div></div></div>
+  <div class="sw"><div class="c" style="background:#FFFFFF;border-bottom:1px solid var(--line)"></div><div class="bd"><div class="n">卡白</div><div class="h">#FFFFFF</div><div class="u">卡片、表格、表单</div></div></div>
+  <div class="sw"><div class="c" style="background:#000"></div><div class="bd"><div class="n">墨</div><div class="h">#000000 · 85% · 70% · 50% · 30%</div><div class="u">正文与层级；线条用 8% 与 5%</div></div></div>
+</div>
+
+<span class="k" style="display:block;margin-top:22px">强调与状态</span>
+<div class="grid">
+  <div class="sw"><div class="c" style="background:#2F63B8"></div><div class="bd"><div class="n">晨蓝 · 文字</div><div class="h">#2F63B8</div><div class="u">链接、强调文字、曲线；白底对比 5.84</div></div></div>
+  <div class="sw"><div class="c" style="background:#5284D7"></div><div class="bd"><div class="n">晨蓝 · 填充</div><div class="h">#5284D7</div><div class="u">图形填充、天空；白字对比 3.72，只做填充不做小字</div></div></div>
+  <div class="sw"><div class="c" style="background:#DCE7F7"></div><div class="bd"><div class="n">晨蓝 · 软</div><div class="h">#DCE7F7</div><div class="u">窗口高亮、图表区域</div></div></div>
+  <div class="sw"><div class="c" style="background:#EEF3FB"></div><div class="bd"><div class="n">晨蓝 · 淡</div><div class="h">#EEF3FB</div><div class="u">卡片封面底、提示底</div></div></div>
+  <div class="sw"><div class="c" style="background:#4E3F66"></div><div class="bd"><div class="n">暮紫 · 峰时</div><div class="h">#4E3F66</div><div class="u">平价窗口、减排等"峰"状态；软底对比 7.57</div></div></div>
+  <div class="sw"><div class="c" style="background:#EAE4F0"></div><div class="bd"><div class="n">暮紫 · 软</div><div class="h">#EAE4F0</div><div class="u">窗口标签底</div></div></div>
+</div>
+
+<span class="k" style="display:block;margin-top:22px">首屏地平线</span>
+<div class="grid">
+  <div class="sw"><div class="c" style="background:#5284D7"></div><div class="bd"><div class="n">天空</div><div class="h">#5284D7</div><div class="u">弧线以上</div></div></div>
+  <div class="sw"><div class="c" style="background:#B7A8A3"></div><div class="bd"><div class="n">霞</div><div class="h">#B7A8A3</div><div class="u">弧线外缘的霞光带</div></div></div>
+  <div class="sw"><div class="c" style="background:#3D314F"></div><div class="bd"><div class="n">暮</div><div class="h">#3D314F</div><div class="u">霞与黑之间</div></div></div>
+  <div class="sw"><div class="c" style="background:#212021"></div><div class="bd"><div class="n">炭</div><div class="h">#212021</div><div class="u">弧线以下；白字对比 16.2</div></div></div>
+  <div class="sw"><div class="c" style="background:#E8D4CC"></div><div class="bd"><div class="n">霞光</div><div class="h">#E8D4CC</div><div class="u">弧上的光晕（模糊 36px，透明度 .9）</div></div></div>
+</div>
+<div class="ramp" style="background:linear-gradient(90deg,#212021 0%,#3D314F 18%,#7A6071 28%,#A88E92 36%,#B7A8A3 42%,#D9C0B9 50%,#E9DCD8 58%,#CFD9E4 66%,#9DBBE4 76%,#6F9CE0 86%,#5284D7 100%)"></div>
+<p class="note">地平线渐变的色标顺序（由圆心向外）。所有相邻颜色之间都有过渡带，不做硬拼。</p>
+
+<span class="k" style="display:block;margin-top:22px">内页色雾（企业页等浅色首屏）</span>
+<div class="grid">
+  <div class="sw"><div class="c" style="background:#A9C3E8"></div><div class="bd"><div class="n">雾 1</div><div class="h">#A9C3E8</div></div></div>
+  <div class="sw"><div class="c" style="background:#E3ECF8"></div><div class="bd"><div class="n">雾 2</div><div class="h">#E3ECF8</div></div></div>
+  <div class="sw"><div class="c" style="background:#EBCFC4"></div><div class="bd"><div class="n">雾 3</div><div class="h">#EBCFC4</div></div></div>
+  <div class="sw"><div class="c" style="background:#D6CBDD"></div><div class="bd"><div class="n">雾 4</div><div class="h">#D6CBDD</div></div></div>
+</div>
+<div class="ramp" style="background:radial-gradient(60% 55% at 20% 20%,#A9C3E8,transparent 70%),radial-gradient(50% 50% at 80% 25%,#EBCFC4,transparent 70%),radial-gradient(45% 45% at 55% 70%,#D6CBDD,transparent 72%),radial-gradient(70% 60% at 50% 100%,#E3ECF8,transparent 70%),#F8F8F8;filter:blur(6px)"></div>
+
+<span class="k" style="display:block;margin-top:22px">组件色</span>
+<div class="grid">
+  <div class="sw"><div class="c" style="background:#000"></div><div class="bd"><div class="n">主按钮</div><div class="h">#000000 · 悬停 #424242</div><div class="u">黑胶囊，悬停只变灰，不抬升</div></div></div>
+  <div class="sw"><div class="c" style="background:rgba(235,235,235,.7);border-bottom:1px solid var(--line)"></div><div class="bd"><div class="n">次按钮</div><div class="h">rgba(235,235,235,.7)</div><div class="u">半透明浅灰胶囊</div></div></div>
+  <div class="sw"><div class="c" style="background:#141416"></div><div class="bd"><div class="n">代码块</div><div class="h">#141416 · 文字 #E8E6DF</div><div class="u">文档页代码，全站唯一的深色块</div></div></div>
+  <div class="sw"><div class="c" style="background:rgba(255,255,255,.82);border-bottom:1px solid var(--line)"></div><div class="bd"><div class="n">首屏产品窗</div><div class="h">白 82% · 模糊 22px</div><div class="u">半透明磨砂，底部渐隐</div></div></div>
+</div>
+<p class="note">全站只有浅色主题，不做深色模式；系统深色设置下也保持白底。</p>
+
+<h3 style="margin-top:28px">对比度核对</h3>
+<table>
+<tr><th>组合</th><th>对比度</th><th>结论</th></tr>
+<tr><td>晨蓝文字 #2F63B8 在纸白 / 卡白上</td><td class="mono">5.84</td><td class="ok">AA，正文可用</td></tr>
+<tr><td>晨蓝文字 #2F63B8 在晨蓝淡 #EEF3FB 上</td><td class="mono">5.24</td><td class="ok">AA</td></tr>
+<tr><td>白字在晨蓝填充 #5284D7 上</td><td class="mono">3.72</td><td class="warn">只做大字或图形，不做小字</td></tr>
+<tr><td>暮紫 #4E3F66 在暮紫软 #EAE4F0 上</td><td class="mono">7.57</td><td class="ok">AAA</td></tr>
+<tr><td>白字在炭 #212021 上（首屏标题）</td><td class="mono">16.24</td><td class="ok">AAA</td></tr>
+<tr><td>墨 70% 在纸白上（正文灰）</td><td class="mono">8.34</td><td class="ok">AAA</td></tr>
+<tr><td>墨 50% 在纸白上（11px 大写标签）</td><td class="mono">3.93</td><td class="warn">低于 4.5，只用于辅助标签，不承载关键信息</td></tr>
+</table>
+
+<h3>使用规则</h3>
+<ul>
+<li>白色是最大底色；深色只出现在首屏地平线以下和代码块里。</li>
+<li>整站只有一个强调色（晨蓝）；暮紫只做"峰时 / 窗口 / 减排"这类状态，不做装饰。</li>
+<li>颜色之间永远用渐变或色雾衔接，不把两块颜色硬拼在一起。</li>
+<li>黑色按钮、黑色胶囊用纯黑 #000，悬停变 #424242，不抬升不加影。</li>
+</ul>
+
+<h2>字体</h2>
+<p>三组字：标题衬线、正文无衬线、数字等宽。中文各配一套思源字体做回退，字号与字重按下面的梯度，不另起新尺寸。</p>
+<table>
+<tr><th>用途</th><th>拉丁</th><th>中文</th><th>来源</th></tr>
+<tr><td>标题 / 展示</td><td>Fraunces（可变字重，opsz 144）</td><td>思源宋体 Noto Serif SC</td><td>Google Fonts，开源</td></tr>
+<tr><td>正文 / 界面</td><td>DM Sans（可变字重）</td><td>思源黑体 Noto Sans SC</td><td>Google Fonts，开源</td></tr>
+<tr><td>数字 / 标签 / 代码</td><td>DM Mono</td><td>（数字与英文为主，中文回退思源黑体）</td><td>Google Fonts，开源</td></tr>
+</table>
+
+<div class="type">
+  <div class="row"><div class="spec">Display 56 · Fraunces 400 · 字距 −.03em · 行高 1.08<br>页面大标题</div><div class="d1">你要的模型，按任务找。</div></div>
+  <div class="row"><div class="spec">H1 38 · 衬线 400 · 字距 −.025em · 行高 1.15<br>首屏标题（反白）</div><div class="d2">主流模型 × 异构算力，一站式大模型 API 平台。</div></div>
+  <div class="row"><div class="spec">H2 28 · 衬线 400 · 字距 −.02em<br>区块标题</div><div class="d3">为什么是沐仞</div></div>
+  <div class="row"><div class="spec">H3 20 · 衬线 500 · 字距 −.01em<br>卡片标题</div><div class="d4">批量生成，夜间窗口计费</div></div>
+  <div class="row"><div class="spec">Body 17 / 16 · DM Sans 400 · 行高 1.6<br>导语、正文</div><div class="b1">GLM、DeepSeek、Kimi、Qwen、MiniMax 一个端点接入，兼容 OpenAI 与 Anthropic 格式。</div></div>
+  <div class="row"><div class="spec">Body 15 / 14 · 400 · 行高 1.55 · 墨 70%<br>卡片正文、表格</div><div class="b2" style="color:var(--ink-70)">算力部署在电站旁，用富余绿电跑，所以价格更低、高峰也有量。</div></div>
+  <div class="row"><div class="spec">Small 13 · 400 · 墨 70%<br>说明、脚注</div><div class="b3">价格以上线定价为准。</div></div>
+  <div class="row"><div class="spec">Label 11 · DM Mono 400 · 字距 .08em · 大写 · 墨 50%<br>栏目标签、页脚标题</div><div class="lab">成交节点 · 模型 · 均价 · 减排</div></div>
+  <div class="row"><div class="spec">Number 15 / 12 · DM Mono 400<br>价格、度数、时间、订单号</div><div class="num">¥2.58 / M · −3.72 kg · 12:00–15:00 · #FP-20261012-0931</div></div>
+</div>
+
+<h3 style="margin-top:28px">组件里的字</h3>
+<div class="type">
+  <div class="row"><div class="spec">导航胶囊 · 高 52 · 圆角 16 · 链接 16 / 400 · 次级入口墨 50%</div><div><span class="pill"><i></i><span>产品与价格</span><span>企业与出海</span><span>电站合作</span><span>新闻动态</span><span>文档</span><span style="color:var(--ink-50)">登录</span><span class="mono" style="font-size:13px;color:var(--ink-50)">EN</span></span></div></div>
+  <div class="row"><div class="spec">按钮 · 黑胶囊 45 / 16 · 首屏 56 / 18 · 次级半透明灰</div><div><span class="btn">获取 API Key ↓</span><span class="btn gray">先自助试用</span><span class="btn lg">获取 API Key ↓</span></div></div>
+</div>
+
+<h2>首屏构图</h2>
+<table>
+<tr><th>元素</th><th>规格（桌面 1440 × 900）</th></tr>
+<tr><td>首屏高度</td><td>一屏（100svh），最小 640</td></tr>
+<tr><td>导航胶囊</td><td>距顶 28，高 52，到标题 36</td></tr>
+<tr><td>标题 / 副标 / 说明</td><td>距顶 116 / 172 / 212；38 / 20 / 15 号；反白</td></tr>
+<tr><td>大字标「沐仞」</td><td>宽约 52% 屏宽（字号 26vw），距顶 270，白 12%</td></tr>
+<tr><td>产品窗</td><td>宽 68% 屏宽（最宽 980），距顶 46% 屏高，圆角 16，白 82% 加 22px 模糊，底部 58% 处起渐隐</td></tr>
+<tr><td>地平线</td><td>弧顶约 235，圆半径一个屏宽，霞光带约 130 宽</td></tr>
+<tr><td>白弧与按钮</td><td>弧高 200；黑按钮 56 高、18 号字，距底 22</td></tr>
+</table>
+
+<h2>开发用 token</h2>
+<pre>:root{
+  --paper:#F8F8F8; --paper-2:#F3F1EA; --card:#FFFFFF;
+  --ink:#000; --ink-85:rgba(0,0,0,.85); --ink-70:rgba(0,0,0,.7); --ink-50:rgba(0,0,0,.5); --ink-30:rgba(0,0,0,.3);
+  --line:rgba(0,0,0,.08); --line-2:rgba(0,0,0,.05); --hover:#424242;
+  --accent:#2F63B8; --accent-fill:#5284D7; --accent-soft:#DCE7F7; --accent-tint:#EEF3FB;
+  --peak:#4E3F66; --peak-soft:#EAE4F0;
+  --field-1:#A9C3E8; --field-2:#E3ECF8; --field-3:#EBCFC4; --field-4:#D6CBDD;
+  --hz-1:#5284D7; --hz-2:#B7A8A3; --hz-2b:#3D314F; --hz-3:#212021; --hz-haze:#E8D4CC;
+  --serif:"Fraunces","Noto Serif SC",serif; --sans:"DM Sans","Noto Sans SC",system-ui,sans-serif; --mono:"DM Mono",ui-monospace,monospace;
+}
+/* 首屏地平线 */
+.hero .field{background:radial-gradient(circle at 50% calc(235px + 100vw),
+  var(--hz-3) 0, var(--hz-3) calc(100vw - 1px), var(--hz-2b) calc(100vw + 16px), #7A6071 calc(100vw + 34px),
+  #A88E92 calc(100vw + 52px), var(--hz-2) calc(100vw + 66px), #D9C0B9 calc(100vw + 84px), #E9DCD8 calc(100vw + 100px),
+  #CFD9E4 calc(100vw + 118px), #9DBBE4 calc(100vw + 142px), #6F9CE0 calc(100vw + 175px), var(--hz-1) calc(100vw + 230px), #4A7CD3 calc(100vw + 700px))}</pre>
+<p class="note">字体通过 Google Fonts 加载；若需离线部署，Fraunces、DM Sans、DM Mono 为 OFL 开源许可，思源宋体与思源黑体为 OFL，可自托管。</p>
+</div>
+
+</body>
+</html>
