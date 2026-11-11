@@ -1,0 +1,427 @@
+{
+ "title": "关于 PPIO｜独立 Agentic Cloud 服务商",
+ "h": 5506,
+ "header": [
+  {
+   "t": "模型服务",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "Agent 云服务",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "GPU 云服务 即将下线",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "新闻资讯",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "关于我们",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "文档",
+   "h": "/docs/support/quickstart",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "0px",
+   "y": 11
+  },
+  {
+   "t": "控制台",
+   "h": "/user/login",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "0px",
+   "y": 11
+  },
+  {
+   "t": "登录",
+   "h": "/user/login",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "0px",
+   "y": 11
+  },
+  {
+   "t": "立即注册",
+   "h": "/user/register",
+   "tag": "a",
+   "bg": "rgb(14, 88, 234)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 0
+  }
+ ],
+ "footer": [
+  {
+   "t": "大语言模型 API",
+   "h": "/ai-computing/llm-api",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5026
+  },
+  {
+   "t": "图像/视频生成模型 API",
+   "h": "/ai-computing/image",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5059
+  },
+  {
+   "t": "企业 Token Plan",
+   "h": "/token-plan",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5092
+  },
+  {
+   "t": "Agent 沙箱",
+   "h": "/ai-computing/sandbox",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5125
+  },
+  {
+   "t": "Agent 托管",
+   "h": "/agents",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5158
+  },
+  {
+   "t": "GPU 容器实例",
+   "h": "/ai-computing/gpu-instance",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5191
+  },
+  {
+   "t": "Serverless GPUs",
+   "h": "/ai-computing/serverless",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5224
+  },
+  {
+   "t": "GPU SPOT",
+   "h": "/gpu-spot",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5257
+  },
+  {
+   "t": "公司动态",
+   "h": "/news?index=1",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5026
+  },
+  {
+   "t": "技术博客",
+   "h": "/news?index=2",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5059
+  },
+  {
+   "t": "媒体报道",
+   "h": "/news?index=3",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5092
+  },
+  {
+   "t": "企业介绍",
+   "h": "/about?index=0",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5026
+  },
+  {
+   "t": "加入我们",
+   "h": "/about?index=1",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5059
+  },
+  {
+   "t": "联系我们",
+   "h": "/about?index=2",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5092
+  },
+  {
+   "t": "媒体垂询: pr@ppio.com",
+   "h": "mailto:pr@ppio.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5026
+  },
+  {
+   "t": "资源合作: bd@ppio.com",
+   "h": "mailto:bd@ppio.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5059
+  },
+  {
+   "t": "投资者关系: ir@ppio.com",
+   "h": "mailto:ir@ppio.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5092
+  },
+  {
+   "t": "沪公网安备 31011502015403号",
+   "h": "https://beian.mps.gov.cn/#/query/webSearch",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5406
+  },
+  {
+   "t": "沪ICP备18048206号-33",
+   "h": "https://beian.miit.gov.cn/#/Integrated/index",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5406
+  },
+  {
+   "t": "音频网信算备310115697988801240029号",
+   "h": "https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_ad342788-5cd5-4fa5-9a88-1746b920f33e_56bec784-4bdf-4efb-abcc-89ff9ca21e25.pdf",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5432
+  },
+  {
+   "t": "图像视频网信算备310115697988801240011号",
+   "h": "https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_ad342788-5cd5-4fa5-9a88-1746b920f33e_dcae42c9-996b-426f-8a92-14f811d7ed4f.pdf",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5432
+  },
+  {
+   "t": "语言网信算备310115697988801240037号",
+   "h": "https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_ad342788-5cd5-4fa5-9a88-1746b920f33e_9d51a46f-9da9-42a4-ac02-6bbdbd9a7639.pdf",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5432
+  },
+  {
+   "t": "建议反馈：feedback@ppio.com",
+   "h": "mailto:feedback@ppio.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5458
+  },
+  {
+   "t": "PPIO 隐私政策",
+   "h": "/legal/privacy-policy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5458
+  },
+  {
+   "t": "用户协议",
+   "h": "/legal/terms-of-service",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5458
+  },
+  {
+   "t": "第三方信息共享清单",
+   "h": "/legal/thirdparty-info-list",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5458
+  },
+  {
+   "t": "个人信息收集清单",
+   "h": "/legal/personal-info-list",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(158, 158, 158)",
+   "r": "0px",
+   "y": 5458
+  }
+ ],
+ "top": [
+  {
+   "t": "模型服务",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "Agent 云服务",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "GPU 云服务 即将下线",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "新闻资讯",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "关于我们",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "6px",
+   "y": 10
+  },
+  {
+   "t": "文档",
+   "h": "/docs/support/quickstart",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "0px",
+   "y": 11
+  },
+  {
+   "t": "控制台",
+   "h": "/user/login",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "0px",
+   "y": 11
+  },
+  {
+   "t": "登录",
+   "h": "/user/login",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(24, 24, 24)",
+   "r": "0px",
+   "y": 11
+  },
+  {
+   "t": "立即注册",
+   "h": "/user/register",
+   "tag": "a",
+   "bg": "rgb(14, 88, 234)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "马上咨询",
+   "h": "/consultation",
+   "tag": "a",
+   "bg": "rgb(17, 97, 254)",
+   "c": "rgb(255, 255, 255)",
+   "r": "4px",
+   "y": 345
+  }
+ ],
+ "count": 37,
+ "lang": "zh",
+ "url": "https://ppio.com/about?index=0"
+}

@@ -1,0 +1,319 @@
+{
+ "title": "品牌解读 - 硅基流动 SiliconFlow",
+ "h": 5828,
+ "header": [
+  {
+   "t": "SiliconFlow 首页",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 16
+  },
+  {
+   "t": "产品",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "模型",
+   "h": "/models",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "价格",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "文档",
+   "h": "https://api-docs.siliconflow.cn",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "生态合作",
+   "h": "/partner",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "关于",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(108, 40, 246)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "登录",
+   "h": "https://account.siliconflow.cn/zh/login",
+   "tag": "a",
+   "bg": "rgb(108, 40, 246)",
+   "c": "rgb(255, 255, 255)",
+   "r": "120px",
+   "y": 20
+  }
+ ],
+ "footer": [
+  {
+   "t": "SiliconFlow 国际站",
+   "h": "https://www.siliconflow.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(100, 116, 139)",
+   "r": "0px",
+   "y": 5466
+  },
+  {
+   "t": "价格",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5305
+  },
+  {
+   "t": "文档",
+   "h": "https://api-docs.siliconflow.cn/docs/userguide/introduction",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5345
+  },
+  {
+   "t": "生态合作",
+   "h": "/partner",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5385
+  },
+  {
+   "t": "公司介绍",
+   "h": "/about",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5425
+  },
+  {
+   "t": "品牌理念",
+   "h": "/brand",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5465
+  },
+  {
+   "t": "大模型云服务",
+   "h": "https://cloud.siliconflow.cn",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5305
+  },
+  {
+   "t": "AI 算力运营服务",
+   "h": "/token-factory",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5345
+  },
+  {
+   "t": "预留实例",
+   "h": "/reserved",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5385
+  },
+  {
+   "t": "私有化大模型服务平台",
+   "h": "/enterprise",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5425
+  },
+  {
+   "t": "私有化大模型服务网关",
+   "h": "/ai-gateway",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5465
+  },
+  {
+   "t": "用户协议",
+   "h": "https://api-docs.siliconflow.cn/cn/legals/terms-of-service",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5305
+  },
+  {
+   "t": "隐私协议",
+   "h": "https://api-docs.siliconflow.cn/cn/legals/privacy-policy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 5345
+  },
+  {
+   "t": "需求反馈",
+   "h": "https://siliconflow.feishu.cn/share/base/form/shrcn2G8XKaFfNasfwD1lgDUbcb",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(108, 40, 246)",
+   "r": "0px",
+   "y": 5493
+  },
+  {
+   "t": "contact@siliconflow.cn",
+   "h": "mailto:contact@siliconflow.cn",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(108, 40, 246)",
+   "r": "0px",
+   "y": 5525
+  },
+  {
+   "t": "京公网安备11010802044458",
+   "h": "https://beian.mps.gov.cn/#/query/webSearch?code=11010802044458",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(87, 98, 127)",
+   "r": "0px",
+   "y": 5706
+  },
+  {
+   "t": "京ICP备2024051511号-1",
+   "h": "https://beian.miit.gov.cn/#/Integrated/index",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(87, 98, 127)",
+   "r": "0px",
+   "y": 5706
+  },
+  {
+   "t": "增值电信业务经营许可证:京B2-20242084",
+   "h": "https://tsm.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=%25E4%25BA%25ACB2-20242084&type=xuke",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(87, 98, 127)",
+   "r": "0px",
+   "y": 5706
+  }
+ ],
+ "top": [
+  {
+   "t": "SiliconFlow 首页",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 16
+  },
+  {
+   "t": "产品",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "模型",
+   "h": "/models",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "价格",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "文档",
+   "h": "https://api-docs.siliconflow.cn",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "生态合作",
+   "h": "/partner",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(30, 41, 59)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "关于",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(108, 40, 246)",
+   "r": "0px",
+   "y": 27
+  },
+  {
+   "t": "登录",
+   "h": "https://account.siliconflow.cn/zh/login",
+   "tag": "a",
+   "bg": "rgb(108, 40, 246)",
+   "c": "rgb(255, 255, 255)",
+   "r": "120px",
+   "y": 20
+  }
+ ],
+ "count": 27,
+ "lang": "zh-CN",
+ "url": "https://www.siliconflow.cn/brand"
+}

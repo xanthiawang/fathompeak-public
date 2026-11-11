@@ -1,0 +1,336 @@
+Pricing | Wispr Flow
+https://wisprflow.ai/pricing
+Dictation
+Notetaker
+Business
+Pricing
+Lab
+Get started on macOS
+Pricing
+
+Free to start. Paid plans add team management,
+admin controls, and support.
+
+Monthly
+Annual
+20% discount
+Free
+FOR INDIVIDUALS
+$0/mo
+Get started
+Includes:
+Speech-to-text in any app, 100+ languages
+Dictation on Mac, Windows, iOS, and Android
+Learns your names and jargon
+Dictionary and snippets
+Limited Notetaker access
+Use your meeting notes in Claude and ChatGPT
+Pro
+FOR INDIVIDUALS AND TEAMS
+$12/user/mo
+Get started
+Get everything in Free, plus:
+Unlimited dictations
+Longer Notetaker history
+Shared dictionary and snippets
+Shared team workspace
+Centralized billing and user management
+Team usage analytics
+Priority support
+Early access to new features
+Our most popular plan
+Growth
+BASIC ADMIN CONTROLS
+$18/user/mo
+Unlimited Notetaker access
+Get started
+Get everything in Pro, plus:
+Single sign-on (SSO) with SAML
+Org-wide HIPAA enforcement with a signed BAA
+Multiple domains for one organization
+Admin control over model training for your whole team
+Individual usage reporting
+Admin tools for members, departments, and billing
+Enterprise
+ADVANCED SECURITY
+Custom
+Talk to sales
+Everything in Growth, plus:
+Free IT admin seats
+Model training locked off
+User provisioning (SCIM)
+Audit logs and managed deployment (MDM)
+Domain capture
+Custom contract terms
+Invoicing and PO billing
+Premium support
+Available where
+‍you work.
+
+Wispr Flow Dictation
+Mac, Windows, iOS, and Android
+
+Wispr Flow Notetaker
+Mac and Windows only for now. More platforms coming soon.
+
+Compare pricing
+& features.
+Start flowing today
+Free
+$0
+/ mo
+Get started
+Pro
+$12
+/ user
+/ mo
+Get started
+Growth
+$18
+/ user
+/ mo
+Get started
+Enterprise
+Custom
+Get started
+Effortless dictation
+Add words to dictionary
+Word limit
+2,000/week on desktop
+1,000/week on mobile
+
+Unlimited
+
+Unlimited
+
+Unlimited
+
+Support 100+ languages
+Prioritized feature requests
+–
+
+Early access to new features
+–
+
+Notetaker
+Notetaker for meetings and voice memos
+Identify speakers in meeting notes
+Ask questions across your meetings
+Use your meeting notes in Claude, ChatGPT, and other AI tools (MCP)
+Meetings
+Weekly limit
+
+Higher limits
+
+Unlimited (add-on)
+
+Unlimited (add-on)
+
+Team & collaboration features
+Centralized billing
+–
+
+Invoicing and PO billing
+–
+
+–
+
+–
+
+Shared dictionary and snippets
+–
+
+Customer support
+Standard
+
+Priority
+
+Priority
+
+Premium
+
+Team usage dashboards
+–
+
+Basic
+
+Advanced
+
+Advanced
+
+Customer success manager
+–
+
+–
+
+–
+
+Security + compliance features
+Data-sharing preferences; data storage and retention controls
+(Enforced)
+
+ISO 27001 and SOC 2 Type II Compliance
+SSO / SAML
+–
+
+–
+
+Security & data controls
+–
+
+–
+
+Admin controls
+–
+
+MSA & DPA
+–
+
+–
+
+(Custom terms)
+
+HIPAA-ready
+(Enforced)
+
+(Enforced)
+
+User provisioning (SCIM)
+–
+
+–
+
+–
+
+Audit logs and managed deployment (MDM)
+–
+
+–
+
+–
+
+Models never trained on your data
+–
+
+–
+
+–
+
+Block dictation in chosen apps
+–
+
+–
+
+–
+
+Domain capture
+–
+
+–
+
+–
+
+Free IT admin seats
+–
+
+–
+
+–
+
+Security and privacy. On every plan.
+
+SOC 2 Type II and ISO 27001 certified. HIPAA-ready dictation with a signed BAA. Notetaker and Scratchpad are disabled on BAA accounts.
+
+Opt out of model training at any time. Choose what stays on your device, and delete it whenever you want.
+
+Enterprise adds organization-wide enforcement, so admins set these policies once for everyone.
+
+View our Trust Center
+USED BY PROFESSIONALS AT
+ROI CALCULATOR
+See how much
+‍you could save.
+Hours spent typing per day
+My time is worth (in $/hr)
+$
+Time saved per month:
+22 hours
+Flow Pro monthly cost:
+$12
+Estimated annual savings:
+$13,056
+Start saving today
+FAQS
+You might be wondering.
+Questions
+How do I upgrade from Free to Pro?
+Is Flow free?
+Does the free plan include the Notetaker?
+Can I change or cancel my subscription at any time?
+Do you offer discounts for specific groups?
+What happens when I hit my weekly meeting limit?
+Which platforms does the Notetaker work on?
+Does the Notetaker use a bot to join my meetings?
+I already pay for Flow Pro. Do I get the Notetaker?
+Can I use Flow for my whole team?
+Answer
+How do I upgrade from Free to Pro?
+
+Open the Flow app and go to Settings, then Plan & Billing, to upgrade to Pro. You can also upgrade from this page. There are no commitments, and you can cancel anytime.
+
+Speak. Write faster. Meet smarter.
+Get started on macOS
+PRODUCTS
+Wispr Flow Dictation
+
+The voice-to-text AI that turns speech into clear, polished writing in every app.
+
+Download free
+Wispr Flow Notetaker
+New
+
+AI meeting notes accurate enough to act on. Works in all meetings.
+
+Download free
+GET STARTED
+Pricing
+Privacy & Security
+Web demo
+Why Flow vs. Built-in Dictation
+Microphone guide
+Merch store
+PROFESSIONALS
+Leaders
+Developers
+Creators
+Customer Support
+Students
+Lawyers
+Accessibility
+Sales
+RESOURCES
+Case studies
+Blog
+AI prompting guide
+Workflows
+Flow vs Gboard voice typing
+Flow vs Apple Dictation
+What's new
+Vibe coding
+Bug bounty
+Talk to support
+Talk to sales
+Help center
+COMPANY
+About
+Careers
+Trust Center
+Become an affiliate
+Media Kit
+© Wispr Flow 2026
+Terms
+Privacy
+Data Controls
+Do Not Sell or Share My Personal Information
+Privacy Settings
+IP address data provided by IPinfo.

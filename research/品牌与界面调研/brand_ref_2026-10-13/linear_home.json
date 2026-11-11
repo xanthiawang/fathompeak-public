@@ -1,0 +1,427 @@
+{
+ "title": "Linear – The system for product development",
+ "h": 9960,
+ "header": [
+  {
+   "t": "Navigate to home",
+   "h": "/homepage",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(247, 248, 248)",
+   "r": "6px",
+   "y": 20
+  },
+  {
+   "t": "Product",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Resources",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Customers",
+   "h": "/customers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Pricing",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Now",
+   "h": "/now",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Contact",
+   "h": "/contact",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Log in",
+   "h": "/login",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Sign up",
+   "h": "/signup",
+   "tag": "a",
+   "bg": "rgb(229, 229, 230)",
+   "c": "rgb(8, 9, 10)",
+   "r": "9999px",
+   "y": 20
+  }
+ ],
+ "footer": [
+  {
+   "t": "Linear Agent +",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 3587
+  },
+  {
+   "t": "Customer Requests +",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 3587
+  },
+  {
+   "t": "Triage +",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 3615
+  },
+  {
+   "t": "Linear Asks +",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 3615
+  }
+ ],
+ "top": [
+  {
+   "t": "Skip to content →",
+   "h": "#skip-nav",
+   "tag": "a",
+   "bg": "rgb(94, 106, 210)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 72
+  },
+  {
+   "t": "Navigate to home",
+   "h": "/homepage",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(247, 248, 248)",
+   "r": "6px",
+   "y": 20
+  },
+  {
+   "t": "Product",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Resources",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Customers",
+   "h": "/customers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Pricing",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Now",
+   "h": "/now",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Contact",
+   "h": "/contact",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Log in",
+   "h": "/login",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "Sign up",
+   "h": "/signup",
+   "tag": "a",
+   "bg": "rgb(229, 229, 230)",
+   "c": "rgb(8, 9, 10)",
+   "r": "9999px",
+   "y": 20
+  },
+  {
+   "t": "New Loops →",
+   "h": "https://linear.app/now/introducing-loops",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(247, 248, 248)",
+   "r": "0px",
+   "y": 432
+  },
+  {
+   "t": "Linear",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 543
+  },
+  {
+   "t": "Search workspace",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(98, 102, 109)",
+   "r": "9999px",
+   "y": 543
+  },
+  {
+   "t": "New issue",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(255, 255, 255, 0.02)",
+   "c": "rgb(226, 228, 231)",
+   "r": "9999px",
+   "y": 543
+  },
+  {
+   "t": "Pulse",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 587
+  },
+  {
+   "t": "Inbox",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 617
+  },
+  {
+   "t": "My issues",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 647
+  },
+  {
+   "t": "Reviews",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 677
+  },
+  {
+   "t": "Workspace",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(98, 102, 109)",
+   "r": "8px",
+   "y": 721
+  },
+  {
+   "t": "Initiatives",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 745
+  },
+  {
+   "t": "Projects",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 775
+  },
+  {
+   "t": "More",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 805
+  },
+  {
+   "t": "Favorites",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(98, 102, 109)",
+   "r": "8px",
+   "y": 849
+  },
+  {
+   "t": "Faster app launch",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(255, 255, 255, 0.04)",
+   "c": "rgb(208, 214, 224)",
+   "r": "8px",
+   "y": 873
+  },
+  {
+   "t": "Remove from favorites",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(98, 102, 109)",
+   "r": "9999px",
+   "y": 544
+  },
+  {
+   "t": "Issue options",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(98, 102, 109)",
+   "r": "9999px",
+   "y": 544
+  },
+  {
+   "t": "Previous issue",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "9999px",
+   "y": 544
+  },
+  {
+   "t": "Next issue",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "9999px",
+   "y": 544
+  },
+  {
+   "t": "Copy issue URL",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(255, 255, 255, 0.02)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 588
+  },
+  {
+   "t": "Copy issue ID",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(255, 255, 255, 0.02)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 588
+  },
+  {
+   "t": "Copy git branch name",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(255, 255, 255, 0.02)",
+   "c": "rgb(138, 143, 152)",
+   "r": "9999px",
+   "y": 588
+  },
+  {
+   "t": "Delegate to an agent",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "0px",
+   "y": 588
+  },
+  {
+   "t": "More delegation options",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(138, 143, 152)",
+   "r": "0px",
+   "y": 588
+  }
+ ],
+ "count": 130,
+ "lang": "en",
+ "url": "https://linear.app/"
+}

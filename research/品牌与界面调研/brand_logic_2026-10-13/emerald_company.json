@@ -1,0 +1,256 @@
+{
+ "title": "Company | Emerald AI",
+ "h": 10881,
+ "header": [
+  {
+   "t": "Home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Company",
+   "h": "/company",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "News",
+   "h": "/news",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Careers",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  }
+ ],
+ "footer": [
+  {
+   "t": "Emerald AI home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 238)",
+   "r": "0px",
+   "y": 10600
+  },
+  {
+   "t": "Emerald AI on X",
+   "h": "https://x.com/EmeraldAi_",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 10807
+  },
+  {
+   "t": "Emerald AI on LinkedIn",
+   "h": "https://www.linkedin.com/company/emerald-ai-1/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 10807
+  },
+  {
+   "t": "info@emeraldai.co",
+   "h": "mailto:info@emeraldai.co",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 10669
+  },
+  {
+   "t": "press@emeraldai.co",
+   "h": "mailto:press@emeraldai.co",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 10697
+  },
+  {
+   "t": "Terms & Conditions",
+   "h": "/terms-and-conditions",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 10669
+  },
+  {
+   "t": "Privacy Policy",
+   "h": "/privacy-policy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 10697
+  }
+ ],
+ "top": [
+  {
+   "t": "Home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Company",
+   "h": "/company",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "News",
+   "h": "/news",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Careers",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Contact",
+   "h": "/contact-us",
+   "tag": "a",
+   "bg": "rgb(67, 140, 54)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 20
+  },
+  {
+   "t": "READ FULL BIO",
+   "h": "/team-members/dr-varun-sivaram",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 664
+  },
+  {
+   "t": "LinkedIn profile",
+   "h": "https://www.linkedin.com/in/varunsivaram/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 662
+  },
+  {
+   "t": "READ FULL BIO",
+   "h": "/team-members/ayse-coskun",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 664
+  },
+  {
+   "t": "LinkedIn profile",
+   "h": "https://www.linkedin.com/in/aysecoskun/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 662
+  },
+  {
+   "t": "READ FULL BIO",
+   "h": "/team-members/shayan-sengupta",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 664
+  },
+  {
+   "t": "LinkedIn profile",
+   "h": "https://www.linkedin.com/in/shayansg/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 662
+  },
+  {
+   "t": "READ FULL BIO",
+   "h": "/team-members/aroon-vijaykar",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 664
+  },
+  {
+   "t": "LinkedIn profile",
+   "h": "https://www.linkedin.com/in/aroonvijaykar/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 662
+  },
+  {
+   "t": "READ FULL BIO",
+   "h": "/team-members/mansi-shah",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 664
+  },
+  {
+   "t": "LinkedIn profile",
+   "h": "https://www.linkedin.com/in/mansishah/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 662
+  },
+  {
+   "t": "Meet the Full Team",
+   "h": "/team",
+   "tag": "a",
+   "bg": "rgb(85, 87, 88)",
+   "c": "rgb(0, 0, 238)",
+   "r": "12px",
+   "y": 310
+  }
+ ],
+ "count": 23,
+ "lang": "en",
+ "url": "https://www.emeraldai.co/company"
+}

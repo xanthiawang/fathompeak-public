@@ -1,0 +1,65 @@
+{
+ "title": "硅基流动统一登录",
+ "h": 900,
+ "header": [],
+ "footer": [],
+ "top": [
+  {
+   "t": "获取验证码",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(110, 41, 246)",
+   "r": "6px",
+   "y": 351
+  },
+  {
+   "t": "平台使用协议",
+   "h": "https://api-docs.siliconflow.cn/docs/legals/terms-of-service",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(110, 41, 246)",
+   "r": "0px",
+   "y": 464
+  },
+  {
+   "t": "隐私政策",
+   "h": "https://api-docs.siliconflow.cn/docs/legals/privacy-policy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(110, 41, 246)",
+   "r": "0px",
+   "y": 464
+  },
+  {
+   "t": "注册 / 登录",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(110, 41, 246)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 499
+  },
+  {
+   "t": "微信登录",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(30, 41, 59)",
+   "r": "8px",
+   "y": 613
+  },
+  {
+   "t": "邮箱登录",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(30, 41, 59)",
+   "r": "8px",
+   "y": 613
+  }
+ ],
+ "count": 6,
+ "lang": "zh",
+ "url": "https://cloud.siliconflow.cn/"
+}

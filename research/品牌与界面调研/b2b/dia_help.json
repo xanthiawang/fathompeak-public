@@ -1,0 +1,247 @@
+{
+ "title": "Dia Browser | Help",
+ "h": 1166,
+ "header": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  }
+ ],
+ "footer": [
+  {
+   "t": "FOR WORK",
+   "h": "/forwork",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 926
+  },
+  {
+   "t": "RELEASE NOTES",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 952
+  },
+  {
+   "t": "CHANGELOG",
+   "h": "/changelog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 978
+  },
+  {
+   "t": "WINDOWS",
+   "h": "/windows",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1004
+  },
+  {
+   "t": "HELP",
+   "h": "/help",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 926
+  },
+  {
+   "t": "STATUS",
+   "h": "https://status.diabrowser.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 952
+  },
+  {
+   "t": "PRIVACY",
+   "h": "/privacy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 978
+  },
+  {
+   "t": "TERMS OF USE",
+   "h": "/termsofuse",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1004
+  },
+  {
+   "t": "SECURITY",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1030
+  },
+  {
+   "t": "TRUST CENTER",
+   "h": "https://trust.diabrowser.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1056
+  },
+  {
+   "t": "ABOUT US",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 926
+  },
+  {
+   "t": "CAREERS",
+   "h": "https://thebrowser.company/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 952
+  },
+  {
+   "t": "NEWSLETTER",
+   "h": "https://browsercompany.substack.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 978
+  },
+  {
+   "t": "EARLY BIRDS PROGRAM",
+   "h": "/earlybirds",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1004
+  },
+  {
+   "t": "X",
+   "h": "https://x.com/diabrowser",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 926
+  },
+  {
+   "t": "LINKEDIN",
+   "h": "https://www.linkedin.com/company/the-browser-company/posts/?feedView=all",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 952
+  },
+  {
+   "t": "INSTAGRAM",
+   "h": "https://www.instagram.com/diabrowser/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 978
+  },
+  {
+   "t": "THE BROWSER COMPANY OF NEW YORK",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 1129
+  }
+ ],
+ "top": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  }
+ ],
+ "count": 22,
+ "lang": "en",
+ "url": "https://www.diabrowser.com/help"
+}

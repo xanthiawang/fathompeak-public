@@ -1,0 +1,256 @@
+{
+ "title": "Dia Browser | Early Birds",
+ "h": 1431,
+ "header": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  }
+ ],
+ "footer": [
+  {
+   "t": "FOR WORK",
+   "h": "/forwork",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1191
+  },
+  {
+   "t": "RELEASE NOTES",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1217
+  },
+  {
+   "t": "CHANGELOG",
+   "h": "/changelog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1243
+  },
+  {
+   "t": "WINDOWS",
+   "h": "/windows",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1269
+  },
+  {
+   "t": "HELP",
+   "h": "/help",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1191
+  },
+  {
+   "t": "STATUS",
+   "h": "https://status.diabrowser.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1217
+  },
+  {
+   "t": "PRIVACY",
+   "h": "/privacy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1243
+  },
+  {
+   "t": "TERMS OF USE",
+   "h": "/termsofuse",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1269
+  },
+  {
+   "t": "SECURITY",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1295
+  },
+  {
+   "t": "TRUST CENTER",
+   "h": "https://trust.diabrowser.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1321
+  },
+  {
+   "t": "ABOUT US",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1191
+  },
+  {
+   "t": "CAREERS",
+   "h": "https://thebrowser.company/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1217
+  },
+  {
+   "t": "NEWSLETTER",
+   "h": "https://browsercompany.substack.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1243
+  },
+  {
+   "t": "EARLY BIRDS PROGRAM",
+   "h": "/earlybirds",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1269
+  },
+  {
+   "t": "X",
+   "h": "https://x.com/diabrowser",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1191
+  },
+  {
+   "t": "LINKEDIN",
+   "h": "https://www.linkedin.com/company/the-browser-company/posts/?feedView=all",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1217
+  },
+  {
+   "t": "INSTAGRAM",
+   "h": "https://www.instagram.com/diabrowser/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.5)",
+   "r": "0px",
+   "y": 1243
+  },
+  {
+   "t": "THE BROWSER COMPANY OF NEW YORK",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 1394
+  }
+ ],
+ "top": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Join Early Birds",
+   "h": "https://form.typeform.com/to/ukTpVjIv?typeform-source=browserco.typeform.com",
+   "tag": "a",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(0, 0, 0)",
+   "r": "12px",
+   "y": 510
+  }
+ ],
+ "count": 23,
+ "lang": "en",
+ "url": "https://www.diabrowser.com/earlybirds"
+}

@@ -1,0 +1,517 @@
+{
+ "title": "公司介绍_无问芯穹_AGI基础设施服务商",
+ "h": 5947,
+ "header": [
+  {
+   "t": "产品与服务",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "解决方案",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "技术与研究",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "新闻中心",
+   "h": "/news.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "关于我们",
+   "h": "/about.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "加入我们",
+   "h": "/join-usnow.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "WAIC 2026",
+   "h": "https://www.infinigence-ai.com/2026waic/6.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "EN",
+   "h": "en/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(51, 51, 51)",
+   "r": "50%",
+   "y": 24
+  },
+  {
+   "t": "登录平台",
+   "h": "https://cloud.infini-ai.com/console",
+   "tag": "a",
+   "bg": "rgb(93, 43, 254)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50px",
+   "y": 24
+  }
+ ],
+ "footer": [
+  {
+   "t": "产品与服务",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5306
+  },
+  {
+   "t": "Agentic Infra自主式基础设施平台",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5346
+  },
+  {
+   "t": "多元异构基座",
+   "h": "/agentic-infra/multi-heterogeneous-base.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5387
+  },
+  {
+   "t": "大模型训练",
+   "h": "/agentic-infra/llm-training.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5419
+  },
+  {
+   "t": "大模型推理",
+   "h": "/agentic-infra/llm-inference.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5452
+  },
+  {
+   "t": "企业级智能体",
+   "h": "/agentic-infra/enterprise-agent.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5485
+  },
+  {
+   "t": "具身智能工具链",
+   "h": "/agentic-infra/embodied-ai-toolchain.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5517
+  },
+  {
+   "t": "Agentic MaaS大模型服务平台",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5558
+  },
+  {
+   "t": "解决方案",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5306
+  },
+  {
+   "t": "AI原生企业解决方案",
+   "h": "/ai-native-enterprise-solutions.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5346
+  },
+  {
+   "t": "智能制造行业解决方案",
+   "h": "/manufacturing-solutions.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5379
+  },
+  {
+   "t": "AIGC企业解决方案",
+   "h": "/aigc-industry-solutions.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5412
+  },
+  {
+   "t": "智能硬件解决方案",
+   "h": "/smart-hardware-solutions.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5444
+  },
+  {
+   "t": "技术与研究",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5306
+  },
+  {
+   "t": "核心技术",
+   "h": "/core-technology.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5346
+  },
+  {
+   "t": "新闻中心",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5306
+  },
+  {
+   "t": "新闻动态",
+   "h": "/news-updates.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5346
+  },
+  {
+   "t": "媒体报道",
+   "h": "/media-coverage.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5379
+  },
+  {
+   "t": "视频报道",
+   "h": "/video-report.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5412
+  },
+  {
+   "t": "关于我们",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5631
+  },
+  {
+   "t": "公司介绍",
+   "h": "/about-us.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5672
+  },
+  {
+   "t": "团队介绍",
+   "h": "/about-us.html#p4",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5704
+  },
+  {
+   "t": "荣誉资质",
+   "h": "/about-us.html#p5",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5737
+  },
+  {
+   "t": "联系我们",
+   "h": "/contact-us.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(107, 103, 119)",
+   "r": "0px",
+   "y": 5770
+  },
+  {
+   "t": "加入我们",
+   "h": "/join-usnow.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5631
+  },
+  {
+   "t": "WAIC 2026",
+   "h": "https://www.infinigence-ai.com/2026waic/6.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 5631
+  },
+  {
+   "t": "沪ICP备2024070257号-2",
+   "h": "https://beian.miit.gov.cn/#/Integrated/index",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 5901
+  },
+  {
+   "t": "沪公网安备31010402336716号",
+   "h": "https://beian.mps.gov.cn/#/query/webSearch?code=31010402336716",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 5901
+  },
+  {
+   "t": "隐私政策",
+   "h": "/privacy-policy.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 5901
+  },
+  {
+   "t": "Cookie政策",
+   "h": "/cookies.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 5901
+  },
+  {
+   "t": "免责声明",
+   "h": "/disclaimer.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 5901
+  }
+ ],
+ "top": [
+  {
+   "t": "产品与服务",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "解决方案",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "技术与研究",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "新闻中心",
+   "h": "/news.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "关于我们",
+   "h": "/about.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "加入我们",
+   "h": "/join-usnow.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "WAIC 2026",
+   "h": "https://www.infinigence-ai.com/2026waic/6.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "EN",
+   "h": "en/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(51, 51, 51)",
+   "r": "50%",
+   "y": 24
+  },
+  {
+   "t": "登录平台",
+   "h": "https://cloud.infini-ai.com/console",
+   "tag": "a",
+   "bg": "rgb(93, 43, 254)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50px",
+   "y": 24
+  },
+  {
+   "t": "首页",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 90
+  },
+  {
+   "t": "关于我们",
+   "h": "/about.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 90
+  },
+  {
+   "t": "《隐私政策》",
+   "h": "/privacy-policy.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(93, 43, 254)",
+   "r": "0px",
+   "y": 615
+  },
+  {
+   "t": "Cookie公告",
+   "h": "/cookies.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(93, 43, 254)",
+   "r": "0px",
+   "y": 709
+  },
+  {
+   "t": "免责声明",
+   "h": "/disclaimer.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(93, 43, 254)",
+   "r": "0px",
+   "y": 709
+  },
+  {
+   "t": "确认",
+   "h": "javascript:",
+   "tag": "a",
+   "bg": "rgb(93, 43, 254)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50px",
+   "y": 816
+  },
+  {
+   "t": "取消",
+   "h": "javascript:",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0.04)",
+   "c": "rgb(51, 51, 51)",
+   "r": "50px",
+   "y": 816
+  }
+ ],
+ "count": 48,
+ "lang": "zh-cn",
+ "url": "https://www.infinigence-ai.com/about-us.html"
+}

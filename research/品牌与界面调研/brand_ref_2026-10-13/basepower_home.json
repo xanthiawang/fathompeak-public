@@ -1,0 +1,427 @@
+{
+ "title": "Save money. Stay powered. | Base Power",
+ "h": 13829,
+ "header": [
+  {
+   "t": "Base Power",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(41, 40, 38)",
+   "r": "0px",
+   "y": 13
+  },
+  {
+   "t": "Products",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Pricing",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Resources",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Utilities",
+   "h": "/utilities",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Company",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Sign in",
+   "h": "https://account.basepowercompany.com/sign-in",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 13
+  },
+  {
+   "t": "Get started",
+   "h": "#home-address",
+   "tag": "a",
+   "bg": "rgb(178, 221, 121)",
+   "c": "rgb(30, 77, 43)",
+   "r": "8px",
+   "y": 13
+  }
+ ],
+ "footer": [
+  {
+   "t": "Base Core",
+   "h": "/core",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12594
+  },
+  {
+   "t": "Home energy",
+   "h": "/energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12630
+  },
+  {
+   "t": "How Base works",
+   "h": "/how-it-works",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12666
+  },
+  {
+   "t": "Stories",
+   "h": "/stories",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12594
+  },
+  {
+   "t": "Reviews",
+   "h": "/reviews",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12630
+  },
+  {
+   "t": "Sign in",
+   "h": "https://account.basepowercompany.com/sign-in",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12666
+  },
+  {
+   "t": "Homebuilders",
+   "h": "/homebuilders",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12594
+  },
+  {
+   "t": "Installer partners",
+   "h": "/install-partners",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12630
+  },
+  {
+   "t": "Utilities",
+   "h": "/utilities",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12666
+  },
+  {
+   "t": "Compare your bill",
+   "h": "/compare",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12594
+  },
+  {
+   "t": "Resource hub",
+   "h": "/learn",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12630
+  },
+  {
+   "t": "Blog",
+   "h": "/blog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12666
+  },
+  {
+   "t": "Help center",
+   "h": "https://help.basepowercompany.com/en/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12702
+  },
+  {
+   "t": "About Base",
+   "h": "/about",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12594
+  },
+  {
+   "t": "Careers",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12630
+  },
+  {
+   "t": "Field careers",
+   "h": "/field",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12666
+  },
+  {
+   "t": "512-518-1009",
+   "h": "tel:+15125181009",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12795
+  },
+  {
+   "t": "team@basepowercompany.com",
+   "h": "mailto:team@basepowercompany.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12816
+  },
+  {
+   "t": "Base on Instagram",
+   "h": "https://www.instagram.com/basepowerco",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12770
+  },
+  {
+   "t": "Base on X (Twitter)",
+   "h": "https://x.com/basepowerco",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12770
+  },
+  {
+   "t": "Base on LinkedIn",
+   "h": "https://www.linkedin.com/company/base-power-company",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 12770
+  },
+  {
+   "t": "plugin.illinois.gov",
+   "h": "https://plugin.illinois.gov/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13420
+  },
+  {
+   "t": "plugin.illinois.gov",
+   "h": "https://plugin.illinois.gov/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13486
+  },
+  {
+   "t": "Base Privacy Policy",
+   "h": "/privacy-policy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13732
+  },
+  {
+   "t": "Your Privacy Choices",
+   "h": "/your-privacy-choices",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13732
+  },
+  {
+   "t": "Report a power outage (Texas)",
+   "h": "https://www.basepowercompany.com/report-a-power-outage",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13732
+  },
+  {
+   "t": "Contact the PUCT (Texas)",
+   "h": "https://www.puc.texas.gov/agency/about/consumer-protection/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13732
+  },
+  {
+   "t": "Base Illinois Price History for the Life of Product (Illinoi",
+   "h": "https://help.basepowercompany.com/en/articles/11816769",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13762
+  },
+  {
+   "t": "Base SMS Terms of Service",
+   "h": "https://www.basepowercompany.com/sms-terms",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13762
+  },
+  {
+   "t": "Promotional Terms & Conditions",
+   "h": "/promo-terms",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(169, 168, 167)",
+   "r": "0px",
+   "y": 13762
+  }
+ ],
+ "top": [
+  {
+   "t": "Base Power",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(41, 40, 38)",
+   "r": "0px",
+   "y": 13
+  },
+  {
+   "t": "Products",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Pricing",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Resources",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Utilities",
+   "h": "/utilities",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Company",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 15
+  },
+  {
+   "t": "Sign in",
+   "h": "https://account.basepowercompany.com/sign-in",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 13
+  },
+  {
+   "t": "Get started",
+   "h": "#home-address",
+   "tag": "a",
+   "bg": "rgb(178, 221, 121)",
+   "c": "rgb(30, 77, 43)",
+   "r": "8px",
+   "y": 13
+  }
+ ],
+ "count": 87,
+ "lang": "en",
+ "url": "https://www.basepowercompany.com/"
+}

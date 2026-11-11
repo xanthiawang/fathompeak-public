@@ -1,0 +1,283 @@
+{
+ "title": "Apps | Dia Browser",
+ "h": 2745,
+ "header": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  }
+ ],
+ "footer": [
+  {
+   "t": "FOR WORK",
+   "h": "/forwork",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2505
+  },
+  {
+   "t": "RELEASE NOTES",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2531
+  },
+  {
+   "t": "CHANGELOG",
+   "h": "/changelog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2557
+  },
+  {
+   "t": "WINDOWS",
+   "h": "/windows",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2583
+  },
+  {
+   "t": "HELP",
+   "h": "/help",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2505
+  },
+  {
+   "t": "STATUS",
+   "h": "https://status.diabrowser.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2531
+  },
+  {
+   "t": "PRIVACY",
+   "h": "/privacy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2557
+  },
+  {
+   "t": "TERMS OF USE",
+   "h": "/termsofuse",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2583
+  },
+  {
+   "t": "SECURITY",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2609
+  },
+  {
+   "t": "TRUST CENTER",
+   "h": "https://trust.diabrowser.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2635
+  },
+  {
+   "t": "ABOUT US",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2505
+  },
+  {
+   "t": "CAREERS",
+   "h": "https://thebrowser.company/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2531
+  },
+  {
+   "t": "NEWSLETTER",
+   "h": "https://browsercompany.substack.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2557
+  },
+  {
+   "t": "EARLY BIRDS PROGRAM",
+   "h": "/earlybirds",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2583
+  },
+  {
+   "t": "X",
+   "h": "https://x.com/diabrowser",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2505
+  },
+  {
+   "t": "LINKEDIN",
+   "h": "https://www.linkedin.com/company/the-browser-company/posts/?feedView=all",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2531
+  },
+  {
+   "t": "INSTAGRAM",
+   "h": "https://www.instagram.com/diabrowser/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 2557
+  },
+  {
+   "t": "THE BROWSER COMPANY OF NEW YORK",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 2708
+  }
+ ],
+ "top": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Granola From meeting to momentum Productivity",
+   "h": "/apps/granola",
+   "tag": "a",
+   "bg": "rgb(251, 250, 246)",
+   "c": "rgb(0, 0, 0)",
+   "r": "12px",
+   "y": 612
+  },
+  {
+   "t": "Notion Your knowledge, connected Knowledge",
+   "h": "/apps/notion",
+   "tag": "a",
+   "bg": "rgb(251, 250, 246)",
+   "c": "rgb(0, 0, 0)",
+   "r": "12px",
+   "y": 612
+  },
+  {
+   "t": "Google Less searching. More doing. Knowledge",
+   "h": "/apps/google",
+   "tag": "a",
+   "bg": "rgb(251, 250, 246)",
+   "c": "rgb(0, 0, 0)",
+   "r": "12px",
+   "y": 612
+  },
+  {
+   "t": "LinkedIn Start one step ahead People",
+   "h": "/apps/linkedin",
+   "tag": "a",
+   "bg": "rgb(251, 250, 246)",
+   "c": "rgb(0, 0, 0)",
+   "r": "12px",
+   "y": 612
+  }
+ ],
+ "count": 32,
+ "lang": "en",
+ "url": "https://www.diabrowser.com/apps"
+}

@@ -1,0 +1,81 @@
+diff --git a/index.html b/index.html
+index c58d838..fb59150 100644
+--- a/index.html
++++ b/index.html
+@@ -2805 +2805,2 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-                <div id="acPersonal">
++        <div class="ac-seg" role="tablist" aria-label="登录入口"><button type="button" role="tab" id="acTabP" aria-selected="true" aria-controls="acPersonal" data-tab="p">个人登录</button><button type="button" role="tab" id="acTabO" aria-selected="false" aria-controls="acOrg" tabindex="-1" data-tab="o">企业登录</button></div>
++        <div id="acPersonal" role="tabpanel" aria-labelledby="acTabP">
+@@ -2814 +2815 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-              <div class="ac-f" id="acEmailField" hidden><label for="acEmail">邮箱</label><input class="in" id="acEmail" type="email" name="email" autocomplete="email" autocapitalize="none" spellcheck="false" placeholder="请输入邮箱" disabled aria-describedby="acEmailHint"><p class="ac-help" id="acEmailHint">企业成员请用管理员添加的工作邮箱。</p></div>
++              <div class="ac-f" id="acEmailField" hidden><label for="acEmail">邮箱</label><input class="in" id="acEmail" type="email" name="email" autocomplete="email" autocapitalize="none" spellcheck="false" placeholder="请输入已绑定的邮箱" disabled aria-describedby="acEmailHint"><p class="ac-help" id="acEmailHint">使用已绑定账户的邮箱登录。</p></div>
+@@ -2816,0 +2818 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
++            <div class="ac-cross" id="acCrossP" role="status" hidden><span>这个手机号 / 邮箱有企业账号。企业成员请用企业登录。</span><button class="ac-inl" type="button" data-cross="o">去企业登录 →</button></div>
+@@ -2820 +2822 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-            <p class="ac-help ac-first" id="acFirst">未注册的手机号或邮箱验证后自动创建账户。企业成员用管理员添加的邮箱登录，进入后在左上角切换到企业。</p>
++            <p class="ac-help ac-first" id="acFirst">未注册的手机号验证后将自动创建个人账户。企业成员请用<button class="ac-inl" type="button" data-to-tab="o">企业登录</button>。</p>
+@@ -2830 +2832,14 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-        <div class="ac-orgapply"><span>还没有企业账户？</span><a class="ul" href="#enterprise" data-scrollto="enterprise-sales">申请开通 →</a></div>
++        <div id="acOrg" role="tabpanel" aria-labelledby="acTabO" hidden>
++          <div class="ac-methods" role="tablist" aria-label="企业登录方式"><button type="button" role="tab" id="acOmCode" aria-selected="true" data-om="code">邮箱验证码</button><button type="button" role="tab" id="acOmPw" aria-selected="false" tabindex="-1" data-om="pw">密码</button></div>
++          <form id="acOrgF" class="ac-auth-form" novalidate>
++            <div class="ac-f"><label for="acOrgU">工作邮箱</label><input class="in" id="acOrgU" type="email" autocomplete="username" autocapitalize="none" spellcheck="false" placeholder="管理员为你添加的工作邮箱"></div>
++            <div class="ac-f" data-omf="code"><label for="acOrgC">验证码</label><div class="ac-code"><input class="in" id="acOrgC" inputmode="numeric" autocomplete="one-time-code" placeholder="请输入验证码" maxlength="6"><button class="ac-send" id="acOrgSend" type="button">获取验证码</button></div></div>
++            <div class="ac-f" data-omf="pw" hidden><label for="acOrgPw">密码</label><input class="in" id="acOrgPw" type="password" autocomplete="current-password" placeholder="请输入密码"><p class="ac-help">忘记密码？<button class="ac-inl" type="button" data-om-go="code">用邮箱验证码登录</button>，登录后可以重设。</p></div>
++            <div class="ac-cross" id="acCrossO" role="status" hidden><span>这个邮箱没有企业账号，但有个人账号。</span><button class="ac-inl" type="button" data-cross="p">去个人登录 →</button></div>
++            <label class="ac-ok"><input id="acOrgAgree" type="checkbox"><span>我已阅读并同意<a class="ul" href="#terms" target="_blank" rel="noopener">用户服务协议</a>和<a class="ul" href="#privacy" target="_blank" rel="noopener">隐私政策</a></span></label>
++            <p class="ac-msg" id="acOrgMsg" role="alert"></p>
++            <button class="btn black full" type="submit">登录</button>
++          </form>
++          <p class="ac-help ac-orgnote">企业账号就是管理员为你添加的工作邮箱，不能在这里注册。个人用户请用<button class="ac-inl" type="button" data-to-tab="p">个人登录</button>。</p>
++          <div class="ac-orgapply"><span>还没有企业账户？</span><a class="ul" href="#enterprise" data-scrollto="enterprise-sales">申请开通 →</a></div>
++        </div>
+@@ -3176 +3191 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-          <div class="cs-f"><label for="rtOm">管理员邮箱</label><input class="in" id="rtOm" name="mail" type="email" autocomplete="off"><p class="cs-help">开通后给这个邮箱发通知；对方用邮箱登录，在左上角切换到企业即可。</p></div>
++          <div class="cs-f"><label for="rtOm">管理员邮箱</label><input class="in" id="rtOm" name="mail" type="email" autocomplete="off"><p class="cs-help">管理员的账号就是这个工作邮箱，第一次用邮箱验证码登录「企业登录」。</p></div>
+@@ -3209 +3224 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-        <div class="cs-hd"><div><h2>成员</h2><p>添加同事的邮箱，他们登录后在左上角切换到这个企业。额度和账单由企业账户统一管理；管理员可以管理成员、API Key 和账单，成员可以创建和使用自己的 API Key。</p></div></div>
++        <div class="cs-hd"><div><h2>成员</h2><p>添加同事的工作邮箱，他们就能用「企业登录」进入这个企业账户。额度和账单由企业账户统一管理；管理员可以管理成员、API Key 和账单，成员可以创建和使用自己的 API Key。</p></div></div>
+@@ -3212,2 +3227,2 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-        <form class="cs-newf" id="csInv" novalidate><input class="in" type="email" name="email" placeholder="同事的工作邮箱" aria-label="同事的工作邮箱" autocomplete="off"><select class="mk-sel" name="mrole" aria-label="角色"><option value="member">成员</option><option value="admin">管理员</option></select><button class="btn black sm" type="submit">添加</button><button class="btn gray sm" type="button" id="csInvLink">复制邀请链接</button></form>
+-        <p class="cs-help">同事已有账号的，加入后直接可用；没有账号的会收到邮件，用这个邮箱登录即自动加入。没有邮箱的同事可以用邀请链接。成员被移除后，他创建的 API Key 同时失效。</p>
++        <form class="cs-newf" id="csInv" novalidate><input class="in" type="email" name="email" placeholder="同事的工作邮箱" aria-label="同事的工作邮箱" autocomplete="off"><select class="mk-sel" name="mrole" aria-label="角色"><option value="member">成员</option><option value="admin">管理员</option></select><button class="btn black sm" type="submit">添加</button></form>
++        <p class="cs-help">成员的账号就是这个工作邮箱：第一次用邮箱验证码登录，之后可以设密码，也可以一直用验证码，忘记密码不用找人重置。成员被移除后，他创建的 API Key 同时失效。</p>
+@@ -4045 +4060 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-  function setAuthMethod(method){authMethod=method;clearAuthError();$('#acCode').value='';var phone=method==='phone';$('#acPhoneField').hidden=!phone;$('#acEmailField').hidden=phone;$('#acPhone').disabled=!phone;$('#acPhone').required=phone;$('#acEmail').disabled=phone;$('#acEmail').required=!phone;$$('[data-auth-method]').forEach(function(b){var on=b.dataset.authMethod===method;b.setAttribute('aria-selected',String(on));b.tabIndex=on?0:-1});$('#acCredentials').setAttribute('aria-labelledby',phone?'acPhoneTab':'acEmailTab');$('#acContinue').textContent='登录 / 注册'}
++  function setAuthMethod(method){authMethod=method;clearAuthError();$('#acCode').value='';var phone=method==='phone';$('#acPhoneField').hidden=!phone;$('#acEmailField').hidden=phone;$('#acPhone').disabled=!phone;$('#acPhone').required=phone;$('#acEmail').disabled=phone;$('#acEmail').required=!phone;$$('[data-auth-method]').forEach(function(b){var on=b.dataset.authMethod===method;b.setAttribute('aria-selected',String(on));b.tabIndex=on?0:-1});$('#acCredentials').setAttribute('aria-labelledby',phone?'acPhoneTab':'acEmailTab');$('#acContinue').textContent=phone?'登录 / 注册':'登录';$('#acFirst').hidden=!phone}
+@@ -4511 +4525,0 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-  Object.assign(I18N,{"未注册的手机号或邮箱验证后自动创建账户。企业成员用管理员添加的邮箱登录，进入后在左上角切换到企业。": "Unregistered phone numbers and emails get an account after verification. Organization members sign in with the email their admin added, then switch to the organization in the top-left menu.", "企业成员请用管理员添加的工作邮箱。": "Organization members: use the work email your admin added.", "请输入邮箱": "Enter your email", "还没有企业账户？": "No business account yet?", "申请开通 →": "Apply →", "添加同事的邮箱，他们登录后在左上角切换到这个企业。额度和账单由企业账户统一管理；管理员可以管理成员、API Key 和账单，成员可以创建和使用自己的 API Key。": "Add colleagues by email; after signing in they switch to this organization in the top-left menu. Allowance and billing are managed centrally; admins manage members, API keys and billing, members create and use their own API keys.", "同事已有账号的，加入后直接可用；没有账号的会收到邮件，用这个邮箱登录即自动加入。没有邮箱的同事可以用邀请链接。成员被移除后，他创建的 API Key 同时失效。": "Colleagues with an account can use it right away; others get an email and join automatically when they sign in with that address. Colleagues without email can use the invite link. When a member is removed, their API keys are disabled.", "开通后给这个邮箱发通知；对方用邮箱登录，在左上角切换到企业即可。": "We notify this email once the account is open; they sign in with it and switch to the organization in the top-left menu."});
+@@ -4744 +4758 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
+-  /* ======== 登录：一个入口，身份由 /me 决定；企业成员登录后在左上角切换（2026-10-15 定稿 B） ======== */
++  /* ======== 登录：个人 / 企业两个入口（2026-10-14） ======== */
+@@ -4749,0 +4764,21 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
++    /* 个人 / 企业切换，记住上次用的入口 */
++    function tab(t,focus){var org=t==='o'; $('#acPersonal').hidden=org; $('#acOrg').hidden=!org;
++      [['#acTabP','p'],['#acTabO','o']].forEach(function(x){var b=$(x[0]), on=x[1]===t; b.setAttribute('aria-selected',String(on)); b.tabIndex=on?0:-1});
++      try{localStorage.setItem('fp-login-tab',t)}catch(e){} if(focus) (org?$('#acOrgU'):$('#acTabP')).focus()}
++    $$('.ac-seg [data-tab]').forEach(function(b){b.addEventListener('click',function(){tab(b.getAttribute('data-tab'),false)});
++      b.addEventListener('keydown',function(e){if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault(); var t=b.getAttribute('data-tab')==='p'?'o':'p'; tab(t,false); $(t==='p'?'#acTabP':'#acTabO').focus()}})});
++    $$('[data-to-tab]').forEach(function(b){b.addEventListener('click',function(){tab(b.getAttribute('data-to-tab'),true)})});
++    var last='p'; try{last=localStorage.getItem('fp-login-tab')||'p'}catch(e){} tab(last==='o'?'o':'p',false);
++    /* 企业登录 */
++    var om='code';
++    function omSet(v){om=v; $$('#acOrg [data-om]').forEach(function(b){var on=b.getAttribute('data-om')===v; b.setAttribute('aria-selected',String(on)); b.tabIndex=on?0:-1}); $$('#acOrg [data-omf]').forEach(function(f){f.hidden=f.getAttribute('data-omf')!==v}); $('#acOrgMsg').textContent=''}
++    $$('#acOrg [data-om]').forEach(function(b){b.addEventListener('click',function(){omSet(b.getAttribute('data-om'))})});
++    $$('#acOrg [data-om-go]').forEach(function(b){b.addEventListener('click',function(){omSet(b.getAttribute('data-om-go')); $('#acOrgC').focus()})});
++    function orgMail(){var v=$('#acOrgU').value.trim(); if(!MAIL.test(v)){$('#acOrgMsg').textContent='请输入有效的工作邮箱。'; $('#acOrgU').focus(); return ''} return v}
++    $('#acOrgSend').addEventListener('click',function(){$('#acOrgMsg').textContent=''; if(!orgMail()) return; if(LIVE){svc('企业登录尚未开通。如需开通企业账户，请联系我们。');return} if(window.supCountdown) window.supCountdown(this)});
++    $('#acOrgF').addEventListener('submit',function(e){e.preventDefault(); var m=$('#acOrgMsg'); m.textContent='';
++      if(!orgMail()) return;
++      if(om==='code'&&!/^\d{6}$/.test($('#acOrgC').value.trim())){m.textContent='请输入 6 位验证码。'; $('#acOrgC').focus(); return}
++      if(om==='pw'&&!$('#acOrgPw').value){m.textContent='请输入密码。'; $('#acOrgPw').focus(); return}
++      if(!$('#acOrgAgree').checked){m.textContent='请先阅读并同意用户服务协议和隐私政策。'; return}
++      $('#acOrgPw').value=''; if(LIVE){svc('企业登录尚未开通。如需开通企业账户，请联系我们。');return} enter('admin')});
+@@ -4798,0 +4834,7 @@ html[lang="en"] .article.legal:before{content:"English translation of the Chines
++    /* 2 互相提示：平台查到这个手机号 / 邮箱属于另一类账号时，调用 acCrossHint('p') 或 acCrossHint('o') 显示提示 */
++    window.acCrossHint=function(where){var p=$('#acCrossP'), o=$('#acCrossO'); if(p) p.hidden=where!=='p'; if(o) o.hidden=where!=='o'};
++    ['#acPhone','#acEmail','#acOrgU'].forEach(function(k){var e=$(k); if(e) e.addEventListener('input',function(){window.acCrossHint('')})});
++    $$('[data-cross]').forEach(function(b){b.addEventListener('click',function(){var to=b.getAttribute('data-cross');
++      if(to==='o'){var v=($('#acEmail')&&$('#acEmail').value.trim())||''; var t=$('#acTabO'); if(t) t.click(); if(v) $('#acOrgU').value=v; $('#acOrgU').focus()}
++      else {var v2=$('#acOrgU').value.trim(); var t2=$('#acTabP'); if(t2) t2.click(); var et=$('#acEmailTab'); if(v2&&et){et.click(); $('#acEmail').value=v2} }
++      window.acCrossHint('')})});

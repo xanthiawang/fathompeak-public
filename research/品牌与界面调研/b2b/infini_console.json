@@ -1,0 +1,56 @@
+{
+ "title": "无问芯穹｜Agentic Infra平台",
+ "h": 900,
+ "header": [],
+ "footer": [],
+ "top": [
+  {
+   "t": "获取验证码",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(246, 246, 246)",
+   "c": "rgb(201, 199, 204)",
+   "r": "4px",
+   "y": 507
+  },
+  {
+   "t": "服务条款",
+   "h": "https://docs.infini-ai.com/support/terms-of-service.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(79, 25, 253)",
+   "r": "0px",
+   "y": 573
+  },
+  {
+   "t": "隐私政策",
+   "h": "https://docs.infini-ai.com/support/privacy.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(79, 25, 253)",
+   "r": "0px",
+   "y": 573
+  },
+  {
+   "t": "产品服务协议",
+   "h": "https://docs.infini-ai.com/legal/onetake-important-notice.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(79, 25, 253)",
+   "r": "0px",
+   "y": 573
+  },
+  {
+   "t": "登录",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(79, 25, 253)",
+   "c": "rgb(255, 255, 255)",
+   "r": "4px",
+   "y": 617
+  }
+ ],
+ "count": 5,
+ "lang": "en",
+ "url": "https://cloud.infini-ai.com/console"
+}

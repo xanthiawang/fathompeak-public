@@ -1,0 +1,113 @@
+/* 绿洲（2026-10-17 第二版）：用户后台里的一页，样式沿用控制台 .bt 体系（字体、线、白玻璃、黑胶囊）。
+   地图通栏；未开放区域只轻雾化 + 小标签，不放按钮；当前树状态放在地图底栏。蓝只给链接与当前态。
+   插画为 Codex 10-18 交付的 A 版蚀刻：场景 1536×1024，图集 5×2（每格接地点 50%/90%）。 */
+.oa{display:grid;grid-template-columns:minmax(0,1fr);min-width:0}
+.oa-map{border:1px solid var(--line);border-radius:16px;background:var(--card);overflow:hidden;box-shadow:var(--dia-sh);max-width:1080px}
+.oa-maphd{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:6px 8px 6px 16px;border-bottom:1px solid var(--line-2);font:400 11px var(--mono);letter-spacing:.08em;color:var(--ink-50)}
+.oa-maphd>div{display:flex;gap:2px}
+.oa-q{appearance:none;border:0;background:transparent;height:30px;padding:0 10px;border-radius:999px;font:400 12px var(--mono);letter-spacing:.04em;color:var(--ink-70);cursor:pointer}
+.oa-q:hover,.oa-q[aria-pressed="true"]{background:var(--gray-btn);color:var(--ink)}
+.oa-world{--oa-fe:72px;position:relative;width:100%;aspect-ratio:3/2;isolation:isolate;overflow:hidden;background:#E9E6DD}
+.oa-world>img{display:block;width:100%;height:100%;object-fit:cover;transition:filter .6s var(--ease)}
+.oa-world.night>img{filter:brightness(.74) saturate(.82)}
+/* 未开放区域：轻雾 + 顶部小标签，到时候自动开放 */
+.oa-fog{position:absolute;top:0;bottom:0;right:0;z-index:6;background:rgba(248,248,248,.42);-webkit-backdrop-filter:grayscale(.55) blur(1.5px);backdrop-filter:grayscale(.55) blur(1.5px);-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 calc(var(--oa-fe) * 2));mask-image:linear-gradient(90deg,transparent 0,#000 calc(var(--oa-fe) * 2));pointer-events:none}
+.oa-chip{position:absolute;top:18px;transform:translateX(-50%);z-index:7;font:400 11px var(--mono);letter-spacing:.04em;color:var(--ink-70);background:var(--glass);border:1px solid var(--glass-line);border-radius:999px;padding:4px 10px;white-space:nowrap;pointer-events:none}
+.oa-tree,.oa-plot,.oa-bub{position:absolute;border:0;background:none;padding:0;cursor:pointer}
+.oa-tree{width:16%;aspect-ratio:1;transform:translate(-50%,-90%);z-index:3}
+.oa-p0{left:12%;top:78%}.oa-p1{left:24%;top:60%}.oa-p2{left:44%;top:78%}.oa-p3{left:56%;top:60%}.oa-p4{left:76%;top:78%}.oa-p5{left:88%;top:60%}
+/* 前排坑（y 78%）的树压在后排之上 */
+.oa-p0.oa-tree,.oa-p2.oa-tree,.oa-p4.oa-tree{z-index:4}.oa-p1.oa-tree,.oa-p3.oa-tree,.oa-p5.oa-tree{z-index:3}
+.oa-art{display:block;width:100%;aspect-ratio:1;background-repeat:no-repeat;background-size:500% 200%;background-position:var(--col,100%) 0}
+.oa-art.rare{background-position:var(--col,100%) 100%}
+.oa-tree .oa-art{animation:oa-breeze 7s ease-in-out infinite;transform-origin:50% 90%;pointer-events:none}
+.oa-tree:nth-of-type(even) .oa-art{animation-duration:8.2s;animation-delay:-2.8s}
+.oa-tree:hover .oa-art,.oa-tree:focus-visible .oa-art{animation-play-state:paused}
+@keyframes oa-breeze{0%,100%{transform:rotate(-.65deg)}50%{transform:rotate(.65deg)}}
+.oa-cap{position:absolute;left:50%;bottom:-12px;transform:translateX(-50%);max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:2px 9px;border-radius:999px;background:var(--glass);border:1px solid var(--line);font:400 11px var(--sans);color:var(--ink);opacity:0;transition:opacity .2s var(--ease)}
+.oa-tree:hover .oa-cap,.oa-tree:focus-visible .oa-cap,.oa-tree.cur .oa-cap{opacity:1}
+.oa-tree.cur .oa-cap{background:#000;border-color:#000;color:#fff}
+.oa-plot{height:40px;padding:0 16px 0 12px;transform:translate(-50%,-50%);border-radius:999px;display:flex;align-items:center;gap:6px;white-space:nowrap;background:var(--glass);border:1px solid rgba(255,255,255,.85);box-shadow:var(--dia-sh2);font:500 14px var(--sans);color:var(--ink);z-index:3}
+.oa-plot span{font:300 20px/1 var(--sans)}
+.oa-plot:hover{background:#fff}
+/* 能量球：白玻璃小圆，轻轻浮动；点一下收进当前树 */
+.oa-bub{width:44px;height:44px;transform:translate(-50%,-50%);border-radius:50%;display:grid;place-items:center;background:radial-gradient(circle at 35% 30%,#fff 0,rgba(255,255,255,.92) 45%,rgba(227,236,248,.92) 100%);border:1px solid rgba(255,255,255,.95);box-shadow:0 6px 16px -6px rgba(47,99,184,.45),0 0 0 4px rgba(255,255,255,.28);z-index:7;animation:oa-float 3.6s ease-in-out infinite;transition:transform .2s var(--ease)}
+.oa-bub b{font:500 13px var(--mono);color:var(--ink)}
+.oa-bub:hover{transform:translate(-50%,-50%) scale(1.08)}
+@keyframes oa-float{0%,100%{margin-top:0}50%{margin-top:-6px}}
+.oa-still .oa-tree .oa-art,.oa-still .oa-bub{animation:none}
+@media (prefers-reduced-motion:reduce){.oa-tree .oa-art,.oa-bub,.oa-reveal .oa-art{animation:none!important}}
+/* 地图底栏：正在长的树 */
+.oa-foot{display:flex;align-items:center;gap:14px;padding:12px 16px;border-top:1px solid var(--line)}
+.oa-foot>.oa-art{width:52px;flex:none}
+.oa-fi{flex:1;min-width:0;display:grid;gap:4px}
+.oa-fi b{font:500 15px var(--sans)}
+.oa-fi span{font-size:13px;color:var(--ink-70)}
+.oa-fi .bt-track{max-width:260px;margin:2px 0 0}
+.oa-fi .bt-track>i{display:block;height:100%;border-radius:inherit;background:linear-gradient(90deg,var(--mist-1,#A9C3E8),var(--blue-2,#5284D7));transition:width .4s var(--ease)}
+.oa-fa{flex:none}
+.oa-ico{width:44px;height:44px;flex:none;display:grid;place-items:center;border-radius:14px;border:1px solid var(--line);background:var(--wash-soft);color:var(--peak,#4E3F66)}
+.oa-ico svg{width:22px;height:22px}
+/* 能量从哪来 */
+.oa-src{display:grid;border:1px solid var(--line-2);border-radius:16px;background:var(--wash-soft);overflow:hidden;max-width:1080px}
+.oa-srow{display:flex;align-items:center;gap:16px;padding:14px 18px}
+.oa-srow+.oa-srow{border-top:1px solid rgba(61,49,79,.1)}
+.oa-srow>div{flex:1;min-width:0;display:grid;gap:2px}
+.oa-srow b{font:500 15px var(--sans)}
+.oa-amt{flex:none;width:44px;height:44px;display:grid;place-items:center;border-radius:50%;background:rgba(255,255,255,.8);border:1px solid rgba(255,255,255,.95);font:500 14px var(--mono);color:var(--ink)}
+.oa-srow .bt-a{flex:none;font-size:14px}
+/* 图鉴 */
+.cs-h3 .oa-cnt{font:400 12px var(--mono);color:var(--ink-50);margin-left:6px}
+.oa-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;max-width:1080px}
+.oa-card{border:1px solid var(--line);border-radius:16px;background:var(--card);padding:16px 16px 18px;display:grid;gap:6px;justify-items:center;text-align:center;align-content:start}
+.oa-card>.oa-art{width:120px}
+.oa-card.locked>.oa-art{filter:brightness(0) opacity(.12)}
+.oa-card h4{margin:0;font:400 20px/1.2 var(--serif);letter-spacing:-.01em;font-variation-settings:"opsz" 144}
+.oa-card p{margin:0;font-size:13px;color:var(--ink-70);text-wrap:balance}
+.oa-card .oa-cnt{font:400 12px var(--mono);color:var(--ink-50)}
+.oa-tag{font:400 11px var(--mono);letter-spacing:.06em;border-radius:999px;padding:3px 9px;background:var(--gray-btn);color:var(--ink-70)}
+/* 记录 */
+.oa-log{list-style:none;margin:0;padding:0 18px;border:1px solid var(--line);border-radius:16px;background:var(--card);max-width:1080px}
+.oa-log li{display:grid;grid-template-columns:8px minmax(0,1fr) auto;gap:4px 12px;align-items:baseline;padding:12px 0;border-bottom:1px solid var(--line-2)}
+.oa-log li:last-child{border-bottom:0}
+.oa-log i{width:6px;height:6px;border-radius:50%;background:var(--blue-2,#5284D7);align-self:center}
+.oa-log b{font:500 14px var(--sans)}
+.oa-log span{grid-column:2;font-size:13px;color:var(--ink-70)}
+.oa-log time{grid-column:3;grid-row:1;font:400 12px var(--mono);color:var(--ink-50);white-space:nowrap}
+.oa-more{margin-top:10px}
+/* 弹层 */
+.oa-acts{display:flex;gap:8px;flex-wrap:wrap}
+.oa-dlgb{padding:16px 22px 22px;display:grid;gap:12px;font-size:14.5px}
+.oa-dlgb p{margin:0;color:var(--ink-70)}
+.oa-reveal{display:grid;justify-items:center;text-align:center;gap:8px}
+.oa-reveal .oa-art{width:180px;animation:oa-arrive .65s cubic-bezier(.22,1,.36,1)}
+.oa-reveal .oa-acts{justify-content:center}
+@keyframes oa-arrive{from{opacity:.3;scale:.9}to{opacity:1;scale:1}}
+.oa-dlgb .in{width:100%}
+.oa-srcl{border-top:1px solid var(--line);padding-top:10px;display:grid;gap:2px;font-size:14px}
+.oa-srcl span{color:var(--ink-70);font-size:13px}
+.oa-srcl time{font:400 12px var(--mono);color:var(--ink-50)}
+.oa-rule h4{margin:8px 0 0;font:500 15px var(--sans);color:var(--ink)}
+/* 侧栏角标、概览右栏入口、钱包代金券 */
+.cs-nav [data-p="oasis"] .oa-n{margin-left:auto}
+.oa-rail i svg{color:var(--icon,#4E3F66)}
+.oa-wallet{display:grid;gap:10px}
+.oa-wallet>div{display:flex;align-items:center;gap:12px;border:1px dashed var(--frame,rgba(61,49,79,.22));border-radius:16px;background:var(--card);padding:14px 16px;font-size:14px}
+.oa-wallet>div>span:first-of-type{flex:1}
+.oa-wallet small{display:block;font-size:12.5px;color:var(--ink-50)}
+@media (max-width:700px){
+  .oa-cap{font-size:10.5px;max-width:110px}
+  .oa-bub{width:36px;height:36px}
+  .oa-bub b{font-size:12px}
+  .oa-chip{font-size:10.5px;padding:3px 8px;letter-spacing:0}
+  .oa-chipx{display:none}
+  .oa-chip{top:10px}
+  .oa-world{--oa-fe:28px}
+  .oa-plot{height:34px;padding:0 12px 0 9px;font-size:12.5px}
+  .oa-foot{flex-wrap:wrap}
+  .oa-fa{width:100%}
+  .oa-fa .btn{width:100%}
+  .oa-srow{flex-wrap:wrap}
+  .oa-srow .bt-a{margin-left:60px}
+  .oa-log time{grid-column:2;grid-row:auto}
+}

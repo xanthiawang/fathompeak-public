@@ -1,0 +1,175 @@
+<title>沐仞品牌设计待办清单</title>
+<style>
+/* 布局：单栏清单页。四个阶段各一张状态表；之后是图形与动效方向、字体方案两节；白底 */
+:root{ --bg:#FFFFFF; --fg:#0F172A; --muted:#475569; --line:#CBD5E1; --card:#F5F8FC; --navy:#102A43; --accent:#0B7285; --accent-soft:#E2F1F3;
+  --done:#0B7285; --draft:#164E65; --todo:#94A3B8; --block:#7C3A00; --block-soft:#FBEFE3;
+  --sans:"PingFang SC","Hiragino Sans GB",-apple-system,"Noto Sans SC",sans-serif; --mono:"IBM Plex Mono","SF Mono",Menlo,monospace }
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --bg:#0B1E31; --fg:#F5F8FC; --muted:#A8B8C8; --line:#2A4158; --card:#102A43; --navy:#F5F8FC; --accent:#169FB0; --accent-soft:#143A4A; --draft:#88C5CF; --todo:#64748B; --block:#F2A93B; --block-soft:#3A2A14; color-scheme:dark } }
+:root[data-theme="dark"]{ --bg:#0B1E31; --fg:#F5F8FC; --muted:#A8B8C8; --line:#2A4158; --card:#102A43; --navy:#F5F8FC; --accent:#169FB0; --accent-soft:#143A4A; --draft:#88C5CF; --todo:#64748B; --block:#F2A93B; --block-soft:#3A2A14; color-scheme:dark }
+*{box-sizing:border-box} body{background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.6}
+.wrap{max-width:1040px;margin:0 auto;padding-inline:16px;padding-block:32px 72px}
+h1,h2,h3{margin:0;line-height:1.3;text-wrap:balance;color:var(--navy)} h1{font-size:28px} h2{font-size:21px;margin-top:44px;padding-top:18px;border-top:1px solid var(--line)} h3{font-size:16px;margin-top:22px}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+.lead{color:var(--muted);max-width:70ch;margin:8px 0 0}
+.summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:22px}
+.tile{border:1px solid var(--line);border-radius:8px;padding:12px 14px;background:var(--card)} .tile b{display:block;font:600 26px var(--mono);color:var(--navy)} .tile span{font-size:12px;color:var(--muted)}
+table{border-collapse:collapse;width:100%;font-size:13.5px;margin-top:12px} th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top} th{color:var(--muted);font-weight:500;font-size:12px}
+td:first-child{font-weight:500;color:var(--navy);min-width:130px} td.src{color:var(--muted);font-size:12px;min-width:120px}
+.tbl{overflow-x:auto}
+.pill{display:inline-block;font:500 11px var(--mono);border-radius:4px;padding:2px 7px;white-space:nowrap;border:1px solid currentColor}
+.pill.done{color:#fff;background:var(--done);border-color:var(--done)} .pill.draft{color:var(--draft)} .pill.todo{color:var(--todo)} .pill.block{color:var(--block);background:var(--block-soft);border-color:transparent}
+.rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-top:14px}
+.rule{border:1px solid var(--line);border-radius:8px;padding:14px 16px;background:var(--card)} .rule h3{margin:0 0 6px;font-size:15px} .rule p,.rule li{font-size:13.5px;color:var(--muted);margin:0} .rule ul{margin:6px 0 0;padding-left:18px}
+.yes,.no{font-size:13.5px;margin:10px 0 0;padding-left:18px} .yes li::marker{color:var(--done)} .no li::marker{color:var(--block)}
+.spec{border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-top:14px;background:var(--bg)}
+.spec .hd{font:500 12px var(--mono);color:var(--muted);padding:8px 12px;background:var(--card);border-bottom:1px solid var(--line)}
+.spec .bd{padding:18px 20px;display:grid;gap:10px}
+.spec .h{font-size:34px;font-weight:900;line-height:1.2;letter-spacing:-.01em;color:var(--navy)} .spec .h em{font-style:normal;color:var(--accent)}
+.spec .p{font-size:15px;max-width:60ch} .spec .m{font:500 14px var(--mono);font-variant-numeric:tabular-nums;color:var(--accent)} .spec .s{font-size:12px;color:var(--muted)}
+.note{font-size:13px;color:var(--muted);margin-top:12px}
+code{font:12px var(--mono);color:var(--accent)}
+@media (max-width:640px){ h1{font-size:24px} td:first-child{min-width:0} }
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">沐仞科技 · 品牌与产品设计 · 待办清单 · 2026-10-12</p>
+  <h1>从产品到品牌、视觉、营销：做了什么，还缺什么</h1>
+  <p class="lead">对照学过的三套材料：COM 521 的营销步骤链、COMMLD 510A 的内容设计流程、LifeWire 设计交接稿的结构。状态分四种：已完成、有草稿待确认、未开始、待公司决策（设计端做不了主的）。</p>
+  <div class="summary">
+    <div class="tile"><b>6</b><span>已完成</span></div>
+    <div class="tile"><b>12</b><span>有草稿，待确认或验证</span></div>
+    <div class="tile"><b>22</b><span>未开始</span></div>
+    <div class="tile"><b>7</b><span>待公司决策</span></div>
+  </div>
+
+  <h2>一、产品与定位</h2>
+  <p class="lead">这一层决定后面所有设计的输入。多数项目设计端只能提建议，需要公司拍板。</p>
+  <div class="tbl"><table>
+    <tr><th>事项</th><th>状态</th><th>现状 / 缺口</th><th>依据</th></tr>
+    <tr><td>目标用户</td><td><span class="pill draft">草稿待验证</span></td><td>假设为个人开发者、一人公司、AI 创作者；没有访谈，没有 persona。普通消费者不是第一阶段对象。</td><td class="src">COM 521 W2 研究 → 细分 → persona</td></tr>
+    <tr><td>价值主张</td><td><span class="pill draft">草稿待确认</span></td><td>"高峰平价 + 绿电可追溯 + 主流模型一站接入"。高峰平价对个人订单是否成立、能碳账单是否对小额订单开放，未确认。</td><td class="src">Brand Identity Matrix</td></tr>
+    <tr><td>定价公开与口径</td><td><span class="pill block">待公司决策</span></td><td>竞品全部公开定价（¥/百万 Token，输入 / 输出 / 缓存三列）；现网把价格藏在"获取特价"后。中文 BP 与英文册的价格叙事相反。</td><td class="src">竞品 UX 调研 §2.3</td></tr>
+    <tr><td>看板数据真实性</td><td><span class="pill block">待公司决策</span></td><td>"实时词元交易看板"是唯一竞品没有的元素，能否做品牌签名取决于数据是否真实。</td><td class="src">竞品调研图文板</td></tr>
+    <tr><td>名称统一</td><td><span class="pill block">待公司决策</span></td><td>同时存在 沐仞科技 / FathomPeak TECH / 沐仞词元平台 / 拼好算。建议中文"沐仞"、英文"FathomPeak"，"拼好算"去留另定。</td><td class="src">品牌方向 §5</td></tr>
+    <tr><td>信息架构（导航）</td><td><span class="pill draft">草稿待确认</span></td><td>现网 8 项含供给侧概念。建议：模型市场 · 峰谷价格 · 文档 · 电站网络 · 控制台；供给侧移到"电站合作"二级入口。</td><td class="src">竞品 UX 调研 §2.1</td></tr>
+    <tr><td>核心用户流程</td><td><span class="pill todo">未开始</span></td><td>注册 → 实名 → 充值 → 获取 Key → 首次调用 → 账单。每一步的页面、文案、报错、空状态都没画。</td><td class="src">510A 良性循环 / 客户旅程</td></tr>
+    <tr><td>手机端首页故障</td><td><span class="pill block">待公司决策</span></td><td>iPhone 模拟下首页 iframe 不渲染，只剩导航和页脚。需真机复核后修复。</td><td class="src">mobile/fp_home</td></tr>
+    <tr><td>域名与证书</td><td><span class="pill block">待公司决策</span></td><td>BP 上印的 fathompeak.tech 证书 2026-10-02 过期；.cn 正常。联系邮箱为 163.com。</td><td class="src">第一轮调研</td></tr>
+    <tr><td>文档站与接入体验</td><td><span class="pill todo">未开始</span></td><td>竞品文档统一为左目录 + ⌘K 搜索 + 可复制 curl + llms.txt。现网文档页未能抓到有效内容，需单独核查。</td><td class="src">竞品 UX 调研 §2.4</td></tr>
+  </table></div>
+
+  <h2>二、品牌</h2>
+  <div class="tbl"><table>
+    <tr><th>事项</th><th>状态</th><th>现状 / 缺口</th><th>依据</th></tr>
+    <tr><td>品牌故事</td><td><span class="pill draft">草稿待确认</span></td><td>现状 → 冲突 → 解决 已写（谷电浪费 / 峰时昂贵 / 调算找电）。"FathomPeak = 深谷 + 山峰"的解读需创始人确认命名本意。</td><td class="src">COM 521 W1 / Module 1</td></tr>
+    <tr><td>Brand Love 定位</td><td><span class="pill todo">未开始</span></td><td>需要团队成员各自在"关系成熟度 × 喜爱程度"上标点，设计端做不了。</td><td class="src">Module 1</td></tr>
+    <tr><td>品牌句 / tagline</td><td><span class="pill draft">草稿待确认</span></td><td>候选「让每一度绿电都算数」「谷时发电，峰时平价」。上线前需商标与重名检索。</td><td class="src">品牌方向 §5</td></tr>
+    <tr><td>Brand Identity Matrix</td><td><span class="pill draft">草稿待确认</span></td><td>九宫格已初填（使命、价值主张、人格、表达等），每格都标了待确认点。</td><td class="src">Mud Bay / Salt & Straw 期末案例</td></tr>
+    <tr><td>Persona（2 个）</td><td><span class="pill todo">未开始</span></td><td>只有假设。需 5–8 个个人开发者访谈，记录任务、当前工具、付费方式、放弃原因。</td><td class="src">Module 2</td></tr>
+    <tr><td>Centrality–Distinctiveness 定位</td><td><span class="pill draft">草稿待验证</span></td><td>起点 Unconventional 象限，做"有绿色凭证的第二供应商"。需用户访谈验证。</td><td class="src">COM 521 W2–3</td></tr>
+    <tr><td>竞品分析</td><td><span class="pill done">已完成</span></td><td>12 个站点的视觉、UX、定价、文档、手机端、色彩重合度、过渡手法。图文板 42 页。</td><td class="src">Module 3 / 510A 竞品分析</td></tr>
+    <tr><td>Brand SWOT</td><td><span class="pill draft">草稿待验证</span></td><td>C 端视角已列，W 和 T 里有多项需要访谈与法务确认。</td><td class="src">Module 3</td></tr>
+    <tr><td>Voice Chart</td><td><span class="pill draft">草稿待测试</span></td><td>三个语气属性（清晰可核、务实可靠、绿色但不说教）× 六个维度已写。没有拿真实页面测试过。</td><td class="src">510A W6 / Strategic Writing for UX p19</td></tr>
+    <tr><td>术语表</td><td><span class="pill todo">未开始</span></td><td>词元 / Token、平价窗口、绿电账单、成交节点、减排效益等，每个词的中英文写法、首次出现规则、禁用说法。</td><td class="src">510A W5 "动笔时的问题"</td></tr>
+    <tr><td>内容规范</td><td><span class="pill todo">未开始</span></td><td>标题长度、列表、链接文字、CTA 数量、阅读难度、图片与 alt 文本。LifeWire 内容指南可直接套结构。</td><td class="src">LifeWire Content Update Guide</td></tr>
+  </table></div>
+
+  <h2>三、视觉设计</h2>
+  <p class="lead">按设计交接稿的顺序：工具 → 情绪板 → 色卡 → 字体 → 按钮 → 导航 → 页脚 → 首页 → 素材 → 备注。</p>
+  <div class="tbl"><table>
+    <tr><th>事项</th><th>状态</th><th>现状 / 缺口</th><th>依据</th></tr>
+    <tr><td>设计工具与文件</td><td><span class="pill todo">未开始</span></td><td>没有 Figma 文件。目前所有东西都在 HTML demo 里。需要建 Figma 文件、变量（tokens）、组件库，开 Dev Mode。</td><td class="src">交接稿 p3</td></tr>
+    <tr><td>情绪板</td><td><span class="pill todo">未开始</span></td><td>需要电站、一体机、集装箱实拍。BP 里的图都标注为示意图，不能用。每个颜色要写含义（交接稿 p4 的做法）。</td><td class="src">交接稿 p4</td></tr>
+    <tr><td>色卡</td><td><span class="pill done">已完成</span></td><td>方案 A（深海蓝→能源青）与方案 B（LifeWire 紫 + 青），主色 / 辅色 / 灰阶，白底对比度全部标注，过渡带与光斑规则已定。待选 A 或 B。</td><td class="src">交接稿 p5 / demo v4</td></tr>
+    <tr><td>字体</td><td><span class="pill todo">未开始</span></td><td>demo 里的 Noto Sans SC + IBM Plex Mono 是占位。没有中文字体决策、授权核对、字号层级（H1–H6、导航、正文、小字、数字）、行高、中英文混排规则。见第六节方案。</td><td class="src">交接稿 p6</td></tr>
+    <tr><td>Logo 系统</td><td><span class="pill draft">草稿待确认</span></td><td>品牌规范 V1 用了方框山峰 logo（来自宣传册）。缺：中英文组合、横版 / 竖版、最小尺寸、安全区、单色版、深色底版、favicon、社交头像。</td><td class="src">品牌规范 V1</td></tr>
+    <tr><td>按钮</td><td><span class="pill done">已完成</span></td><td>主 / 悬停 / 次级 / 线框 / 禁用五态，白底与深色底两版，渐变与阴影参数在 demo 里。</td><td class="src">交接稿 p7</td></tr>
+    <tr><td>导航（网页 + 手机）</td><td><span class="pill todo">未开始</span></td><td>demo 只有一条示意导航。缺：悬停态、二级菜单、手机汉堡菜单与手风琴、登录态。</td><td class="src">交接稿 p8–11</td></tr>
+    <tr><td>页脚（网页 + 手机）</td><td><span class="pill draft">草稿</span></td><td>demo 里有一条渐变页脚带，没有完整页脚（链接分组、备案号、联系方式、订阅框、手机单列）。</td><td class="src">交接稿 p12</td></tr>
+    <tr><td>首页设计</td><td><span class="pill draft">草稿</span></td><td>首屏与交易看板已做；首屏之下（怎么运作、电站网络、案例、接入步骤、页脚）没有。</td><td class="src">交接稿 p13</td></tr>
+    <tr><td>其他页面模板</td><td><span class="pill todo">未开始</span></td><td>模型市场列表与详情、峰谷价格页、文档页、注册 / 登录、控制台（Key、用量、账单）、电站网络 / 关于。demo 里只有市场卡片和定价表的片段。</td><td class="src">竞品 UX 调研</td></tr>
+    <tr><td>组件库其余部分</td><td><span class="pill todo">未开始</span></td><td>输入框、下拉、表格（排序、分页）、chip、提示、弹窗、空状态、骨架屏、报错。demo 有 chip、提示框、表格样式片段。</td><td class="src">510A W5 规则</td></tr>
+    <tr><td>图形语言</td><td><span class="pill draft">方向已定</span></td><td>见第五节。缺实际绘制：曲线组件规范、"怎么运作"线稿图、图标集。</td><td class="src">竞品风格调研 §1</td></tr>
+    <tr><td>动效规范</td><td><span class="pill draft">方向已定</span></td><td>见第五节。缺时长 / 缓动表、减少动态偏好处理、性能预算的落地。</td><td class="src">竞品风格调研 §1</td></tr>
+    <tr><td>素材与授权</td><td><span class="pill todo">未开始</span></td><td>图标来源、实拍授权与可公开范围、字体授权。交接稿 p14–16 的做法是每张素材附来源链接。</td><td class="src">交接稿 p14–16</td></tr>
+    <tr><td>无障碍</td><td><span class="pill draft">部分</span></td><td>对比度已算。缺：焦点态、键盘可达、alt 文本、屏幕阅读顺序、动态减少偏好。</td><td class="src">510A W4 包容性设计</td></tr>
+    <tr><td>深色模式</td><td><span class="pill todo">未开始</span></td><td>现网外壳有深色开关。品牌色在深色底上的用法（能源青在深海蓝上 4.62 AA）只在旧版 demo 试过。</td><td class="src">—</td></tr>
+    <tr><td>品牌物料延伸</td><td><span class="pill draft">部分</span></td><td>已有：A4 宣传单 V2/V3。缺：PPT 模板（BP 换版）、公众号头图与排版、名片、邮件签名、OG 分享图、展会物料。</td><td class="src">线下宣传单页_2026-10-11</td></tr>
+    <tr><td>设计交接稿</td><td><span class="pill todo">未开始</span></td><td>把以上整理成交接稿给开发：每个组件的尺寸、间距、状态、代码片段。</td><td class="src">交接稿全稿</td></tr>
+  </table></div>
+
+  <h2>四、营销</h2>
+  <div class="tbl"><table>
+    <tr><th>事项</th><th>状态</th><th>现状 / 缺口</th><th>依据</th></tr>
+    <tr><td>SMART 目标与 GSOTM</td><td><span class="pill draft">骨架</span></td><td>五层结构写了，数字全部空着，等公司给出口径。</td><td class="src">COM 521 W4</td></tr>
+    <tr><td>Campaign Brief</td><td><span class="pill draft">骨架</span></td><td>GET / WHO / TO / BY 任务句已写；缺交付物清单、时间、预算、KPI 数值、团队分工。</td><td class="src">Module 4</td></tr>
+    <tr><td>信息层级与 CTA</td><td><span class="pill todo">未开始</span></td><td>IMC 八步里"信息层级"排在"渠道组合"前。需定：一句主张、三个支撑点、每个渠道的 CTA。</td><td class="src">COM 521 W6 IMC</td></tr>
+    <tr><td>渠道组合（PESO）</td><td><span class="pill draft">草稿</span></td><td>按预热 / 上线 / 持续 / 收尾四阶段列了渠道；没有每个渠道的目标、预算、负责人。海外版未做。</td><td class="src">Module 6 / Salt & Straw p18</td></tr>
+    <tr><td>Hero–Hub–Help 内容</td><td><span class="pill draft">草稿</span></td><td>三层各列了候选（纪录片、周报、接入文档等），没有 Owned / Earned / Paid 比例、没有内容日历。</td><td class="src">Module 8</td></tr>
+    <tr><td>创意概念</td><td><span class="pill todo">未开始</span></td><td>品牌句之外，没有活动级的创意概念和参考情绪板。</td><td class="src">Module 8 第 1 项</td></tr>
+    <tr><td>Innovator's DNA + 新闻稿</td><td><span class="pill todo">未开始</span></td><td>可用来推"绿色词元账单"或"年度绿色词元报告"这类新提案。</td><td class="src">Module 7</td></tr>
+    <tr><td>制作日历与 GTM</td><td><span class="pill todo">未开始</span></td><td>概念 → 制作 → 预热 → 上线 → 评估 五阶段，没有排期。</td><td class="src">Salt & Straw p23–28</td></tr>
+    <tr><td>KPI 与负向指标</td><td><span class="pill draft">草稿</span></td><td>漏斗指标已列（曝光 → 注册 → 首调 → 首付 → 留存），负向指标也列了；没有埋点方案和目标值。</td><td class="src">510A W7</td></tr>
+    <tr><td>预算</td><td><span class="pill block">待公司决策</span></td><td>人员 / 制作 / 投放 / PR 四项空着。</td><td class="src">Module 4、6</td></tr>
+    <tr><td>营销技术栈</td><td><span class="pill todo">未开始</span></td><td>CRM、邮件、埋点分析、内容管理工具未选。</td><td class="src">HubSpot 模板</td></tr>
+    <tr><td>案例与证言</td><td><span class="pill todo">未开始</span></td><td>BP 里的案例都是匿名加示意图。按作品集结构（问题、角色、约束、结果、指标）整理可公开的客户案例。</td><td class="src">Holland 讲座案例结构</td></tr>
+    <tr><td>合规审查</td><td><span class="pill block">待公司决策</span></td><td>广告法绝对化用语、生成式 AI 面向公众服务备案、实名、跨境数据，需法务确认后才能对外推广。</td><td class="src">—</td></tr>
+    <tr><td>最终提案 deck</td><td><span class="pill todo">未开始</span></td><td>按两份期末汇报的目录结构（团队 → 故事 → 定位 → 受众 → 创意 → 内容 → 渠道 → 排期 → KPI → 预算）向公司汇报。</td><td class="src">Muddy Buddy / Group 4</td></tr>
+  </table></div>
+
+  <h2>五、图形与动效：怎么换</h2>
+  <p class="lead">竞品分三种做法：国内 AI 平台用装饰性 3D（玻璃体、等轴测芯片、紫光粒子），海外开发者平台用数据当图形（规模数字、模型列表、价格表），能源公司用实景加线稿。沐仞横跨后两种，不碰第一种。</p>
+
+  <h3>图形语言：三层</h3>
+  <div class="rules">
+    <div class="rule"><h3>1 · 数据图形（主语言）</h3><p>峰谷曲线、实时交易看板、绿电账单、电站地图。这些都是业务里真实存在的东西，竞品抄不走。</p><ul><li>曲线：1.5–2.2px 描边，颜色取自品牌过渡带；面积填充用品牌色 50% → 0 的竖向渐变；窗口用状态色 28% → 0。</li><li>数字一律等宽、tabular-nums，带单位。</li><li>曲线的"峰"形状和 logo 的山峰呼应，可以作为品牌签名图形反复出现：加载骨架、空状态、分享图、公众号头图。</li></ul></div>
+    <div class="rule"><h3>2 · 等轴测线稿（解释结构）</h3><p>用来讲"调算找电"怎么运作：电站 → 一体机 → 交易平台 → 用户。参考 Crusoe 首页的微电网线稿。</p><ul><li>单色线稿，1.5px，品牌深色；关键节点用状态色点亮。</li><li>只画有信息的东西：光伏板、风机、集装箱、机架、网络连线。不画抽象芯片城市。</li><li>线稿可以带一个从右上照进来的光斑，和首屏一致。</li></ul></div>
+    <div class="rule"><h3>3 · 实拍（建立可信）</h3><p>电站、一体机、集装箱、团队现场。用于"电站网络"、关于、案例页。</p><ul><li>白底版不用黑色压暗；用从文字一侧向外的 白 → 透明 淡出遮罩（PPIO 把插画融进页面的做法），文字落在白色一侧。</li><li>照片统一冷色调，去掉过饱和的蓝天；不用人物摆拍类库存图。</li><li>前提：公司提供实拍和可公开范围。</li></ul></div>
+  </div>
+  <ul class="no">
+    <li>不用：3D 玻璃立方体、紫光粒子、AI 大脑 / 芯片插画、自动轮播 banner、首屏视频（无问芯穹首页 11 段视频、354 张图，是反面参考）。</li>
+    <li>不用：把两个饱和色直接拼在一起；品牌色与状态色之间永远留白或用光斑过渡。</li>
+  </ul>
+
+  <h3>动效规范：只在数据变化的地方动</h3>
+  <div class="rules">
+    <div class="rule"><h3>一个 hero 时刻</h3><p>首屏加载时曲线用约 1.2 秒从左到右画出，画到正午时平价窗口亮起，看板第一行随后进入。这就是"谷→峰"的故事动画。只在首屏做一次，其他地方不重复。</p></div>
+    <div class="rule"><h3>三种常规动效</h3><ul><li>数据进场：看板新成交行从下方 6px 淡入，数字滚动到位，150–400ms。</li><li>状态变化：平价窗口开启时标签从状态色浅底过渡到带圆点的"开启"态；"现在"刻度线在曲线上随时间移动。</li><li>悬停与焦点：卡片上浮 2px 加柔光，按钮渐变加深，120–180ms。</li></ul></div>
+    <div class="rule"><h3>参数与约束</h3><ul><li>时长 120–500ms，缓动 ease-out；页面级只用一次 1.2s 的绘制。</li><li>滚动进场只做 6px 淡入，不做视差、不做横向飞入。</li><li>全部遵守 <code>prefers-reduced-motion</code>，关闭时直接显示终态。</li><li>技术：CSS + SVG，曲线绘制用 stroke-dashoffset；不引入 GSAP / Three.js。首页首屏资源预算 1.5MB 以内，不放视频。</li><li>加载骨架和空状态复用曲线的轮廓，不用灰色方块。</li></ul></div>
+  </div>
+
+  <h2>六、字体：下一步要做的</h2>
+  <p class="lead">字体是现在最大的缺口。demo 里的 Noto Sans SC 和 IBM Plex Mono 只是占位。竞品里，国内平台多用系统字体或 Roboto，智谱用 MiSans；海外平台用自定义字体加等宽字体做数字标签（Together、Crusoe）。沐仞的页面以数字和价格为主，等宽数字是必须的。</p>
+  <div class="tbl"><table>
+    <tr><th>角色</th><th>候选</th><th>授权</th><th>说明</th></tr>
+    <tr><td>中文正文与标题</td><td>思源黑体 / Noto Sans SC</td><td>SIL OFL，可商用</td><td>最稳，字重齐全（有 Black 做首屏标题）。缺点是"太常见"。</td></tr>
+    <tr><td></td><td>MiSans</td><td>小米声明可免费商用，需核对条款</td><td>智谱在用；字形更窄更现代，与数字搭配好。</td></tr>
+    <tr><td></td><td>HarmonyOS Sans SC</td><td>华为声明可免费商用，需核对条款</td><td>字腔开阔，屏幕上清晰；有中等字重做 UI。</td></tr>
+    <tr><td></td><td>阿里巴巴普惠体 3.0</td><td>免费商用</td><td>偏圆润，和"工程、可核验"的人格稍有距离。</td></tr>
+    <tr><td>英文与界面</td><td>IBM Plex Sans / Source Sans 3 / Public Sans</td><td>均为 OFL</td><td>Public Sans 是现网外壳在用的；Plex Sans 与 Plex Mono 同家族最省事。Inter 不建议，它是 AI 生成页面的默认脸。</td></tr>
+    <tr><td>数字与价格</td><td>IBM Plex Mono / JetBrains Mono</td><td>OFL</td><td>表格、账单、看板、代码块全部用它，开 tabular-nums。</td></tr>
+  </table></div>
+
+  <h3>字号层级（起草，等字体定了再微调）</h3>
+  <div class="spec"><div class="hd">桌面 / 手机 · 字重 · 行高</div><div class="bd">
+    <div class="h">H1 44 / 32 · 900 · 1.2 <em>峰时平价</em></div>
+    <div style="font-size:28px;font-weight:700;line-height:1.25;color:var(--navy)">H2 28 / 24 · 700 · 1.25</div>
+    <div style="font-size:20px;font-weight:700;line-height:1.3;color:var(--navy)">H3 20 / 18 · 700 · 1.3</div>
+    <div class="p">正文 16 / 15 · 400 · 1.65，一行不超过 65 个汉字。次级文字 14，小字 12，用石墨灰。</div>
+    <div class="m">数字与价格 · Mono 14–16 · 500 · tabular-nums · ¥2.58 / M · −3.72 kg</div>
+    <div class="s">导航 14 · 500；按钮 14 · 500；chip 与标签 11–12 · Mono 500。中英文之间留一个空格；全角标点；数字用半角。</div>
+  </div></div>
+  <p class="note">建议做法：像色彩 demo 一样做一页字体样张，把 2–3 组候选（例如 思源黑体 + Plex Mono、MiSans + Plex Mono、HarmonyOS Sans + JetBrains Mono）套在同一组真实内容上（首屏、模型卡、定价表、账单、文档段落），桌面和手机各看一遍再定。定了之后再把字号层级、行高、字间距写进交接稿。</p>
+  <p class="note"><span class="pill draft">样张已做，待选</span> 2026-10-12：字体样张在 <code>demo/沐仞字体样张_2026-10-12.html</code>，顶部切换四组（① 思源黑体 + Plex Sans + Plex Mono，② MiSans + Plex Mono，③ HarmonyOS Sans + JetBrains Mono，④ Fraunces + 思源宋 / DM Sans + 思源黑 / DM Mono，即 diabrowser.com 衬线标题体系的开源映射，全在 Google Fonts），同一组内容套字号层级，桌面与 390px 截图在 <code>demo/type_specimen_shots/</code>。本机没装 MiSans 与 HarmonyOS Sans，② ③ 目前显示系统中文字体回退；从官网下载后运行 <code>demo/embed_fonts_2026-10-12.py</code> 内嵌子集，再截图、再定。</p>
+
+  <h2>七、建议的顺序</h2>
+  <ol class="yes">
+    <li>字体样张（设计端可直接做），同时向公司要三样东西：A / B 方案选择、实拍素材、看板数据是否真实。</li>
+    <li>图形语言落地：曲线组件、"怎么运作"线稿、首页首屏之下的区块。</li>
+    <li>Figma 文件与组件库：把 demo 里的 token、按钮、chip、表格、卡片搬进去，补导航、页脚、输入框、空状态。</li>
+    <li>页面模板：首页全页、模型市场、峰谷价格、文档、注册 / 登录、控制台。</li>
+    <li>内容：术语表、Voice Chart 测试、三个关键触点的改写前后对比。</li>
+    <li>设计交接稿。</li>
+    <li>营销：访谈 → persona → brief 填数 → 渠道与内容日历 → 提案 deck。</li>
+  </ol>
+</div>

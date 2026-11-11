@@ -1,0 +1,87 @@
+<title>沐仞品牌调研进度</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* 布局：单栏报告，两张交付卡片各带缩略图，底部待确认清单 */
+:root{ --bg:#FFFFFF; --fg:#0F172A; --muted:#475569; --line:#CBD5E1; --card:#F5F8FC; --navy:#102A43; --accent:#0B7285; --accent-soft:#E6F5F7;
+  --sans:"Noto Sans SC","PingFang SC","Hiragino Sans GB",system-ui,sans-serif; --mono:"IBM Plex Mono",Menlo,monospace }
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --bg:#0B1E31; --fg:#F5F8FC; --muted:#A8B8C8; --line:#2A4158; --card:#102A43; --navy:#F5F8FC; --accent:#169FB0; --accent-soft:#143A4A; color-scheme:dark } }
+:root[data-theme="dark"]{ --bg:#0B1E31; --fg:#F5F8FC; --muted:#A8B8C8; --line:#2A4158; --card:#102A43; --navy:#F5F8FC; --accent:#169FB0; --accent-soft:#143A4A; color-scheme:dark }
+*{box-sizing:border-box} body{background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.65}
+.wrap{max-width:860px;margin:0 auto;padding-inline:16px;padding-block:32px 64px}
+h1,h2,h3{margin:0;line-height:1.3;text-wrap:balance;color:var(--navy)} h1{font-size:28px} h2{font-size:20px} h3{font-size:16px}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+.lead{color:var(--muted);margin:10px 0 0;max-width:65ch}
+.deliv{display:grid;gap:22px;margin-top:32px}
+.card{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--bg)}
+.card .hd{padding:18px 20px 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:baseline}
+.card .num{font:500 12px var(--mono);color:var(--accent)}
+.card .bd{padding:12px 20px 18px}
+.card p{margin:0 0 10px;max-width:68ch} .card ul{margin:8px 0 0;padding-left:20px} .card li{margin-bottom:4px}
+.links{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0 4px}
+.btn{display:inline-flex;align-items:center;gap:6px;border-radius:6px;padding:8px 14px;font:500 14px var(--sans);text-decoration:none;color:#fff;background:var(--accent)}
+.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.thumbs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;background:var(--card);padding:14px 20px;border-top:1px solid var(--line)}
+.thumbs figure{margin:0;min-width:0} .thumbs img{width:100%;aspect-ratio:16/10;object-fit:cover;object-position:top;border:1px solid var(--line);border-radius:4px;display:block;background:#fff}
+.thumbs figcaption{font-size:11px;color:var(--muted);margin-top:4px}
+.path{font:12px var(--mono);color:var(--muted);word-break:break-all}
+.pending{margin-top:32px;border-left:3px solid var(--accent);background:var(--accent-soft);padding:14px 18px;border-radius:0 8px 8px 0}
+.pending ol{margin:6px 0 0;padding-left:20px} .pending li{margin-bottom:4px}
+.note{font-size:13px;color:var(--muted);margin-top:24px}
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">沐仞科技 · 品牌调研 · 2026-10-12</p>
+  <h1>两项交付：竞品图文板与白底版色彩 Demo</h1>
+  <p class="lead">竞品调研改为图文对照，每张截图标注页面地址和采集日期；色彩 Demo 按要求改为白色为最大底色。两个链接目前只有你能打开，要给别人看需要在页面的 Share 菜单里开权限。</p>
+
+  <div class="deliv">
+    <section class="card">
+      <div class="hd"><h2>1 · 竞品调研图文板</h2><span class="num">42 页 · 60 张截图 · 12 个站点</span></div>
+      <div class="bd">
+        <p>沐仞自身加 11 家竞品，每家一个章节：色卡、字体、首屏文案，以及首页、模型市场、定价、文档、登录页和手机端的截图。开头一页首页总览与六条结论，结尾有手机端横向对比、UX 结构对比表和色彩重合度表。</p>
+        <ul>
+          <li>这次补抓了智谱和 Kimi 的首页、硅基流动和 OpenRouter 的登录页，以及 Together、无问芯穹、DeepSeek、Kimi、Emerald、Soluna 的手机端。</li>
+          <li>桌面截图为 1440 宽首页起 2400px；手机端为 390 宽 iPhone 模拟。原始 PNG 和样式数据在 data/、ux/、ux_home/、mobile/、mobile2/、extra/。</li>
+        </ul>
+        <div class="links"><a class="btn" href="https://claude.ai/artifact/HGRdk5iaZhCuBCoCTJNV49">打开网页版</a><span class="btn ghost">PDF 已发到对话并在本机打开</span></div>
+        <div class="path">本地：沐仞科技/品牌竞品调研_2026-10-12/竞品调研图文板_2026-10-12.pdf</div>
+      </div>
+      <div class="thumbs">
+        <figure><img src="board_assets/data_00b_fathompeak_home_iframe.jpg" alt="沐仞现网首页"><figcaption>沐仞现网首页</figcaption></figure>
+        <figure><img src="board_assets/data_02_ppio.jpg" alt="PPIO 首页"><figcaption>PPIO</figcaption></figure>
+        <figure><img src="board_assets/data_04_openrouter.jpg" alt="OpenRouter 首页"><figcaption>OpenRouter</figcaption></figure>
+        <figure><img src="board_assets/data_06_crusoe.jpg" alt="Crusoe 首页"><figcaption>Crusoe</figcaption></figure>
+        <figure><img src="board_assets/ux_sf_pricing_top.jpg" alt="硅基流动价格页"><figcaption>硅基流动 价格</figcaption></figure>
+        <figure><img src="board_assets/mobile_or_models.jpg" alt="OpenRouter 手机端模型列表"><figcaption>OpenRouter 手机端</figcaption></figure>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="hd"><h2>2 · 色彩 Demo 白底版</h2><span class="num">同一链接 · 第 2 版</span></div>
+      <div class="bd">
+        <p>五块画板（官网首屏、模型市场、峰谷定价与账单、组件、手机首屏）全部改为白底，顶部可在方案 A 与方案 B 之间切换。</p>
+        <ul>
+          <li>深海蓝只用于标题文字和页脚那一条，不再做大面积背景。</li>
+          <li>交易看板放在雾白色条上，与首屏分区；曲线、卡片、账单改为白底加细边框。</li>
+          <li>方案 B 的琥珀只做填充（曲线的高峰窗口、"平价"标签底色、账单边线），文字一律用深琥珀 #9A5B00。</li>
+          <li>第二部手机屏改为模型列表页，展示手机端卡片与筛选。</li>
+        </ul>
+        <div class="links"><a class="btn" href="https://claude.ai/artifact/AcsvsFU7yPHD76TUzSFcgk">打开 Demo</a></div>
+        <div class="path">本地：沐仞科技/品牌竞品调研_2026-10-12/demo/沐仞品牌色彩Demo_2026-10-12.html</div>
+      </div>
+    </section>
+  </div>
+
+  <div class="pending">
+    <h3>仍待你确认</h3>
+    <ol>
+      <li>fathompeak.cn 手机端首页是否真的空白（iPhone 模拟下 iframe 未渲染，需真机复核）。</li>
+      <li>首页"实时词元交易看板"的数据是否真实，决定它能否做品牌签名元素。</li>
+      <li>导航是否精简为：模型市场、峰谷价格、文档、电站网络、控制台。</li>
+      <li>是否接受"方案 A 为基线，琥珀只作平价窗口 / 减排 / 绿电三类信息的状态色"。</li>
+    </ol>
+  </div>
+
+  <p class="note">相关文档：竞品品牌调研与品牌方向_2026-10-12.md（第一轮结论与色卡方案）、竞品风格_UX_UI调研与Demo结论_2026-10-12.md（风格、UX / UI 与 Demo 评估）。</p>
+</div>

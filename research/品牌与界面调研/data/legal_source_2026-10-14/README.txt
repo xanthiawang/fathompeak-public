@@ -1,0 +1,1 @@
+Fetched 2026-10-14 01:32 CST from https://test.admin.fathompeak.cn/api/privacy-policy and /api/user-agreement (both versions dated 2026-09-03). legal_en.json = English translation, index-aligned with legal_zh_keys.json.

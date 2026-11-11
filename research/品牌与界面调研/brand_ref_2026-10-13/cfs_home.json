@@ -1,0 +1,355 @@
+{
+ "title": "Home | Commonwealth Fusion Systems",
+ "h": 4712,
+ "header": [
+  {
+   "t": "Commonwealth Fusion Systems",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 35
+  },
+  {
+   "t": "Technology",
+   "h": "/technology/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for technology ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "Company",
+   "h": "/company/story/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for company ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "News & Media",
+   "h": "https://blog.cfs.energy/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for news & media ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "Locations",
+   "h": "/devens-campus/overview/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for locations ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "Careers",
+   "h": "/careers/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  }
+ ],
+ "footer": [
+  {
+   "t": "Twitter",
+   "h": "http://twitter.com/cfs_energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(207, 109, 70)",
+   "r": "0px",
+   "y": 4112
+  },
+  {
+   "t": "LinkedIn",
+   "h": "https://www.linkedin.com/company/11076301/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(207, 109, 70)",
+   "r": "0px",
+   "y": 4112
+  },
+  {
+   "t": "Youtube",
+   "h": "http://youtube.com/c/CommonwealthFusionSystems",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(207, 109, 70)",
+   "r": "0px",
+   "y": 4112
+  },
+  {
+   "t": "Instagram",
+   "h": "https://www.instagram.com/cfs.energy/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(207, 109, 70)",
+   "r": "0px",
+   "y": 4112
+  },
+  {
+   "t": "Apply Now",
+   "h": "https://jobs.lever.co/cfsenergy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4087
+  },
+  {
+   "t": "press@cfs.energy",
+   "h": "mailto:press@cfs.energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4352
+  },
+  {
+   "t": "info@cfs.energy",
+   "h": "mailto:info@cfs.energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4428
+  },
+  {
+   "t": "investment@cfs.energy",
+   "h": "mailto:investment@cfs.energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4504
+  },
+  {
+   "t": "Join our mailing list",
+   "h": "https://energy.us7.list-manage.com/subscribe?u=2e7db0453a9549603d236a816&id=2789c5b009",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4552
+  },
+  {
+   "t": "Company",
+   "h": "/company/our-mission/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4324
+  },
+  {
+   "t": "Technology",
+   "h": "/technology/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4352
+  },
+  {
+   "t": "Press Releases",
+   "h": "/news-and-media/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4380
+  },
+  {
+   "t": "Privacy Policy",
+   "h": "/privacy-policy/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4408
+  },
+  {
+   "t": "Careers",
+   "h": "/careers/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4436
+  },
+  {
+   "t": "Blog",
+   "h": "https://blog.cfs.energy/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 4464
+  }
+ ],
+ "top": [
+  {
+   "t": "Commonwealth Fusion Systems",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 35
+  },
+  {
+   "t": "Technology",
+   "h": "/technology/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for technology ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "Company",
+   "h": "/company/story/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for company ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "News & Media",
+   "h": "https://blog.cfs.energy/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for news & media ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "Locations",
+   "h": "/devens-campus/overview/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Show submenu for locations ↓",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(207, 109, 70)",
+   "r": "50%",
+   "y": 110
+  },
+  {
+   "t": "Careers",
+   "h": "/careers/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 36
+  },
+  {
+   "t": "Privacy policy",
+   "h": "/privacy-policy/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(207, 109, 70)",
+   "r": "0px",
+   "y": 800
+  },
+  {
+   "t": "DECLINE",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(255, 255, 255, 0.7)",
+   "r": "0px",
+   "y": 830
+  },
+  {
+   "t": "ACCEPT",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(207, 109, 70)",
+   "c": "rgb(16, 28, 41)",
+   "r": "0px",
+   "y": 830
+  }
+ ],
+ "count": 30,
+ "lang": "en",
+ "url": "https://cfs.energy/"
+}

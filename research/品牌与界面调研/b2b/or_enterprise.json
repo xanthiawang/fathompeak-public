@@ -1,0 +1,733 @@
+{
+ "title": "Enterprise AI Infrastructure Made Simple | OpenRouter",
+ "h": 5528,
+ "header": [
+  {
+   "t": "Skip to content",
+   "h": "#skip",
+   "tag": "a",
+   "bg": "rgb(252, 252, 254)",
+   "c": "rgb(118, 36, 244)",
+   "r": "0px",
+   "y": -1
+  },
+  {
+   "t": "Search ⌘ K",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Models",
+   "h": "/models",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Models",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Benchmarks",
+   "h": "/benchmarks",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Benchmarks",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Chat",
+   "h": "/chat",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Chat",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Rankings",
+   "h": "/rankings",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Rankings",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Apps",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Ori",
+   "h": "/ori",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Ori",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Pricing",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Pricing",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Docs",
+   "h": "/docs/quickstart",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Docs",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Sign Up",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(118, 36, 244)",
+   "c": "rgb(252, 252, 254)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Theme: System",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  }
+ ],
+ "footer": [
+  {
+   "t": "Chat",
+   "h": "/chat",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4856
+  },
+  {
+   "t": "Rankings",
+   "h": "/rankings",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4887
+  },
+  {
+   "t": "Benchmarks",
+   "h": "/benchmarks",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4918
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4949
+  },
+  {
+   "t": "Discover",
+   "h": "/discover",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4979
+  },
+  {
+   "t": "Models",
+   "h": "/models",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5010
+  },
+  {
+   "t": "Ori",
+   "h": "/ori",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5041
+  },
+  {
+   "t": "Collections",
+   "h": "/collections",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5072
+  },
+  {
+   "t": "Providers",
+   "h": "/providers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5102
+  },
+  {
+   "t": "Tools",
+   "h": "/tools",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5133
+  },
+  {
+   "t": "Pricing",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5164
+  },
+  {
+   "t": "Business",
+   "h": "/business",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5195
+  },
+  {
+   "t": "Enterprise",
+   "h": "/enterprise",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5225
+  },
+  {
+   "t": "Labs",
+   "h": "/labs",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5256
+  },
+  {
+   "t": "About",
+   "h": "/about",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4856
+  },
+  {
+   "t": "Blog",
+   "h": "/blog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4887
+  },
+  {
+   "t": "Careers Hiring",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4918
+  },
+  {
+   "t": "Privacy",
+   "h": "/privacy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4949
+  },
+  {
+   "t": "Terms of Service",
+   "h": "/terms",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4979
+  },
+  {
+   "t": "Trust Center",
+   "h": "https://trust.openrouter.ai/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5010
+  },
+  {
+   "t": "Support",
+   "h": "/support",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5041
+  },
+  {
+   "t": "Works With OR",
+   "h": "/works-with-openrouter",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5072
+  },
+  {
+   "t": "Data",
+   "h": "/data",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5102
+  },
+  {
+   "t": "Brand",
+   "h": "/brand",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5133
+  },
+  {
+   "t": "Documentation",
+   "h": "/docs",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4856
+  },
+  {
+   "t": "API Reference",
+   "h": "/docs/api_reference/overview",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4887
+  },
+  {
+   "t": "Developer Platform",
+   "h": "/developers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4918
+  },
+  {
+   "t": "Status",
+   "h": "https://status.openrouter.ai",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4949
+  },
+  {
+   "t": "AI Site Map",
+   "h": "/for-ai",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4979
+  },
+  {
+   "t": "Discord",
+   "h": "https://discord.gg/fVyRaUDgxW",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4856
+  },
+  {
+   "t": "GitHub",
+   "h": "https://github.com/OpenRouterTeam",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4887
+  },
+  {
+   "t": "LinkedIn",
+   "h": "https://www.linkedin.com/company/104068329",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4918
+  },
+  {
+   "t": "X",
+   "h": "https://twitter.com/openrouter",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4949
+  },
+  {
+   "t": "YouTube",
+   "h": "https://www.youtube.com/@OpenRouterAI",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 4979
+  },
+  {
+   "t": "Subscribe",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(118, 36, 244)",
+   "c": "rgb(252, 252, 254)",
+   "r": "6px",
+   "y": 5352
+  },
+  {
+   "t": "Privacy Policy",
+   "h": "/privacy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 5448
+  }
+ ],
+ "top": [
+  {
+   "t": "Skip to content",
+   "h": "#skip",
+   "tag": "a",
+   "bg": "rgb(252, 252, 254)",
+   "c": "rgb(118, 36, 244)",
+   "r": "0px",
+   "y": -1
+  },
+  {
+   "t": "Search ⌘ K",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Models",
+   "h": "/models",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Models",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Benchmarks",
+   "h": "/benchmarks",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Benchmarks",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Chat",
+   "h": "/chat",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Chat",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Rankings",
+   "h": "/rankings",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Rankings",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Apps",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Ori",
+   "h": "/ori",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Ori",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Pricing",
+   "h": "/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Pricing",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Docs",
+   "h": "/docs/quickstart",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "0px",
+   "y": 12
+  },
+  {
+   "t": "Docs",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Sign Up",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(118, 36, 244)",
+   "c": "rgb(252, 252, 254)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "Theme: System",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "6px",
+   "y": 12
+  },
+  {
+   "t": "See ElevenLabs models",
+   "h": "/elevenlabs",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(3, 90, 222)",
+   "r": "0px",
+   "y": 69
+  },
+  {
+   "t": "Dismiss",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(3, 8, 10, 0.69)",
+   "r": "4px",
+   "y": 67
+  },
+  {
+   "t": "Contact sales",
+   "h": "/enterprise/form",
+   "tag": "a",
+   "bg": "rgb(118, 36, 244)",
+   "c": "rgb(252, 252, 254)",
+   "r": "6px",
+   "y": 455
+  },
+  {
+   "t": "Provider looking to list models?",
+   "h": "/docs/guides/providers/integration",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(3, 8, 10)",
+   "r": "0px",
+   "y": 515
+  }
+ ],
+ "count": 74,
+ "lang": "en-US",
+ "url": "https://openrouter.ai/enterprise"
+}

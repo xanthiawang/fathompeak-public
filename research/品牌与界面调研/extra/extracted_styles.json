@@ -1,0 +1,239 @@
+{
+ "zhipu_home": {
+  "url": "https://open.bigmodel.cn/",
+  "title": "智谱丨BigModel 平台",
+  "bodyFont": "MiSans",
+  "counts": {
+   "video": 0,
+   "canvas": 3,
+   "svg": 2,
+   "img": 29,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 1,
+   "keyframes": 0,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": false,
+  "nav": [
+   "GLM-5.3",
+   "GLM-5.3-Flash",
+   "GLM-5.2",
+   "GLM-5.1",
+   "全部模型",
+   "个人版套餐",
+   "团队版套餐",
+   "MCP 服务",
+   "模型微调",
+   "知识库",
+   "快速开始",
+   "API文档",
+   "模型概览",
+   "更新日志",
+   "套餐概览",
+   "使用须知",
+   "常见问题",
+   "模型体验"
+  ],
+  "ctas": [
+   "登录 / 注册 [#131212]"
+  ],
+  "inputs": [
+   "text:开始探索"
+  ],
+  "h1": "不止模型，构建可信智能",
+  "h2": [
+   "不止模型，构建可信智能",
+   "旗舰模型家族，覆盖全场景",
+   "从模型到产品，一站式完成",
+   "与全球创新者同行，领先一步",
+   "让机器像人一样思考",
+   "功能",
+   "文档",
+   "价格",
+   "公司",
+   "功能",
+   "文档",
+   "价格"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "ZHIPU·AI",
+   "ZHIPU·AI",
+   "大模型",
+   "智谱AI",
+   "智谱AI",
+   "智谱AI",
+   "智谱AI",
+   "智谱AI",
+   "智谱AI",
+   "智谱AI"
+  ],
+  "bodyText": "研究 产品 文档 体验 定价 支持 控制台 登录 / 注册 不止模型，构建可信智能 GLM-5.3 最新旗舰模型，编程体验提升 50%，部分网络安全能力持平 Mythos 5 立即体验 GLM-5.3-FlashX 原生多模态模型，推理速度最高可达 200 tokens/s，更快、更流畅的交互体验 立即体验 GLM Coding Plan 由智谱旗舰模型 GLM-5.3 驱动，深度适配主流 Coding 工具，复杂软件工程与 Agent 任务能力全面进阶 立即订阅 旗舰模型家族，覆盖全场景 旗舰模型 GLM-5.3 GLM-5.3 在复杂软件工程、终端操作和更广泛的 Agent任务上进步显著，并在效果和 Token 利用率之间平衡更佳 立即查看 原生多模态基座 GLM-5.3-Flash 全新原生多模态架构，深度理解图像、视频等多模态内容，自主完成研究分析、文档制作等复杂专业任务 立即查看 图像生成 GLM-Image 文字渲染开源SOTA，海报、科普图等图文混合场景表现佳 立即查看 视觉模型 GLM-OCR 轻量专业的 OCR 模型，又准又省，轻松搞定复杂文档解析 立即查看 语音识别 GLM-ASR 实时高精度语音转写，多场景、多语言表现出色，快速又可靠 立即查看 语音合成 GLM-TTS 超拟人语音合成，塑造生动自然、富感染力的听觉体验 立即查看 查看全部模型 从模型到产品，一站式完成 智能体 联网搜索 MCP 知识库 模型微调 智能体（Agent） 智能体市场：精选智能体，直击千行百业真需求 一键接入：API 直连生产环境，无缝融入业务全流程 立即查看 与全球创新者同行，领先一步 让机器像人一样思考 预约咨询 功能 控制台 模型广场 体验中心 智能体 MCP服务 模型微调 知识库 文档 模型概览 快速开始 开发指南 API文档 场景示例 更新日志 常见问题 价格 API价格 编程套餐 特惠专区 公司 公司简介 新闻动态 加入我们 联系方式 售前电话：400-6883-991 商务合作： 立即预约咨询 售前咨询 BigModel 公众号 京ICP备20011824号-14 Copyright © 2026 北京智谱华章科技股份有限公司 遇到问题了？说说看 AskZ 咨询",
+  "captured_at": "2026-10-12 13:44:36 +0800"
+ },
+ "moonshot_home": {
+  "url": "https://platform.kimi.com/",
+  "title": "Kimi API 开放平台",
+  "bodyFont": "ui-sans-serif",
+  "counts": {
+   "video": 1,
+   "canvas": 0,
+   "svg": 19,
+   "img": 39,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 15,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "使用手册",
+   "价格",
+   "企业订阅",
+   "联系销售",
+   "开发工作台",
+   "用户中心"
+  ],
+  "ctas": [
+   "登录 [#FFFFFF]"
+  ],
+  "inputs": [],
+  "h1": "模型即服务 创新快人一步",
+  "h2": [
+   "最新模型",
+   "官方工具即插即用",
+   "复杂场景快速处理",
+   "与创新企业同行",
+   "快速开始使用"
+  ],
+  "priceHits": [
+   "¥20.00",
+   "¥100.00",
+   "¥20.00",
+   "¥2.00",
+   "¥6.50",
+   "¥27.00",
+   "¥1.30",
+   "¥6.50",
+   "¥27.00",
+   "¥1.10"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "Vercel",
+   "Trickle",
+   "TRAE",
+   "Kilo Code",
+   "OpenRouter",
+   "Windsurf",
+   "Youware",
+   "Flowith",
+   "GenSpark",
+   "Xiaohongshu"
+  ],
+  "bodyText": "使用手册 价格 企业订阅 联系销售 开发工作台 用户中心 登录 🎉 Kimi K3 旗舰模型已正式发布，快来体验吧！ Kimi 大模型开放平台 模型即服务 创新快人一步 开始构造 深受数百万专业开发者信赖 最新模型 无论任务大小，我们的模型都能精准匹配——速度与性能的黄金组合，一步到位 K3 Kimi K3 是 Kimi 迄今能力最强的旗舰模型，支持 1M tokens 上下文窗口，面向软件工程、知识工作和深度推理等前沿智能场景而设计。 输入 ¥20.00 / MTok 输出 ¥100.00 / MTok 缓存写入 ¥20.00 / MTok 缓存命中 ¥2.00 / MTok K2.7 Code Kimi K2.7 Code 是 Kimi 的 Coding 模型，在长上下文中更可靠地遵循指令，能以更高的成功率完成编程任务，支持 256k tokens 上下文窗口。 输入 ¥6.50 / MTok 输出 ¥27.00 / MTok 缓存命中 ¥1.30 / MTok K2.6 Kimi K2.6 是通用模型，支持视觉与文本输入、思考与非思考模式、对话与编程 Agent 任务，支持 256k tokens 上下文窗口。 输入 ¥6.50 / MTok 输出 ¥27.00 / MTok 缓存命中 ¥1.10 / MTok 官方工具即插即用 无论场景繁简，官方工具集都能无缝衔接——稳定与便捷的双重保障，开箱即用 查看文档 联网搜索 Web Search 联网搜索工具使大模型可以调用最新资讯，引用权威来源，让结果可验证，更前沿 Rethink 智能整理想法工具 Random-Choice 随机选择工具 Memory 记忆存储和检索系统工具，支持对话历史、用户偏好等数据的的持久化 Excel Excel和CSV文件的分析工具 Code-Runner Python代码执行工具 Quick Js 使用QuickJS引擎安全执行JavaScript代码的工具 Date 日期时间处理工具 Fetch URL内容提取markdown格式化工具 Convert 单位转换工具，支持物理学单位和货币的单位换算 Base 64 编码与解码工具 复杂场景快速处理 打破场景边界，工具生态一应俱全——通用能力与垂直模型的完美融合，面面俱到 智能体编程 专为复杂的软件自动化工程而生。基于 Kimi K3 面向长程编程的旗舰能力与 1M token 上下文，Kimi 可驱动自主编程智能体完成代码调试、重构及多步骤开发，精准度与工程能力可比肩 Claude。 深度研究与分析 以连贯的逻辑应对长程复杂任务。借助 Kimi K3 的深度推理与多步工具调用能力，Kimi 化身专家级 AI 研究助理，能为科研辅助、定价与竞对分析、加密货币项目评估等提供战略洞察。 法律与合规智能 优化高严谨性场景的文档工作流。Kimi 针对高风险场景优化严谨性，在合同自动审核、专利权利要求分析与撰写等任务中，严格遵守法律术语规范与逻辑结构，确保输出专业性。 对话洞察与分析 挖掘非结构化对话数据的深层价值。Kimi 擅长高保真对话挖掘，从心理咨询对话质量评估、舆情分析监控到客户意图与关键信息提取，能敏锐捕捉语言深层含义。 与创新企业同行 打破资源边界，核心价值实现指数增长——机遇与资本的精准对接，共同成就 腾讯云代码助手 CodeBuddy 集成 Kimi K3 作为底层模型，提供代码补全、单元测试自动生成及 Bug 修复等核心能力，帮助开发者解决复杂的编程任务，提升研发效率。 #软件开发 在 AI 眼镜的生活类场景测试中，Kimi K3 展现了出色的语义理解能力、扎实而广泛的知识储备，以及精准可靠的视觉识别表现。语言风格清晰自然，兼具专业度与亲和力。 #AIforLife AI for Science 独角兽公司深势科技见证了 Kimi K3 在化学文献理解领域的卓越实力——在 RxnBench 双榜单中均位列 Top 2，与 Gemini-3、GPT-5.2 等顶尖闭源模型并驾齐驱，更对其他开源模型形成了断层式领先。 #AIforScience K3 被用于游戏功能/系统开发、游戏 UI/界面开发等场景，具备解决复杂问题的能力，其多模态能力也较为出色，属于行业第一梯队。 #AI游戏 晶泰科技集成 Kimi K3 模型深度赋能 AI for Science 场景，凭借对复杂化学表达式和科研图表的卓越解析力，助力研究员快速洞察前沿进展，显著缩短文献研读路径，加速药物与材料研发效率。 #AIforScience 值得买科技依托一站式大模型平台 OpenHubs 首批接入 Kimi K3，将其应用于复杂编码任务场景，显著提升一次性问题解决的正确率；同时，通过 OpenHubs 为企业客户开放 Kimi K3 等多模型能力，提供统一接入、调用管理、用量统计与模型切换等服务，助力企业 AI 应用创新。 #AI消费服务 快速开始使用 打破资源边界，核心价值实现指数增长——机遇与资本的精准对接，共同成就 自助充值 按量付费 适合个人开发者&中小团队 灵活按量计费：支持按需按量扣费，成本透明可控 极速便捷接入：一键调用 Kimi 模型，零门槛开箱即用 阶梯权益体系：基于累计充值金额动态提升限速等级 开始构造 专业定制 企业服务 适合中大型企业&特殊需求 高性能保障：弹性限速配额和多项目架构 安全合规无忧： SLA保障，满足数据合规和隐私要求 专属技术支持： 优先技术响应和模型效果调优 企业认证 联系我们 联系客服 开发者交流群 官方公众号 条款与协议 平台服务协议 用户服务协议 用户隐私协议 充值协议 公司 Moonshot 官网 Kimi Kimi Code Kimi 企业订阅 © 2026 北京月之暗面科技有限公司 京ICP备202301130 2号-3 | 京公网安备11010802043150号",
+  "captured_at": "2026-10-12 13:44:57 +0800"
+ },
+ "sf_signup": {
+  "url": "https://account.siliconflow.cn/zh/login",
+  "title": "硅基流动统一登录",
+  "bodyFont": "ui-sans-serif",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 6,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 6,
+   "keyframes": 182,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [],
+  "ctas": [
+   "注册 / 登录 [#6E29F6]",
+   "微信登录 [#FFFFFF]",
+   "邮箱登录 [#FFFFFF]"
+  ],
+  "inputs": [
+   "search:",
+   "text:您的手机号",
+   "text:短信验证码",
+   "text:邀请码（仅支持手机注册，选填）",
+   "checkbox:agree",
+   "checkbox:keep"
+  ],
+  "h1": "硅基流动",
+  "h2": [
+   "欢迎登录 SiliconFlow"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "SiliconFlow",
+   "SiliconFlow"
+  ],
+  "bodyText": "CN 硅基流动 加速 AGI 普惠人类 1 个 API，100+ 主流模型轻松调用 低延迟 高并发 高性价比 中国最大的 独立词元供应平台 * 超 1,000 万用户、13,000 家企业客户的选择 * 按2025年的词元年吞吐量计 欢迎登录 SiliconFlow +86 0秒后重发 我同意 平台使用协议 和 隐私政策 注册 / 登录 30天内保持登录 微信登录 邮箱登录",
+  "captured_at": "2026-10-12 13:45:14 +0800"
+ },
+ "or_signin": {
+  "url": "https://openrouter.ai/sign-in",
+  "title": "Sign In | OpenRouter",
+  "bodyFont": "\"Plus Jakarta Sans\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 11,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 3,
+   "keyframes": 24,
+   "animatedNow": 2
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "Skip to content",
+   "Models",
+   "Benchmarks",
+   "Chat",
+   "Rankings",
+   "Apps",
+   "Ori",
+   "Pricing",
+   "Docs"
+  ],
+  "ctas": [
+   "Search ⌘ K [#FFFFFF]",
+   "Sign Up [#7624F4]",
+   "Continue [#7624F4]"
+  ],
+  "inputs": [
+   "search:",
+   "text:Enter your email address",
+   "password:Enter your password"
+  ],
+  "h1": "Sign In",
+  "h2": [],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "OpenRouter",
+   "OpenRouter"
+  ],
+  "bodyText": "Skip to content Search ⌘ K Models Benchmarks Chat Rankings Apps Ori Pricing Docs Sign Up ElevenLabs launch offer: every ElevenLabs model is 50% off through October 19, 2026. See ElevenLabs models Dismiss Sign In or Email address Password Continue Use passkey instead Don’t have an account? Sign up",
+  "captured_at": "2026-10-12 13:45:32 +0800"
+ }
+}

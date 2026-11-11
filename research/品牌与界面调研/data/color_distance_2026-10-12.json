@@ -1,0 +1,121 @@
+{
+ "V1 深海蓝": [
+  [
+   12.4,
+   "Together dark blue",
+   "#010120"
+  ],
+  [
+   21.5,
+   "Emerald dark green",
+   "#253023"
+  ],
+  [
+   24.4,
+   "Crusoe dark green",
+   "#323C2A"
+  ]
+ ],
+ "V1 亮蓝": [
+  [
+   3.4,
+   "PPIO primary",
+   "#1161FE"
+  ],
+  [
+   7.8,
+   "DeepSeek平台 blue",
+   "#3B82F6"
+  ],
+  [
+   17.1,
+   "无问芯穹 primary",
+   "#5D2BFE"
+  ]
+ ],
+ "V1 能源青": [
+  [
+   25.5,
+   "DeepSeek平台 blue",
+   "#3B82F6"
+  ],
+  [
+   31.2,
+   "PPIO primary",
+   "#1161FE"
+  ],
+  [
+   33.5,
+   "Emerald vivid green",
+   "#438C36"
+  ]
+ ],
+ "官网壳 primary": [
+  [
+   12.3,
+   "DeepSeek平台 blue",
+   "#3B82F6"
+  ],
+  [
+   22.6,
+   "PPIO primary",
+   "#1161FE"
+  ],
+  [
+   36.4,
+   "无问芯穹 primary",
+   "#5D2BFE"
+  ]
+ ],
+ "官网首页 brand-blue": [
+  [
+   2.2,
+   "PPIO primary",
+   "#1161FE"
+  ],
+  [
+   10.9,
+   "DeepSeek平台 blue",
+   "#3B82F6"
+  ],
+  [
+   14.8,
+   "无问芯穹 primary",
+   "#5D2BFE"
+  ]
+ ],
+ "官网首页 cyan": [
+  [
+   25.5,
+   "DeepSeek平台 blue",
+   "#3B82F6"
+  ],
+  [
+   33.1,
+   "PPIO primary",
+   "#1161FE"
+  ],
+  [
+   40.3,
+   "Emerald vivid green",
+   "#438C36"
+  ]
+ ],
+ "官网首页 green": [
+  [
+   17.2,
+   "Emerald vivid green",
+   "#438C36"
+  ],
+  [
+   29.9,
+   "Crusoe hi-vis",
+   "#CEEB13"
+  ],
+  [
+   45.1,
+   "Crusoe dark green",
+   "#323C2A"
+  ]
+ ]
+}

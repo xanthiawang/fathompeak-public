@@ -1,0 +1,447 @@
+{
+ "lw_home": {
+  "url": "https://www.lifewire.org/",
+  "title": "LifeWire: Together Against Domestic Violence",
+  "description": "LifeWire supports survivors of domestic violence on their journey toward safety, stability, and healing.",
+  "h1": [],
+  "h2": [
+   "We support survivors",
+   "Donate today",
+   "Join the movement",
+   "LifeWire’s Impact Report",
+   "Follow Us on Social Media",
+   "Thanks for signing up!",
+   "Sign up for updates!",
+   "About"
+  ],
+  "heroText": "We support survivors",
+  "nav": [
+   "GET HELP",
+   "Is This Abuse?",
+   "Planning to Leave",
+   "Digital Safety Tips",
+   "Why People Stay",
+   "COMMUNITY ADVOCACY",
+   "The Facts of DV",
+   "DV by the Numbers",
+   "SUPPORT US",
+   "Donate New Items",
+   "Gala Volunteering",
+   "LifeWire News",
+   "LifeWire Events",
+   "Volunteer"
+  ],
+  "body": {
+   "bg": "#FFFFFF",
+   "color": "#16181B",
+   "font": "\"Open Sans\", sans-serif"
+  },
+  "heroStyle": {
+   "color": "#773480",
+   "font": "\"Open Sans\", sans-serif",
+   "weight": "600",
+   "size": "32px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#FFFFFF",
+    537454
+   ],
+   [
+    "#773480",
+    374140
+   ],
+   [
+    "#30373D",
+    153360
+   ],
+   [
+    "#008996",
+    4303
+   ],
+   [
+    "#32373C",
+    3950
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#16181B",
+    1152
+   ],
+   [
+    "#FFFFFF",
+    415
+   ],
+   [
+    "#773480",
+    51
+   ]
+  ],
+  "topFonts": [
+   [
+    "Open Sans",
+    1618
+   ]
+  ],
+  "buttons": [
+   [
+    "#FFFFFF / text #16181B",
+    [
+     "Get Help",
+     "Guidance & Resources",
+     "Is This Abuse?"
+    ]
+   ],
+   [
+    "#773480 / text #FFFFFF",
+    [
+     "Get Help",
+     "Donate"
+    ]
+   ],
+   [
+    "#008996 / text #FFFFFF",
+    [
+     "Exit"
+    ]
+   ]
+  ],
+  "gradients": [],
+  "cssVars": {
+   "--wp-block-synced-color": "#7a00df",
+   "--wp-editor-canvas-background": "#ddd",
+   "--wp-admin-theme-color": "#007cba",
+   "--wp-admin-theme-color-darker-10": "#006ba1",
+   "--wp-admin-theme-color-darker-20": "#005a87",
+   "--wp--preset--color--black": "#000000",
+   "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+   "--wp--preset--color--white": "#ffffff",
+   "--wp--preset--color--pale-pink": "#f78da7",
+   "--wp--preset--color--vivid-red": "#cf2e2e",
+   "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+   "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+   "--wp--preset--color--light-green-cyan": "#7bdcb5",
+   "--wp--preset--color--vivid-green-cyan": "#00d084",
+   "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+   "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+   "--wp--preset--color--vivid-purple": "#9b51e0",
+   "--wp--preset--color--purple": "#773480",
+   "--wp--preset--color--purple-med": "#C4A4D0",
+   "--wp--preset--color--purple-lt": "#DAD5EA",
+   "--wp--preset--color--teal": "#008996",
+   "--wp--preset--color--teal-med": "#40D4C8",
+   "--wp--preset--color--teal-lt": "#C7FFF5",
+   "--wp--preset--color--grey": "#16181B",
+   "--wp--preset--color--grey-med": "#30373D",
+   "--wp--preset--color--grey-lt": "#6E7377",
+   "--wp--preset--color--grey-ltst": "#989b9e",
+   "--wp--preset--color--teal-accent": "#065758",
+   "--swiper-theme-color": "#007aff",
+   "--jp-carousel-primary-color": "#fff"
+  },
+  "bodyTextSample": "Skip to content GET HELP GUIDANCE & RESOURCES Is This Abuse? Planning to Leave Digital Safety Tips Why People Stay Talking with Survivors COMMUNITY ADVOCACY The Facts of DV DV by the Numbers Domestic Violence 101 Training SUPPORT US Donate New Items Gala Volunteering LifeWire News LifeWire Events LifeWire’s Community Circle Volunteer Careers ABOUT LIFEWIRE Our People Racial Equity Press Kit Contact Capital Campaign Stories from Survivors & Supporters DONATE Search If you or someone you know is concerned about or experiencing abuse, reach out to LifeWire at (425) 562-8840 to be connected with a trained advocate LifeWire is a leading provider of safety, stability, and healing for survivors of domestic violence in Washington State. Join us in changing mindsets and healing communities. Together, we are building a brighter future for survivors and their children. We support survivors Since 1982, we have partnered with over 176,000 domestic violence survivors. Theirs is a courageous journey towards safety, stability, and healing. Each day we work to ensure the security and independence of every survivor who calls for help. Our advocates are here to help survivors find resources to build safer lives. GET HELP Donate today Your financial support makes LifeWire’s work possible, providing thousands of survivors every year with the opportunity for brighter futures. Through a one-time donation, event sponsorship, in-kind contribution, or legacy gift, you can make a meaningful difference.",
+  "captured_at": "2026-10-12 14:28:25 +0800"
+ },
+ "lw_gethelp": {
+  "url": "https://www.lifewire.org/get-help/",
+  "title": "LifeWire - Get Help",
+  "description": "If you or someone you know is concerned about your relationship or experiencing abuse, call our 24-Hour Helpline at 425-746-1940 to speak with an advocate.",
+  "h1": [
+   "Get Help"
+  ],
+  "h2": [
+   "Follow Us on Social Media",
+   "Thanks for signing up!",
+   "Sign up for updates!",
+   "About",
+   "Get Help",
+   "Support Us"
+  ],
+  "heroText": "Get Help",
+  "nav": [
+   "GET HELP",
+   "Is This Abuse?",
+   "Planning to Leave",
+   "Digital Safety Tips",
+   "Why People Stay",
+   "COMMUNITY ADVOCACY",
+   "The Facts of DV",
+   "DV by the Numbers",
+   "SUPPORT US",
+   "Donate New Items",
+   "Gala Volunteering",
+   "LifeWire News",
+   "LifeWire Events",
+   "Volunteer"
+  ],
+  "body": {
+   "bg": "#FFFFFF",
+   "color": "#16181B",
+   "font": "\"Open Sans\", sans-serif"
+  },
+  "heroStyle": {
+   "color": "#16181B",
+   "font": "\"Open Sans\", sans-serif",
+   "weight": "600",
+   "size": "36px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#FFFFFF",
+    681166
+   ],
+   [
+    "#373737",
+    498483
+   ],
+   [
+    "#008996",
+    259433
+   ],
+   [
+    "#30373D",
+    153360
+   ],
+   [
+    "#32373C",
+    3950
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#16181B",
+    1811
+   ],
+   [
+    "#FFFFFF",
+    471
+   ],
+   [
+    "#323232",
+    447
+   ],
+   [
+    "#773480",
+    49
+   ],
+   [
+    "#008996",
+    5
+   ]
+  ],
+  "topFonts": [
+   [
+    "Open Sans",
+    2336
+   ],
+   [
+    "Helvetica Neue",
+    447
+   ]
+  ],
+  "buttons": [
+   [
+    "#FFFFFF / text #773480",
+    [
+     "Get Help"
+    ]
+   ],
+   [
+    "#FFFFFF / text #16181B",
+    [
+     "Guidance & Resources",
+     "Is This Abuse?",
+     "Planning to Leave"
+    ]
+   ],
+   [
+    "#008996 / text #FFFFFF",
+    [
+     "Exit"
+    ]
+   ]
+  ],
+  "gradients": [],
+  "cssVars": {
+   "--wp-block-synced-color": "#7a00df",
+   "--wp-editor-canvas-background": "#ddd",
+   "--wp-admin-theme-color": "#007cba",
+   "--wp-admin-theme-color-darker-10": "#006ba1",
+   "--wp-admin-theme-color-darker-20": "#005a87",
+   "--wp--preset--color--black": "#000000",
+   "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+   "--wp--preset--color--white": "#ffffff",
+   "--wp--preset--color--pale-pink": "#f78da7",
+   "--wp--preset--color--vivid-red": "#cf2e2e",
+   "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+   "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+   "--wp--preset--color--light-green-cyan": "#7bdcb5",
+   "--wp--preset--color--vivid-green-cyan": "#00d084",
+   "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+   "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+   "--wp--preset--color--vivid-purple": "#9b51e0",
+   "--wp--preset--color--purple": "#773480",
+   "--wp--preset--color--purple-med": "#C4A4D0",
+   "--wp--preset--color--purple-lt": "#DAD5EA",
+   "--wp--preset--color--teal": "#008996",
+   "--wp--preset--color--teal-med": "#40D4C8",
+   "--wp--preset--color--teal-lt": "#C7FFF5",
+   "--wp--preset--color--grey": "#16181B",
+   "--wp--preset--color--grey-med": "#30373D",
+   "--wp--preset--color--grey-lt": "#6E7377",
+   "--wp--preset--color--grey-ltst": "#989b9e",
+   "--wp--preset--color--teal-accent": "#065758",
+   "--swiper-theme-color": "#007aff",
+   "--jp-carousel-primary-color": "#fff"
+  },
+  "bodyTextSample": "Skip to content GET HELP GUIDANCE & RESOURCES Is This Abuse? Planning to Leave Digital Safety Tips Why People Stay Talking with Survivors COMMUNITY ADVOCACY The Facts of DV DV by the Numbers Domestic Violence 101 Training SUPPORT US Donate New Items Gala Volunteering LifeWire News LifeWire Events LifeWire’s Community Circle Volunteer Careers ABOUT LIFEWIRE Our People Racial Equity Press Kit Contact Capital Campaign Stories from Survivors & Supporters DONATE Search If you or someone you know is concerned about or experiencing abuse, reach out to LifeWire at (425) 562-8840 to be connected with a trained advocate HOME > Get Help Get Help Domestic violence can happen to anyone—regardless of race, age, gender, sexual orientation, income level, or background. Abuse doesn’t always look the same. It can be emotional, psychological, financial, physical, or sexual. Here are some of the most common warning signs. If you are experiencing abuse, remember: You are not alone. The abuse is not your fault. You deserve to be safe and have healthy relationships. If you or someone you know is concerned about or experiencing abuse, reach out to LifeWire at (425) 562-8840 to be connected with a trained advocate. How We Support Survivors Since 1982, LifeWire has helped over 169,000 survivors—including immigrants, men, teens, and members of the LGBTQIA2S+ community—find safety, stability, and healing. Every survivor’s journey is unique. We tailor our support to reflect your needs, priorities, and go",
+  "captured_at": "2026-10-12 14:28:39 +0800"
+ },
+ "lw_donate": {
+  "url": "https://www.lifewire.org/donate/",
+  "title": "Donate - LifeWire",
+  "description": "Your gift ensures that domestic violence survivors, children, and families have access to life-saving services, shelter, safety, and support.",
+  "h1": [
+   "Donate"
+  ],
+  "h2": [
+   "Follow Us on Social Media",
+   "Thanks for signing up!",
+   "Sign up for updates!",
+   "About",
+   "Get Help",
+   "Support Us"
+  ],
+  "heroText": "Donate",
+  "nav": [
+   "GET HELP",
+   "Is This Abuse?",
+   "Planning to Leave",
+   "Digital Safety Tips",
+   "Why People Stay",
+   "COMMUNITY ADVOCACY",
+   "The Facts of DV",
+   "DV by the Numbers",
+   "SUPPORT US",
+   "Donate New Items",
+   "Gala Volunteering",
+   "LifeWire News",
+   "LifeWire Events",
+   "Volunteer"
+  ],
+  "body": {
+   "bg": "#FFFFFF",
+   "color": "#16181B",
+   "font": "\"Open Sans\", sans-serif"
+  },
+  "heroStyle": {
+   "color": "#16181B",
+   "font": "\"Open Sans\", sans-serif",
+   "weight": "600",
+   "size": "36px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#FFFFFF",
+    537454
+   ],
+   [
+    "#30373D",
+    153360
+   ],
+   [
+    "#008996",
+    4303
+   ],
+   [
+    "#32373C",
+    3950
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#16181B",
+    998
+   ],
+   [
+    "#FFFFFF",
+    150
+   ],
+   [
+    "#773480",
+    6
+   ],
+   [
+    "#008996",
+    5
+   ]
+  ],
+  "topFonts": [
+   [
+    "Open Sans",
+    1159
+   ]
+  ],
+  "buttons": [
+   [
+    "#FFFFFF / text #16181B",
+    [
+     "Get Help",
+     "Guidance & Resources",
+     "Is This Abuse?"
+    ]
+   ],
+   [
+    "#FFFFFF / text #773480",
+    [
+     "Donate"
+    ]
+   ],
+   [
+    "#008996 / text #FFFFFF",
+    [
+     "Exit"
+    ]
+   ]
+  ],
+  "gradients": [],
+  "cssVars": {
+   "--wp-block-synced-color": "#7a00df",
+   "--wp-editor-canvas-background": "#ddd",
+   "--wp-admin-theme-color": "#007cba",
+   "--wp-admin-theme-color-darker-10": "#006ba1",
+   "--wp-admin-theme-color-darker-20": "#005a87",
+   "--wp--preset--color--black": "#000000",
+   "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+   "--wp--preset--color--white": "#ffffff",
+   "--wp--preset--color--pale-pink": "#f78da7",
+   "--wp--preset--color--vivid-red": "#cf2e2e",
+   "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+   "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+   "--wp--preset--color--light-green-cyan": "#7bdcb5",
+   "--wp--preset--color--vivid-green-cyan": "#00d084",
+   "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+   "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+   "--wp--preset--color--vivid-purple": "#9b51e0",
+   "--wp--preset--color--purple": "#773480",
+   "--wp--preset--color--purple-med": "#C4A4D0",
+   "--wp--preset--color--purple-lt": "#DAD5EA",
+   "--wp--preset--color--teal": "#008996",
+   "--wp--preset--color--teal-med": "#40D4C8",
+   "--wp--preset--color--teal-lt": "#C7FFF5",
+   "--wp--preset--color--grey": "#16181B",
+   "--wp--preset--color--grey-med": "#30373D",
+   "--wp--preset--color--grey-lt": "#6E7377",
+   "--wp--preset--color--grey-ltst": "#989b9e",
+   "--wp--preset--color--teal-accent": "#065758",
+   "--swiper-theme-color": "#007aff",
+   "--jp-carousel-primary-color": "#fff"
+  },
+  "bodyTextSample": "Skip to content GET HELP GUIDANCE & RESOURCES Is This Abuse? Planning to Leave Digital Safety Tips Why People Stay Talking with Survivors COMMUNITY ADVOCACY The Facts of DV DV by the Numbers Domestic Violence 101 Training SUPPORT US Donate New Items Gala Volunteering LifeWire News LifeWire Events LifeWire’s Community Circle Volunteer Careers ABOUT LIFEWIRE Our People Racial Equity Press Kit Contact Capital Campaign Stories from Survivors & Supporters DONATE Search If you or someone you know is concerned about or experiencing abuse, reach out to LifeWire at (425) 562-8840 to be connected with a trained advocate HOME > Donate Donate Thank you for partnering with us in the movement to prevent and end domestic violence. Your gift ensures that domestic violence survivors and their kids have access to life-saving services, shelter, safety planning, and support. Make a gift below using your credit card, ACH, PayPal or Digital Wallet. LifeWire also accepts gifts of stock and securities and is grateful for the planned giving of our donor community. LifeWire has earned a Platinum rating from Candid and 4 Stars from Charity Navigator. You can give with confidence to our programs and services for survivors. LifeWire is a 501(c)(3) nonprofit organization (Federal Tax ID #91-1190193). All donations are tax-deductible to the extent allowed by law. LifeWire supports the Donor Bill of Rights as adopted by CASE, AAFRC, AHP, and AFP, which states that philanthropy is based on voluntary action f",
+  "captured_at": "2026-10-12 14:28:54 +0800"
+ }
+}

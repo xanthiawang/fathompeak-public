@@ -1,0 +1,373 @@
+{
+ "title": "Dia Browser | Product Updates",
+ "h": 61379,
+ "header": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  }
+ ],
+ "footer": [
+  {
+   "t": "FOR WORK",
+   "h": "/forwork",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61139
+  },
+  {
+   "t": "RELEASE NOTES",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61165
+  },
+  {
+   "t": "CHANGELOG",
+   "h": "/changelog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61191
+  },
+  {
+   "t": "WINDOWS",
+   "h": "/windows",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61217
+  },
+  {
+   "t": "HELP",
+   "h": "/help",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61139
+  },
+  {
+   "t": "STATUS",
+   "h": "https://status.diabrowser.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61165
+  },
+  {
+   "t": "PRIVACY",
+   "h": "/privacy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61191
+  },
+  {
+   "t": "TERMS OF USE",
+   "h": "/termsofuse",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61217
+  },
+  {
+   "t": "SECURITY",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61243
+  },
+  {
+   "t": "TRUST CENTER",
+   "h": "https://trust.diabrowser.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61269
+  },
+  {
+   "t": "ABOUT US",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61139
+  },
+  {
+   "t": "CAREERS",
+   "h": "https://thebrowser.company/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61165
+  },
+  {
+   "t": "NEWSLETTER",
+   "h": "https://browsercompany.substack.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61191
+  },
+  {
+   "t": "EARLY BIRDS PROGRAM",
+   "h": "/earlybirds",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61217
+  },
+  {
+   "t": "X",
+   "h": "https://x.com/diabrowser",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61139
+  },
+  {
+   "t": "LINKEDIN",
+   "h": "https://www.linkedin.com/company/the-browser-company/posts/?feedView=all",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61165
+  },
+  {
+   "t": "INSTAGRAM",
+   "h": "https://www.instagram.com/diabrowser/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 61191
+  },
+  {
+   "t": "THE BROWSER COMPANY OF NEW YORK",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 61342
+  }
+ ],
+ "top": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "2026",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 566
+  },
+  {
+   "t": "October",
+   "h": "/changelog#10-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 611
+  },
+  {
+   "t": "September",
+   "h": "/changelog#09-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 654
+  },
+  {
+   "t": "August",
+   "h": "/changelog#08-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 687
+  },
+  {
+   "t": "July",
+   "h": "/changelog#07-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 720
+  },
+  {
+   "t": "June",
+   "h": "/changelog#06-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 753
+  },
+  {
+   "t": "May",
+   "h": "/changelog#05-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 786
+  },
+  {
+   "t": "April",
+   "h": "/changelog#04-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 819
+  },
+  {
+   "t": "March",
+   "h": "/changelog#03-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 852
+  },
+  {
+   "t": "February",
+   "h": "/changelog#02-2026",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 885
+  },
+  {
+   "t": "All",
+   "h": "/changelog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "100px",
+   "y": 566
+  },
+  {
+   "t": "Mac",
+   "h": "/changelog/mac",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "100px",
+   "y": 566
+  },
+  {
+   "t": "Windows",
+   "h": "/changelog/windows",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "100px",
+   "y": 566
+  },
+  {
+   "t": "Faster chat and more tab organization",
+   "h": "/changelog/mac/1-52-0",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 718
+  }
+ ],
+ "count": 112,
+ "lang": "en",
+ "url": "https://www.diabrowser.com/changelog"
+}

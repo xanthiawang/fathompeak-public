@@ -1,0 +1,22 @@
+{
+ "url": "https://ppio.com/",
+ "title": "PPIO｜中国领先的独立 Agentic Cloud 服务商",
+ "desc": "PPIO 是中国领先的独立 Agentic Cloud 服务商，面向 Agent 时代打造 Token 工厂，提供模型 API、Agent 沙箱、GPU 算力与 Agent 托管等云基础设施，帮助企业和开发者更高效、更稳定、更低成本地构建和运行 AI Agent 应用。",
+ "og": "PPIO 是中国领先的独立 Agentic Cloud 服务商，面向 Agent 时代打造 Token 工厂，提供模型 API、Agent 沙箱、GPU 算力与 Agent 托管等云基础设施，帮助企业和开发者更高效、更稳定、更低成本地构建和运行 AI Agent 应用。",
+ "h": [
+  "H2: 高性价比、超弹性、低延迟的产品与服务",
+  "H2: Tools for Agents",
+  "H3: Skills",
+  "H3: MCP Server",
+  "H3: Sandbox CLI",
+  "H2: 中国领先的独立 Agentic Cloud 服务商",
+  "H2: 面向 Agent 时代打造 Token 工厂",
+  "H2: 客户案例",
+  "H3: 极豆",
+  "H3: 极豆",
+  "H2: 众多合作伙伴的信任与支持",
+  "H2: PPIO 动向"
+ ],
+ "text": "模型服务\nAgent 云服务\nGPU 云服务\n即将下线\n新闻资讯\n关于我们\n文档\n控制台\n登录\n立即注册\n安装 Skills\nnpx skills add PPIO/ppio-skills --skill {skill}\nFor Agents\n高性价比、超弹性、低延迟的产品与服务\n模型服务\n\n模态丰富、便捷接入、高性价比的模型 API 服务\n\n大语言模型 API\n稳定可靠\n最新大模型\n推理加速\n\n兼容 OpenAI API 与 Anthropic API 标准，可接入 Claude Code，开箱即用，稳定性高达 99.9%\n\nDeepSeek\nKimi\nMiniMax\nGLM\n图像/视频生成模型 API\n全模态\n秒级模型切换\n推理加速\n\n借助领先的开源模型和多样化产品服务，提供接入便捷的 API 服务，为创意、媒体、电商等多行业赋能\n\nMiniMax\nQwen\nVidu\nAgent 云服务\n\nAI Agent 的云端安全生产力基座\n\nAgent 沙箱\n毫秒启动\n安全隔离\n成本可控\n\n新一代沙箱执行环境，支持浏览器、代码以及自定义等多种沙箱形态，让Agent能在受控环境中真实运行\n\n多类 Agent\n强化学习（RL）\n数据处理\nAI 编程\nAgent 托管\n可视化管理\n一键部署\n暂停即停费\n\nPPClaw 与 PPHermes 的可视化管控台，无需命令行，一键创建、监控和管理云端 Agent，暂停即停费\n\nPPClaw\nPPHermes\nGPU 云服务\n即将下线\n\n释放无限可能的弹性 AI 算力服务\n\nGPU 容器实例\n按需付费\n开箱即用\n一键部署\nSpot计费\n\n提供按需或包周期使用的 GPU 容器化算力，稳定性好，性价比高\n\nH100 SXM\nH800 SXM\nH20 SXM\n...\nGPU SPOT\n更低成本\n默认保护\n灵活组合\n\n低至 5 折 - 4090 仅 ¥1.16/小时，默认 1 小时保护期，提前 1 小时中断通知，秒杀传统 Spot\n\n4090\n｜¥1.16/小时\nH20\n｜¥3.4/小时\nH100\n｜¥11.88/小时\nTools for Agents\n\nAgent 可调用、开发者可集成的完整工具链\n\nSkills\nREADME\nFor Agents\nFor Developers\n复制\nRead https://ppio.com/docs/ai/ppio-skills.md and follow the instructions.\nMCP Server\nREADME\n\n支持 Claude Code · Claude Desktop · Cursor · VS Code · Codex · Zed\n\n端点\n复制\nhttps://mcp.ppio.com/mcp\nSandbox CLI\nREADME\n\n管理沙箱实例、沙箱模板\n\n命令\n复制\nnpm i -g ppio-sandbox-cli\n中国领先的独立 Agentic Cloud 服务商\n面向 Agent 时代打造 Token 工厂\n200+\n主流大模型上架数\n22000 亿+\n日均 Tokens 调用量\n300%+\nToken 总吞吐量提升\n680000+\n注册用户\n5000+\n全球分布式算力节点\n120 倍+\n沙箱规模增长数\n客户案例\n极豆\nMonica\n像素绽放\n蜜度\n极豆\n\nPPIO 通过自研推理加速引擎、PD 分离架构与弹性算力调度，为客户提供低成本、低时延、高弹性的开源大模型推理服务。\n\n平台综合采用算子融合、低精度量化、投机采样等技术，突破逐 Token 串行解码效率瓶颈；引入 PD 分离将 Prefill 与 Decode 阶段独立调度，分别匹配最优 GPU 资源；构建智能弹性调度系统，基于历史数据与实时流量预测资源需求，以按量计费模式替代固定租赁，有效降低算力闲置成本；将异构 GPU 资源整合为统一资源池，提供标准化 API 与运维管理，降低企业接入门槛。\n\n大模型推理加速\n智能调度算法\n成本降低\n众多合作伙伴的信任与支持\nPPIO 动向\n\nPPIO亮相AICC算力大会：以智能Token工厂打造Agent时代的智能生产线\n\n2026-09-24\n\nPPIO 沙箱支持接入 OpenAI Agents API：一键托管 Agent Harness\n\n2026-09-17\n\nPPIO加入中国信通院“算力超银生态共建计划”，探索Token普惠新模式\n\n2026-09-07\n\nPPIO入选《2026浦东“人工智能+”创新应用典型案例集》\n\n2026-09-07\n\n查看更多\nTools for Agents\n用更高性价比的产品服务\n助您释放无限创新元力，引领智能时代新进程\n马上咨询\n\n© 2026\nPPIO cloud.\nAll Rights Reserved\n\n产品\n大语言模型 API\n图像/视频生成模型 API\n企业 Token Plan\nAgent 沙箱\nAgent 托管\nGPU 容器实例\nServerless GPUs\nGPU SPOT\n新闻资讯\n公司动态\n技术博客\n媒体报道\n关于我们\n企业介绍\n加入我们\n联系我们\n联系我们\n媒体垂询: pr@ppio.com\n资源合作: bd@ppio.com\n投资者关系: ir@ppio.com\n\n业务咨询：021-60747977\n\n关注 PPIO 公众号\n\n© 派欧云计算（上海）有限公司 2026 版权所有\n沪公网安备 31011502015403号\n沪ICP备18048206号-33\n增值电信业务经营许可证：B1-20202079\n沪B2-20200592\n\n音频网信算备310115697988801240029号\n图像视频网信算备310115697988801240011号\n语言网信算备310115697988801240037号\n\n建议反馈：feedback@ppio.com\nPPIO 隐私政策\n用户协议\n第三方信息共享清单\n个人信息收集清单\n\n联系我们\n拖动下方拼图完成验证\n安全验证",
+ "captured": "2026-10-13 17:34"
+}

@@ -1,0 +1,337 @@
+{
+ "title": "Helion | Building the world's first fusion power plant",
+ "h": 11747,
+ "header": [
+  {
+   "t": "Go to Home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 16
+  },
+  {
+   "t": "ABOUT ABOUT",
+   "h": "/about",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "TECHNOLOGY TECHNOLOGY",
+   "h": "/technology",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "POLARIS POLARIS",
+   "h": "/polaris",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "ORION ORION",
+   "h": "/orion",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "NEWSROOM NEWSROOM",
+   "h": "/newsroom",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "BLOG BLOG",
+   "h": "/blog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "FAQ FAQ",
+   "h": "/faq",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "CAREERS CAREERS",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(15, 15, 21)",
+   "r": "0px",
+   "y": 10
+  }
+ ],
+ "footer": [
+  {
+   "t": "TECHNOLOGY",
+   "h": "/technology",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11096
+  },
+  {
+   "t": "ORION",
+   "h": "/orion",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11127
+  },
+  {
+   "t": "POLARIS",
+   "h": "/polaris",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11157
+  },
+  {
+   "t": "TRENTA",
+   "h": "/trenta",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11188
+  },
+  {
+   "t": "ABOUT",
+   "h": "/about",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11096
+  },
+  {
+   "t": "CAREERS",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11127
+  },
+  {
+   "t": "UPDATES",
+   "h": "/newsroom",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11157
+  },
+  {
+   "t": "FAQ",
+   "h": "/faq",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11188
+  },
+  {
+   "t": "HERCULES",
+   "h": "/hercules",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11096
+  },
+  {
+   "t": "CHELAN",
+   "h": "/chelan",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11127
+  },
+  {
+   "t": "CONTACT",
+   "h": "/contact",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11157
+  },
+  {
+   "t": "PRIVACY POLICY",
+   "h": "/legal/privacy-policy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11246
+  },
+  {
+   "t": "TERMS OF USE",
+   "h": "/legal/terms-of-use",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11276
+  },
+  {
+   "t": "LINKEDIN",
+   "h": "https://www.linkedin.com/company/helion-energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11493
+  },
+  {
+   "t": "X",
+   "h": "https://x.com/helion_energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11493
+  },
+  {
+   "t": "YOUTUBE",
+   "h": "https://www.youtube.com/c/helionenergy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11493
+  },
+  {
+   "t": "INSTAGRAM",
+   "h": "http://instagram.com/helionenergy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 11493
+  }
+ ],
+ "top": [
+  {
+   "t": "Skip to main content",
+   "h": "#main",
+   "tag": "a",
+   "bg": "rgb(0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px 0px 4px",
+   "y": -42
+  },
+  {
+   "t": "Go to Home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(238, 242, 245)",
+   "r": "0px",
+   "y": 16
+  },
+  {
+   "t": "ABOUT ABOUT",
+   "h": "/about",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "TECHNOLOGY TECHNOLOGY",
+   "h": "/technology",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "POLARIS POLARIS",
+   "h": "/polaris",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "ORION ORION",
+   "h": "/orion",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "NEWSROOM NEWSROOM",
+   "h": "/newsroom",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "BLOG BLOG",
+   "h": "/blog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "FAQ FAQ",
+   "h": "/faq",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(28, 43, 68)",
+   "r": "0px",
+   "y": 20
+  },
+  {
+   "t": "CAREERS CAREERS",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(15, 15, 21)",
+   "r": "0px",
+   "y": 10
+  }
+ ],
+ "count": 34,
+ "lang": "en",
+ "url": "https://www.helionenergy.com/"
+}

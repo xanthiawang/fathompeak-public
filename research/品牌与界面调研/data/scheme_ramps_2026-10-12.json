@@ -1,0 +1,919 @@
+{
+ "B": {
+  "tokens": {
+   "accent": "#2F63B8",
+   "accent_fill": "#5284D7",
+   "accent_soft": "#DCE7F7",
+   "accent_tint": "#EEF3FB",
+   "field_1": "#A9C3E8",
+   "field_2": "#E3ECF8",
+   "field_3": "#EBCFC4",
+   "field_4": "#D6CBDD",
+   "peak": "#4E3F66",
+   "peak_soft": "#EAE4F0",
+   "hz_1": "#5284D7",
+   "hz_2": "#B7A8A3",
+   "hz_2b": "#3D314F",
+   "hz_3": "#212021",
+   "hz_haze": "#E8D4CC"
+  },
+  "ramps": {
+   "dark": {
+    "label": "炭 → 暮紫 → 文字蓝（标题渐变、页脚、深色图板）",
+    "anchors": [
+     "#212021",
+     "#3D314F",
+     "#2F63B8"
+    ],
+    "stops": [
+     "#212021",
+     "#2A2630",
+     "#332B3F",
+     "#3D314F",
+     "#3D4270",
+     "#395294",
+     "#2F63B8"
+    ],
+    "adjacent_dE": [
+     6.7,
+     5.7,
+     4.7,
+     9.3,
+     8.4,
+     7.6
+    ],
+    "max_adjacent_dE": 9.3
+   },
+   "light": {
+    "label": "填充蓝 → 白（光斑、区块底、卡片、chip）",
+    "anchors": [
+     "#5284D7",
+     "#FFFFFF"
+    ],
+    "stops": [
+     "#5284D7",
+     "#6E99DF",
+     "#8AADE7",
+     "#A7C2ED",
+     "#C4D6F4",
+     "#E1EBFA",
+     "#FFFFFF"
+    ],
+    "adjacent_dE": [
+     6.9,
+     6.2,
+     6.4,
+     6.3,
+     7.1,
+     8.3
+    ],
+    "max_adjacent_dE": 8.3,
+    "proto_on_ramp": {
+     "field_1": {
+      "hex": "#A9C3E8",
+      "nearest": "#A7C2ED",
+      "dE": 1.4
+     },
+     "accent_soft": {
+      "hex": "#DCE7F7",
+      "nearest": "#E1EBFA",
+      "dE": 1.0
+     },
+     "field_2": {
+      "hex": "#E3ECF8",
+      "nearest": "#E1EBFA",
+      "dE": 1.2
+     },
+     "accent_tint": {
+      "hex": "#EEF3FB",
+      "nearest": "#E1EBFA",
+      "dE": 3.6
+     },
+     "hz_1": {
+      "hex": "#5284D7",
+      "nearest": "#5284D7",
+      "dE": 0.0
+     },
+     "peak_soft": {
+      "hex": "#EAE4F0",
+      "nearest": "#E1EBFA",
+      "dE": 7.4
+     },
+     "field_4": {
+      "hex": "#D6CBDD",
+      "nearest": "#E1EBFA",
+      "dE": 11.8
+     }
+    }
+   },
+   "horizon": {
+    "label": "地平线：填充蓝 → 霞 → 暮紫 → 炭（原型首屏的晨昏带）",
+    "anchors": [
+     "#5284D7",
+     "#B7A8A3",
+     "#3D314F",
+     "#212021"
+    ],
+    "stops": [
+     "#5284D7",
+     "#6D8FCC",
+     "#8698BF",
+     "#9FA0B2",
+     "#B7A8A3",
+     "#96888E",
+     "#776A79",
+     "#594D64",
+     "#3D314F",
+     "#362D43",
+     "#2F2938",
+     "#28242C",
+     "#212021"
+    ],
+    "adjacent_dE": [
+     4.8,
+     6.3,
+     9.0,
+     12.0,
+     11.4,
+     12.2,
+     11.0,
+     9.6,
+     3.6,
+     3.7,
+     4.3,
+     5.5
+    ],
+    "max_adjacent_dE": 12.2
+   }
+  },
+  "derived": {
+   "brand_600": "#4173C7",
+   "brand_800": "#1A4EA1",
+   "t400": "#7DA4E0",
+   "peak_soft_2": "#F4F1F8",
+   "art_bg1": "#212021",
+   "art_bg2": "#3D314F",
+   "art_dot": "#2F2938",
+   "art_bright": "#9DCBFF",
+   "n_ramp": [
+    "#212021",
+    "#2A2630",
+    "#332B3F",
+    "#3D314F",
+    "#3D4270",
+    "#395294",
+    "#2F63B8"
+   ],
+   "t300": "#A9C3E8",
+   "fbtn": [
+    "#A9C3E8",
+    "#7DA4E0",
+    "#212021"
+   ]
+  },
+  "contrast_white": [
+   {
+    "token": "accent",
+    "name": "文字蓝",
+    "hex": "#2F63B8",
+    "ratio": 5.84,
+    "grade": "AA"
+   },
+   {
+    "token": "accent_fill",
+    "name": "填充蓝",
+    "hex": "#5284D7",
+    "ratio": 3.72,
+    "grade": "AA 大字"
+   },
+   {
+    "token": "accent_soft",
+    "name": "蓝 soft",
+    "hex": "#DCE7F7",
+    "ratio": 1.25,
+    "grade": "不合格"
+   },
+   {
+    "token": "accent_tint",
+    "name": "蓝 tint",
+    "hex": "#EEF3FB",
+    "ratio": 1.11,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_1",
+    "name": "色场 1 · 浅蓝",
+    "hex": "#A9C3E8",
+    "ratio": 1.8,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_2",
+    "name": "色场 2 · 蓝雾",
+    "hex": "#E3ECF8",
+    "ratio": 1.19,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_3",
+    "name": "色场 3 · 霞粉",
+    "hex": "#EBCFC4",
+    "ratio": 1.47,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_4",
+    "name": "色场 4 · 淡紫",
+    "hex": "#D6CBDD",
+    "ratio": 1.56,
+    "grade": "不合格"
+   },
+   {
+    "token": "peak",
+    "name": "峰时 · 暮紫浅",
+    "hex": "#4E3F66",
+    "ratio": 9.43,
+    "grade": "AAA"
+   },
+   {
+    "token": "peak_soft",
+    "name": "峰时底",
+    "hex": "#EAE4F0",
+    "ratio": 1.25,
+    "grade": "不合格"
+   },
+   {
+    "token": "hz_1",
+    "name": "地平线 1 · 填充蓝",
+    "hex": "#5284D7",
+    "ratio": 3.72,
+    "grade": "AA 大字"
+   },
+   {
+    "token": "hz_2",
+    "name": "地平线 2 · 霞",
+    "hex": "#B7A8A3",
+    "ratio": 2.3,
+    "grade": "不合格"
+   },
+   {
+    "token": "hz_2b",
+    "name": "地平线 2b · 暮紫",
+    "hex": "#3D314F",
+    "ratio": 12.0,
+    "grade": "AAA"
+   },
+   {
+    "token": "hz_3",
+    "name": "地平线 3 · 炭",
+    "hex": "#212021",
+    "ratio": 16.24,
+    "grade": "AAA"
+   },
+   {
+    "token": "hz_haze",
+    "name": "霞光",
+    "hex": "#E8D4CC",
+    "ratio": 1.43,
+    "grade": "不合格"
+   }
+  ],
+  "contrast_dark": [
+   {
+    "name": "白",
+    "hex": "#FFFFFF",
+    "bg": "#212021",
+    "ratio": 16.24,
+    "grade": "AAA"
+   },
+   {
+    "name": "霞 hz-2",
+    "hex": "#B7A8A3",
+    "bg": "#212021",
+    "ratio": 7.07,
+    "grade": "AAA"
+   },
+   {
+    "name": "色场 1",
+    "hex": "#A9C3E8",
+    "bg": "#212021",
+    "ratio": 9.01,
+    "grade": "AAA"
+   },
+   {
+    "name": "填充",
+    "hex": "#5284D7",
+    "bg": "#212021",
+    "ratio": 4.36,
+    "grade": "AA 大字"
+   },
+   {
+    "name": "高光（派生）",
+    "hex": "#9DCBFF",
+    "bg": "#212021",
+    "ratio": 9.6,
+    "grade": "AAA"
+   }
+  ],
+  "competitors": {
+   "accent": {
+    "hex": "#2F63B8",
+    "nearest": [
+     [
+      8.3,
+      "PPIO primary",
+      "#1161FE"
+     ],
+     [
+      13.3,
+      "DeepSeek平台 blue",
+      "#3B82F6"
+     ],
+     [
+      18.5,
+      "无问芯穹 primary",
+      "#5D2BFE"
+     ]
+    ]
+   },
+   "accent_fill": {
+    "hex": "#5284D7",
+    "nearest": [
+     [
+      3.1,
+      "DeepSeek平台 blue",
+      "#3B82F6"
+     ],
+     [
+      12.0,
+      "PPIO primary",
+      "#1161FE"
+     ],
+     [
+      24.9,
+      "无问芯穹 primary",
+      "#5D2BFE"
+     ]
+    ]
+   },
+   "peak": {
+    "hex": "#4E3F66",
+    "nearest": [
+     [
+      20.1,
+      "Together dark blue",
+      "#010120"
+     ],
+     [
+      22.9,
+      "硅基流动 primary",
+      "#6C28F6"
+     ],
+     [
+      23.0,
+      "OpenRouter primary",
+      "#7624F4"
+     ]
+    ]
+   },
+   "hz_2b": {
+    "hex": "#3D314F",
+    "nearest": [
+     [
+      15.0,
+      "Together dark blue",
+      "#010120"
+     ],
+     [
+      25.3,
+      "Emerald dark green",
+      "#253023"
+     ],
+     [
+      26.5,
+      "Crusoe dark green",
+      "#323C2A"
+     ]
+    ]
+   }
+  },
+  "contrast_pairs": [
+   {
+    "name": "主按钮上半 白字",
+    "fg": "#FFFFFF",
+    "bg": "#4173C7",
+    "ratio": 4.66,
+    "grade": "AA"
+   },
+   {
+    "name": "主按钮下半 白字",
+    "fg": "#FFFFFF",
+    "bg": "#2F63B8",
+    "ratio": 5.84,
+    "grade": "AA"
+   },
+   {
+    "name": "填充色上白字",
+    "fg": "#FFFFFF",
+    "bg": "#5284D7",
+    "ratio": 3.72,
+    "grade": "AA 大字"
+   },
+   {
+    "name": "页脚按钮上半 深字",
+    "fg": "#212021",
+    "bg": "#A9C3E8",
+    "ratio": 9.01,
+    "grade": "AAA"
+   },
+   {
+    "name": "页脚按钮下半 深字",
+    "fg": "#212021",
+    "bg": "#7DA4E0",
+    "ratio": 6.39,
+    "grade": "AA"
+   },
+   {
+    "name": "峰时文字 on 峰时底",
+    "fg": "#3D314F",
+    "bg": "#EAE4F0",
+    "ratio": 9.63,
+    "grade": "AAA"
+   },
+   {
+    "name": "文字色 on tint",
+    "fg": "#2F63B8",
+    "bg": "#EEF3FB",
+    "ratio": 5.24,
+    "grade": "AA"
+   }
+  ]
+ },
+ "C": {
+  "tokens": {
+   "accent": "#2F6B4A",
+   "accent_fill": "#4F7A5C",
+   "accent_soft": "#DCE8DC",
+   "accent_tint": "#EEF4EE",
+   "field_1": "#C9D9BE",
+   "field_2": "#EEF4EE",
+   "field_3": "#E8E0C6",
+   "field_4": "#DCE8DC",
+   "peak": "#2E4A38",
+   "peak_soft": "#DCE6DA",
+   "hz_1": "#8FB08E",
+   "hz_2": "#4F7A5C",
+   "hz_2b": "#2E4A38",
+   "hz_3": "#0F1F18",
+   "hz_haze": "#C9D9BE"
+  },
+  "ramps": {
+   "dark": {
+    "label": "炭绿 → 松绿 → 文字绿（标题渐变、页脚、深色图板）",
+    "anchors": [
+     "#0F1F18",
+     "#2E4A38",
+     "#2F6B4A"
+    ],
+    "stops": [
+     "#0F1F18",
+     "#192D22",
+     "#233B2D",
+     "#2E4A38",
+     "#2F553E",
+     "#2F6044",
+     "#2F6B4A"
+    ],
+    "adjacent_dE": [
+     4.7,
+     4.5,
+     4.9,
+     4.2,
+     4.0,
+     3.9
+    ],
+    "max_adjacent_dE": 4.9
+   },
+   "light": {
+    "label": "填充绿 → 白（区块底、卡片、chip）",
+    "anchors": [
+     "#4F7A5C",
+     "#FFFFFF"
+    ],
+    "stops": [
+     "#4F7A5C",
+     "#6B8F75",
+     "#88A58F",
+     "#A5BBAA",
+     "#C2D1C6",
+     "#E0E8E2",
+     "#FFFFFF"
+    ],
+    "adjacent_dE": [
+     8.9,
+     8.2,
+     7.5,
+     7.1,
+     6.9,
+     7.4
+    ],
+    "max_adjacent_dE": 8.9,
+    "proto_on_ramp": {
+     "field_1": {
+      "hex": "#C9D9BE",
+      "nearest": "#C2D1C6",
+      "dE": 6.0
+     },
+     "accent_soft": {
+      "hex": "#DCE8DC",
+      "nearest": "#E0E8E2",
+      "dE": 3.2
+     },
+     "field_2": {
+      "hex": "#EEF4EE",
+      "nearest": "#E0E8E2",
+      "dE": 2.8
+     },
+     "accent_tint": {
+      "hex": "#EEF4EE",
+      "nearest": "#E0E8E2",
+      "dE": 2.8
+     },
+     "hz_1": {
+      "hex": "#8FB08E",
+      "nearest": "#88A58F",
+      "dE": 4.7
+     },
+     "peak_soft": {
+      "hex": "#DCE6DA",
+      "nearest": "#E0E8E2",
+      "dE": 2.9
+     },
+     "field_4": {
+      "hex": "#DCE8DC",
+      "nearest": "#E0E8E2",
+      "dE": 3.2
+     }
+    }
+   },
+   "horizon": {
+    "label": "油画天空：松绿 → 填充绿 → 鼠尾草 → 浅苔（paint() day 的 sky 四停）",
+    "anchors": [
+     "#2E4A38",
+     "#4F7A5C",
+     "#8FB08E",
+     "#D9E3CF"
+    ],
+    "stops": [
+     "#2E4A38",
+     "#365641",
+     "#3E614A",
+     "#466E53",
+     "#4F7A5C",
+     "#5F8768",
+     "#6F9575",
+     "#7FA281",
+     "#8FB08E",
+     "#A1BD9E",
+     "#B4C9AE",
+     "#C6D6BE",
+     "#D9E3CF"
+    ],
+    "adjacent_dE": [
+     4.0,
+     3.7,
+     4.6,
+     4.4,
+     5.3,
+     5.2,
+     4.5,
+     4.4,
+     4.3,
+     4.3,
+     4.0,
+     4.3
+    ],
+    "max_adjacent_dE": 5.3
+   }
+  },
+  "derived": {
+   "brand_600": "#407253",
+   "brand_800": "#195737",
+   "t400": "#8FB08E",
+   "peak_soft_2": "#EDF2EC",
+   "art_bg1": "#0F1F18",
+   "art_bg2": "#2E4A38",
+   "art_dot": "#1E3428",
+   "art_bright": "#BDDCBC",
+   "n_ramp": [
+    "#0F1F18",
+    "#192D22",
+    "#233B2D",
+    "#2E4A38",
+    "#2F553E",
+    "#2F6044",
+    "#2F6B4A"
+   ],
+   "t300": "#A5BBAA",
+   "fbtn": [
+    "#BDDCBC",
+    "#8FB08E",
+    "#0F1F18"
+   ]
+  },
+  "contrast_white": [
+   {
+    "token": "accent",
+    "name": "文字绿",
+    "hex": "#2F6B4A",
+    "ratio": 6.32,
+    "grade": "AA"
+   },
+   {
+    "token": "accent_fill",
+    "name": "填充绿",
+    "hex": "#4F7A5C",
+    "ratio": 4.92,
+    "grade": "AA"
+   },
+   {
+    "token": "accent_soft",
+    "name": "绿 soft",
+    "hex": "#DCE8DC",
+    "ratio": 1.26,
+    "grade": "不合格"
+   },
+   {
+    "token": "accent_tint",
+    "name": "绿 tint",
+    "hex": "#EEF4EE",
+    "ratio": 1.12,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_1",
+    "name": "色场 1 · 苔",
+    "hex": "#C9D9BE",
+    "ratio": 1.48,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_2",
+    "name": "色场 2 · 绿雾",
+    "hex": "#EEF4EE",
+    "ratio": 1.12,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_3",
+    "name": "色场 3 · 亚麻",
+    "hex": "#E8E0C6",
+    "ratio": 1.32,
+    "grade": "不合格"
+   },
+   {
+    "token": "field_4",
+    "name": "色场 4 · 绿 soft",
+    "hex": "#DCE8DC",
+    "ratio": 1.26,
+    "grade": "不合格"
+   },
+   {
+    "token": "peak",
+    "name": "峰时 · 松绿",
+    "hex": "#2E4A38",
+    "ratio": 9.75,
+    "grade": "AAA"
+   },
+   {
+    "token": "peak_soft",
+    "name": "峰时底",
+    "hex": "#DCE6DA",
+    "ratio": 1.28,
+    "grade": "不合格"
+   },
+   {
+    "token": "hz_1",
+    "name": "地平线 1 · 鼠尾草",
+    "hex": "#8FB08E",
+    "ratio": 2.39,
+    "grade": "不合格"
+   },
+   {
+    "token": "hz_2",
+    "name": "地平线 2 · 填充绿",
+    "hex": "#4F7A5C",
+    "ratio": 4.92,
+    "grade": "AA"
+   },
+   {
+    "token": "hz_2b",
+    "name": "地平线 2b · 松绿",
+    "hex": "#2E4A38",
+    "ratio": 9.75,
+    "grade": "AAA"
+   },
+   {
+    "token": "hz_3",
+    "name": "地平线 3 · 炭绿",
+    "hex": "#0F1F18",
+    "ratio": 17.08,
+    "grade": "AAA"
+   },
+   {
+    "token": "hz_haze",
+    "name": "雾 · 苔",
+    "hex": "#C9D9BE",
+    "ratio": 1.48,
+    "grade": "不合格"
+   }
+  ],
+  "contrast_dark": [
+   {
+    "name": "白",
+    "hex": "#FFFFFF",
+    "bg": "#0F1F18",
+    "ratio": 17.08,
+    "grade": "AAA"
+   },
+   {
+    "name": "鼠尾草 hz-1",
+    "hex": "#8FB08E",
+    "bg": "#0F1F18",
+    "ratio": 7.13,
+    "grade": "AAA"
+   },
+   {
+    "name": "色场 1",
+    "hex": "#C9D9BE",
+    "bg": "#0F1F18",
+    "ratio": 11.51,
+    "grade": "AAA"
+   },
+   {
+    "name": "填充",
+    "hex": "#4F7A5C",
+    "bg": "#0F1F18",
+    "ratio": 3.47,
+    "grade": "AA 大字"
+   },
+   {
+    "name": "高光（派生）",
+    "hex": "#BDDCBC",
+    "bg": "#0F1F18",
+    "ratio": 11.49,
+    "grade": "AAA"
+   }
+  ],
+  "competitors": {
+   "accent": {
+    "hex": "#2F6B4A",
+    "nearest": [
+     [
+      15.7,
+      "Emerald vivid green",
+      "#438C36"
+     ],
+     [
+      18.1,
+      "Crusoe dark green",
+      "#323C2A"
+     ],
+     [
+      21.2,
+      "Emerald dark green",
+      "#253023"
+     ]
+    ]
+   },
+   "accent_fill": {
+    "hex": "#4F7A5C",
+    "nearest": [
+     [
+      13.0,
+      "Emerald vivid green",
+      "#438C36"
+     ],
+     [
+      21.7,
+      "Crusoe dark green",
+      "#323C2A"
+     ],
+     [
+      25.3,
+      "Emerald dark green",
+      "#253023"
+     ]
+    ]
+   },
+   "peak": {
+    "hex": "#2E4A38",
+    "nearest": [
+     [
+      7.3,
+      "Crusoe dark green",
+      "#323C2A"
+     ],
+     [
+      9.6,
+      "Emerald dark green",
+      "#253023"
+     ],
+     [
+      25.8,
+      "Emerald vivid green",
+      "#438C36"
+     ]
+    ]
+   },
+   "hz_2b": {
+    "hex": "#2E4A38",
+    "nearest": [
+     [
+      7.3,
+      "Crusoe dark green",
+      "#323C2A"
+     ],
+     [
+      9.6,
+      "Emerald dark green",
+      "#253023"
+     ],
+     [
+      25.8,
+      "Emerald vivid green",
+      "#438C36"
+     ]
+    ]
+   }
+  },
+  "contrast_pairs": [
+   {
+    "name": "主按钮上半 白字",
+    "fg": "#FFFFFF",
+    "bg": "#407253",
+    "ratio": 5.6,
+    "grade": "AA"
+   },
+   {
+    "name": "主按钮下半 白字",
+    "fg": "#FFFFFF",
+    "bg": "#2F6B4A",
+    "ratio": 6.32,
+    "grade": "AA"
+   },
+   {
+    "name": "填充色上白字",
+    "fg": "#FFFFFF",
+    "bg": "#4F7A5C",
+    "ratio": 4.92,
+    "grade": "AA"
+   },
+   {
+    "name": "页脚按钮上半 深字",
+    "fg": "#0F1F18",
+    "bg": "#BDDCBC",
+    "ratio": 11.49,
+    "grade": "AAA"
+   },
+   {
+    "name": "页脚按钮下半 深字",
+    "fg": "#0F1F18",
+    "bg": "#8FB08E",
+    "ratio": 7.13,
+    "grade": "AAA"
+   },
+   {
+    "name": "峰时文字 on 峰时底",
+    "fg": "#2E4A38",
+    "bg": "#DCE6DA",
+    "ratio": 7.61,
+    "grade": "AAA"
+   },
+   {
+    "name": "文字色 on tint",
+    "fg": "#2F6B4A",
+    "bg": "#EEF4EE",
+    "ratio": 5.66,
+    "grade": "AA"
+   }
+  ]
+ },
+ "paint_day": {
+  "sky": [
+   "#2E4A38",
+   "#4F7A5C",
+   "#8FB08E",
+   "#D9E3CF"
+  ],
+  "strokes": [
+   "#27402F",
+   "#3F6A4B",
+   "#6E9470",
+   "#A9C3A3",
+   "#C9D9BE",
+   "#E8E0C6"
+  ],
+  "mist": "#F2EFE4"
+ }
+}

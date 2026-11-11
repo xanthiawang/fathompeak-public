@@ -1,0 +1,8 @@
+Linear
+https://linear.app/login
+Network error while loading
+
+Something might be wrong with your connection. Reload the app to try again.
+
+Reload
+Contact support

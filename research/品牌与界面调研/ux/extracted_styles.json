@@ -1,0 +1,1187 @@
+{
+ "fp_admin": {
+  "url": "https://admin.fathompeak.cn/",
+  "title": "沐仞科技",
+  "bodyFont": "\"Public Sans\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 6,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 33,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "沐仞科技",
+   "主页",
+   "控制台",
+   "文档",
+   "模型市场",
+   "节点定价",
+   "节点评价",
+   "发起任务",
+   "融合智慧算网中枢",
+   "登录",
+   "立即注册"
+  ],
+  "ctas": [],
+  "inputs": [],
+  "h1": null,
+  "h2": [],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "logo",
+   "logo"
+  ],
+  "bodyText": "沐仞科技 主页 控制台 文档 模型市场 节点定价 节点评价 发起任务 融合智慧算网中枢 更改语言 登录 立即注册 沐仞科技 构筑算电协同的全球分布式算网 联系我们：fathompeak@163.com",
+  "captured_at": "2026-10-12 13:31:19 +0800"
+ },
+ "fp_market": {
+  "url": "https://admin.fathompeak.cn/token-market",
+  "title": "沐仞科技",
+  "bodyFont": "\"Public Sans\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 6,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 33,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "沐仞科技",
+   "主页",
+   "控制台",
+   "文档",
+   "模型市场",
+   "节点定价",
+   "节点评价",
+   "发起任务",
+   "融合智慧算网中枢",
+   "登录",
+   "立即注册"
+  ],
+  "ctas": [],
+  "inputs": [],
+  "h1": null,
+  "h2": [],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "logo",
+   "logo"
+  ],
+  "bodyText": "沐仞科技 主页 控制台 文档 模型市场 节点定价 节点评价 发起任务 融合智慧算网中枢 更改语言 登录 立即注册 沐仞科技 构筑算电协同的全球分布式算网 联系我们：fathompeak@163.com",
+  "captured_at": "2026-10-12 13:31:33 +0800"
+ },
+ "sf_models": {
+  "url": "https://siliconflow.cn/models",
+  "title": "模型中心｜硅基流动 SiliconFlow 大模型云服务",
+  "bodyFont": "\"PingFang SC\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 25,
+   "img": 30,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 2,
+   "keyframes": 10,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "模型",
+   "价格",
+   "文档",
+   "生态合作",
+   "登录"
+  ],
+  "ctas": [],
+  "inputs": [
+   "text:搜索模型名称、模型厂商、应用场景",
+   "search:"
+  ],
+  "h1": "你要的 AI 模型，这里都有",
+  "h2": [
+   "发现并使用最适合你的 AI 模型",
+   "按系列探索，快速找到你需要的模型"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "硅基流动",
+   "硅基流动",
+   "siliconFlow",
+   "siliconFlow",
+   "siliconFlow"
+  ],
+  "bodyText": "产品模型价格文档生态合作关于 登录 登录 产品 模型价格文档生态合作 关于 你要的 AI 模型，这里都有 1 个 API，3 行代码，100+ 主流模型轻松调用 搜索 热门模型DeepSeek-V4-ProQwen3-VL-32B-InstructGLM-5.3Kimi-K2.6MiniMax-M2.5 模型类型 全部对话生图嵌入重排序语音视频 应用场景 全部RAG通用助手旗舰全能文案创作长文本处理数学推理Vibe Coding快速响应多模态理解 / 识别语音合成语音交互语音识别图像生成图像编辑视频生成AIGC 内容创作游戏互动角色扮演内容翻译领域知识综合 发现并使用最适合你的 AI 模型 按默认排序 倒序 zai 对话 zai-org/GLM-5.3-Flash 发布时间: 2026年08月26日 GLM-5.3-Flash 是智谱推出的原生多模态模型，总参数 320B、激活参数 18B，采用稀疏注意力与线性注意力混合架构，支持 1M 上下文，擅长视觉理解、编程、深度推理与复杂智能体任务 👁️ 视觉输入 · 🛠️ 工具调用 上下文 1024K参数 320B 查看详情 ↗ hunyuan 对话 tencent/Hy4-preview 发布时间: 2026年08月28日 Hy4 preview 是腾讯混元新一代生产力旗舰模型，采用 Gated DSA（门控稀疏 注意力）与 iHC 残差设计，总参数量约 770B，每 token 激活约 49B。模型 原生支持 1M 上下文窗口与 64k 最大输出，引入原生 MTP 投机解码层提升 生成吞吐，具备较强的复杂 任务理解、规划与持续执行能力，原生支持工具调用、结构化输出与上下文 缓存，面向 Agent、Coding 与生产力场景深度优化，适合长程规划与代码 工作流 🛠️ 工具调用 · ✍🏻 前缀续写 上下文 1024K参数 770B 查看详情 ↗ zai 对话 zai-org/GLM-5.3 发布时间: 2026年08月14日 GLM-5.3 是智谱 AI 推出的 GLM-5 系列旗舰模型，沿用与 GLM-5.2 相同的基础模型，通过后训练在复杂编码、网络安全和长程智能体任务上实现显著提升。模型采用 MoE 架构，总参数量约 744B，激活参数约 40B，原生支持 1,048,576 tokens 上下文窗口、函数调用与结构化输出，适用于复杂软件工程、漏洞发现与长程智能体任务 🛠️ 工具调用 上下文 1024K参数 744B 查看详情 ↗ deepseek-ai 对话 deepseek-ai/DeepSeek-V4-Flash 发布时间: 2026年04月24日 DeepSeek-V4-Flash 是 DeepSeek-V4 系列中的 MoE 语言模型，总参数量 284B，激活参数量 13B，支持 1M tokens 超长上下文与最高 384K tokens 输出。模型采用混合注意力架构（Compressed Sparse Attention, CSA 与 Heavily Compressed Attention, HCA）并引入 Manifold-Constrained Hyper-Connections 与 DSpark 推测解码模块，以提升长上下文推理效率与整体性能。0731 版本为正式发布版本（public beta），仅对预览版进行 re-post-training，架构与参数规模保持不变，显著增强了智能体能力。在 DeepSeek 自测的 9 项 agentic / 编程基准上（包括 Terminal-Bench 2.1、DeepSWE、Toolathlon-Verified 等）分数均超过 V4-Pro Preview。模型原生支持 OpenAI Responses API 与 Codex 适配，reasoning_effort 参数支持 low / high / max 三档调节，适用于复杂 agent 工作流、长文本理解与代码任务 🛠️ 工具调用 上下文 1024K参数 284B 查看详情 ↗ meituan-longcat 对话 meituan-longcat/LongCat-2.0 发布时间: 2026年06月30日 LongCat-2.0 核心特性如下：1. 面向 Agent 开发场景，原生支持工具调用、多步推理和长上下文任务；2. 在代码开生成、自动化工作流和复杂指令执行上表现突出；3. 深度适配 Claude Code、OpenClaw、OpenCode 和 Kilo Code 等生产力工具。 🛠️ 工具调用 · ✍🏻 前缀续写 上下文 1024K参数 1600B 查看详情 ↗ zai 对话 zai-org/GLM-5.2 发布时间: 2026年06月17日 GLM-5.2 是 Z.ai 最新的旗舰模型，面向长程任务场景，相比 GLM-5.1 在长程任务能力上有显著提升。该 753B 模型支持稳定的 1M-token 上下文，具备更强的编程能力，并支持多种 thinking effort levels，以在性能和延迟之间进行灵活平衡。GLM-5.2 引入 IndexShare 架构优化，在 1M 上下文长度下将 per-token FLOPs 降低 2.9 倍，同时改进 MTP layer 以支持 speculative decoding，使 acceptance length 最高提升 20% 🛠️ 工具调用 Vibe Coding旗舰全能 上下文 1024K参数 753B 查看详情 ↗ moonshotai 对话 moonshotai/Kimi-K2.7-Code 发布时间: 2026年06月12日 Kimi K2.7 Code 是 Moonshot AI 推出的面向代码任务的 agentic 模型，基于 Kimi K2.6 构建，在真实世界长程代码任务中有显著提升，可增强复杂软件工程工作流中的端到端任务完成能力，并",
+  "captured_at": "2026-10-12 13:31:47 +0800"
+ },
+ "sf_pricing": {
+  "url": "https://siliconflow.cn/pricing",
+  "title": "大模型 API 价格方案 - 硅基流动 SiliconFlow",
+  "bodyFont": "Roboto",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 21,
+   "img": 42,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 1,
+   "keyframes": 22,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "模型",
+   "价格",
+   "文档",
+   "生态合作",
+   "登录"
+  ],
+  "ctas": [
+   "登录 [#6C28F6]",
+   "搜索 [#6E29F6]",
+   "全部 [#6E29F6]",
+   "对话 [#FFFFFF]",
+   "生图 [#FFFFFF]",
+   "语音 [#FFFFFF]",
+   "视频 [#FFFFFF]",
+   "Z-ai [#FFFFFF]",
+   "hunyuan [#FFFFFF]",
+   "deepseek-ai [#FFFFFF]"
+  ],
+  "inputs": [
+   "text:搜索模型名称 / DisplayName / modelId"
+  ],
+  "h1": "模型价格总览",
+  "h2": [
+   "对话模型",
+   "生图模型",
+   "语音模型",
+   "视频模型"
+  ],
+  "priceHits": [
+   "¥ 0.80",
+   "¥ 2.80",
+   "¥ 0.23",
+   "¥ 8.00",
+   "¥ 28.00",
+   "¥ 2.00",
+   "¥ 8.00",
+   "¥ 28.00",
+   "¥ 2.00",
+   "¥ 6.00",
+   "¥ 24.00",
+   "¥ 1.30"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "硅基流动",
+   "硅基流动",
+   "siliconFlow",
+   "siliconFlow",
+   "siliconFlow"
+  ],
+  "bodyText": "产品 模型 价格 文档 生态合作 关于 登录 PRICING · 模型价格中心 模型价格总览 面向生产选型的模型价格页：一屏对比主流厂商与模型的输入、输出、缓存命中成本，帮助你快速判断性价比。 搜索 实时价格同步 仅展示可用模型 按厂商快速定位 全部 对话 生图 语音 视频 Z-ai hunyuan deepseek-ai meituan-longcat Kimi Qwen ChinaTelecom Tongyi-MAI Baidu Stepfun-ai inclusionAI ByteDance Wan openmoss FunAudioLLM BAAI Kolors 对话模型 厂商 模型 输入价格（M Tokens） 输出价格（M Tokens） 缓存价格（M Tokens） Z-ai GLM-5.3-Flash ¥ 0.80 ¥ 2.80 ¥ 0.23 GLM-5.3 ¥ 8.00 ¥ 28.00 ¥ 2.00 GLM-5.2 ¥ 8.00 ¥ 28.00 ¥ 2.00 GLM-5.1 (Pro) 输入 [0, 32k) ¥ 6.00 输入 [0, 32k) ¥ 24.00 输入 [0, 32k) ¥ 1.30 输入 [32k, +∞) ¥ 8.00 输入 [32k, +∞) ¥ 28.00 输入 [32k, +∞) ¥ 2.00 GLM-4.5V ¥ 1.00 ¥ 6.00 - GLM-4.5-Air ¥ 1.00 ¥ 6.00 - 展开更多 3 个模型 hunyuan Hy4 preview ¥ 6.00 ¥ 18.00 ¥ 0.30 Hunyuan-MT-7B 免费 免费 - Hunyuan-A13B-Instruct 费用发生时段: 9点～18点 ¥ 1.00 费用发生时段: 9点～18点 ¥ 4.00 - 费用发生时段: 0点～9点/18点～24点 ¥ 0.80 费用发生时段: 0点～9点/18点～24点 ¥ 3.20 - deepseek-ai DeepSeek-V4-Flash 费用发生时段: 2点～8点 ¥ 1.50 费用发生时段: 2点～8点 ¥ 4.50 费用发生时段: 2点～8点 ¥ 0.15 费用发生时段: 0点～2点/8点～24点 ¥ 3.00 费用发生时段: 0点～2点/8点～24点 ¥ 9.00 费用发生时段: 0点～2点/8点～24点 ¥ 0.30 DeepSeek-V4-Pro ¥ 12.00 ¥ 24.00 ¥ 1.00 DeepSeek-V3.2 ¥ 4.00 ¥ 6.00 ¥ 0.40 DeepSeek-V3.2 (Pro) ¥ 4.00 ¥ 6.00 ¥ 0.40 DeepSeek-V3.1-Terminus ¥ 4.00 ¥ 12.00 ¥ 0.40 DeepSeek-V3.1-Terminus (Pro) ¥ 4.00 ¥ 12.00 ¥ 0.40 展开更多 6 个模型 meituan-longcat LongCat-2.0 ¥ 5.00 ¥ 20.00 ¥ 0.10 Kimi Kimi-K2.7-Code ¥ 6.50 ¥ 27.00 ¥ 1.30 Kimi-K2.6 (Pro) ¥ 6.50 ¥ 27.00 ¥ 1.10 Qwen Qwen3.8-27B ¥ 3.00 ¥ 12.00 - Qwen3.6-35B-A3B ¥ 1.80 ¥ 10.80 - Qwen3.6-27B ¥ 3.00 ¥ 18.00 - Qwen3.5-122B-A10B 输入 [0, 128k) ¥ 0.80 输入 [0, 128k) ¥ 6.40 - 输入 [128k, +∞) ¥ 2.00 输入 [128k, +∞) ¥ 16.00 - Qwen3.5-35B-A3B 输入 [0, 128k) ¥ 0.40 输入 [0, 128k) ¥ 3.20 - 输入 [128k, +∞) ¥ 1.60 输入 [128k, +∞) ¥ 12.80 - Qwen3.5-27B 输入 [0, 128k) ¥ 0.60 输入 [0, 128k) ¥ 4.80 - 输入 [128k, +∞) ¥ 1.80 输入 [128k, +∞) ¥ 14.40 - 展开更多 30 个模型 ChinaTelecom Xing4.0-29B 免费 免费 - Baidu PaddleOCR-VL-1.5 免费 免费 - Stepfun-ai Step-3.5-Flash ¥ 0.70 ¥ 2.10 - inclusionAI Ling-flash-2.0 ¥ 1.00 ¥ 4.00 - Ling-mini-2.0 ¥ 0.50 ¥ 2.00 - ByteDance Seed-OSS-36B-Instruct ¥ 1.50 ¥ 4.00 - BAAI bge-m3 免费 - - bge-reranker-v2-m3 免费 - - bge-large-zh-v1.5 免费 - - bge-large-en-v1.5 免费 - - bge-m3 (Pro) ¥ 0.07 - - bge-reranker-v2-m3 (Pro) ¥ 0.07 - - 生图模型 厂商 模型 计费项 / 价格 Tongyi-MAI Z-Image-Turbo 生成图片 每图片 ¥ 0.10 Z-Image 生成图片 每图片 ¥ 0.30 Qwen Qwen-Image-Edit-2509 生成图片 每图片 ¥ 0.30 Qwen-Image-Edit 生成图片 每图片 ¥ 0.30 Qwen-Image 生成图片 每图片 ¥ 0.30 Kolors Kolors 生成图片 每图片 免费 语音模型 厂商 模型 计费项 / 价格 ChinaTelecom XingChenGSR V1.0 输入 UTF-8 字节 每千字符（UTF-8） 免费 XingChenASR V3.2-Ultra 输入 UTF-8 字节 每千字符（UTF-8） 免费 X",
+  "captured_at": "2026-10-12 13:32:16 +0800"
+ },
+ "sf_docs": {
+  "url": "https://docs.siliconflow.cn/docs/userguide/introduction",
+  "title": "平台简介",
+  "bodyFont": "ui-sans-serif",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 29,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 19,
+   "animatedNow": 3
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [],
+  "ctas": [],
+  "inputs": [],
+  "h1": "平台简介",
+  "h2": [
+   "概述",
+   "核心产品矩阵",
+   "平台优势",
+   "适用场景",
+   "联系我们",
+   "更多"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "SiliconFlow",
+   "SiliconFlow"
+  ],
+  "bodyText": "搜索 ⌘ K 使用指南 平台简介 快速上手 对话模型 开始使用 流式输出 推理模型 Function Calling JSON 模式 多模态输入 前缀续写 FIM 补全 多模态生成 图片生成 视频生成 语音合成 功能特性 模型微调 批量推理 Rate Limits 常见问题 实名认证 API 请求错误排查 模型问题排查 财务相关 发票相关 账户相关 场景示例 API手册 文本系列 创建对话请求（OpenAI） POST 创建对话请求（Anthropic） POST 创建快速决策请求（TypeSafe） POST 创建嵌入请求 POST 创建重排序请求 POST 图像系列 创建图片生成请求 POST 语音系列 上传参考音频 POST 创建文本转语音请求 POST 获取参考音频列表 GET 删除参考音频 POST 创建语音转文本请求 POST 视频系列 创建视频生成请求 POST 获取视频生成链接请求 POST 批量处理 获取文件列表 GET 上传文件 POST 获取batch任务列表 GET 创建batch任务 POST 获取batch任务详情 GET 取消batch任务 POST 平台系列 获取用户模型列表 GET 条款与协议 更新公告 更多 SiliconFlow 平台 SiliconFlow 官网 预留实例 企业级 MaaS 平台（私有化） 私有化大模型服务网关 AI 算力运营服务 使用指南 平台简介 SiliconFlow 平台简介，了解硅基流动大模型云服务的核心能力与产品矩阵。 概述 SiliconFlow 平台依托先进自研推理引擎、高弹性算力调度平台和高扩展性 API 服务，致力于为广大开发者提供更快、更全面、更丝滑的大模型 API 调用和部署服务，帮助开发者和企业聚焦产品创新，轻松融入 AI 能力，享受高速、安全、稳定、智能、易用的 AI 云服务 核心产品矩阵 开箱即用的大模型 API 覆盖语言、语音、图片、视频、向量等场景和模态 兼容 OpenAI、Anthropic 对话协议，无缝接入各类工具 预留实例 面向企业核心 AI 推理场景 算力独占、精度保障、成本优化的一站式专属 AI 服务解决方案 高效能模型推理加速服务 主流开源模型适配与自研模型接入 极低时延，极致速度、极限性能 私有化部署 企业级私有化方案，涵盖网关、推理全链路 一站式解决模型部署、性能优化、运维服务痛点 平台优势 高速推理 专有推理引擎可将推理延迟最高降低 70%，并将吞吐量提升 3 至 5 倍 自研高效算子和优化框架，推理加速引擎全球第一梯队 极致提升吞吐能力，全面支持高吞吐场景的业务需求 显著优化计算延迟，为低延迟场景提供卓越性能保障 高性价比 动态量化技术可降低 60% 至 80% 的推理计算需求，最大化 Token 生产效率 端到端极致优化，推理和部署成本显著降低 提供灵活按需付费模式，减少资源浪费，精准控制预算 支持国产异构 GPU 部署，基于企业已有投资，节省企业投入 高稳定性 企业级 SLA 保障，经过开发者验证，保证高可靠稳定运行 提供完善的监控和容错机制，保障服务能力 提供专业技术支持，满足企业级场景需求，确保服务高可用性 高智能 提供多种先进模型服务，包括大语言模型、音视频等多模态模型 智能扩展功能，灵活适配业务规模，满足多种服务需求 智能成本分析，为业务优化提供支持，助力成本管控与效益提升 高安全性 支持 BYOC 部署，全面保护数据隐私与业务安全 计算隔离/网络隔离/存储隔离，保障数据安全 符合行业标准与合规要求，全面满足企业级用户的安全需求 高扩展性 动态扩容支持弹性业务模型，无缝适配多种复杂场景 一键部署自定义模型，轻松应对规模化挑战 灵活架构设计，满足多样化任务需求，支持混合云部署 适用场景 Agent & Coding：一键接入主流 Agent 与 Coding 应用，占领 AI 生产力高地 AI 应用开发：快速集成大模型能力，构建智能应用 内容创作：利用文本、图像、视频生成模型辅助创作 企业智能化：通过私有化部署和预留实例满足企业核心推理需求 行业解决方案：覆盖互联网、教育、政务、智算中心、AI 硬件等领域 联系我们 contact@siliconflow.cn 更多 SiliconFlow 平台 SiliconFlow 官网 预留实例 企业级 MaaS 平台（私有化） 私有化大模型服务网关 AI 算力运营服务 快速上手 新用户快速入门指南，从注册登录到获取 API Key 并完成首次模型调用的完整流程。 On this page 概述 核心产品矩阵 开箱即用的大模型 API 预留实例 高效能模型推理加速服务 私有化部署 平台优势 适用场景 联系我们 更多",
+  "captured_at": "2026-10-12 13:32:31 +0800"
+ },
+ "ppio_models": {
+  "url": "https://ppio.com/llm",
+  "title": "LLM Playground | PPIO派欧云",
+  "bodyFont": "-apple-system",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 31,
+   "img": 17,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 11,
+   "keyframes": 32,
+   "animatedNow": 1
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "文档",
+   "控制台",
+   "登录",
+   "立即注册",
+   "登录/注册",
+   "免费注册"
+  ],
+  "ctas": [
+   "立即注册 [#0E58EA]",
+   "text [#FFFFFF]",
+   "添加函数 [#FFFFFF]",
+   "Qwen3.8 Flash [#FFFFFF]",
+   "热门工具接入 [#F7F8FA]",
+   "私有化部署 [#F7F8FA]",
+   "模型详情 [#0E58EA]",
+   "联网搜索(免费) [#F2F3F5]",
+   "深度思考 [#F4F7FF]"
+  ],
+  "inputs": [
+   "textarea:",
+   "number:",
+   "number:",
+   "number:",
+   "number:",
+   "number:",
+   "number:",
+   "number:",
+   "number:",
+   "file:",
+   "textarea:向 Qwen3.8 Flash 发送消息"
+  ],
+  "h1": null,
+  "h2": [],
+  "priceHits": [
+   "￥0.8",
+   "￥0.1",
+   "￥2.7"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "logo",
+   "Qwen3.8 Flash",
+   "Qwen3.8 Flash",
+   "close",
+   "success",
+   "load error",
+   "slider arrow",
+   "slider arrow",
+   "slider arrow",
+   "refresh"
+  ],
+  "bodyText": "模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 模型配置 响应格式 text 系统提示词 max_tokens temperature top_p min_p top_k presence_penalty frequency_penalty repetition_penalty 函数工具 添加函数 Qwen3.8 Flash 热门工具接入 私有化部署 模型详情 1M 上下文窗口 输入 ￥0.8/Mt · Cache Read ￥0.1/Mt 输出 ￥2.7/Mt 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 人工智能生成合成 Qwen3.8 Flash 联网搜索(免费) 深度思考 如何评价周杰伦在歌坛的地位 有诺贝尔数学奖吗？ 喝酒脸红是会喝酒的表现吗？ 拖动下方拼图完成验证 安全验证",
+  "captured_at": "2026-10-12 13:32:48 +0800"
+ },
+ "ppio_pricing": {
+  "url": "https://ppio.com/pricing",
+  "title": "价格 - PPIO派欧云",
+  "bodyFont": "-apple-system",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 38,
+   "img": 36,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 14,
+   "inputs": 1,
+   "keyframes": 52,
+   "animatedNow": 1
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "文档",
+   "控制台",
+   "登录",
+   "立即注册",
+   "登录/注册",
+   "免费注册"
+  ],
+  "ctas": [
+   "立即注册 [#0E58EA]",
+   "报价咨询 [#1161FE]",
+   "模型 API 服务 [#F7F8FA]",
+   "按量付费 [#1161FE]",
+   "所有模型 [#E6EDFA]",
+   "大语言 [#FFFFFF]",
+   "图像 [#FFFFFF]",
+   "音频 [#FFFFFF]",
+   "视频 [#FFFFFF]",
+   "缓存 [#FFFFFF]"
+  ],
+  "inputs": [
+   "text:搜索模型..."
+  ],
+  "h1": "PPIO派欧云定价",
+  "h2": [
+   "PPIO派欧云定价",
+   "立即体验，开启 AI 应用构建之旅",
+   "更多服务"
+  ],
+  "priceHits": [
+   "￥3",
+   "￥1",
+   "￥9",
+   "￥2",
+   "￥0.04",
+   "￥8",
+   "￥3",
+   "￥1",
+   "￥9",
+   "￥9",
+   "￥3",
+   "￥27"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "logo",
+   "DeepSeek",
+   "智谱",
+   "千问",
+   "MiniMax",
+   "月之暗面",
+   "小米",
+   "qwen-image-edit",
+   "qwen-txt2img",
+   "kling-2.5-i2v"
+  ],
+  "bodyText": "模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 PPIO派欧云定价 选择适合您的产品了解定价策略 报价咨询 模型 API 服务 Agent 沙箱 GPU 服务 即将下线 企业私有化部署 按量付费 企业 Token Plan 超值 通过 PPIO派欧云模型 API 服务可以快速接入并使用行业领先的开源模型，包括大语言模型、图像模型、声音模型及视频模型。你只需按照使用量来付费。 使用批量推理，输入和输出 Token 可享五折限时优惠（部分模型支持） 了解更多 所有模型 大语言 图像 音频 视频 缓存 厂商/系列：所有 DeepSeek 来自Deepseek的先进AI模型，提供尖端推理能力和极具竞争力的企业及研究应用定价 大语言模型名称 上下文 输入 输出 操作 deepseek/deepseek-v4-flash-0731-p 1M ￥3/Mt ·Cache Read ￥1/Mt ￥9/Mt 在线体验 DeepSeek V4.1 Flash 1M ￥2/Mt ·Cache Read ￥0.04/Mt ￥8/Mt 在线体验 DeepSeek V4 Flash Vision Exp 1M ￥3/Mt ·Cache Read ￥1/Mt ￥9/Mt 在线体验 DeepSeek V4 Pro 0813 1M ￥9/Mt ·Cache Read ￥3/Mt ￥27/Mt 在线体验 DeepSeek V4 Flash 0731 1M ￥3/Mt ·Cache Read ￥1/Mt ￥9/Mt 在线体验 DeepSeek V4 Pro 1M ￥9/Mt ·Cache Read ￥3/Mt ￥27/Mt 在线体验 DeepSeek OCR 2 8.2K ￥0.216/Mt ￥0.216/Mt 在线体验 智谱 来自清华大学的GLM系列模型，具有先进的中文语言理解和生产能力 大语言模型名称 上下文 输入 输出 操作 GLM 5.3 Flash 1M ￥0.8/Mt ·Cache Read ￥0.23/Mt ￥2.8/Mt 在线体验 GLM 5.3 1M ￥8/Mt ·Cache Read ￥2/Mt ￥28/Mt 在线体验 GLM 5.2 1M ￥8/Mt ·Cache Read ￥2/Mt ￥28/Mt 在线体验 GLM 5.1 204.8K -- 阶梯计费 在线体验 GLM 5 202.8K -- 阶梯计费 在线体验 GLM 4.7 Flash 200K ￥0.5/Mt ·Cache Read ￥0.1/Mt ￥3/Mt 在线体验 GLM 4.7 204.8K -- 阶梯计费 在线体验 AutoGLM Phone 9B Multilingual 65.5K ￥0.25/Mt ￥1/Mt 在线体验 GLM 4.6v 131.1K -- 阶梯计费 在线体验 GLM 4.6 204.8K ￥4/Mt ·Cache Read ￥0.8/Mt ·Cache Write(5m) ￥0.8/Mt ￥16/Mt 在线体验 GLM 4.5V 65.5K ￥4/Mt ·Cache Read ￥0.8/Mt ￥12/Mt 在线体验 GLM 4.5 Air 131.1K ￥1.2/Mt ·Cache Read ￥0.24/Mt ￥2/Mt 在线体验 千问 Qwen系列模型提供高效的语言处理能力，具有从轻量级到企业级解决方案的各种参数规模 大语言模型名称 上下文 输入 输出 操作 Qwen3.8 Flash 1M ￥0.8/Mt ·Cache Read ￥0.1/Mt ￥2.7/Mt 在线体验 Qwen3.8 27B 1M ￥3/Mt ·Cache Read ￥0.6/Mt ￥12/Mt 在线体验 Qwen3.8 2.4T A95B 1M ￥12/Mt ·Cache Read ￥1.5/Mt ￥36/Mt 在线体验 Qwen3.8 Max 1M ￥12/Mt ·Cache Read ￥1.5/Mt ￥36/Mt 在线体验 Qwen3.7 Max 1M ￥6/Mt ·Cache Read ￥1.2/Mt ￥18/Mt 在线体验 Qwen3.6 27B 262.1K ￥3/Mt ￥18/Mt 在线体验 Qwen3.5 27B 262.1K -- 阶梯计费 在线体验 Qwen3.5 122B A10B 262.1K -- 阶梯计费 在线体验 Qwen3.5 35B A3B 262.1K -- 阶梯计费 在线体验 Qwen3.5 397B A17B 262.1K -- 阶梯计费 在线体验 Qwen3.6 35B A3B 262.1K ￥1.8/Mt ￥10.8/Mt 在线体验 MiniMax Minimax AI的先进语言模型，提供强大的对话式AI能力，针对客户服务、内容生成和创意应用进行了性能优化，具有强大的多语言支持能力和企业级可扩展性 大语言模型名称 上下文 输入 输出 操作 MiniMax-M3 1M -- 阶梯计费 在线体验 MiniMax M2.7-highspeed 204.8K ￥4.2/Mt ·Cache Read ￥0.42/Mt ·Cache Write(5m) ￥2.625/Mt ￥16.8/Mt 在线体验 MiniMax M2.7 204.8K ￥2.1/Mt ·Cache Read ￥0.42/Mt ·Cache Write(5m) ￥2.625/Mt ￥8.4/Mt 在线体验 MiniMax M2.5 204.8K ￥2.1/Mt ·Cache Read ￥0.21/Mt ·Cache Write(5m) ￥2.625/Mt ￥8.4/Mt 在线体验 MiniMaxAI/MiniMax-M1-80k 128K ￥4/Mt ￥16/Mt 在线体验 腾讯 腾讯 系列语言模型 大语言模型名称 上下文 输入 输出 操作 Hy4 Preview 1M ￥6/Mt ·Cac",
+  "captured_at": "2026-10-12 13:33:02 +0800"
+ },
+ "ppio_docs": {
+  "url": "https://ppio.com/docs/announcement/announcement",
+  "title": "官方公告📢 - PPIO 派欧云文档中心",
+  "bodyFont": "Inter",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 55,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 19,
+   "inputs": 2,
+   "keyframes": 8,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "控制台",
+   "返回官网",
+   "产品公告",
+   "Agent 工具",
+   "模型服务用户指南",
+   "模型服务 API 手册",
+   "GPU 容器用户指南",
+   "GPU 容器 API 手册",
+   "Sandbox 用户指南",
+   "管理 API 手册",
+   "账号用户指南",
+   "官方公告",
+   "发版记录 - 模型 API 服务",
+   "发版记录 - GPU 容器服务",
+   "发版记录 - Sandbox",
+   "发版记录 - 云平台与账号",
+   "一、调整内容",
+   "二、如何适配"
+  ],
+  "ctas": [
+   "搜索... ⌘K [#FFFFFF]",
+   "复制页面 [#FFFFFF]"
+  ],
+  "inputs": [
+   "textarea:提出问题...",
+   "textarea:"
+  ],
+  "h1": "官方公告📢",
+  "h2": [
+   "Documentation Index",
+   "在此页面",
+   "​ 关于部分 LLM 模型计划下线的通知",
+   "​ 关于 PPIO GPUs 产品线访问认证安全策略调整的公告",
+   "​ 关于部分 LLM 模型计划下线的通知",
+   "​ 关于部分 LLM 模型计划下线的通知",
+   "​ 关于部分多模态模型计划下线的通知",
+   "​ 关于部分 LLM 模型计划下线的通知",
+   "​ 关于部分多模态模型计划下线的通知",
+   "​ 关于部分多模态模型计划下线的通知",
+   "​ 关于部分多模态模型计划下线的通知",
+   "​ 关于部分 Serverless LLM 模型计划下线的通知"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "light logo",
+   "dark logo"
+  ],
+  "bodyText": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. 跳转到主要内容 PPIO 派欧云文档中心 home page 搜索... ⌘K 控制台 返回官网 产品公告 Agent 工具 模型服务用户指南 模型服务 API 手册 GPU 容器用户指南 GPU 容器 API 手册 Sandbox 用户指南 管理 API 手册 账号用户指南 官方公告 发版记录 - 模型 API 服务 发版记录 - GPU 容器服务 发版记录 - Sandbox 发版记录 - 云平台与账号 在此页面 关于部分 LLM 模型计划下线的通知 关于 PPIO GPUs 产品线访问认证安全策略调整的公告 一、调整内容 二、如何适配 三、过渡期 关于部分 LLM 模型计划下线的通知 关于部分 LLM 模型计划下线的通知 关于部分多模态模型计划下线的通知 关于部分 LLM 模型计划下线的通知 关于部分多模态模型计划下线的通知 关于部分多模态模型计划下线的通知 关于部分多模态模型计划下线的通知 关于部分 Serverless LLM 模型计划下线的通知 关于部分多模态模型计划下线的通知 关于部分 Serverless LLM 模型计划下线的通知 关于部分 Serverless LLM 模型计划下线的通知 关于部分 Serverless LLM 模型紧急下线及计划下线的通知 LLM API 计费规则说明 关于 GPU 容器实例及 Serverless GPUs 服务价格调整的通知 GPU 实例自动迁移入口修改 关于部分 Image-API 调整及下线通知 关于 Serverless LLM 部分模型库调整及下架通知 【邀请奖励】活动下线通知 Agent沙箱 存储计费功能上线公告 大语言模型下线公告 视频 API 服务下线公告 大语言模型下线公告 关于未实名认证用户请求频率限制公告 大语言模型下线公告 派欧算力云正式升级至 PPIO派欧云 大语言模型下线公告 PPIO 派欧云平台正式发布！ 官方公告📢 复制页面 ​ 关于部分 LLM 模型计划下线的通知 尊敬的开发者： 为持续优化平台服务效率，聚焦核心产品能力提升，提供更先进、优质、规范的服务，PPIO 派欧云将对部分 LLM 模型进行计划下线处理。下架模型及相应替换模型列表如下： 下架模型 下架时间 替换模型 备注 deepseek/deepseek-v4-flash 2026-10-10 deepseek/deepseek-v4.1-flash — 请尽快停止使用上述模型，并将调用请求迁移至替换模型。停服后原 API 调用将返回错误代码，为避免业务中断，请立即联系专属客户经理或提交工单处理相关事宜。感谢您的理解与支持。 PPIO 派欧云 AI 产品团队 发布时间：2026-09-28 ​ 关于 PPIO GPUs 产品线访问认证安全策略调整的公告 尊敬的 PPIO 用户： 为保障平台与用户业务安全，PPIO 将对 GPUs 产品线（Serverless、GPU Instance）的对外访问链路进行安全策略升级。 自 2026 年 10 月 15 日 起，所有通过 PPIO 默认域名访问相关服务的请求，必须完成 API Key 认证或配置访问源 IP 白名单，不再支持无认证直接对外开放。 ​ 一、调整内容 Serverless：Endpoint 调用必须携带有效 API Key，未认证请求将返回 HTTP 401。 GPU Instance HTTP 端口映射：通过 *.gpu-instance.ppinfra.com 访问实例 HTTP 服务时，必须携带有效 API Key。 GPU Instance TCP 端口映射：SSH、数据库端口及其他 TCP 服务必须提交访问源 IP 白名单，不再支持全网开放。已开通 TCP 映射的用户，请在 2026 年 10 月 15 日前 完成白名单配置。 ​ 二、如何适配 HTTP 请求使用标准 Bearer Token，并统一使用 PPIO API Key： curl https://{endpoint}.runsync.serverless.ppinfra.com \\ -H \"Authorization: Bearer {api-key}\" curl https://{instance}-{port}.{region}.gpu-instance.ppinfra.com \\ -H \"Authorization: Bearer {api-key}\" 调用方只需增加认证 Header，服务本身无需改造。 获取 / 管理 API Key：前往密钥管理 API Key 使用文档：查看使用文档 使用 TCP 端口映射的用户，请通过工单或联系专属客户经理提交访问源 IP 白名单。 ​ 三、过渡期 2026 年 9 月 24 日至 2026 年 10 月 15 日 为过渡期。过渡期内，现有访问方式仍可使用，请尽早完成适配，避免业务中断。 感谢您的理解与配合。 PPIO 派欧云 2026 年 9 月 24 日 ​ 关于部分 LLM 模型计划下线的通知 尊敬的开发者： 为持续优化平台服务效率，聚焦核心产品能力提升，提供更先进、优质、规范的服务，PPIO 派欧云将对部分 LLM 模型进行计划下线处理。下架模型及相应替换模型列表如下： 下架模型 下架时间 替换模型 备注 qwen/qwen3-vl-235b-a22b-instruct 2026-10-09 qwen/qwen3.8-max — qwen/qwen3.5-plus 2026-10-09 qwen/qwen3.8-max — qwen/qwen3.6-plus 2026-10-0",
+  "captured_at": "2026-10-12 13:33:17 +0800"
+ },
+ "or_models": {
+  "url": "https://openrouter.ai/models",
+  "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRouter",
+  "bodyFont": "\"Plus Jakarta Sans\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 205,
+   "img": 23,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 12,
+   "keyframes": 18,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "Skip to content",
+   "Models",
+   "Benchmarks",
+   "Chat",
+   "Rankings",
+   "Apps",
+   "Ori",
+   "Pricing",
+   "Docs"
+  ],
+  "ctas": [
+   "Search ⌘ K [#FFFFFF]",
+   "Sign Up [#7624F4]",
+   "Compare [#FCFCFE]",
+   "Discover Models [#FCFCFE]",
+   "Newest [#FFFFFF]",
+   "All variants [#FFFFFF]",
+   "Pinned [#FCFCFE]"
+  ],
+  "inputs": [
+   "search:",
+   "checkbox:input_modalities-text",
+   "checkbox:input_modalities-image",
+   "checkbox:input_modalities-file",
+   "checkbox:input_modalities-audio",
+   "checkbox:input_modalities-video",
+   "text:Search models...",
+   "text:base-ui-_r_im_-hidden-input",
+   "text:base-ui-_r_iq_-hidden-input",
+   "text:Search models...",
+   "text:base-ui-_r_iv_-hidden-input",
+   "text:base-ui-_r_j3_-hidden-input"
+  ],
+  "h1": "Models",
+  "h2": [
+   "Footer"
+  ],
+  "priceHits": [
+   "$0.042",
+   "$0",
+   "$0.04",
+   "$0",
+   "$0.15",
+   "$0",
+   "$1",
+   "$2.70",
+   "$0.05",
+   "$0",
+   "$0.05",
+   "$0.25"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "OpenRouter",
+   "Favicon for x-ai",
+   "Favicon for mistralai",
+   "Favicon for x-ai",
+   "Favicon for mistralai",
+   "Favicon for microsoft",
+   "Favicon for nace-ai",
+   "Favicon for cloudflare",
+   "Favicon for stepfun",
+   "Favicon for upstage"
+  ],
+  "bodyText": "Skip to content Search ⌘ K Models Benchmarks Chat Rankings Apps Ori Pricing Docs Sign Up ElevenLabs launch offer: every ElevenLabs model is 50% off through October 19, 2026. See ElevenLabs models Dismiss Input modalities Text Image File Audio Video Discounted Context length Prompt pricing Series Categories Supported parameters Distillable Zero data retention In-region routing Output pricing Model age Tool calling Inactive models Artificial Analysis Design Arena Providers Model authors Models Models Compare Discover Models Newest All variants Pinned List Table All Text 458 Image 59 Video 30 Speech 32 Decisions 18 Embeddings 37 Rerank 9 More Microsoft: Microsoft-Decision-1 9.58B tokens Microsoft-Decision-1 is a small model built for fast decision-making. Instead of generating text, it reads the provided content and returns a calibrated probability for each fixed answer option, so the response carries its own confidence and can determine when an application acts, defers, or asks for review. It is post-trained from Qwen3.5-9B for single-pass scoring and suited to classification, routing, prioritization, verification, workflow control, agent guardrails, and AI judging. It is not intended for open-ended generation, conversation, translation, or summarization. Weights are updated continually while the API shape stays the same. Learn more in Microsoft's announcement: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ by microsoft Oct 9, 2026 $0.042/M input tokens $0/M output tokens Nace.AI: Drex v1.5 11.3B tokens Drex 1.5 is a small decision model from Nace AI, served over the same /v1/systemone contract as TypeSafe's Jev. Send a state and typed questions (yes/no, multiple choice, or score) and it returns a probability for every option in one forward pass, with no generated text. With under 10B parameters and 128K tokens of context, it suits routing, classification, and policy checks over long documents that need a fast, scored answer instead of prose. Open weights and runtime: https://github.com/nace-ai/drex-decision-models by nace-ai Oct 9, 2026 $0.04/M input tokens $0/M output tokens Cloudflare: Clef Omni 943M tokens Trivia (#32) Clef Omni is the mixture-of-experts member of Cloudflare's open-source Clef decision model family, a fine-tune of Qwen3-Omni-30B-A3B (30B total, 3B active parameters) served on Workers AI. It turns a state plus a schema of typed questions into decisions, returning a calibrated probability for every allowed option of ",
+  "captured_at": "2026-10-12 13:33:31 +0800"
+ },
+ "or_docs": {
+  "url": "https://openrouter.ai/docs/quickstart",
+  "title": "OpenRouter Quickstart Guide",
+  "bodyFont": "\"Plus Jakarta Sans\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 169,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 1,
+   "inputs": 4,
+   "keyframes": 7,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "Models",
+   "Benchmarks",
+   "Chat",
+   "Rankings",
+   "Apps",
+   "Ori",
+   "Pricing",
+   "Sign In",
+   "Docs",
+   "API Reference",
+   "Client SDKs",
+   "Agent SDK",
+   "Cookbook",
+   "Quickstart",
+   "Principles",
+   "FAQ",
+   "Report Feedback",
+   "Model Fallbacks"
+  ],
+  "ctas": [
+   "Search... ⌘K [#03080A]",
+   "Ask Assistant ⌘I [#03080A]",
+   "Copy page [#03080A]"
+  ],
+  "inputs": [
+   "textarea:Ask a question...",
+   "textarea:Ask a question...",
+   "file:",
+   "textarea:"
+  ],
+  "h1": "Quickstart",
+  "h2": [
+   "Documentation Index",
+   "On this page",
+   "​ Using the OpenRouter API",
+   "​ Using the Client SDKs",
+   "​ Using the Agent SDK",
+   "​ Using the OpenAI SDK",
+   "​ Using third-party SDKs",
+   "​ Building with an AI assistant"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "light logo",
+   "dark logo"
+  ],
+  "bodyText": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content OpenRouter | Documentation home page Search... ⌘K Ask Assistant ⌘I Models Benchmarks Chat Rankings Apps Ori Pricing Sign In Docs API Reference Client SDKs Agent SDK Cookbook Overview Quickstart Principles Models Multimodal FAQ Report Feedback Models & Routing Model Fallbacks Provider Selection Auto Exacto Private Models Model Variants Routers Tool Calling Client Tools Server Tools Plugins Features Workspaces Notifications Files Beta Containers Beta Presets Custom Classifiers Response Caching Structured Outputs Message Transforms Zero Completion Insurance App Attribution Batch Guardrails Service Tiers Router Metadata Observability Logs Activity Input & Output Logging Broadcast Authentication OAuth Workload Identity Management API Keys Security settings BYOK Single Sign-On (SSO) SCIM Group Mappings Ori Ori Ori Eval Ori Harness File Writing Ori Configuration Chatting with Interns Vault Secrets for Interns Changelog Developer Tools MCP Terraform Provider Stripe Projects Privacy Data Collection Provider Logging ZDR In-Region Routing Sovereign AI Best Practices Latency and Performance Prompt Caching Spend Controls Capping Shared Agent Keys Uptime Optimization Reasoning Tokens Providers Integration Traffic Routing Community Frameworks and Integrations Overview Awesome OpenRouter Effect AI SDK Arize AX LangChain LiveKit Langfuse Mastra OpenAI SDK Anthropic Agent SDK PydanticAI Render Replit TanStack AI Jev (TypeSafe) Jev Tutorial Multimodal Decisions TypeSafe SDK (Jev) Vercel AI SDK Xcode Zapier Infisical On this page Using the OpenRouter API Using the Client SDKs Using the Agent SDK Using the OpenAI SDK Using third-party SDKs Building with an AI assistant Overview Quickstart Copy page Get started with OpenRouter OpenRouter gives you access to hundreds of AI models through a single API endpoint. It handles fallbacks automatically and picks the most cost-effective option for each request. There are three ways to integrate with OpenRouter, depending on how much control you want: Approach Best for API Full control, any language, no dependencies Client SDKs Type-safe model calls with minimal overhead Agent SDK Building agents with tool use, loops, and state Read github.com/OpenRouterTeam/skills/tree/main/skills/create-agent-tui and follow the instructions to build an agent using OpenRouter. Looking f",
+  "captured_at": "2026-10-12 13:33:45 +0800"
+ },
+ "tg_pricing": {
+  "url": "https://www.together.ai/pricing",
+  "title": "Pricing | Together AI",
+  "bodyFont": "\"The Future\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 218,
+   "img": 238,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 18,
+   "inputs": 6,
+   "keyframes": 12,
+   "animatedNow": 0
+  },
+  "libs": [
+   "gsap",
+   "swiper"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Inference",
+   "Chat",
+   "Image",
+   "Code",
+   "Vision",
+   "Video",
+   "Show all",
+   "Compute",
+   "GB300",
+   "GB200",
+   "B200",
+   "H200",
+   "H100",
+   "Model Shaping",
+   "Research",
+   "FlashAttention",
+   "ATLAS",
+   "Kernel Collection"
+  ],
+  "ctas": [
+   "SIGN IN [#000000]",
+   "CONTACT US [#000000]",
+   "VISION [#FFFFFF]",
+   "IMAGE [#FFFFFF]",
+   "AUDIO [#FFFFFF]",
+   "VIDEO [#FFFFFF]",
+   "TRANSCRIBE [#FFFFFF]",
+   "EMBEDDINGS [#FFFFFF]",
+   "RERANK [#FFFFFF]",
+   "MODERATION [#FFFFFF]"
+  ],
+  "inputs": [
+   "select-one:sc-prop-model",
+   "select-one:sc-prop-model",
+   "number:sc-prop-model",
+   "number:sc-prop-model",
+   "number:sc-prop-model",
+   "number:sc-prop-model"
+  ],
+  "h1": "Pricing",
+  "h2": [
+   "Serverless Inference",
+   "Provisioned Throughput",
+   "Dedicated Inference",
+   "GPU Clusters",
+   "Sandbox",
+   "Storage",
+   "Fine-Tuning",
+   "TRUSTED BY",
+   "Start building on Together AI"
+  ],
+  "priceHits": [
+   "$0.30",
+   "$0.06",
+   "$1.20",
+   "$3.00",
+   "$2.70",
+   "$0.27",
+   "$15.00",
+   "$13.50",
+   "$2.00",
+   "$0.25",
+   "$6.00",
+   "$0.35"
+  ],
+  "perMillionMentions": 3,
+  "imgAlt": [
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "Black downward-pointing triangle with thick sides on a white background.",
+   "Orange video camera icon with two circular reels on top and a rectangular body below on black background.",
+   "Orange video camera icon with two circular reels on top and a rectangular body below on black background.",
+   "Orange video camera icon with two circular reels on top and a rectangular body below on black background."
+  ],
+  "bodyText": "Introducing Together Link: Run open models inside the harness you already use → The Open Source AI Stack: models, inference, routers, harnesses & tools → 📈 GLM-5.3 vs. GLM 5.3 Flash on DeepSWE → ⚡ On-demand B200s now available on Together GPU Clusters → Inference Compute Model Shaping Research Developers Company Pricing CONTACT SALES SIGN IN INFERENCE Serverless Inference Provisioned Throughput Dedicated Inference COMPUTE GPU Clusters Sandbox Managed Storage MODEL SHAPING Fine-Tuning Need help choosing? Our team can help you find the best fit for your needs. CONTACT US PRICING Serverless Inference Most teams start with serverless inference and move to dedicated endpoints at scale. CHAT VISION IMAGE AUDIO VIDEO TRANSCRIBE EMBEDDINGS RERANK MODERATION Price per 1M tokens Batch API price MODEL INPUT OUTPUT MiniMax M3 $0.30 $0.06 (cached) $1.20 Kimi K3 PROMO PROMOTION VALID UNTIL 10/11/2026 $3.00 $2.70 $0.27 (cached) $15.00 $13.50 Qwen3.8-2.4T-A95B $2.00 $0.25 (cached) $6.00 Muse Glimmer 30B $0.35 $0.04 (cached) $1.50 DeepSeek V4 Pro 0813 $1.32 $0.13 (cached) $3.96 GLM-5.3 $1.40 $0.26 (cached) $4.40 GLM-5.3-Flash $0.15 $0.03 (cached) $0.50 DeepSeek V4.1 Flash $0.30 $0.006 (cached) $1.20 Tev1 4B Experimental $0.04 Free Gemma 4 31B $0.39 $0.97 Qwen3.7-Plus $0.32 $1.28 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai 27B $0.00 $0.00 Inkling $1.00 $0.17 (cached) $4.05 DeepSeek V4 Flash 0731 $0.14 $0.03 (cached) $0.28 Qwen3.8 Flash $0.15 $0.47 Qwen3.7-Max $1.50 $0.30 (cached) $4.50 gpt-oss-120B $0.15 $0.60 Qwen3.5-397B-A17B $0.60 $0.35 (cached) $3.60 Qwen3.5 9B $0.17 $0.25 Cogito v2.1 671B $1.25 $1.25 Rnj-1 Instruct $0.15 $0.15 Llama 3.3 70B $1.04 $1.04 MiniMax M2.7 $0.30 $0.06 (cached) $1.20 Qwen3.6-Plus $0.50 $3.00 Qwen2.5 7B Instruct Turbo $0.30 $0.30 Llama 3 8B Instruct Lite $0.14 $0.14 Qwen3 235B A22B Instruct 2507 FP8 Throughput $0.20 $0.60 Displayed prices refer to the lowest resolution/duration settings. Actual prices might vary. Provisioned Throughput Reserve dedicated capacity in throughput units (PTUs). Each PTU represents fixed capacity. The tokens-per-minute it delivers depends on the model and the token type. Estimate your PTUs & cost MODEL MiniMax M3 Kimi K3 GLM-5.2 COMPARE VS. Claude Fable 5.1 Claude Opus 5.5 Claude Sonnet 5.5 Claude Haiku 4.5 Gemini 3.8 Flash GPT-6 Astra (long context) GPT-6 Astra (short context) GPT-6.1 Sol (long context) GPT-6.1 Sol (short context) GPT-6 Luna (long context) GPT-6 Luna (short context) PEAK REQUESTS / SEC CACHE H",
+  "captured_at": "2026-10-12 13:33:59 +0800"
+ },
+ "tg_models": {
+  "url": "https://www.together.ai/models",
+  "title": "Build with leading AI models | Together AI",
+  "bodyFont": "\"The Future\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 231,
+   "img": 290,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 12,
+   "keyframes": 12,
+   "animatedNow": 4
+  },
+  "libs": [
+   "gsap",
+   "swiper"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Inference",
+   "Chat",
+   "Image",
+   "Code",
+   "Vision",
+   "Video",
+   "Show all",
+   "Compute",
+   "GB300",
+   "GB200",
+   "B200",
+   "H200",
+   "H100",
+   "Model Shaping",
+   "Research",
+   "FlashAttention",
+   "ATLAS",
+   "Kernel Collection"
+  ],
+  "ctas": [
+   "SIGN IN [#000000]"
+  ],
+  "inputs": [
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "radio:category-filter",
+   "text:Find a model...",
+   "text:Find a provider"
+  ],
+  "h1": "Leading open models, ready for production",
+  "h2": [
+   "Deployment options",
+   "Explore model providers",
+   "Run inference with Serverless Endpoints"
+  ],
+  "priceHits": [
+   "$0.06",
+   "$0.30",
+   "$1.20",
+   "$0.27",
+   "$2.70",
+   "$13.50",
+   "$0.25",
+   "$2.00",
+   "$6.00",
+   "$0.04",
+   "$0.35",
+   "$1.50"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "Abstract 3D geometric shapes consisting of intersecting blue, purple, and orange discs and planes on a white background.",
+   "Abstract blue and purple gradient shapes on a light blue background.",
+   "Bert from Sesame Street with spiky black hair, striped sweater, and surprised expression.",
+   "Black downward-pointing triangle with thick sides on a white background."
+  ],
+  "bodyText": "Introducing Together Link: Run open models inside the harness you already use → The Open Source AI Stack: models, inference, routers, harnesses & tools → 📈 GLM-5.3 vs. GLM 5.3 Flash on DeepSWE → ⚡ On-demand B200s now available on Together GPU Clusters → Inference Compute Model Shaping Research Developers Company Pricing CONTACT SALES SIGN IN MODEL LIBRARY Leading open models, ready for production Browse and compare a growing library of models available on Together AI ALL CHAT IMAGE VISION VIDEO AUDIO TRANSCRIBE CODE EMBEDDINGS RERANK MODERATION Showing 181 models ALL PROVIDERS CHAT MiniMax M3 Cached/1M $0.06 Input/1M $0.30 Output/1M $1.20 SERVERLESSDEDICATEDPROVISIONED THROUGHPUT CHAT Kimi K3 Cached/1M $0.27 Input/1M $2.70 Output/1M $13.50 SERVERLESSDEDICATEDPROVISIONED THROUGHPUT CHAT Qwen3.8-2.4T-A95B Cached/1M $0.25 Input/1M $2.00 Output/1M $6.00 SERVERLESSDEDICATED CHAT NVIDIA Nemotron 3.5 Lightning Parameters 30B DEDICATED CHAT Muse Glimmer 30B Cached/1M $0.04 Input/1M $0.35 Output/1M $1.50 SERVERLESSDEDICATED VIDEO ByteDance Seedance 2.5 Price/video $0.115 SERVERLESS CHAT DeepSeek V4 Pro 0813 Cached/1M $0.13 Input/1M $1.32 Output/1M $3.96 SERVERLESSDEDICATED CHAT GLM-5.3 Cached/1M $0.26 Input/1M $1.40 Output/1M $4.40 SERVERLESSDEDICATED NEW CHAT GLM-5.3-Flash Cached/1M $0.03 Input/1M $0.15 Output/1M $0.50 SERVERLESSDEDICATED NEW CHAT DeepSeek V4.1 Flash Cached/1M $0.006 Input/1M $0.30 Output/1M $1.20 SERVERLESSDEDICATED NEW CHAT Tev1 4B Experimental Input/1M $0.04 Output/1M Free Parameters 4.7B SERVERLESSDEDICATED CHAT Gemma 4 31B Input/1M $0.39 Output/1M $0.97 Parameters 31B DEDICATEDSERVERLESS CHAT DeepSeek V4 Pro Parameters 1.6T DEDICATED CHAT NVIDIA Nemotron 3 Ultra Parameters 550B DEDICATED CHAT Qwen3.7-Plus Input/1M $0.32 Output/1M $1.28 Context 1M SERVERLESS CHAT GLM-5.2 Cached/1M $0.26 Input/1M $1.40 Output/1M $4.40 SERVERLESSPROVISIONED THROUGHPUT LOAD MORE Deployment options Run models using different deployment options depending on latency needs, traffic patterns, and infrastructure control. Serverless Inference A fully managed real-time or batch inference API with access to dozens of the most popular AI models. BEST FOR Variable or unpredictable traffic Rapid prototyping and iteration Cost-sensitive or early-stage production workloads GET STARTED EXPLORE DOCS Provisioned Throughput Reserved token capacity with SLA guarantees. Priced in PTUs, a normalized throughput unit. BEST FOR Production workloads Reliability guarantees Predictable pr",
+  "captured_at": "2026-10-12 13:34:12 +0800"
+ },
+ "ds_pricing": {
+  "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
+  "title": "模型 & 价格 | DeepSeek API Docs",
+  "bodyFont": "Inter",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 16,
+   "img": 2,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 1,
+   "inputs": 1,
+   "keyframes": 5,
+   "animatedNow": 4
+  },
+  "libs": [],
+  "hasScrollReveal": false,
+  "nav": [
+   "DeepSeek API 文档",
+   "更多资源",
+   "实用集成",
+   "API 服务状态",
+   "常见问题",
+   "中文（中国）",
+   "English",
+   "开放平台",
+   "EN",
+   "快速开始",
+   "API 指南",
+   "API 文档",
+   "新闻",
+   "更新日志",
+   "首次调用 API",
+   "模型 & 价格",
+   "Token 用量计算",
+   "限速与隔离"
+  ],
+  "ctas": [
+   "模型 & 价格 [#E4EDFD]"
+  ],
+  "inputs": [
+   "text:搜索"
+  ],
+  "h1": "模型 & 价格",
+  "h2": [
+   "模型细节​",
+   "扣费规则​"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "DeepSeek API 文档 Logo",
+   "WeChat QRcode"
+  ],
+  "bodyText": "跳到主要内容 DeepSeek API 文档 ⌘ K 更多资源 中文（中国） 开放平台 快速开始 API 指南 API 文档 新闻 更新日志 首次调用 API 模型 & 价格 Token 用量计算 限速与隔离 错误码 接入 Agent 工具 DeepSeek Harness Claude Code Codex OpenCode OpenClaw Hermes Reasonix WorkBuddy/CodeBuddy Qoder 贡献你的 Agent 接入 模型 & 价格 下表所列模型价格以“百万 tokens”为单位。Token 是模型用来表示自然语言文本的的最小单位，可以是一个词、一个数字或一个标点符号等。我们将根据模型输入和输出的总 token 数进行计量计费。 模型细节​ 模型 deepseek-flash(1) deepseek-v4-pro BASE URL (OpenAI 格式) https://api.deepseek.com BASE URL (Anthropic 格式) https://api.deepseek.com/anthropic 模型版本 DeepSeek-V4.1-Flash DeepSeek-V4-Pro-0813 思考模式 支持非思考与思考模式（默认） 切换方式详见思考模式 上下文长度 1M 输出长度 最大 384K 功能 Json Output 支持 支持 Tool Calls 支持 支持 Responses API 支持 支持 Anthropic API 支持 支持 对话前缀续写（Beta） 支持 支持 FIM 补全（Beta） 仅非思考模式支持 仅非思考模式支持 图像理解 支持 不支持 价格(2) 百万tokens输入 （缓存命中） 空闲时段 0.02元 0.15元 高峰时段 0.04元 0.30元 百万tokens输入 （缓存未命中） 空闲时段 1元 4.5元 高峰时段 2元 9.0元 百万tokens输出 空闲时段 4元 13.5元 高峰时段 8元 27.0元 并发限制(3) 2500 500 (1) 模型名请使用 deepseek-flash。旧模型名 deepseek-v4-flash、deepseek-v4-flash-vision-exp 仍可调用，但对应模型已下线，请求将由 DeepSeek-V4.1-Flash 模型提供服务，并按 Flash 价格计费。 (2) 空闲时段价格为高峰时段价格的一半。北京时间周一至周五（不含中国法定节假日）9:00 - 12:00、14:00 - 18:00 为高峰时段；其余时段，包括周末及中国法定节假日全天均为空闲时段。 (3) 更多并发限制细节，请参考限速与隔离。 扣费规则​ 扣减费用 = token 消耗量 × 模型单价，对应的费用将直接从充值余额或赠送余额中进行扣减。 当充值余额与赠送余额同时存在时，优先扣减赠送余额。 产品价格可能发生变动，DeepSeek 保留修改价格的权利。请您依据实际用量按需充值，定期查看此页面以获知最新价格信息。 上一页 首次调用 API 下一页 Token 用量计算 模型细节 扣费规则 微信公众号 社区 邮箱 Discord Twitter 更多 GitHub Copyright © 2026 DeepSeek, Inc.",
+  "captured_at": "2026-10-12 13:34:27 +0800"
+ },
+ "infini_cloud": {
+  "url": "https://www.infinigence-ai.com/",
+  "title": "无问芯穹_Infinigence-AI_通用人工智能基础设施服务商",
+  "bodyFont": "\"PingFang SC\"",
+  "counts": {
+   "video": 11,
+   "canvas": 0,
+   "svg": 77,
+   "img": 353,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 1,
+   "keyframes": 203,
+   "animatedNow": 8
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "了解更多",
+   "产品与服务",
+   "查看更多",
+   "解决方案",
+   "技术与研究",
+   "核心技术",
+   "新闻中心",
+   "关于我们",
+   "加入我们",
+   "WAIC 2026",
+   "EN",
+   "登录平台",
+   "Cache-to-Cache",
+   "Token工厂",
+   "RLinf",
+   "具身智能工具链",
+   "多元异构",
+   "软硬协同"
+  ],
+  "ctas": [
+   "登录平台 [#FFFFFF]",
+   "确认 [#5D2BFE]"
+  ],
+  "inputs": [
+   "text:搜索相关问题"
+  ],
+  "h1": "通用人工智能 基础设施服务商",
+  "h2": [
+   "Agentic Infra自主式基础设施平台",
+   "Agentic MaaS大模型服务平台",
+   "助力AI时代各行各业的智能革命",
+   "全球领先 全栈贯通的自主式AI基础设施核心技术",
+   "精选无穹资讯 与AI共同进化",
+   "M 种模型 x N 种芯片技术新范式",
+   "全球领先 全栈贯通的 自主式人工智能基础设施核心技术",
+   "助力AI时代 各行各业的智能革命",
+   "精选无穹资讯 与AI共同进化",
+   "释放无穹智能，让AGI触手可及"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商"
+  ],
+  "bodyText": "5 分钟完成机器人纳管、10 秒启动跨集群任务，无问芯穹联合清华大学开源具身智能云原生平台 RLark 了解更多 产品与服务 解决方案 技术与研究 新闻中心 关于我们 加入我们 WAIC 2026 EN 登录平台 AGI Infrastructure Service Provider 通用人工智能 基础设施服务商 释放无穹智能，让AGI触手可及 立即咨询 智能体体验区 Agentic MaaS 大模型服务平台 面向企业与开发者输出大规模AI智力的“Token工厂” 模型生态与兼容 统一接入与流量治理 推理执行与性能优化 灵活计费与订阅管理 智能服务运维 查看详情 全球领先 全栈贯通的 自主式人工智能基础设施核心技术 多元异构 统一调度不同架构的芯片，实现对多样化算力的高效整合与协同 软硬协同 通过跨越软件与硬件的深度优化与联合设计，极致挖潜芯片应用算力 自主式AI 以AI深度赋能AI，结合基础设施智能体蜂群，让基础设施具备环境感知、决策行动与自进化能力 了解更多 无问芯穹与 AMD 共建云边端全链路开源生态，赋能“AI 生产力”新纪元 新闻动态 2026年05月 习近平总书记调研上海“模速空间”，无问芯穹首席执行官夏立雪向总书记作重点汇报 新闻动态 2025年04月 2026中关村论坛实录 | 杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学” 新闻动态 2026年03月 智能体生态论坛圆满举办！无问芯穹发布企业级智能体服务平台，行业领军人物齐聚，共话智能体创新生态 新闻动态 2025年12月 业务咨询： pre-sales@infini-ai.com 媒体垂询： pr@infini-ai.com 人力资源： hr@infini-ai.com 联系电话： 400-806-6058 公司地址： 上海市徐汇区龙台路180号模速空间（总部） 北京市海淀区原点大厦三层 产品与服务 Agentic Infra自主式基础设施平台 多元异构基座 大模型训练 大模型推理 企业级智能体 具身智能工具链 Agentic MaaS大模型服务平台 解决方案 AI原生企业解决方案 智能制造行业解决方案 AIGC企业解决方案 智能硬件解决方案 技术与研究 核心技术 新闻中心 新闻动态 媒体报道 视频报道 关于我们 公司介绍 团队介绍 荣誉资质 联系我们 加入我们 WAIC 2026 ©2026 无问芯穹 All Rights Reserved 沪ICP备2024070257号-2 沪公网安备31010402336716号 隐私政策 | Cookie政策 | 免责声明 同意和偏好管理 我们将使用Cookie以便更好了解您对本网站的使用情况。这将有助于改善您今后访问本网站的体验，关于Cookie的使用，以及如何撤销或管理您的同意，详见我们的《隐私政策》，如你点击确认按钮，将视为您同意Cookie的使用。 必需Cookie无需同意，其他Cookie需您自主选择。您可随时在「Cookie设置」中撤回同意。 Cookie公告 免责声明 点击确认即表示您已阅读并同意《Cookie公告》与《隐私政策》。 确认 取消",
+  "captured_at": "2026-10-12 13:34:43 +0800"
+ },
+ "crusoe_pricing": {
+  "url": "https://www.crusoe.ai/cloud/pricing",
+  "title": "GPU pricing for AI compute & inference | Crusoe",
+  "bodyFont": "Suisseintl",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 84,
+   "img": 11,
+   "lottie": 0,
+   "iframe": 3,
+   "tables": 0,
+   "inputs": 4,
+   "keyframes": 2,
+   "animatedNow": 0
+  },
+  "libs": [
+   "gsap"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Cloud Overview",
+   "Command Center",
+   "Crusoe Edge Zones",
+   "Managed Inference",
+   "NVIDIA GB200",
+   "NVIDIA B200",
+   "NVIDIA H200",
+   "NVIDIA H100",
+   "AMD MI300X",
+   "AMD MI355X",
+   "Data Prep",
+   "Model Training",
+   "Model Inference",
+   "Cloud Partners",
+   "Cloud",
+   "Pricing",
+   "Data Centers",
+   "Manufacturing"
+  ],
+  "ctas": [
+   "Contact sales [#CEEB13]",
+   "Get started [#FFFFFF]"
+  ],
+  "inputs": [
+   "text:First name",
+   "text:Last name",
+   "email:Email",
+   "checkbox:consenttoMarketing"
+  ],
+  "h1": "Crusoe Cloud pricing",
+  "h2": [
+   "Built for value, scalability & speed",
+   "Pricing for compute, inference, and fine-tuning",
+   "Pricing for compute instances and managed AI services",
+   "Frequently asked questions",
+   "Are you ready to build something amazing?"
+  ],
+  "priceHits": [
+   "$3.9",
+   "$4.29",
+   "$3.90",
+   "$2.30",
+   "$2.00",
+   "$1.50",
+   "$3.45",
+   "$0.04",
+   "$0.09",
+   "$0.08",
+   "$0.07",
+   "$0.10"
+  ],
+  "perMillionMentions": 1,
+  "imgAlt": [
+   "Two stylized white cloud shapes with gray sides and lime green square pixel patterns.",
+   "Close-up of two server racks with illuminated green status indicator lights and bright green levers on hard drive bays.",
+   "Close-up of a server rack with two rows of black hard drive bays featuring bright green release latches and green indicator lights.",
+   "A rural landscape showing hybrid generation, a large array of solar panels alongside a canal and a line of wind turbines.",
+   "Company logo"
+  ],
+  "bodyText": "Crusoe raises $3.9B Series F for its vertically-integrated AI infrastructure platform Learn more Crusoe Cloud Pricing AI Infrastructure About Resources Login Get started Contact sales Crusoe Cloud pricing Flexible pricing for every workload — GPU instances, Managed Inference, and Serverless Fine-Tuning. Contact sales Get started Built for value, scalability & speed Cost-effective performance Our AI-optimized hardware and lightweight virtualization cut waste and unlock performance, so you get more done with less. Growth-aligned commitments Avoid GPU lock-ins with tailored agreements that scale with your needs and budget. Flexible consumption models Access our full portfolio of LLMs and generative models with pay-as-you-go pricing, or utilize our GPU/CPU offerings, with spot, on-demand, or reserved pricing options. Pricing for compute, inference, and fine-tuning Pricing AI Infrastructure GPU instances CPU instances Storage Managed Kubernetes Fine-Tuning Serverless Fine-Tuning Managed Inference Serverless Inference Self-Serve Deployments Tailored Deployments Provisioned Throughput GPU instances pricing Access the latest high-performance GPUs including NVIDIA GB200 NVL72 and AMD MI355X. Pay by the hour for maximum agility and unthrottled compute, or contact us to lock in guaranteed resources at our lowest rates. GPU model On-demand Current spot NVIDIA GB200 186GB NVL72 Contact sales Contact sales NVIDIA B200 180GB HGX Contact sales Contact sales NVIDIA H200 141GB HGX $4.29/GPU-hr Contact sales NVIDIA H100 80GB HGX $3.90/GPU-hr Contact sales NVIDIA A100 80GB SXM $2.30/GPU-hr Contact sales NVIDIA A100 80GB PCIe $2.00/GPU-hr Contact sales NVIDIA L40S 48GB $1.50/GPU-hr Contact sales AMD MI355X 288GB Contact sales Contact sales AMD MI300X 192GB $3.45/GPU-hr Contact sales CPU instances pricing Ideal for data processing, model checkpointing and orchestrating your GPU clusters. Choose from a variety of vCPU and RAM configurations. CPU Type On-demand General-purpose $0.04/vCPU-hr Storage-optimized $0.09/vCPU-hr Storage pricing Reliable, low-latency storage designed to handle the massive datasets and high-throughput demands of modern AI workloads. Storage Persistent disks $0.08 per GiB/month Shared disks $0.07 per GiB/month Container registry usage $0.10 per GiB/month Object Storage $0.06 per GiB/month Managed Kubernetes pricing A fully managed cluster that simplifies deployment and scaling of your AI applications across GPU and CPU resources. Managed Kubernetes Cluster",
+  "captured_at": "2026-10-12 13:34:57 +0800"
+ },
+ "moonshot_pricing": {
+  "url": "https://platform.kimi.com/docs/pricing/chat",
+  "title": "模型推理价格说明 - Kimi API 开放平台",
+  "bodyFont": "Inter",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 30,
+   "img": 4,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 2,
+   "inputs": 1,
+   "keyframes": 7,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "快来体验吧！",
+   "模型推理",
+   "托管智能体 Beta",
+   "API 参考",
+   "模型与定价",
+   "企业订阅",
+   "联系销售",
+   "用户中心",
+   "计费说明",
+   "批量推理定价",
+   "联网搜索定价",
+   "托管智能体定价",
+   "充值与限速",
+   "模型列表",
+   "Kimi K3 模型",
+   "Kimi K2.7 Code 模型",
+   "Kimi K2.6 模型",
+   "批量推理定价 下一页"
+  ],
+  "ctas": [
+   "复制页面 [#FFFFFF]"
+  ],
+  "inputs": [
+   "text:提出问题..."
+  ],
+  "h1": "模型推理价格说明",
+  "h2": [
+   "Documentation Index",
+   "​ 模型定价",
+   "​ 计费基本概念",
+   "​ 模型说明",
+   "在此页面"
+  ],
+  "priceHits": [
+   "¥20.00",
+   "¥40.00",
+   "¥2.00",
+   "¥20.00",
+   "¥100.00",
+   "¥1.30",
+   "¥6.50",
+   "¥27.00",
+   "¥2.60",
+   "¥13.00",
+   "¥54.00",
+   "¥1.10"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "light logo",
+   "dark logo",
+   "light logo",
+   "dark logo"
+  ],
+  "bodyText": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. 跳转到主要内容 🎉 Kimi K3 旗舰模型已正式发布，快来体验吧！ Kimi API 开放平台 home page 模型推理 托管智能体 Beta API 参考 模型与定价 资源 企业订阅 联系销售 用户中心 模型推理定价 计费说明 功能定价 批量推理定价 联网搜索定价 托管智能体定价 充值与限速 充值与限速 模型 模型列表 Kimi K3 模型 Kimi K2.7 Code 模型 Kimi K2.6 模型 模型推理定价 模型推理价格说明 复制页面 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 ​ 模型定价 ​ K3 系列模型 模型 计费单位 缓存写入（TTL 5min） 缓存写入（TTL 1h） 输入价格（缓存命中） 输入价格（缓存未命中） 输出价格 上下文窗口 kimi-k3 1M tokens ¥20.00 ¥40.00 ¥2.00 ¥20.00 ¥100.00 1,048,576 tokens 注：缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 模型 计费单位 输入价格（缓存命中） 输入价格（缓存未命中） 输出价格 上下文窗口 kimi-k2.7-code 1M tokens ¥1.30 ¥6.50 ¥27.00 262,144 tokens kimi-k2.7-code-highspeed 1M tokens ¥2.60 ¥13.00 ¥54.00 262,144 tokens kimi-k2.6 1M tokens ¥1.10 ¥6.50 ¥27.00 262,144 tokens 此处 1M = 1,000,000，表格中的价格代表每消耗 1M tokens 的价格。 ​ 计费基本概念 Kimi API 开放平台提供的模型推理服务是「按量计费」模式，不提供订阅制方案，请注意与 Kimi 会员、Kimi Code 等产品区分，查看产品差异。 ​ 计费单元 Token：代表常见的字符序列，每个汉字使用的 Token 数目可能是不同的。例如，单个汉字”夔”可能会被分解为若干 Token 的组合，而像”中国”这样短且常见的短语则可能会使用单个 Token。大致来说，对于一段通常的中文文本，1 个 Token 大约相当于 1.5-2 个汉字。具体每次调用实际产生的 Tokens 数量可以通过调用 计算 Token API 来获得。 ​ 计费逻辑 模型推理接口对 Input 和 Output 均实行按量计费。对于 K3 系列模型，缓存写入按 TTL（5min / 1h）单独计费；缓存命中的输入仅按缓存命中价格计费，不再重复收取缓存写入费用。如果您上传并抽取文档内容，并将抽取的文档内容作为 Input 传输给模型，那么文档内容也将按量计费。文件相关接口（文件内容抽取/文件存储）限时免费，即您只上传并抽取文档时，文件接口本身不产生费用。 ​ 模型说明 各模型的能力介绍与适用场景见对应的模型指南： Kimi K3 模型介绍 Kimi K2.7 Code 模型介绍 Kimi K2.6 模型介绍 此页面对您有帮助吗？ 是 否 批量推理定价 下一页 github website 在此页面 模型定价 K3 系列模型 K2 系列模型 计费基本概念 计费单元 计费逻辑 模型说明",
+  "captured_at": "2026-10-12 13:35:14 +0800"
+ },
+ "zhipu_pricing": {
+  "url": "https://open.bigmodel.cn/pricing",
+  "title": "智谱丨BigModel 平台",
+  "bodyFont": "MiSans",
+  "counts": {
+   "video": 0,
+   "canvas": 2,
+   "svg": 2,
+   "img": 19,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 2,
+   "inputs": 1,
+   "keyframes": 0,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": false,
+  "nav": [
+   "GLM-5.3",
+   "GLM-5.3-Flash",
+   "GLM-5.2",
+   "GLM-5.1",
+   "全部模型",
+   "个人版套餐",
+   "团队版套餐",
+   "MCP 服务",
+   "模型微调",
+   "知识库",
+   "快速开始",
+   "API文档",
+   "模型概览",
+   "更新日志",
+   "套餐概览",
+   "使用须知",
+   "常见问题",
+   "模型体验"
+  ],
+  "ctas": [
+   "登录 / 注册 [#131212]",
+   "联系销售 [#131212]"
+  ],
+  "inputs": [
+   "text:输入你想了解的价格问题"
+  ],
+  "h1": "模型 API 价格",
+  "h2": [
+   "旗舰模型",
+   "其它模型和服务",
+   "功能",
+   "文档",
+   "价格",
+   "公司",
+   "功能",
+   "文档",
+   "价格",
+   "公司"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 9,
+  "imgAlt": [
+   "ZHIPU·AI",
+   "ZHIPU·AI",
+   "大模型",
+   "智谱AI",
+   "提问",
+   "ZHIPU·AI",
+   "ZHIPU·AI",
+   "ZHIPU·AI",
+   "ZHIPU·AI",
+   "ZHIPU·AI"
+  ],
+  "bodyText": "研究 产品 文档 体验 定价 支持 控制台 登录 / 注册 模型 API 价格 按量计费，简单灵活，提供满足不同业务规模的产品方案 详细价格 联系销售 旗舰模型 汇集最新一代旗舰模型，涵盖高性能文本与多模态模型，全面升级推理、创作与理解能力 GLM-5.3 最新旗舰 最新旗舰模型，编程体验提升 50%，部分网络安全能力持平 Mythos 5 上下文 1M 输入单价 8元 / M 输出单价 28元 / M 缓存命中 2元 / M 缓存存储 限时免费 输入模态 文本 GLM-5.3-Flash 原生多模态模型，部分能力对齐 Claude Opus 4.8，价格仅 1/40，让前沿智能真正普惠 上下文 1M 输入单价 0.8元 / M 输出单价 2.8元 / M 缓存命中 0.23元 / M 缓存存储 限时免费 输入模态 图片、视频、文件、文本 其它模型和服务 模型 搜索 知识库 GLM-5.2 文本模型 上下文 1M 输入单价 8元 输出单价 28元 缓存存储 限时免费 缓存命中 2元 GLM-OCR 轻量级的专业 OCR 模型 上下文 32K 输入模态 PDF、图片 输入价格 0.2元/百万Tokens 输出价格 0.2元/百万Tokens Batch API定价 不支持 GLM-TTS 语音生成模型 特点 超拟人情感化表达 输入模态 文本 输出模态 音频 单价 2元/万字符 详细价格 有什么不清楚的，随时问我 智谱大模型的API怎么计费？ 智谱开放平台API采用按量计费模式。以下所有价格均为API调用价格：文本与视觉模型均按“元/百万tokens”计费，区分输入（Input）单价和输出（Output）单价；当输入或输出长度超过一定阈值（如32K tokens）时会进入更高档单价。此外提供上下文缓存能力：缓存存储按“元/百万tokens/小时”计费（多数模型目前限时免费），缓存命中读取按“元/百万tokens”计费，通常为输入单价的较低比例。价格表中长度档位（如[0,32)、[32,+)）单位为千tokens，即32代表32K tokens。 智谱有哪些视觉理解（多模态）模型？API价格分别是多少？ 智谱视觉理解模型支持图片、视频、文件、文本多模态输入，API调用价格（元/百万tokens，输入/输出）如下： GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M GLM-5V-Turbo：输入[0,32K)5元/M·[32K+)7元/M，输出[0,32K)22元/M·[32K+)26元/M GLM-4.6V：输入[0,32K)1元/M·[32K,128K)2元/M，输出[0,32K)3元/M·[32K,128K)6元/M GLM-4.6V-FlashX：输入[0,32K)0.15元/M·[32K,128K)0.3元/M，输出[0,32K)1.5元/M·[32K,128K)3元/M GLM-4.6V-Flash：免费 GLM-4.5V：输入[0,32K)2元/M·[32K,64K)4元/M，输出[0,32K)6元/M·[32K,64K)12元/M 以上均为API按量计费价格，缓存存储限时免费。 智谱API的缓存存储和缓存命中是什么意思？价格多少？ 智谱API提供上下文缓存（Context Cache）能力，可降低重复上下文的费用： 缓存存储：将上下文缓存起来，按“元/百万tokens/小时”计费，目前多数模型为限时免费。 缓存命中：命中已缓存上下文的读取，按“元/百万tokens”计费，价格通常为该模型输入单价的较低比例（如GLM-5.2为2元）。 免费模型（GLM-4.7-Flash、GLM-4.6V-Flash）的缓存也全部免费。以上为API调用价格。 智谱云端私有化套餐价格是多少？ 智谱云端私有化年套餐面向长期稳定使用的客户，提供专属私有实例（区别于公共池标准API按量计费）： GLM-4.5套餐：5840个算力单元 + 10亿tokens训练语料额度（LoRA微调5亿 + 全参微调5亿）+ 用户权益升级V3，单价110万元/年 GLM-4.5-Air套餐：5840个算力单元 + 10亿tokens训练语料额度 + 用户权益升级V2，单价50万元/年 该价格为云端私有化部署方案报价，非API按量计费价格。 智谱有免费的API模型吗？ 有的。智谱开放平台提供以下免费API模型： 文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费 视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费 此外，多数付费模型的“缓存存储”目前为限时免费。以上均为API调用价格政策。 智谱最新的旗舰模型价格是多少？最新旗舰系列价格（元/百万tokens）如下： GLM-5.3（最新旗舰，1M 上下文）：输入 8 元、缓存命中 2 元、输出 28 元 GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元 GLM-5.2：输入 8 元、缓存命中 2 元、输出 28 元 GLM-5.1：输入 [0,32K) 6 元 / [32K+) 8 元，输出 [0,32K) 24 元 / [32K+) 28 元，缓存命中 1.3 元 / 2 元 批量调用有价格优惠吗？ 有。Batch API 面向大规模离线数据处理任务，按标准 API 价格的五折计费，适合批量分析、数据清洗等非实时场景。 功能 控制台 模型广场 体验中心 智能体 MCP服务 模型微调 知识库 文档 模型概览 快速开始 开发指南 API文档 场景示例 更新日志 常见问题 价格 API价格 编程套餐 特惠专区 公司 公司简介 新闻动态 加入我们 联系方式 售前电话：400-6883-991 商务合作： 立即预约咨询 售前咨询 BigModel 公众号 京ICP备20011824号-14 C",
+  "captured_at": "2026-10-12 13:35:28 +0800"
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "title": "Dia Browser | Update 1.52.0 for macOS",
+ "h": 1467,
+ "header": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  }
+ ],
+ "footer": [
+  {
+   "t": "FOR WORK",
+   "h": "/forwork",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1227
+  },
+  {
+   "t": "RELEASE NOTES",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1253
+  },
+  {
+   "t": "CHANGELOG",
+   "h": "/changelog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1279
+  },
+  {
+   "t": "WINDOWS",
+   "h": "/windows",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1305
+  },
+  {
+   "t": "HELP",
+   "h": "/help",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1227
+  },
+  {
+   "t": "STATUS",
+   "h": "https://status.diabrowser.com",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1253
+  },
+  {
+   "t": "PRIVACY",
+   "h": "/privacy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1279
+  },
+  {
+   "t": "TERMS OF USE",
+   "h": "/termsofuse",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1305
+  },
+  {
+   "t": "SECURITY",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1331
+  },
+  {
+   "t": "TRUST CENTER",
+   "h": "https://trust.diabrowser.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1357
+  },
+  {
+   "t": "ABOUT US",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1227
+  },
+  {
+   "t": "CAREERS",
+   "h": "https://thebrowser.company/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1253
+  },
+  {
+   "t": "NEWSLETTER",
+   "h": "https://browsercompany.substack.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1279
+  },
+  {
+   "t": "EARLY BIRDS PROGRAM",
+   "h": "/earlybirds",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1305
+  },
+  {
+   "t": "X",
+   "h": "https://x.com/diabrowser",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1227
+  },
+  {
+   "t": "LINKEDIN",
+   "h": "https://www.linkedin.com/company/the-browser-company/posts/?feedView=all",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1253
+  },
+  {
+   "t": "INSTAGRAM",
+   "h": "https://www.instagram.com/diabrowser/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.424)",
+   "r": "0px",
+   "y": 1279
+  },
+  {
+   "t": "THE BROWSER COMPANY OF NEW YORK",
+   "h": "https://thebrowser.company/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.85)",
+   "r": "0px",
+   "y": 1430
+  }
+ ],
+ "top": [
+  {
+   "t": "Dia",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 34
+  },
+  {
+   "t": "What's New",
+   "h": "/release-notes/latest",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Apps",
+   "h": "/apps",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "Security",
+   "h": "/security",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 44
+  },
+  {
+   "t": "See All",
+   "h": "/changelog/mac",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgba(0, 0, 0, 0.4)",
+   "r": "0px",
+   "y": 100
+  }
+ ],
+ "count": 23,
+ "lang": "en",
+ "url": "https://www.diabrowser.com/release-notes/latest"
+}

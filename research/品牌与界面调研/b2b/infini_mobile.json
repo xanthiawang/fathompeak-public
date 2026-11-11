@@ -1,0 +1,256 @@
+{
+ "title": "无问芯穹_Infinigence-AI_通用人工智能基础设施服务商",
+ "h": 6685,
+ "header": [
+  {
+   "t": "了解更多",
+   "h": "https://www.infinigence-ai.com/news-updates/242.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9
+  },
+  {
+   "t": "EN",
+   "h": "en/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50%",
+   "y": 52
+  },
+  {
+   "t": "登录平台",
+   "h": "https://cloud.infini-ai.com/console",
+   "tag": "a",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(0, 0, 0)",
+   "r": "50px",
+   "y": 52
+  }
+ ],
+ "footer": [
+  {
+   "t": "产品与服务",
+   "h": "javascript:void(0);",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6016
+  },
+  {
+   "t": "Agentic Infra自主式基础设施平台",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6071
+  },
+  {
+   "t": "Agentic MaaS大模型服务平台",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6105
+  },
+  {
+   "t": "解决方案",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6145
+  },
+  {
+   "t": "技术与研究",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6200
+  },
+  {
+   "t": "新闻中心",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6256
+  },
+  {
+   "t": "关于我们",
+   "h": "javascript:;",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6311
+  },
+  {
+   "t": "加入我们",
+   "h": "/join-usnow.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6366
+  },
+  {
+   "t": "WAIC 2026",
+   "h": "https://www.infinigence-ai.com/2026waic/6.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 6421
+  },
+  {
+   "t": "沪ICP备2024070257号-2",
+   "h": "https://beian.miit.gov.cn/#/Integrated/index",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 6589
+  },
+  {
+   "t": "沪公网安备31010402336716号",
+   "h": "https://beian.mps.gov.cn/#/query/webSearch?code=31010402336716",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 6611
+  },
+  {
+   "t": "隐私政策",
+   "h": "/privacy-policy.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 6639
+  },
+  {
+   "t": "Cookie政策",
+   "h": "/cookies.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 6639
+  },
+  {
+   "t": "免责声明",
+   "h": "/disclaimer.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(120, 113, 141)",
+   "r": "0px",
+   "y": 6639
+  }
+ ],
+ "top": [
+  {
+   "t": "了解更多",
+   "h": "https://www.infinigence-ai.com/news-updates/242.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9
+  },
+  {
+   "t": "EN",
+   "h": "en/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50%",
+   "y": 52
+  },
+  {
+   "t": "登录平台",
+   "h": "https://cloud.infini-ai.com/console",
+   "tag": "a",
+   "bg": "rgb(255, 255, 255)",
+   "c": "rgb(0, 0, 0)",
+   "r": "50px",
+   "y": 52
+  },
+  {
+   "t": "立即咨询",
+   "h": "https://infinigence.feishu.cn/share/base/form/shrcnJaLW4rxdKdwsfH8hPclysg",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50px",
+   "y": 303
+  },
+  {
+   "t": "智能体体验区",
+   "h": "https://chat.infinigence-ai.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50px",
+   "y": 303
+  },
+  {
+   "t": "《隐私政策》",
+   "h": "/privacy-policy.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(93, 43, 254)",
+   "r": "0px",
+   "y": 589
+  },
+  {
+   "t": "Cookie公告",
+   "h": "/cookies.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(93, 43, 254)",
+   "r": "0px",
+   "y": 677
+  },
+  {
+   "t": "免责声明",
+   "h": "/disclaimer.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(93, 43, 254)",
+   "r": "0px",
+   "y": 677
+  },
+  {
+   "t": "确认",
+   "h": "javascript:",
+   "tag": "a",
+   "bg": "rgb(93, 43, 254)",
+   "c": "rgb(255, 255, 255)",
+   "r": "50px",
+   "y": 771
+  },
+  {
+   "t": "取消",
+   "h": "javascript:",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0.04)",
+   "c": "rgb(51, 51, 51)",
+   "r": "50px",
+   "y": 771
+  }
+ ],
+ "count": 40,
+ "lang": "zh-cn",
+ "url": "https://www.infinigence-ai.com/"
+}

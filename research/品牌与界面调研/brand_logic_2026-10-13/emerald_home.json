@@ -1,0 +1,157 @@
+{
+ "title": "Emerald AI",
+ "h": 18521,
+ "header": [
+  {
+   "t": "Home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Company",
+   "h": "/company",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "News",
+   "h": "/news",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Careers",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  }
+ ],
+ "footer": [
+  {
+   "t": "Emerald AI home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 238)",
+   "r": "0px",
+   "y": 18240
+  },
+  {
+   "t": "Emerald AI on X",
+   "h": "https://x.com/EmeraldAi_",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 18447
+  },
+  {
+   "t": "Emerald AI on LinkedIn",
+   "h": "https://www.linkedin.com/company/emerald-ai-1/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 18447
+  },
+  {
+   "t": "info@emeraldai.co",
+   "h": "mailto:info@emeraldai.co",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 18309
+  },
+  {
+   "t": "press@emeraldai.co",
+   "h": "mailto:press@emeraldai.co",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 18337
+  },
+  {
+   "t": "Terms & Conditions",
+   "h": "/terms-and-conditions",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 18309
+  },
+  {
+   "t": "Privacy Policy",
+   "h": "/privacy-policy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 18337
+  }
+ ],
+ "top": [
+  {
+   "t": "Home",
+   "h": "/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(67, 140, 54)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Company",
+   "h": "/company",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "News",
+   "h": "/news",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Careers",
+   "h": "/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(43, 45, 46)",
+   "r": "0px",
+   "y": 26
+  },
+  {
+   "t": "Contact",
+   "h": "/contact-us",
+   "tag": "a",
+   "bg": "rgb(67, 140, 54)",
+   "c": "rgb(255, 255, 255)",
+   "r": "8px",
+   "y": 20
+  }
+ ],
+ "count": 34,
+ "lang": "en",
+ "url": "https://www.emeraldai.co/"
+}

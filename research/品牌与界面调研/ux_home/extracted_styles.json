@@ -1,0 +1,605 @@
+{
+ "fp_home": {
+  "url": "https://www.fathompeak.cn/pages/tokenseller/home.html?embed=1&v=1&lang=zh",
+  "title": "拼好算 | 算电协同词元交易平台",
+  "bodyFont": "Inter",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 0,
+   "img": 0,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 3,
+   "animatedNow": 2
+  },
+  "libs": [],
+  "hasScrollReveal": false,
+  "nav": [
+   "首页",
+   "模型市场",
+   "节点定价",
+   "订单中心",
+   "节点评价",
+   "发起任务"
+  ],
+  "ctas": [
+   "立即询价购算 [#FFFFFF]",
+   "浏览模型市场 [#FFFFFF]"
+  ],
+  "inputs": [],
+  "h1": "FathomPeak TECH 没有中间商赚差价的 绿色词元交易平台",
+  "h2": [],
+  "priceHits": [
+   "¥7.73",
+   "¥7.73",
+   "¥2.58",
+   "¥12.42",
+   "¥7.73",
+   "¥25.76",
+   "¥7.73",
+   "¥7.73",
+   "¥25.76",
+   "¥12.42",
+   "¥7.73",
+   "¥4.14"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [],
+  "bodyText": "词元现货交易网络实时在线 FathomPeak TECH 没有中间商赚差价的 绿色词元交易平台 让 AI 计算任务找到富余绿电，在发电侧将绿色余电转化成绿色词元， 实现更低成本、绿色低碳的 AI 计算 立即询价购算 浏览模型市场 实时词元交易看板 成交节点 模型 成交均价 减排效益 天津分布式光伏电站 MiniMax-M3 ¥7.73 -4.83kg 河北深州集中式光伏电站 MiniMax-M2.7 ¥7.73 -3.22kg 江苏高邮集中式光伏电站 GLM-5.3-Flash ¥2.58 -4.63kg 新疆集中式光伏电站 DeepSeek-V4-Pro ¥12.42 -3.98kg 河北深州集中式光伏电站 MiniMax-M2.7 ¥7.73 -1.03kg 江苏高邮集中式光伏电站 GLM-5.3 ¥25.76 -2.31kg 广东汕头海上风电电站 MiniMax-M2.7 ¥7.73 -3.43kg 江西水电电站 MiniMax-M2.7 ¥7.73 -3.99kg 广东汕头海上风电电站 GLM-5.3 ¥25.76 -3.22kg 天津分布式光伏电站 DeepSeek-V4-Pro ¥12.42 -4.85kg 江苏高邮集中式光伏电站 MiniMax-M3 ¥7.73 -1.83kg 河北深州集中式光伏电站 DeepSeek-V4-Flash ¥4.14 -3.76kg 天津分布式光伏电站 MiniMax-M3 ¥7.73 -4.83kg 河北深州集中式光伏电站 MiniMax-M2.7 ¥7.73 -3.22kg 江苏高邮集中式光伏电站 GLM-5.3-Flash ¥2.58 -4.63kg 新疆集中式光伏电站 DeepSeek-V4-Pro ¥12.42 -3.98kg 河北深州集中式光伏电站 MiniMax-M2.7 ¥7.73 -1.03kg 江苏高邮集中式光伏电站 GLM-5.3 ¥25.76 -2.31kg 广东汕头海上风电电站 MiniMax-M2.7 ¥7.73 -3.43kg 江西水电电站 MiniMax-M2.7 ¥7.73 -3.99kg 广东汕头海上风电电站 GLM-5.3 ¥25.76 -3.22kg 天津分布式光伏电站 DeepSeek-V4-Pro ¥12.42 -4.85kg 江苏高邮集中式光伏电站 MiniMax-M3 ¥7.73 -1.83kg 河北深州集中式光伏电站 DeepSeek-V4-Flash ¥4.14 -3.76kg 电厂直销词元 在发电侧、电站里部署分布式词元一体机，砍掉电网输配成本与云平台溢价，以源头底价供应。 峰谷时段套利 利用光伏大发时段（午间）及电网谷电时段，获得极致折价词元。 低碳可追踪 每一笔推理任务对应绿电消纳记录，支持导出符合 ESG 标准的减排凭证。 订单过程透明 无隐形加价，市场底价公开对比，词元消耗毫秒级计费展示。 操作成功",
+  "captured_at": "2026-10-12 13:36:13 +0800"
+ },
+ "sf_home": {
+  "url": "https://siliconflow.cn/",
+  "title": "硅基流动 SiliconFlow - 大模型 API 与 AI 云服务平台",
+  "bodyFont": "Roboto",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 19,
+   "img": 133,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 22,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "模型",
+   "价格",
+   "文档",
+   "生态合作",
+   "登录"
+  ],
+  "ctas": [
+   "登录 [#6C28F6]"
+  ],
+  "inputs": [],
+  "h1": "全场景产品矩阵，支撑 AI 应用全流程落地",
+  "h2": [
+   "一站式 Token 智能调度平台 TokenPlus 词元优选，正式上线！",
+   "为什么选择硅基流动",
+   "面向不同行业及需求场景，提供灵活的解决方案",
+   "典型客户和合作伙伴"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "硅基流动",
+   "硅基流动",
+   "siliconFlow",
+   "siliconFlow",
+   "siliconFlow"
+  ],
+  "bodyText": "产品 模型 价格 文档 生态合作 关于 登录 一站式 Token 智能调度平台 TokenPlus 词元优选，正式上线！ 网关智能路由、团队统一管理，支持硅基流动 BYOK，让模型调用更省、更稳。 立即体验 硅基流动上线高速版 GLM-5.3-Flash GLM-5 系列首款原生多模态模型，高效承接编程与视觉智能体任务 立即试用 硅基流动上线 中国电信 Xing4.0-29B 语义大模型 全栈国产化・轻量 Agent 大模型・低算力高收益 立即试用 硅基流动上线高速版DeepSeek-V4-Flash-0731 Agent 能力系统性升级，稳定承接更多高复杂度端到端智能体任务 立即试用 锁定算力 支撑关键业务稳定运行 可预期性能 · 高用量场景更优成本结构 · 企业级 SLA 保障 查看详情 全场景产品矩阵，支撑 AI 应用全流程落地 助力用户一站式实现 AI 能力与应用的快速对接 开箱即用的大模型 API 覆盖语言、语音、图片、视频等场景，一站式提供大模型 API 服务，按量计费，助力应用快速上线。 立即体验 预留实例 面向企业核心推理场景，提供独占算力、精度保障与成本优化的一站式解决方案，支撑关键业务稳定运行。 了解详情 高效能模型推理加速服务 基于自研推理引擎，支持各类主流模型及客户自有模型接入，提供模型适配到推理部署的全流程服务，实现模型高效推理加速。 联系我们 私有化部署 提供企业级私有化部署方案，一站式解决模型性能优化、部署与运维等痛点，满足多样化场景需求。 了解详情 为什么选择硅基流动 高速推理 自研全栈推理引擎 具备跨芯片、 多模型适配能力 推理延迟最高可降低 70% 实现吞吐能力极致优化，吞吐量提升 3-5 倍 全面支持高吞吐场景的业务需求 显著优化计算延迟 为低延迟场景提供卓越性能保障 高性价比 端到端极致优化 推理和部署成本显著降低 提供灵活按需付费模式 减少资源浪费，精准控制预算 支持国产异构 GPU 部署 基于企业已有投资，节省企业投入 高稳定性 经过开发者验证，保证高可靠稳定运行。 提供完善的监控和容错机制，保障服务能力。 提供专业技术支持，满足企业级场景需求，确保服务高可用性。 高智能 提供多种先进模型服务，包括大语言模型、音视频等多模态模型。 智能扩展功能，灵活适配业务规模，满足多种服务需求。 智能成本分析，为业务优化提供支持，助力成本管控与效益提升。 高安全性 支持 BYOC 部署，全面保护数据隐私与业务安全。 计算隔离/网络隔离/存储隔离，保障数据安全。 符合行业标准与合规要求，全面满足企业级用户的安全需求。 高扩展性 动态扩容支持弹性业务模型，无缝适配多种复杂场景。 一键部署自定义模型，轻松应对规模化挑战。 灵活架构设计，满足多样化任务需求，支持混合云部署。 面向不同行业及需求场景，提供灵活的解决方案 互联网 提供高效智能的内容生成与个性化推荐服务，支持快速切换模型，加速 AI 生成速度，优化 GPU 算力使用效率，助力平台突破性能瓶颈，全面提升用户体验与运营效率。 教育 政务 智算中心 AI 硬件 典型客户和合作伙伴 快速获取您的模型 API 立即体验 获取更多定制化服务 联系我们 加速 AGI 普惠人类 SiliconFlow 国际站 页面 价格 文档 生态合作 公司介绍 品牌理念 产品 大模型云服务 AI 算力运营服务 预留实例 私有化大模型服务平台 私有化大模型服务网关 法律 用户协议 隐私协议 关注官方公众号 微信交流群 联系我们 业务咨询： 需求反馈 市场合作： contact@siliconflow.cn 地址： 北京市海淀区中关村东路 1 号院 8 号楼 D 座 23 层 2301 © 北京硅基流动科技股份有限公司 2026 版权所有 京公网安备11010802044458 京ICP备2024051511号-1 增值电信业务经营许可证:京B2-20242084 Beijing-GuiJiLiuDongAIYunFuWu-20251201S0112",
+  "captured_at": "2026-10-12 13:36:28 +0800"
+ },
+ "ppio_home": {
+  "url": "https://ppio.com/",
+  "title": "PPIO - 中国领先的分布式云计算服务商",
+  "bodyFont": "-apple-system",
+  "counts": {
+   "video": 1,
+   "canvas": 0,
+   "svg": 38,
+   "img": 35,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 35,
+   "animatedNow": 8
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "文档",
+   "控制台",
+   "登录",
+   "立即注册",
+   "登录/注册",
+   "免费注册"
+  ],
+  "ctas": [
+   "立即注册 [#0E58EA]",
+   "Tools for Agents [#FFFFFF]"
+  ],
+  "inputs": [],
+  "h1": "高性价比、超弹性、低延迟的产品与服务",
+  "h2": [
+   "高性价比、超弹性、低延迟的产品与服务",
+   "Tools for Agents",
+   "中国领先的独立 Agentic Cloud 服务商",
+   "面向 Agent 时代打造 Token 工厂",
+   "客户案例",
+   "众多合作伙伴的信任与支持",
+   "PPIO 动向"
+  ],
+  "priceHits": [
+   "¥1.16",
+   "¥1.16",
+   "¥3.4",
+   "¥11.88"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "logo",
+   "中国领先的独立 Agentic Cloud 服务商",
+   "DeepSeek-V4-Pro / Flash 正式版",
+   "Fusion 融合模型",
+   "token plan",
+   "Kimi K3",
+   "GLM5.2",
+   "PPHermes",
+   "DeepSeek",
+   "Kimi"
+  ],
+  "bodyText": "模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claude Code，开箱即用，稳定性高达 99.9% DeepSeek Kimi MiniMax GLM 图像/视频生成模型 API 全模态 秒级模型切换 推理加速 借助领先的开源模型和多样化产品服务，提供接入便捷的 API 服务，为创意、媒体、电商等多行业赋能 MiniMax Qwen Vidu Agent 云服务 AI Agent 的云端安全生产力基座 Agent 沙箱 毫秒启动 安全隔离 成本可控 新一代沙箱执行环境，支持浏览器、代码以及自定义等多种沙箱形态，让Agent能在受控环境中真实运行 多类 Agent 强化学习（RL） 数据处理 AI 编程 Agent 托管 可视化管理 一键部署 暂停即停费 PPClaw 与 PPHermes 的可视化管控台，无需命令行，一键创建、监控和管理云端 Agent，暂停即停费 PPClaw PPHermes GPU 云服务 即将下线 释放无限可能的弹性 AI 算力服务 GPU 容器实例 按需付费 开箱即用 一键部署 Spot计费 提供按需或包周期使用的 GPU 容器化算力，稳定性好，性价比高 H100 SXM H800 SXM H20 SXM ... GPU SPOT 更低成本 默认保护 灵活组合 低至 5 折 - 4090 仅 ¥1.16/小时，默认 1 小时保护期，提前 1 小时中断通知，秒杀传统 Spot 4090 ｜¥1.16/小时 H20 ｜¥3.4/小时 H100 ｜¥11.88/小时 Tools for Agents Agent 可调用、开发者可集成的完整工具链 Skills README For Agents For Developers 复制 Read https://ppio.com/docs/ai/ppio-skills.md and follow the instructions. MCP Server README 支持 Claude Code · Claude Desktop · Cursor · VS Code · Codex · Zed 端点 复制 https://mcp.ppio.com/mcp Sandbox CLI README 管理沙箱实例、沙箱模板 命令 复制 npm i -g ppio-sandbox-cli 中国领先的独立 Agentic Cloud 服务商 面向 Agent 时代打造 Token 工厂 200+ 主流大模型上架数 22000 亿+ 日均 Tokens 调用量 300%+ Token 总吞吐量提升 680000+ 注册用户 5000+ 全球分布式算力节点 120 倍+ 沙箱规模增长数 客户案例 极豆 Monica 像素绽放 蜜度 极豆 PPIO 通过自研推理加速引擎、PD 分离架构与弹性算力调度，为客户提供低成本、低时延、高弹性的开源大模型推理服务。 平台综合采用算子融合、低精度量化、投机采样等技术，突破逐 Token 串行解码效率瓶颈；引入 PD 分离将 Prefill 与 Decode 阶段独立调度，分别匹配最优 GPU 资源；构建智能弹性调度系统，基于历史数据与实时流量预测资源需求，以按量计费模式替代固定租赁，有效降低算力闲置成本；将异构 GPU 资源整合为统一资源池，提供标准化 API 与运维管理，降低企业接入门槛。 大模型推理加速 智能调度算法 成本降低 众多合作伙伴的信任与支持 PPIO 动向 PPIO亮相AICC算力大会：以智能Token工厂打造Agent时代的智能生产线 2026-09-24 PPIO 沙箱支持接入 OpenAI Agents API：一键托管 Agent Harness 2026-09-17 PPIO加入中国信通院“算力超银生态共建计划”，探索Token普惠新模式 2026-09-07 PPIO入选《2026浦东“人工智能+”创新应用典型案例集》 2026-09-07 查看更多 Tools for Agents 用更高性价比的产品服务 助您释放无限创新元力，引领智能时代新进程 马上咨询 © 2026 PPIO cloud. All Rights Reserved 产品 大语言模型 API 图像/视频生成模型 API 企业 Token Plan Agent 沙箱 Agent 托管 GPU 容器实例 Serverless GPUs GPU SPOT 新闻资讯 公司动态 技术博客 媒体报道 关于我们 企业介绍 加入我们 联系我们 联系我们 媒体垂询: pr@ppio.com 资源合作: bd@ppio.com 投资者关系: ir@ppio.com 业务咨询：021-60747977 关注 PPIO 公众号 © 派欧云计算（上海）有限公司 2026 版权所有 沪公网安备 31011502015403号 沪ICP备18048206号-33 增值电信业务经营许可证：B1-20202079 沪B2-20200592 音频网信算备310115697988801240029号 图像视频网信算备310115697988801240011号 语言网信算备310115697988801240037号 建议反馈：feedback@ppio.com PPIO 隐私政策 用户协议 第三方信息共享清单 个人信息收集清单 联系我们",
+  "captured_at": "2026-10-12 13:36:43 +0800"
+ },
+ "infini_home": {
+  "url": "https://www.infinigence-ai.com/",
+  "title": "无问芯穹_Infinigence-AI_通用人工智能基础设施服务商",
+  "bodyFont": "\"PingFang SC\"",
+  "counts": {
+   "video": 11,
+   "canvas": 0,
+   "svg": 76,
+   "img": 354,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 1,
+   "keyframes": 203,
+   "animatedNow": 8
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "了解更多",
+   "产品与服务",
+   "查看更多",
+   "解决方案",
+   "技术与研究",
+   "核心技术",
+   "新闻中心",
+   "关于我们",
+   "加入我们",
+   "WAIC 2026",
+   "EN",
+   "登录平台",
+   "Cache-to-Cache",
+   "Token工厂",
+   "RLinf",
+   "具身智能工具链",
+   "多元异构",
+   "软硬协同"
+  ],
+  "ctas": [
+   "登录平台 [#FFFFFF]",
+   "确认 [#5D2BFE]"
+  ],
+  "inputs": [
+   "text:搜索相关问题"
+  ],
+  "h1": "通用人工智能 基础设施服务商",
+  "h2": [
+   "Agentic Infra自主式基础设施平台",
+   "Agentic MaaS大模型服务平台",
+   "助力AI时代各行各业的智能革命",
+   "全球领先 全栈贯通的自主式AI基础设施核心技术",
+   "精选无穹资讯 与AI共同进化",
+   "M 种模型 x N 种芯片技术新范式",
+   "全球领先 全栈贯通的 自主式人工智能基础设施核心技术",
+   "助力AI时代 各行各业的智能革命",
+   "精选无穹资讯 与AI共同进化",
+   "释放无穹智能，让AGI触手可及"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "【极客公园】张鹏对话无问芯穹夏立雪：中国的Scaling Law是场景优势，异构算力解决大模型落地难题",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商"
+  ],
+  "bodyText": "5 分钟完成机器人纳管、10 秒启动跨集群任务，无问芯穹联合清华大学开源具身智能云原生平台 RLark 了解更多 产品与服务 解决方案 技术与研究 新闻中心 关于我们 加入我们 WAIC 2026 EN 登录平台 AGI Infrastructure Service Provider 通用人工智能 基础设施服务商 释放无穹智能，让AGI触手可及 立即咨询 智能体体验区 Agentic MaaS 大模型服务平台 面向企业与开发者输出大规模AI智力的“Token工厂” 模型生态与兼容 统一接入与流量治理 推理执行与性能优化 灵活计费与订阅管理 智能服务运维 查看详情 全球领先 全栈贯通的 自主式人工智能基础设施核心技术 多元异构 统一调度不同架构的芯片，实现对多样化算力的高效整合与协同 软硬协同 通过跨越软件与硬件的深度优化与联合设计，极致挖潜芯片应用算力 自主式AI 以AI深度赋能AI，结合基础设施智能体蜂群，让基础设施具备环境感知、决策行动与自进化能力 了解更多 无问芯穹与 AMD 共建云边端全链路开源生态，赋能“AI 生产力”新纪元 新闻动态 2026年05月 习近平总书记调研上海“模速空间”，无问芯穹首席执行官夏立雪向总书记作重点汇报 新闻动态 2025年04月 2026中关村论坛实录 | 杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学” 新闻动态 2026年03月 智能体生态论坛圆满举办！无问芯穹发布企业级智能体服务平台，行业领军人物齐聚，共话智能体创新生态 新闻动态 2025年12月 业务咨询： pre-sales@infini-ai.com 媒体垂询： pr@infini-ai.com 人力资源： hr@infini-ai.com 联系电话： 400-806-6058 公司地址： 上海市徐汇区龙台路180号模速空间（总部） 北京市海淀区原点大厦三层 产品与服务 Agentic Infra自主式基础设施平台 多元异构基座 大模型训练 大模型推理 企业级智能体 具身智能工具链 Agentic MaaS大模型服务平台 解决方案 AI原生企业解决方案 智能制造行业解决方案 AIGC企业解决方案 智能硬件解决方案 技术与研究 核心技术 新闻中心 新闻动态 媒体报道 视频报道 关于我们 公司介绍 团队介绍 荣誉资质 联系我们 加入我们 WAIC 2026 ©2026 无问芯穹 All Rights Reserved 沪ICP备2024070257号-2 沪公网安备31010402336716号 隐私政策 | Cookie政策 | 免责声明 同意和偏好管理 我们将使用Cookie以便更好了解您对本网站的使用情况。这将有助于改善您今后访问本网站的体验，关于Cookie的使用，以及如何撤销或管理您的同意，详见我们的《隐私政策》，如你点击确认按钮，将视为您同意Cookie的使用。 必需Cookie无需同意，其他Cookie需您自主选择。您可随时在「Cookie设置」中撤回同意。 Cookie公告 免责声明 点击确认即表示您已阅读并同意《Cookie公告》与《隐私政策》。 确认 取消",
+  "captured_at": "2026-10-12 13:37:11 +0800"
+ },
+ "or_home": {
+  "url": "https://openrouter.ai/",
+  "title": "OpenRouter",
+  "bodyFont": "\"Plus Jakarta Sans\"",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 28,
+   "img": 47,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 3,
+   "keyframes": 18,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "Skip to content",
+   "Models",
+   "Benchmarks",
+   "Chat",
+   "Rankings",
+   "Apps",
+   "Ori",
+   "Pricing",
+   "Docs"
+  ],
+  "ctas": [
+   "Search ⌘ K [#FFFFFF]",
+   "Sign Up [#7624F4]",
+   "Get API Key [#7624F4]",
+   "Discover Models [#FCFCFE]"
+  ],
+  "inputs": [
+   "search:",
+   "email:you@company.com",
+   "text:website"
+  ],
+  "h1": "The Unified Interface For Every Model",
+  "h2": [
+   "Featured Models",
+   "Featured Agents",
+   "How it works",
+   "Recent Blog Posts",
+   "Footer"
+  ],
+  "priceHits": [
+   "$99",
+   "$10",
+   "$30"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "OpenRouter",
+   "Favicon for x-ai",
+   "Favicon for mistralai",
+   "Favicon for microsoft",
+   "Favicon for nvidia",
+   "Favicon for meta-llama",
+   "Favicon for google",
+   "Favicon for amazon",
+   "Favicon for deepseek",
+   "Favicon for qwen"
+  ],
+  "bodyText": "Skip to content Search ⌘ K Models Benchmarks Chat Rankings Apps Ori Pricing Docs Sign Up ElevenLabs launch offer: every ElevenLabs model is 50% off through October 19, 2026. See ElevenLabs models Dismiss The Unified Interface For Every Model Better prices, better uptime, no subscriptions. Get API Key Discover Models 600T+ Monthly Tokens 10M+ Global Users 80+ Providers 500+ Models Text, Images, Videos, and Audio Generate anything through a single, unified interface. All major models in one place. Browse all anthropic/claude-opus-5.5 Higher Availability Reliable AI models via our distributed infrastructure. Fall back to other providers when one goes down. Learn more Price and Performance Keep costs in check without sacrificing speed. OpenRouter runs at the edge for minimal latency between your users and their inference. Learn more Custom Data Policies Protect your organization with fine grained data policies. Ensure prompts only go to the models and providers you trust. View docs Featured Models 500+ active models on 80+ providers View all Gemini 3.8 Flash by google Tokens 2.1T Weekly Trend -16% GPT-6 Sol by openai Tokens 854.5B Weekly Trend -34% Claude Fable 5.1 by anthropic Tokens 350.0B Weekly Trend -13% Featured Agents 250k+ apps using OpenRouter with 4.2M+ users globally View all Replit The easiest way to go from idea to app Hermes Agent An autonomous agent that grows with you Cline The open-source AI coding agent How it works 1 Signup Create an account to get started. You can set up an org for your team later. 2 Buy credits Credits can be used with any model or provider. Apr 1 $99 Mar 30 $10 3 Get your API key Create an API key and start making requests. Fully OpenAI compatible. OPENROUTER_API_KEY •••••••••••••••• Recent Blog Posts View all How an AI Sales Agent Saved Our Sales Team 600 Hours a Month Rasp gives OpenRouter's five-person sales team about 600 hours a month back, adds room for two more calls a day per rep, and runs for about $30 a day on Ori. October 7, 2026 New ElevenLabs is now on OpenRouter ElevenLabs is now on OpenRouter with 9 Text to Speech and 2 Speech to Text models. Deliver speech with human-like emotion with Eleven v4, give your agent low-latency replies with v4 Turbo, and turn meetings into notes that show who said what with Scribe v2. Here's which model to pick, and one project built start to finish. October 7, 2026 New Server-Side Code Execution Tools for AI Agents, Compared A server-side code execution tool runs the model's c",
+  "captured_at": "2026-10-12 13:37:26 +0800"
+ },
+ "tg_home": {
+  "url": "https://www.together.ai/",
+  "title": "Together AI | The AI Native Cloud",
+  "bodyFont": "\"The Future\"",
+  "counts": {
+   "video": 1,
+   "canvas": 0,
+   "svg": 178,
+   "img": 321,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 12,
+   "animatedNow": 9
+  },
+  "libs": [
+   "gsap",
+   "swiper"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Inference",
+   "Chat",
+   "Image",
+   "Code",
+   "Vision",
+   "Video",
+   "Show all",
+   "Compute",
+   "GB300",
+   "GB200",
+   "B200",
+   "H200",
+   "H100",
+   "Model Shaping",
+   "Research",
+   "FlashAttention",
+   "ATLAS",
+   "Kernel Collection"
+  ],
+  "ctas": [
+   "SIGN IN [#000000]",
+   "START BUILDING [#000000]",
+   "LEARN MORE [#000000]"
+  ],
+  "inputs": [],
+  "h1": "Build what's next on the AI Native Cloud",
+  "h2": [
+   "Get started with the most optimized open source models",
+   "The Together AI Platform",
+   "Grounded in cutting-edge research",
+   "AI natives build on Together AI",
+   "What’s new at Together AI",
+   "Start building on Together AI"
+  ],
+  "priceHits": [
+   "$3.99",
+   "$21.63"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "Abstract 3D shapes including a transparent blue circle, blue and purple intersecting discs, and an orange hexagon connected by a purple arrow labeled production inference.",
+   "Abstract 3D shapes including a red hexagon, a light blue circular disc with a notch, and a translucent blue propeller-like form.",
+   "Black logo with the word NOUS above a stylized face of a person in a rectangular frame.",
+   "Black logo with the word NOUS above a stylized face of a person in a rectangular frame."
+  ],
+  "bodyText": "Introducing Together Link: Run open models inside the harness you already use → The Open Source AI Stack: models, inference, routers, harnesses & tools → 📈 GLM-5.3 vs. GLM 5.3 Flash on DeepSWE → ⚡ On-demand B200s now available on Together GPU Clusters → Inference Compute Model Shaping Research Developers Company Pricing CONTACT SALES SIGN IN Build what's next on the AI Native Cloud Full-stack AI platform, powered by cutting-edge research. START BUILDING TALK TO AN EXPERT TRUSTED BY The Together AI Platform Powering every step of the AI development journey —from experimentation to massive scale. Inference Compute Model shaping Serverless Inference The fastest way to run open-source models on demand. Powered by cutting-edge inference research. No infrastructure to manage, no long-term commitments. LEARN MORE Batch Inference Provisioned Throughput Dedicated Model Inference Dedicated Container Inference Grounded in cutting-edge research Foundational systems research for production AI. KERNELS To Infinity and Beyond: ThunderKittens Now on NVIDIA Vera Rubin NVL72! DYLAN LIM, XINYI LI ET AL. READ MORE AGENTS ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale HAO KANG, ZIYANG LI ET AL. READ MORE KERNELS Together AI at ICML 2026: frontier research across the full stack TOGETHER RESEARCH READ MORE KERNELS ParallelKernelBench: Frontier LLMs can't write fast multi-GPU kernels (yet) WILLY CHAN, NATHAN PAEK ET AL. READ MORE AGENTS Violin: An open-source video translation skill that breaks language barriers SHANG ZHU ET AL. READ MORE INFERENCE Accelerate RL rollouts by up to 50% with distribution-aware speculative decoding ZELEI SHAO ET AL. READ MORE ARCHITECTURE Parcae: Doing more with fewer parameters using stable looped models HAYDEN PRAIRIE ET AL. READ MORE AGENTS EinsteinArena: Harnessing the collective intelligence of agents in the wild to advance science FEDERICO BIANCHI ET AL. READ MORE AGENTS AI for Systems: Using LLMs to Optimize Database Query Execution MEHMET HAMZA EROL ET AL. READ MORE KERNELS Inside the Together AI kernels team WILL VAN EATON READ MORE INFERENCE Aurora JUNXIONG WANG, FENGXIANG BIE ET AL. READ MORE AGENTS Plan, divide, and conquer: How weak models excel at long context tasks ZHEN XU, SHANG ZHU, JUE WANG ET AL. READ MORE ARCHITECTURE Mamba-3 AAKASH LAHOTI* (CMU) ET AL. READ MORE KERNELS Key research and product announcements at the AI Native Conf READ MORE KERNELS FlashAttention-4: Algorithm and Kernel Pipelinin",
+  "captured_at": "2026-10-12 13:37:40 +0800"
+ },
+ "crusoe_home": {
+  "url": "https://www.crusoe.ai/",
+  "title": "Crusoe | The AI factory company",
+  "bodyFont": "Suisseintl",
+  "counts": {
+   "video": 7,
+   "canvas": 3,
+   "svg": 161,
+   "img": 203,
+   "lottie": 0,
+   "iframe": 2,
+   "tables": 0,
+   "inputs": 11,
+   "keyframes": 2,
+   "animatedNow": 2
+  },
+  "libs": [
+   "gsap",
+   "swiper"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Cloud Overview",
+   "Command Center",
+   "Crusoe Edge Zones",
+   "Managed Inference",
+   "NVIDIA GB200",
+   "NVIDIA B200",
+   "NVIDIA H200",
+   "NVIDIA H100",
+   "AMD MI300X",
+   "AMD MI355X",
+   "Data Prep",
+   "Model Training",
+   "Model Inference",
+   "Cloud Partners",
+   "Cloud",
+   "Pricing",
+   "Data Centers",
+   "Manufacturing"
+  ],
+  "ctas": [
+   "Talk to us [#CEEB13]",
+   "Contact Sales [#E8E8E8]",
+   "Try now [#CEEB13]"
+  ],
+  "inputs": [
+   "radio:blog-fitlers",
+   "radio:blog-fitlers",
+   "radio:blog-fitlers",
+   "radio:blog-fitlers",
+   "radio:blog-fitlers",
+   "radio:blog-fitlers",
+   "radio:blog-fitlers",
+   "text:First name",
+   "text:Last name",
+   "email:Email",
+   "checkbox:consenttoMarketing"
+  ],
+  "h1": "The AI factory company",
+  "h2": [
+   "Crusoe announces$3.9B Series F funding",
+   "Build AI faster with Crusoe Cloud +",
+   "Fine-tune and deploy state of the art models in Crusoe Intelligence Foundry — the fastest path from experimentation to production scale AI.",
+   "Crusoe Intelligence Foundry",
+   "Crusoe Cloud is purpose-built for AI so you can spend less time wrestling with infrastructure and more time innovating.",
+   "AI cloudplatform",
+   "We design, build, and operate the infrastructure powering the next generation of artificial intelligence.",
+   "Built for the demands of AI.Ready for what’s next.",
+   "News",
+   "Hear it from our customers",
+   "Are you ready to build something amazing?"
+  ],
+  "priceHits": [
+   "$3.9"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "Two stylized 3D cloud shapes rendered in white with scattered yellow square accents to represent scalable cloud computing.",
+   "Illustration of a data center layout featuring multiple server racks arranged in a grid pattern.",
+   "Isometric diagram of Crusoe data center campus with modular buildings arranged around central courtyard.",
+   "Isometric line drawing of a microgrid with solar panel arrays, wind turbines, transmission towers, and small modular reactors.",
+   "Image of NVIDIA GB200 NVL72 GPU.",
+   "Image of NVIDIA HGX B200 GPU.",
+   "Top view of an AMD Instinct MI350 Series accelerator card with eight black heat spreaders covering GPU modules.",
+   "Image of AMD MI300x GPU.",
+   "Crusoe and Google logos side by side on a black panel over a backdrop of layered red and gold Texas canyon rock.",
+   "Crusoe and Thinking Machines logos side by side"
+  ],
+  "bodyText": "Crusoe raises $3.9B Series F for its vertically-integrated AI infrastructure platform Learn more Trusted by: Crusoe Cloud is purpose-built for AI so you can spend less time wrestling with infrastructure and more time innovating. 01 Managed AI AI as a service Explore Crusoe Intelligence Foundry 02 AI cloud platform Infrastructure and platform as a service View Crusoe Cloud 03 AI data center infrastructure Crusoe’s modular, scalable build View data centers 04 Energy-first approach Wind, solar, hydropower, geothermal, natural gas, carbon capture View energy Running AI at Perplexity's scale means every millisecond of latency is felt by users. Crusoe is built around exactly that constraint. It’s high-throughput, low-latency inference backed by next-generation hardware. Aravind Srinivas Co-Founder and CEO The flexibility Crusoe gave us, supporting the initial launch of SAM 3 and then adapting as we went, was really helpful. Crusoe was agile and able to give us a more personal touch than some of the hyperscalers, and actually work with us on the launch. Brad Dwyer Co-Founder and CTO Because Crusoe maximizes throughput, every token costs less: for Crusoe, for Yutori, and for Yutori’s customers. Dhruv Batra Co-Founder + Chief Scientist I would unqualifiedly recommend working with Crusoe. The whole team has been a pleasure to work with: very responsive, very understanding of the needs of compute-hungry startups, and quite creative as they explore new models of working together. The reliability, the large scale, the ability to grow with us as our compute needs increase have all been factors in a great partnership. Lilly Wollman Co-Founder + CEO Subscribe for updates I agree to receive marketing communications from Crusoe, subject to the Privacy Policy. Subscribe Crusoe Cloud Overview Managed Inference Command Center Pricing GPUs NVIDIA GB200 NVIDIA B200 NVIDIA H200 NVIDIA H100 AMD MI355x AMD MI300x AI Infrastructure Data Centers Manufacturing Energy Developers Documentation Github Cookbook About Company Leadership Impact Careers Legal Trust Center Legal Center Report Abuse Ethics Helpline Resources Blog Newsroom Customers Support Learning Hub Events & Webinars 2026 Crusoe, Inc, All rights reserved. Privacy Policy Do Not Sell or Share My Personal Information Login Contact us Cloud Partnerships Cookbook",
+  "captured_at": "2026-10-12 13:37:54 +0800"
+ },
+ "emerald_home": {
+  "url": "https://www.emeraldai.co/",
+  "title": "Emerald AI",
+  "bodyFont": "Satoshi",
+  "counts": {
+   "video": 2,
+   "canvas": 0,
+   "svg": 36,
+   "img": 98,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 1,
+   "animatedNow": 0
+  },
+  "libs": [
+   "gsap"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Home",
+   "Company",
+   "News",
+   "Careers"
+  ],
+  "ctas": [
+   "Contact [#438C36]"
+  ],
+  "inputs": [],
+  "h1": "Power for AI. Flexibility for the Grid.",
+  "h2": [
+   "Featured Updates",
+   "We Work with World Class Partners",
+   "What if the biggest new user of electricity–AI–could become the grid’s greatest ally?",
+   "What if the biggest new user of electricity–AI–could become the grid’s greatest ally?",
+   "Academic Rigor at Commercial Scale",
+   "The Infrastructure Behind the Infrastructure",
+   "Connecting the Ecosystem That's Powering the AI Revolution",
+   "Dive Deeper",
+   "Contact Us",
+   "Resources"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "Emerald AI",
+   "TECHCRUNCH: Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+   "Emerald AI Raises $150M Series A at $1.05B Valuation",
+   "Emerald AI Is Selected as a 2026 Technology Pioneer by the World Economic Forum",
+   "Silicon Valley Power and Emerald AI Launch Pilot to Demonstrate Flexible Data Centers in Santa Clara and Unlock Power Capacity for AI",
+   "WSJ: Nvidia, Emerald AI Partner With Power Companies on New AI Factories",
+   "The New York Times",
+   "The New York Times",
+   "TED",
+   "TED"
+  ],
+  "bodyText": "Home Company News Careers Contact Power for AI. Flexibility for the Grid. Emerald AI makes AI’s power demand flexible, transforming data centers into valuable grid partners, protecting energy affordability and reliability for local communities, and unlocking massive capacity on existing grid infrastructure to power the AI revolution today. Featured Updates All News TECHCRUNCH: Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers Grid software unicorn Emerald AI has formed a coalition with Google and Nvidia that will use the startup’s technology to secure space on the grid for more data centers. September 17, 2026 READ MORE The New York Times TED Bloomberg The Wall Street Journal Fortune Fortune Axios The Times Newsweek TIME 1 2 3 AI’s explosive growth is colliding with grid limits, delaying AI infrastructure by years and raising energy costs for everyone. Intelligent flexibility unlocks 100GW of capacity for AI data centers — speeding innovation, lowering rates, and avoiding blackouts. Emerald AI enables data centers to provide relief when the grid is stressed while assuring critical AI performance. / 3 We Work with World Class Partners Emerald AI's customers span the largest AI firms, global data center operators, and leading power utilities, and we partner with companies across the AI and energy value chain defining the intelligence era. “AI factories are the engines of the intelligence era, and like any great engine, every system must be designed together — energy, compute, networking and cooling as one architecture. NVIDIA and Emerald AI are working together to enable a future for AI where performance, efficiency and grid responsiveness can be tapped into immediately.” Jensen Huang Founder and CEO, NVIDIA What if the biggest new user of electricity–AI–could become the grid’s greatest ally? AI flexibility can unlock 100GW to power the AI revolution today Temporal AI flexibility Briefly slow or pause batchable AI workloads when the grid is stressed and resume post‑event, all within SLA guardrails. Spatial AI flexibility Shift workloads across regions on fiber to where power is abundant — within latency bounds. Resource flexibility Dispatch batteries and other onsite energy alongside compute orchestration for maximum, reliable flexibility. Academic Rigor at Commercial Scale Emerald AI has deployed power flexibility at commercial data centers around the world, validating the results with partners, customers, and top",
+  "captured_at": "2026-10-12 13:38:08 +0800"
+ },
+ "soluna_home": {
+  "url": "https://www.solunacomputing.com/",
+  "title": "Soluna",
+  "bodyFont": "\"Nunito Sans\"",
+  "counts": {
+   "video": 1,
+   "canvas": 0,
+   "svg": 14,
+   "img": 17,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 8,
+   "keyframes": 40,
+   "animatedNow": 0
+  },
+  "libs": [
+   "swiper"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "For AI",
+   "For Bitcoin",
+   "For Investors",
+   "About Us",
+   "Company",
+   "Data Centers",
+   "News",
+   "Careers",
+   "Contact",
+   "Resources",
+   "Blog",
+   "Podcast",
+   "Video",
+   "Research",
+   "Media/Press"
+  ],
+  "ctas": [
+   "Reject All [#1863DC]",
+   "Accept All [#1863DC]"
+  ],
+  "inputs": [
+   "checkbox:ckySwitchfunctional",
+   "checkbox:ckySwitchanalytics",
+   "checkbox:ckySwitchperformance",
+   "checkbox:ckySwitchadvertisement",
+   "checkbox:ckySwitchother",
+   "email:Enter email",
+   "checkbox:consent",
+   "submit:"
+  ],
+  "h1": "Power AI & Bitcoin, sustain tomorrow: Renewable Computing",
+  "h2": [
+   "Our mission is to make Renewable Energy a Global Superpower",
+   "Reliable Infrastructure. Predictable Performance.",
+   "Sustainable. Scalable. AI.",
+   "Soluna Data Centers",
+   "Investors",
+   "Resources"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "Revisit consent button"
+  ],
+  "bodyText": "We value your privacy We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies. Customise Reject All Accept All Powered by For Power Producers For AI For Bitcoin For Investors About Us Resources Power AI & Bitcoin, sustain tomorrow: Renewable Computing WATCH FULL VIDEO Our mission is to make Renewable Energy a Global Superpower Soluna turns stranded renewable energy into powerful computing solutions for AI, Bitcoin, and more. By co-locating our data centers with wind, solar, and hydro plants, we transform surplus energy into high-performance computing. Our MaestroOS™ software ensures efficiency, sustainability, and profitability, redefining what’s possible with renewable power. LEARN ABOUT SOLUNA FOR BITCOIN Reliable Infrastructure. Predictable Performance. A smarter, more sustainable way to mine Bitcoin without sacrificing profitability. 4.5EH/s COMPUTE POWER (NAMEPLATE) 25.7J/TH COMPUTE POWER EFFICIENCY 105MW ENERGIZED COMPUTE CAPACITY 123MW AVAILABLE COMPUTE CAPACITY EXPLORE BITCOIN HOSTING SOLUTIONS FOR AI Sustainable. Scalable. AI. Soluna Cloud helps businesses who are new to Gen AI train and tune models rapidly, responsibly and sustainably. 2.8GW POWER PIPELINE 166,151MWhs CURTAILED ENERGY MONETIZED LEARN MORE ABOUT SOLUNA CLOUD Soluna Data Centers Soluna turns stranded renewable energy into powerful computing solutions for AI, Bitcoin, and more. By co-locating our data centers with wind, solar, and hydro plants, we transform surplus energy into high-performance computing. Our MaestroOS™ software ensures efficiency, sustainability, and profitability, redefining what’s possible with renewable power. EXPLORE OUR DATA CENTERS Investors Soluna is a publicly traded company (NASDAQ: SLNH) focused on delivering the future of digital infrastructure. Access our investor center for financial reports, corporate updates, SEC filings, and more. VIEW INVESTOR MATERIALS Financial Partners Resources FEATURED BLOG Speed-to-Power: Who Can Actually Deliver It? BLOG The AI Energy Wall and the End of Invisible Infrastructure BLOG Feeding AI’s Bottomless Energy Appetite VISIT OUR RESOURCE CENTER Email I have read and agree to the Terms and Conditions and the Privacy Policy LinkedIn Twitter Medium Apple Podcasts YouTube Spotify About Us Company Data Centers News Careers Solutions AI Infrastructure Curtailment Solutions Investors Overview Latest News Company Up",
+  "captured_at": "2026-10-12 13:38:25 +0800"
+ }
+}

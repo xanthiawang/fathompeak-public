@@ -1,0 +1,1233 @@
+{
+ "00_fathompeak_cn": {
+  "url": "https://www.fathompeak.cn/",
+  "title": "沐仞科技",
+  "description": "沐仞科技旗下沐仞词元平台，提供统一的 AI 模型 API 接入、模型服务、计费管理与开发文档。",
+  "h1": [],
+  "h2": [],
+  "heroText": null,
+  "nav": [
+   "沐仞科技",
+   "主页",
+   "控制台",
+   "文档",
+   "模型市场",
+   "节点定价",
+   "节点评价",
+   "发起任务",
+   "融合智慧算网中枢",
+   "登录",
+   "立即注册"
+  ],
+  "body": {
+   "bg": null,
+   "color": null,
+   "font": "\"Public Sans\", sans-serif"
+  },
+  "heroStyle": null,
+  "topBackgrounds": [],
+  "topTextColors": [],
+  "topFonts": [
+   [
+    "Public Sans",
+    85
+   ]
+  ],
+  "buttons": [],
+  "gradients": [],
+  "cssVars": {
+   "--background": "#fff",
+   "--foreground": "#0a0a0a",
+   "--card-foreground": "#0a0a0a",
+   "--popover-foreground": "#0a0a0a",
+   "--primary": "#3ea4ec",
+   "--primary-foreground": "#fff",
+   "--secondary-foreground": "#004f8b",
+   "--muted-foreground": "#606060",
+   "--accent-foreground": "#0a0a0a",
+   "--destructive-foreground": "#fafafa",
+   "--success-foreground": "#fafafa",
+   "--warning-foreground": "#0a0a0a",
+   "--info-foreground": "#fafafa",
+   "--neutral-foreground": "#0a0a0a",
+   "--overview-accent-1": "#4ca9ff",
+   "--overview-accent-2": "#00a3aa",
+   "--overview-accent-3": "#9095e8",
+   "--sidebar-foreground": "#0a0a0a",
+   "--sidebar-primary": "#128bff",
+   "--sidebar-primary-foreground": "#fff",
+   "--sidebar-accent-foreground": "#0276ea"
+  },
+  "bodyTextSample": "沐仞科技 主页 控制台 文档 模型市场 节点定价 节点评价 发起任务 融合智慧算网中枢 更改语言 登录 立即注册 沐仞科技 构筑算电协同的全球分布式算网 联系我们：fathompeak@163.com",
+  "captured_at": "2026-10-12 13:17:53 +0800"
+ },
+ "01_siliconflow": {
+  "url": "https://siliconflow.cn/",
+  "title": "硅基流动 SiliconFlow - 大模型 API 与 AI 云服务平台",
+  "description": "硅基流动 SiliconFlow 提供多品类 AI 模型 API、预留实例、企业级 MaaS 平台、大模型服务网关与 AI 算力运营服务，助力开发者和企业高效构建 AI 应用。",
+  "h1": [
+   "全场景产品矩阵，支撑 AI 应用全流程落地"
+  ],
+  "h2": [
+   "一站式 Token 智能调度平台 TokenPlus 词元优选，正式上线！",
+   "为什么选择硅基流动",
+   "面向不同行业及需求场景，提供灵活的解决方案",
+   "典型客户和合作伙伴"
+  ],
+  "heroText": "全场景产品矩阵，支撑 AI 应用全流程落地",
+  "nav": [
+   "模型",
+   "价格",
+   "文档",
+   "生态合作",
+   "登录"
+  ],
+  "body": {
+   "bg": null,
+   "color": "#1E293B",
+   "font": "Roboto, \"SF Pro SC\", \"SF Pro Display\", \"SF Pro Icons\", \"PingFang SC\", \"system-ui\", -apple-system, \"Segoe UI\", \"Microsoft Yahei\", Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+  },
+  "heroStyle": {
+   "color": "#1E293B",
+   "font": "Roboto, \"SF Pro SC\", \"SF Pro Display\", \"SF Pro Icons\", \"PingFang SC\", \"system-ui\", -apple-system, \"Segoe UI\", \"Microsoft Yahei\", Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "weight": "700",
+   "size": "48px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#36384A",
+    496470
+   ],
+   [
+    "#F1F1FF",
+    496470
+   ],
+   [
+    "#743AED",
+    23040
+   ],
+   [
+    "#6C28F6",
+    2652
+   ],
+   [
+    "#E3E3E3",
+    512
+   ],
+   [
+    "#6E29F6",
+    128
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#1E293B",
+    207
+   ],
+   [
+    "#FFFFFF",
+    146
+   ],
+   [
+    "#161722",
+    118
+   ],
+   [
+    "#6C28F6",
+    81
+   ],
+   [
+    "#6A6B83",
+    37
+   ],
+   [
+    "#000000",
+    22
+   ]
+  ],
+  "topFonts": [
+   [
+    "Roboto",
+    611
+   ]
+  ],
+  "buttons": [
+   [
+    "#6C28F6 / text #FFFFFF",
+    [
+     "登录"
+    ]
+   ]
+  ],
+  "gradients": [
+   "linear-gradient(to right, rgb(37, 39, 54), rgb(110, 41, 245))"
+  ],
+  "cssVars": {},
+  "bodyTextSample": "产品 模型 价格 文档 生态合作 关于 登录 一站式 Token 智能调度平台 TokenPlus 词元优选，正式上线！ 网关智能路由、团队统一管理，支持硅基流动 BYOK，让模型调用更省、更稳。 立即体验 硅基流动上线高速版 GLM-5.3-Flash GLM-5 系列首款原生多模态模型，高效承接编程与视觉智能体任务 立即试用 硅基流动上线 中国电信 Xing4.0-29B 语义大模型 全栈国产化・轻量 Agent 大模型・低算力高收益 立即试用 硅基流动上线高速版DeepSeek-V4-Flash-0731 Agent 能力系统性升级，稳定承接更多高复杂度端到端智能体任务 立即试用 锁定算力 支撑关键业务稳定运行 可预期性能 · 高用量场景更优成本结构 · 企业级 SLA 保障 查看详情 全场景产品矩阵，支撑 AI 应用全流程落地 助力用户一站式实现 AI 能力与应用的快速对接 开箱即用的大模型 API 覆盖语言、语音、图片、视频等场景，一站式提供大模型 API 服务，按量计费，助力应用快速上线。 立即体验 预留实例 面向企业核心推理场景，提供独占算力、精度保障与成本优化的一站式解决方案，支撑关键业务稳定运行。 了解详情 高效能模型推理加速服务 基于自研推理引擎，支持各类主流模型及客户自有模型接入，提供模型适配到推理部署的全流程服务，实现模型高效推理加速。 联系我们 私有化部署 提供企业级私有化部署方案，一站式解决模型性能优化、部署与运维等痛点，满足多样化场景需求。 了解详情 为什么选择硅基流动 高速推理 自研全栈推理引擎 具备跨芯片、 多模型适配能力 推理延迟最高可降低 70% 实现吞吐能力极致优化，吞吐量提升 3-5 倍 全面支持高吞吐场景的业务需求 显著优化计算延迟 为低延迟场景提供卓越性能保障 高性价比 端到端极致优化 推理和部署成本显著降低 提供灵活按需付费模式 减少资源浪费，精准控制预算 支持国产异构 GPU 部署 基于企业已有投资，节省企业投入 高稳定性 经过开发者验证，保证高可靠稳定运行。 提供完善的监控和容错机制，保障服务能力。 提供专业技术支持，满足企业级场景需求，确保服务高可用性。 高智能 提供多种先进模型服务，包括大语言模型、音视频等多模态模型。 智能扩展功能，灵活适配业务规模，满足多种服务需求。 智能成本分析，为业务优化提供支持，助力成本管控与效益提升。 高安全性 支持 BYOC 部署，全面保护数据隐私与业务安全。 计算隔离/网络隔离/存储隔离，保障数据安全。 符合行业标准与合规要求，全面满足企业级用户的安全需求。 高扩展性 动态扩容支持弹性业务模型，无缝适配多种复杂场景。 一键部署自定义模型，轻松应对规模化挑战。 灵活架构设计，满足多样化任务需求，支持混合云部署。 面向不同行业及需求场景，提供灵活的解决方案 互联网 提供高效智能的内容生成与个性化推荐服务，支持快速切换模型，加速 AI 生成速度，优化 GPU 算力使用效率，助力平台突破性能瓶颈，全面提升用户体验与运营效率。 教育 政务 智算中心 AI 硬件 典型客户和合作伙伴 快速获取您的模型 API 立即体验 获取更多定制化服务 联系我们 加速 AGI 普惠人类 SiliconFlow 国际站 页面 价格 文档 生态合作 公司介绍 品牌理念 产品 大模型云服务 AI 算力运营服务 预留实例 私有化大模型服务平台 私有化大模型服务网关 法律 用户协议 隐私协议 关注官方公众号 微信交流群 联系我们 业务咨询： 需求反馈 市场合作： contact@siliconfl",
+  "captured_at": "2026-10-12 13:18:08 +0800"
+ },
+ "02_ppio": {
+  "url": "https://ppio.com/",
+  "title": "PPIO - 中国领先的分布式云计算服务商",
+  "description": "PPIO秉承“汇聚全球计算资源，服务全球客户”的使命，致力于为 AI 原生应用、智能体开发、AI 编程等新一代场景，提供高可靠、高性价比的一站式模型及智能体基础设施服务。",
+  "h1": [],
+  "h2": [
+   "高性价比、超弹性、低延迟的产品与服务",
+   "Tools for Agents",
+   "中国领先的独立 Agentic Cloud 服务商",
+   "面向 Agent 时代打造 Token 工厂",
+   "客户案例",
+   "众多合作伙伴的信任与支持",
+   "PPIO 动向"
+  ],
+  "heroText": "高性价比、超弹性、低延迟的产品与服务",
+  "nav": [
+   "文档",
+   "控制台",
+   "登录",
+   "立即注册",
+   "登录/注册",
+   "免费注册"
+  ],
+  "body": {
+   "bg": null,
+   "color": "#181818",
+   "font": "-apple-system, \"PingFang SC\", \"Microsoft YaHei\", 微软雅黑, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+  },
+  "heroStyle": {
+   "color": "#181818",
+   "font": "-apple-system, \"PingFang SC\", \"Microsoft YaHei\", 微软雅黑, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "weight": "600",
+   "size": "36px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#FFFFFF",
+    3539533
+   ],
+   [
+    "#F7F8FA",
+    2592784
+   ],
+   [
+    "#E9F1FF",
+    1296000
+   ],
+   [
+    "#F4F7FC",
+    1296000
+   ],
+   [
+    "#E6E2FA",
+    39324
+   ],
+   [
+    "#CBDDFF",
+    39322
+   ],
+   [
+    "#CBF0F8",
+    39322
+   ],
+   [
+    "#F2F3F5",
+    27850
+   ],
+   [
+    "#0E58EA",
+    8856
+   ],
+   [
+    "#1161FE",
+    6486
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#616161",
+    394
+   ],
+   [
+    "#181818",
+    268
+   ],
+   [
+    "#1161FE",
+    28
+   ],
+   [
+    "#0078B5",
+    28
+   ],
+   [
+    "#5C43A4",
+    24
+   ],
+   [
+    "#FFFFFF",
+    18
+   ],
+   [
+    "#8B5CF6",
+    10
+   ],
+   [
+    "#F97316",
+    7
+   ]
+  ],
+  "topFonts": [
+   [
+    "-apple-system",
+    787
+   ],
+   [
+    "ui-monospace",
+    42
+   ]
+  ],
+  "buttons": [
+   [
+    "#0E58EA / text #FFFFFF",
+    [
+     "立即注册"
+    ]
+   ]
+  ],
+  "gradients": [
+   "linear-gradient(90deg, rgb(34, 197, 94), rgb(6, 182, 212) 25%, rgb(59, 130, 246) 50%, rgb(139, 92, 246) 75%, rgb(34, 197, 94))",
+   "linear-gradient(120deg, rgb(59, 130, 246), rgb(99, 102, 241) 50%, rgb(139, 92, 246))",
+   "linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%)",
+   "linear-gradient(90deg, rgb(59, 130, 246), rgb(99, 102, 241) 50%, rgb(139, 92, 246))"
+  ],
+  "cssVars": {
+   "--pricing-promotion-bg-start": "#eafaff",
+   "--pricing-promotion-bg-end": "#e9f2ff",
+   "--inactive-color": "#a1a7b2",
+   "--inactive-color-bg": "#a1a7b21a",
+   "--inactive-color-sub": "#a1a7b24d",
+   "--init-color": "#7e5ff8",
+   "--init-color-bg": "#7e5ff81a",
+   "--init-color-sub": "#7e5ff84d",
+   "--block-border-color": "#47415e",
+   "--foreground-color": "#fff",
+   "--font-color-highlight": "#887eff",
+   "--font-color-link": "#a69fff",
+   "--font-color-label": "#bbb",
+   "--select-optionActiveBg": "#e6f4ff",
+   "--widget-bg-active-color": "rgba(220,226,234,.7)",
+   "--widget-primary-color-gpu": "#0caf60",
+   "--widget-primary-color": "#2874ff",
+   "--widget-primary-color-hover-gpu": "rgba(12,175,96,.3)",
+   "--widget-primary-color-hover": "#2874ff",
+   "--widget-placeholder-color-gpu": "#676d77",
+   "--widget-placeholder-color": "#676d77",
+   "--widget-font-disabled-color": "rgba(0,0,0,.5)",
+   "--tab-font-color": "#bbb",
+   "--dragger-wrap-bg-color": "rgba(40,116,255,.5)",
+   "--showcase-bg-color": "#f4f6ff",
+   "--showcase-shadow-color": "#f4f6ff",
+   "--gen-btn-disabled-bg-color": "rgba(40,116,255,.5)",
+   "--case-number-btn-bg-color": "hsla(0,0%,100%,.6)",
+   "--model-api-main-bg2": "#0f0f10",
+   "--model-api-main-bg3": "#0e0d0f"
+  },
+  "bodyTextSample": "模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claude Code，开箱即用，稳定性高达 99.9% DeepSeek Kimi MiniMax GLM 图像/视频生成模型 API 全模态 秒级模型切换 推理加速 借助领先的开源模型和多样化产品服务，提供接入便捷的 API 服务，为创意、媒体、电商等多行业赋能 MiniMax Qwen Vidu Agent 云服务 AI Agent 的云端安全生产力基座 Agent 沙箱 毫秒启动 安全隔离 成本可控 新一代沙箱执行环境，支持浏览器、代码以及自定义等多种沙箱形态，让Agent能在受控环境中真实运行 多类 Agent 强化学习（RL） 数据处理 AI 编程 Agent 托管 可视化管理 一键部署 暂停即停费 PPClaw 与 PPHermes 的可视化管控台，无需命令行，一键创建、监控和管理云端 Agent，暂停即停费 PPClaw PPHermes GPU 云服务 即将下线 释放无限可能的弹性 AI 算力服务 GPU 容器实例 按需付费 开箱即用 一键部署 Spot计费 提供按需或包周期使用的 GPU 容器化算力，稳定性好，性价比高 H100 SXM H800 SXM H20 SXM ... GPU SPOT 更低成本 默认保护 灵活组合 低至 5 折 - 4090 仅 ¥1.16/小时，默认 1 小时保护期，提前 1 小时中断通知，秒杀传统 Spot 4090 ｜¥1.16/小时 H20 ｜¥3.4/小时 H100 ｜¥11.88/小时 Tools for Agents Agent 可调用、开发者可集成的完整工具链 Skills README For Agents For Developers 复制 Read https://ppio.com/docs/ai/ppio-skills.md and follow the instructions. MCP Server README 支持 Claude Code · Claude Desktop · Cursor · VS Code · Codex · Zed 端点 复制 https://mcp.ppio.com/mcp Sandbox CLI README 管理沙箱实例、沙箱模板 命令 复制 npm i -g ppio-sandbox-cli 中国领先的独立 Agentic Cloud 服务商 面向 Agent 时代打造 Token 工厂 200+ 主流大模型上架数 22000 亿+ 日均 Tokens 调用量 300%+ Token 总吞吐量提升 680000+ 注册用户 5000+ 全球分布式算力节点 120 倍+ 沙箱规模增长数 客户案例 极豆 Monica 像素绽放 蜜度 极豆 PPIO 通过自研推理加速引擎、PD 分离架构与弹性算力调度，为客户提供低成本、低时延、高弹性的开源大模型推理服务。 平台综合采用算子融合、低精度量化、投机采样等技术，突破逐 Token 串行解码效率瓶颈；引入 PD 分离将 Pre",
+  "captured_at": "2026-10-12 13:18:24 +0800"
+ },
+ "03_infini": {
+  "url": "https://www.infinigence-ai.com/",
+  "title": "无问芯穹_Infinigence-AI_通用人工智能基础设施服务商",
+  "description": "无问芯穹（Infinigence AI）是国际领先的AI原生基础设施服务商，致力于以自主式人工智能基础设施底座，助力AI时代各行各业的智能革命。\n\n依托软硬协同、多元异构、自主式AI等核心技术优势，无问芯穹打造了连接“M种模型”和“N种芯片”的“M×N”技术范式，在云与端侧均实现多种模型算法与多种芯片硬件间的极致效率与成本优化。",
+  "h1": [
+   "通用人工智能 基础设施服务商"
+  ],
+  "h2": [
+   "全球领先 全栈贯通的 自主式人工智能基础设施核心技术"
+  ],
+  "heroText": "通用人工智能 基础设施服务商",
+  "nav": [
+   "了解更多",
+   "产品与服务",
+   "解决方案",
+   "技术与研究",
+   "新闻中心",
+   "关于我们",
+   "加入我们",
+   "WAIC 2026",
+   "EN",
+   "登录平台",
+   "Cache-to-Cache",
+   "Token工厂",
+   "RLinf",
+   "具身智能工具链"
+  ],
+  "body": {
+   "bg": null,
+   "color": "#000000",
+   "font": "\"PingFang SC\", \"Microsoft YaHei\", \"Microsoft YaHei UI\", SimSun, SimHei, Arial"
+  },
+  "heroStyle": {
+   "color": "#FFFFFF",
+   "font": "\"PingFang SC\", \"Microsoft YaHei\", \"Microsoft YaHei UI\", SimSun, SimHei, Arial",
+   "weight": "600",
+   "size": "44.8px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#000000",
+    1373760
+   ],
+   [
+    "#FFFFFF",
+    144653
+   ],
+   [
+    "#5D2BFE",
+    6402
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#FFFFFF",
+    167
+   ],
+   [
+    "#333333",
+    155
+   ],
+   [
+    "#5A5E63",
+    59
+   ],
+   [
+    "#000000",
+    31
+   ],
+   [
+    "#5D2BFE",
+    18
+   ]
+  ],
+  "topFonts": [
+   [
+    "PingFang SC",
+    430
+   ]
+  ],
+  "buttons": [],
+  "gradients": [],
+  "cssVars": {
+   "--color": "#5D2BFE"
+  },
+  "bodyTextSample": "5 分钟完成机器人纳管、10 秒启动跨集群任务，无问芯穹联合清华大学开源具身智能云原生平台 RLark 了解更多 产品与服务 解决方案 技术与研究 新闻中心 关于我们 加入我们 WAIC 2026 EN 登录平台 AGI Infrastructure Service Provider 通用人工智能 基础设施服务商 释放无穹智能，让AGI触手可及 立即咨询 智能体体验区 Agentic MaaS 大模型服务平台 面向企业与开发者输出大规模AI智力的“Token工厂” 模型生态与兼容 统一接入与流量治理 推理执行与性能优化 灵活计费与订阅管理 智能服务运维 查看详情 全球领先 全栈贯通的 自主式人工智能基础设施核心技术 多元异构 统一调度不同架构的芯片，实现对多样化算力的高效整合与协同 软硬协同 通过跨越软件与硬件的深度优化与联合设计，极致挖潜芯片应用算力 自主式AI 以AI深度赋能AI，结合基础设施智能体蜂群，让基础设施具备环境感知、决策行动与自进化能力 了解更多 习近平总书记调研上海“模速空间”，无问芯穹首席执行官夏立雪向总书记作重点汇报 新闻动态 2025年04月 2026中关村论坛实录 | 杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学” 新闻动态 2026年03月 智能体生态论坛圆满举办！无问芯穹发布企业级智能体服务平台，行业领军人物齐聚，共话智能体创新生态 新闻动态 2025年12月 无问芯穹夏立雪：从视Agent为工具，到视Agent为协作者，Agentic AI是一场基础设施必须跟上的系统性革命 新闻动态 2025年10月 业务咨询： pre-sales@infini-ai.com 媒体垂询： pr@infini-ai.com 人力资源： hr@infini-ai.com 联系电话： 400-806-6058 公司地址： 上海市徐汇区龙台路180号模速空间（总部） 北京市海淀区原点大厦三层 产品与服务 Agentic Infra自主式基础设施平台 多元异构基座 大模型训练 大模型推理 企业级智能体 具身智能工具链 Agentic MaaS大模型服务平台 解决方案 AI原生企业解决方案 智能制造行业解决方案 AIGC企业解决方案 智能硬件解决方案 技术与研究 核心技术 新闻中心 新闻动态 媒体报道 视频报道 关于我们 公司介绍 团队介绍 荣誉资质 联系我们 加入我们 WAIC 2026 ©2026 无问芯穹 All Rights Reserved 沪ICP备2024070257号-2 沪公网安备31010402336716号 隐私政策 | Cookie政策 | 免责声明 同意和偏好管理 我们将使用Cookie以便更好了解您对本网站的使用情况。这将有助于改善您今后访问本网站的体验，关于Cookie的使用，以及如何撤销或管理您的同意，详见我们的《隐私政策》，如你点击确认按钮，将视为您同意Cookie的使用。 必需Cookie无需同意，其他Cookie需您自主选择。您可随时在「Cookie设置」中撤回同意。 Cookie公告 免责声明 点击确认即表示您已阅读并同意《Cookie公告》与《隐私政策》。 确认 取消",
+  "captured_at": "2026-10-12 13:18:44 +0800"
+ },
+ "04_openrouter": {
+  "url": "https://openrouter.ai/",
+  "title": "OpenRouter",
+  "description": "The unified interface for every model. Find the best models & prices for your prompts",
+  "h1": [
+   "The Unified Interface For Every Model"
+  ],
+  "h2": [
+   "Featured Models",
+   "Featured Agents",
+   "How it works",
+   "Recent Blog Posts",
+   "Footer"
+  ],
+  "heroText": "The Unified Interface For Every Model",
+  "nav": [
+   "Skip to content",
+   "Models",
+   "Benchmarks",
+   "Chat",
+   "Rankings",
+   "Apps",
+   "Ori",
+   "Pricing",
+   "Docs"
+  ],
+  "body": {
+   "bg": "#FCFCFE",
+   "color": "#03080A",
+   "font": "\"Plus Jakarta Sans\", jakarta, \"jakarta Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "heroStyle": {
+   "color": "#03080A",
+   "font": "gordita, \"gordita Fallback\", \"Plus Jakarta Sans\", jakarta, \"jakarta Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+   "weight": "700",
+   "size": "56px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#FCFCFE",
+    3161325
+   ],
+   [
+    "#FFFFFF",
+    1012514
+   ],
+   [
+    "#7624F4",
+    11435
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#03080A",
+    1282
+   ],
+   [
+    "#035ADE",
+    21
+   ],
+   [
+    "#FCFCFE",
+    18
+   ],
+   [
+    "#BF0024",
+    12
+   ]
+  ],
+  "topFonts": [
+   [
+    "Plus Jakarta Sans",
+    1300
+   ],
+   [
+    "gordita",
+    37
+   ],
+   [
+    "geistMono",
+    2
+   ]
+  ],
+  "buttons": [
+   [
+    "#7624F4 / text #FCFCFE",
+    [
+     "Sign Up",
+     "Get API Key"
+    ]
+   ],
+   [
+    "#FCFCFE / text #03080A",
+    [
+     "Discover Models"
+    ]
+   ]
+  ],
+  "gradients": [
+   "linear-gradient(to top in oklab, rgb(252, 252, 254) 0%, rgba(0, 0, 0, 0) 50%, rgb(252, 252, 254) 100%)",
+   "linear-gradient(to right in oklab, rgb(252, 252, 254) 0%, rgba(0, 0, 0, 0) 50%, rgb(252, 252, 254) 100%)"
+  ],
+  "cssVars": {
+   "--selected-bg": "#03080a08",
+   "--input-bg": "#fff",
+   "--accent-subtle": "#7624f408",
+   "--accent-border": "#7624f420",
+   "--accent-hover": "#7624f4e0",
+   "--positive-bg": "#00bf6f14",
+   "--negative-bg": "#ff2d5514",
+   "--warning-bg": "#e5a00014",
+   "--info-bg": "#035ade14",
+   "--promo-bg": "#035ade14",
+   "--tier-flex-bg": "#e6f6eb",
+   "--tier-priority-bg": "#f4f0fe",
+   "--tier-ultrafast-bg": "#ffefd6",
+   "--color-warning-foreground": "hsl(var(--warning-foreground))",
+   "--color-info-foreground": "hsl(var(--info-foreground))",
+   "--bprogress-color": "hsl(var(--primary))"
+  },
+  "bodyTextSample": "Skip to content Search ⌘ K Models Benchmarks Chat Rankings Apps Ori Pricing Docs Sign Up ElevenLabs launch offer: every ElevenLabs model is 50% off through October 19, 2026. See ElevenLabs models Dismiss The Unified Interface For Every Model Better prices, better uptime, no subscriptions. Get API Key Discover Models 600T+ Monthly Tokens 10M+ Global Users 80+ Providers 500+ Models Text, Images, Videos, and Audio Generate anything through a single, unified interface. All major models in one place. Browse all anthropic/claude-opus-5.5 Higher Availability Reliable AI models via our distributed infrastructure. Fall back to other providers when one goes down. Learn more Price and Performance Keep costs in check without sacrificing speed. OpenRouter runs at the edge for minimal latency between your users and their inference. Learn more Custom Data Policies Protect your organization with fine grained data policies. Ensure prompts only go to the models and providers you trust. View docs Featured Models 500+ active models on 80+ providers View all Gemini 3.8 Flash by google Tokens 2.1T Weekly Trend -16% GPT-6 Sol by openai Tokens 853.8B Weekly Trend -34% Claude Fable 5.1 by anthropic Tokens 349.8B Weekly Trend -13% Featured Agents 250k+ apps using OpenRouter with 4.2M+ users globally View all Replit The easiest way to go from idea to app Hermes Agent An autonomous agent that grows with you Cline The open-source AI coding agent How it works 1 Signup Create an account to get started. You",
+  "captured_at": "2026-10-12 13:18:58 +0800"
+ },
+ "05_together": {
+  "url": "https://www.together.ai/",
+  "title": "Together AI | The AI Native Cloud",
+  "description": "Build what's next on the AI Native Cloud. Full-stack AI platform for inference, fine-tuning, and GPU clusters — powered by cutting-edge research.",
+  "h1": [
+   "Build what's next on the AI Native Cloud"
+  ],
+  "h2": [
+   "Get started with the most optimized open source models",
+   "The Together AI Platform",
+   "Grounded in cutting-edge research",
+   "AI natives build on Together AI",
+   "What’s new at Together AI",
+   "Start building on Together AI"
+  ],
+  "heroText": "Build what's next on the AI Native Cloud",
+  "nav": [
+   "Inference",
+   "Chat",
+   "Image",
+   "Code",
+   "Vision",
+   "Video",
+   "Show all",
+   "Compute",
+   "GB300",
+   "GB200",
+   "B200",
+   "H200",
+   "H100",
+   "Model Shaping"
+  ],
+  "body": {
+   "bg": "#FFFFFF",
+   "color": "#000000",
+   "font": "\"The Future\", Arial, sans-serif"
+  },
+  "heroStyle": {
+   "color": "#000000",
+   "font": "\"The Future\", Arial, sans-serif",
+   "weight": "500",
+   "size": "64px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#FFFFFF",
+    999423
+   ],
+   [
+    "#010120",
+    35685
+   ],
+   [
+    "#C8F6F9",
+    33088
+   ],
+   [
+    "#000000",
+    12050
+   ],
+   [
+    "#BDBBFF",
+    112
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    601
+   ],
+   [
+    "#FFFFFF",
+    282
+   ]
+  ],
+  "topFonts": [
+   [
+    "The Future",
+    812
+   ],
+   [
+    "PP Neue Montreal Mono",
+    71
+   ]
+  ],
+  "buttons": [],
+  "gradients": [
+   "radial-gradient(circle, rgb(246, 250, 253) 35%, rgb(229, 243, 255))",
+   "linear-gradient(rgb(255, 255, 255) 15.93%, rgb(246, 250, 253) 26.07%, rgb(229, 243, 255) 73.05%)"
+  ],
+  "cssVars": {
+   "--brand--black": "#000",
+   "--brand--dark-blue": "#010120",
+   "--brand--brand-orange": "#fc4c02",
+   "--brand--brand-purple": "#caaef5",
+   "--brand--brand-magneta": "#ef2cc1"
+  },
+  "bodyTextSample": "Introducing Together Link: Run open models inside the harness you already use → The Open Source AI Stack: models, inference, routers, harnesses & tools → 📈 GLM-5.3 vs. GLM 5.3 Flash on DeepSWE → ⚡ On-demand B200s now available on Together GPU Clusters → Inference Compute Model Shaping Research Developers Company Pricing CONTACT SALES SIGN IN Build what's next on the AI Native Cloud Full-stack AI platform, powered by cutting-edge research. START BUILDING TALK TO AN EXPERT TRUSTED BY The Together AI Platform Powering every step of the AI development journey —from experimentation to massive scale. Inference Compute Model shaping Serverless Inference The fastest way to run open-source models on demand. Powered by cutting-edge inference research. No infrastructure to manage, no long-term commitments. LEARN MORE Batch Inference Provisioned Throughput Dedicated Model Inference Dedicated Container Inference Grounded in cutting-edge research Foundational systems research for production AI. KERNELS To Infinity and Beyond: ThunderKittens Now on NVIDIA Vera Rubin NVL72! DYLAN LIM, XINYI LI ET AL. READ MORE AGENTS ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale HAO KANG, ZIYANG LI ET AL. READ MORE KERNELS Together AI at ICML 2026: frontier research across the full stack TOGETHER RESEARCH READ MORE KERNELS ParallelKernelBench: Frontier LLMs can't write fast multi-GPU kernels (yet) WILLY CHAN, NATHAN PAEK ET AL. READ MORE AGENTS Violin: An open-source video",
+  "captured_at": "2026-10-12 13:19:12 +0800"
+ },
+ "06_crusoe": {
+  "url": "https://www.crusoe.ai/",
+  "title": "Crusoe | The AI factory company",
+  "description": "Crusoe provides next-gen AI infrastructure and cloud compute using an energy-first approach. Deploy AI workloads at scale with reliable performance and 24/7 support.",
+  "h1": [
+   "The AI factory company"
+  ],
+  "h2": [
+   "Crusoe announces $3.9B Series F funding",
+   "Build AI faster with Crusoe Cloud +",
+   "Fine-tune and deploy state of the art models in Crusoe Intelligence Foundry — the fastest path from experimentation to production scale AI.",
+   "Crusoe Intelligence Foundry",
+   "Crusoe Cloud is purpose-built for AI so you can spend less time wrestling with infrastructure and more time innovating.",
+   "AI cloud platform",
+   "We design, build, and operate the infrastructure powering the next generation of artificial intelligence.",
+   "Built for the demands of AI. Ready for what’s next."
+  ],
+  "heroText": "The AI factory company",
+  "nav": [
+   "Cloud Overview",
+   "Command Center",
+   "Crusoe Edge Zones",
+   "Managed Inference",
+   "NVIDIA GB200",
+   "NVIDIA B200",
+   "NVIDIA H200",
+   "NVIDIA H100",
+   "AMD MI300X",
+   "AMD MI355X",
+   "Data Prep",
+   "Model Training",
+   "Model Inference",
+   "Cloud Partners"
+  ],
+  "body": {
+   "bg": "#000000",
+   "color": "#000000",
+   "font": "Suisseintl, Arial, sans-serif"
+  },
+  "heroStyle": {
+   "color": "#FFFFFF",
+   "font": "Abcdiatypemono, Arial, sans-serif",
+   "weight": "400",
+   "size": "80px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#000000",
+    2391264
+   ],
+   [
+    "#CEEB13",
+    218821
+   ],
+   [
+    "#323C2A",
+    57600
+   ],
+   [
+    "#FFFFFF",
+    5536
+   ],
+   [
+    "#E8E8E8",
+    5031
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#FFFFFF",
+    386
+   ],
+   [
+    "#000000",
+    67
+   ],
+   [
+    "#CEEB13",
+    48
+   ],
+   [
+    "#F1EFED",
+    16
+   ]
+  ],
+  "topFonts": [
+   [
+    "Abcdiatypemono",
+    298
+   ],
+   [
+    "Suisseintl",
+    219
+   ]
+  ],
+  "buttons": [],
+  "gradients": [
+   "linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%)"
+  ],
+  "cssVars": {
+   "--colors--hi-vis-yellow": "#ceeb13",
+   "--colors--gray-250": "#e8e8e8",
+   "--colors--dark-green": "#323c2a",
+   "--colors--blue": "#7799b6",
+   "--colors--blue-500": "#bbccdb",
+   "--colors--green-250": "#ced2cb",
+   "--colors--light": "#ecf0e9"
+  },
+  "bodyTextSample": "Crusoe raises $3.9B Series F for its vertically-integrated AI infrastructure platform Learn more Crusoe Cloud Pricing AI Infrastructure About Resources Login Get started Contact sales The AI factory company We build the foundation. You build the future. Contact sales Try now Crusoe announces $3.9B Series F funding Hear it from our Founders: Chase Lochmiller, Co-founder, CEO and Chairman of the Board and Cully Cavness, Co-founder, President and Chief Strategy Officer 0:00/1:15 1x 0:00/1:37 1x Trusted by: Build AI faster with Crusoe Cloud + Nem Fine-tune and deploy state of the art models in Crusoe Intelligence Foundry — the fastest path from experimentation to production scale AI. Crusoe Intelligence Foundry Latest models Explore a curated selection of top-performing models from leading AI labs, ranging from lightweight and ultra-fast models to large models with frontier reasoning power. Using a proprietary model? Connect with our team. Seamless customization Quickly adapt models with your proprietary data. Serverless Fine-Tuning gets you from data upload to an improved model in a few clicks. No cluster provisioning. No surprise bills. Full portability. Scalable inference Serve models with up to 9.9x faster time to first token, ultra- low latency, and 5x higher throughput vs vLLM. Serverless Inference, Self-Serve Deployments, and Tailored Deployments are now available for greater flexibility. Model hub Explore top-performing models or bring your own DeepSeek V4.1 Flash Try the",
+  "captured_at": "2026-10-12 13:19:26 +0800"
+ },
+ "07_emerald": {
+  "url": "https://www.emeraldai.co/",
+  "title": "Emerald AI",
+  "description": "Emerald AI turns AI data centers into flexible grid assets, unlocking power capacity for AI while protecting grid reliability and energy affordability.",
+  "h1": [
+   "Power for AI. Flexibility for the Grid."
+  ],
+  "h2": [
+   "Featured Updates",
+   "We Work with World Class Partners",
+   "What if the biggest new user of electricity–AI–could become the grid’s greatest ally?",
+   "What if the biggest new user of electricity–AI–could become the grid’s greatest ally?",
+   "Academic Rigor at Commercial Scale",
+   "The Infrastructure Behind the Infrastructure",
+   "Connecting the Ecosystem That's Powering the AI Revolution",
+   "Dive Deeper"
+  ],
+  "heroText": "Power for AI. Flexibility for the Grid.",
+  "nav": [
+   "Home",
+   "Company",
+   "News",
+   "Careers"
+  ],
+  "body": {
+   "bg": "#FFFFFF",
+   "color": "#494852",
+   "font": "Satoshi, Arial, sans-serif"
+  },
+  "heroStyle": {
+   "color": "#FFFFFF",
+   "font": "\"Crimson Pro\", sans-serif",
+   "weight": "300",
+   "size": "110px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#50594F",
+    1691576
+   ],
+   [
+    "#F6F6F7",
+    1296000
+   ],
+   [
+    "#253023",
+    1180800
+   ],
+   [
+    "#FFFFFF",
+    370583
+   ],
+   [
+    "#438C36",
+    3743
+   ],
+   [
+    "#DFF2DF",
+    2815
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#2B2D2E",
+    316
+   ],
+   [
+    "#FFFFFF",
+    305
+   ],
+   [
+    "#7F8182",
+    18
+   ],
+   [
+    "#438C36",
+    12
+   ]
+  ],
+  "topFonts": [
+   [
+    "DM Sans",
+    497
+   ],
+   [
+    "Crimson Pro",
+    154
+   ]
+  ],
+  "buttons": [
+   [
+    "#438C36 / text #FFFFFF",
+    [
+     "Contact"
+    ]
+   ]
+  ],
+  "gradients": [
+   "linear-gradient(rgb(67, 140, 54), rgb(67, 140, 54))",
+   "linear-gradient(rgb(43, 45, 46), rgb(43, 45, 46))",
+   "linear-gradient(rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0.37) 40%, rgba(0, 0, 0, 0.8))"
+  ],
+  "cssVars": {
+   "--_colors-plates---gray": "#494852",
+   "--_colors-plates---primary": "#141414",
+   "--_colors-plates---off-white": "#f9f9fccc",
+   "--_colors-plates---secondary": "#4e9c55",
+   "--_colors-plates---light-gray": "#f2f2f5",
+   "--_brand-colors---dark-green--100": "#d4d6d3",
+   "--_brand-colors---dark-green--200": "#a8aca7",
+   "--_brand-colors---dark-green--300": "#7c837b",
+   "--_brand-colors---dark-green--400": "#50594f",
+   "--_brand-colors---dark-green--500": "#253023",
+   "--_brand-colors---vivid-green--100": "#d5e7d5",
+   "--_brand-colors---vivid-green--200": "#add1ab",
+   "--_brand-colors---vivid-green--300": "#85b983",
+   "--_brand-colors---vivid-green--400": "#61a35a",
+   "--_brand-colors---vivid-green--500": "#438c36",
+   "--_brand-colors---mantis-green--100": "#e6f3e6",
+   "--_brand-colors---mantis-green--200": "#cde7cc",
+   "--_brand-colors---mantis-green--300": "#b5dcb4",
+   "--_brand-colors---mantis-green--400": "#9dcf9a",
+   "--_brand-colors---mantis-green--500": "#87c482",
+   "--_brand-colors---sunset-gold--100": "#f6eede",
+   "--_brand-colors---sunset-gold--200": "#eedebe",
+   "--_brand-colors---sunset-gold--300": "#e6ce9e",
+   "--_brand-colors---sunset-gold--400": "#debe7f",
+   "--_brand-colors---sunset-gold--500": "#d5ad61",
+   "--_brand-colors---slate-grey--100": "#d4d5d5",
+   "--_brand-colors---slate-grey--200": "#aaabab",
+   "--_brand-colors---slate-grey--300": "#7f8182",
+   "--_brand-colors---slate-grey--400": "#555758",
+   "--_brand-colors---slate-grey--500": "#2b2d2e"
+  },
+  "bodyTextSample": "Home Company News Careers Contact Power for AI. Flexibility for the Grid. Emerald AI makes AI’s power demand flexible, transforming data centers into valuable grid partners, protecting energy affordability and reliability for local communities, and unlocking massive capacity on existing grid infrastructure to power the AI revolution today. Featured Updates All News TECHCRUNCH: Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers Grid software unicorn Emerald AI has formed a coalition with Google and Nvidia that will use the startup’s technology to secure space on the grid for more data centers. September 17, 2026 READ MORE The New York Times TED Bloomberg The Wall Street Journal Fortune Fortune Axios The Times Newsweek TIME 1 2 3 AI’s explosive growth is colliding with grid limits, delaying AI infrastructure by years and raising energy costs for everyone. Intelligent flexibility unlocks 100GW of capacity for AI data centers — speeding innovation, lowering rates, and avoiding blackouts. Emerald AI enables data centers to provide relief when the grid is stressed while assuring critical AI performance. / 3 We Work with World Class Partners Emerald AI's customers span the largest AI firms, global data center operators, and leading power utilities, and we partner with companies across the AI and energy value chain defining the intelligence era. “AI factories are the engines of the intelligence era, and like any great engine, every system mu",
+  "captured_at": "2026-10-12 13:19:41 +0800"
+ },
+ "08_soluna": {
+  "url": "https://www.solunacomputing.com/",
+  "title": "Soluna",
+  "description": "Soluna - Google",
+  "h1": [
+   "Power AI & Bitcoin, sustain tomorrow: Renewable Computing"
+  ],
+  "h2": [
+   "Our mission is to make Renewable Energy a Global Superpower",
+   "Reliable Infrastructure. Predictable Performance.",
+   "Sustainable. Scalable. AI.",
+   "Soluna Data Centers",
+   "Investors",
+   "Resources"
+  ],
+  "heroText": "Power AI & Bitcoin, sustain tomorrow: Renewable Computing",
+  "nav": [
+   "For Power Producers",
+   "For AI",
+   "For Bitcoin",
+   "For Investors",
+   "About Us",
+   "Company",
+   "Data Centers",
+   "News",
+   "Careers",
+   "Contact",
+   "Resources",
+   "Blog",
+   "Podcast",
+   "Video"
+  ],
+  "body": {
+   "bg": "#FEFEFE",
+   "color": "#0A0A0A",
+   "font": "\"Nunito Sans\", sans-serif"
+  },
+  "heroStyle": {
+   "color": "#FFFFFF",
+   "font": "\"Nunito Sans\", sans-serif",
+   "weight": "400",
+   "size": "60px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#231F20",
+    1200960
+   ],
+   [
+    "#FFFFFF",
+    703661
+   ],
+   [
+    "#242423",
+    329513
+   ],
+   [
+    "#783518",
+    329513
+   ],
+   [
+    "#1863DC",
+    10707
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#FFFFFF",
+    686
+   ],
+   [
+    "#0A0A0A",
+    459
+   ],
+   [
+    "#212121",
+    203
+   ],
+   [
+    "#000000",
+    18
+   ],
+   [
+    "#1863DC",
+    9
+   ]
+  ],
+  "topFonts": [
+   [
+    "Nunito Sans",
+    1375
+   ]
+  ],
+  "buttons": [
+   [
+    "#1863DC / text #FFFFFF",
+    [
+     "Reject All",
+     "Accept All"
+    ]
+   ]
+  ],
+  "gradients": [],
+  "cssVars": {
+   "--swiper-theme-color": "#007aff",
+   "--c-primary": "#CB5727",
+   "--wp-block-synced-color": "#7a00df",
+   "--wp-editor-canvas-background": "#ddd",
+   "--wp-admin-theme-color": "#007cba",
+   "--wp-admin-theme-color-darker-10": "#006ba1",
+   "--wp-admin-theme-color-darker-20": "#005a87",
+   "--wp--preset--color--black": "#000000",
+   "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+   "--wp--preset--color--white": "#ffffff",
+   "--wp--preset--color--pale-pink": "#f78da7",
+   "--wp--preset--color--vivid-red": "#cf2e2e",
+   "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+   "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+   "--wp--preset--color--light-green-cyan": "#7bdcb5",
+   "--wp--preset--color--vivid-green-cyan": "#00d084",
+   "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+   "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+   "--wp--preset--color--vivid-purple": "#9b51e0",
+   "--iti-hover-color": "rgba(0, 0, 0, 0.05)",
+   "--iti-border-color": "#ccc",
+   "--iti-dialcode-color": "#999",
+   "--iti-arrow-color": "#555",
+   "--wpforms-field-background-color": "#ffffff",
+   "--wpforms-field-border-color": "rgba( 0, 0, 0, 0.25 )",
+   "--wpforms-field-border-color-spare": "rgba( 0, 0, 0, 0.25 )",
+   "--wpforms-field-text-color": "rgba( 0, 0, 0, 0.7 )",
+   "--wpforms-field-menu-color": "#ffffff",
+   "--wpforms-label-color": "rgba( 0, 0, 0, 0.85 )",
+   "--wpforms-label-sublabel-color": "rgba( 0, 0, 0, 0.55 )"
+  },
+  "bodyTextSample": "We value your privacy We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies. Customise Reject All Accept All Powered by For Power Producers For AI For Bitcoin For Investors About Us Resources Power AI & Bitcoin, sustain tomorrow: Renewable Computing WATCH FULL VIDEO Our mission is to make Renewable Energy a Global Superpower Soluna turns stranded renewable energy into powerful computing solutions for AI, Bitcoin, and more. By co-locating our data centers with wind, solar, and hydro plants, we transform surplus energy into high-performance computing. Our MaestroOS™ software ensures efficiency, sustainability, and profitability, redefining what’s possible with renewable power. LEARN ABOUT SOLUNA FOR BITCOIN Reliable Infrastructure. Predictable Performance. A smarter, more sustainable way to mine Bitcoin without sacrificing profitability. 4.5EH/s COMPUTE POWER (NAMEPLATE) 25.7J/TH COMPUTE POWER EFFICIENCY 105MW ENERGIZED COMPUTE CAPACITY 123MW AVAILABLE COMPUTE CAPACITY EXPLORE BITCOIN HOSTING SOLUTIONS FOR AI Sustainable. Scalable. AI. Soluna Cloud helps businesses who are new to Gen AI train and tune models rapidly, responsibly and sustainably. 2.8GW POWER PIPELINE 166,151MWhs CURTAILED ENERGY MONETIZED LEARN MORE ABOUT SOLUNA CLOUD Soluna Data Centers Soluna turns stranded renewable energy into powerful computing solutions for AI, Bitcoin, and more. By co-loca",
+  "captured_at": "2026-10-12 13:19:55 +0800"
+ },
+ "09_deepseek_platform": {
+  "url": "https://platform.deepseek.com/sign_in",
+  "title": "DeepSeek 开放平台",
+  "description": "Join DeepSeek API platform to access our AI models, developer resources and API documentation.",
+  "h1": [
+   "使用 DeepSeek API 构建你的应用"
+  ],
+  "h2": [],
+  "heroText": "使用 DeepSeek API 构建你的应用",
+  "nav": [],
+  "body": {
+   "bg": "#FFFFFF",
+   "color": "#0F1115",
+   "font": "quote-cjk-patch, Inter, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif"
+  },
+  "heroStyle": {
+   "color": "#FFFFFF",
+   "font": "Montserrat, quote-cjk-patch, Inter, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+   "weight": "500",
+   "size": "34px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#121519",
+    457673
+   ],
+   [
+    "#FFFFFF",
+    102325
+   ],
+   [
+    "#3B82F6",
+    59040
+   ],
+   [
+    "#F9FAFB",
+    32256
+   ],
+   [
+    "#0F1115",
+    29952
+   ],
+   [
+    "#000000",
+    15840
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#FFFFFF",
+    146
+   ],
+   [
+    "#61666B",
+    78
+   ],
+   [
+    "#0F1115",
+    60
+   ],
+   [
+    "#81858C",
+    31
+   ],
+   [
+    "#ADB2B8",
+    21
+   ]
+  ],
+  "topFonts": [
+   [
+    "quote-cjk-patch",
+    314
+   ],
+   [
+    "Montserrat",
+    22
+   ]
+  ],
+  "buttons": [],
+  "gradients": [
+   "url(\"https://fe-static.deepseek.com/platform/static/AuthSidebarBackground.8b5a7fde31.webp\"), linear-gradient(rgb(117, 148, 183) 0%, rgb(79, 99, 117) 31%, rgb(45, 59, 77) 56%, rgb(18, 21, 25) 100%)"
+  ],
+  "cssVars": {},
+  "bodyTextSample": "Cookie 设置 我们使用 Cookies 来提供和改进服务并进行安全防护。点击查看我们的 Cookie 政策。你可以选择接受全部，或仅接受必要 Cookies（可能导致部分功能无法正常使用）。 仅接受必要 Cookies 接受全部 DeepSeek-V4.1-Flash 发布，文本与 Agent 性能全面提升、兼具原生多模态视觉理解能力，能力更强、速度更快、且成本更低，欢迎测试和反馈。 点击查看详情。 使用 DeepSeek API 构建你的应用 基于 DeepSeek V4 系列，创造全新的产品、体验与工作方式 查看 API 开发文档 注册登录即代表已阅读并同意我们的 开放平台协议 与 隐私政策 忘记密码 立即注册 登录 使用 Google 账号登录 浙ICP备2023025841号 · 联系我们",
+  "captured_at": "2026-10-12 13:21:11 +0800"
+ },
+ "00b_fathompeak_home_iframe": {
+  "url": "https://www.fathompeak.cn/pages/tokenseller/home.html?embed=1&v=1&lang=zh",
+  "title": "拼好算 | 算电协同词元交易平台",
+  "description": null,
+  "h1": [
+   "FathomPeak TECH 没有中间商赚差价的 绿色词元交易平台"
+  ],
+  "h2": [],
+  "heroText": "FathomPeak TECH 没有中间商赚差价的 绿色词元交易平台",
+  "nav": [
+   "首页",
+   "模型市场",
+   "节点定价",
+   "订单中心",
+   "节点评价",
+   "发起任务"
+  ],
+  "body": {
+   "bg": "#F4F6FB",
+   "color": "#0F172A",
+   "font": "Inter, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+  },
+  "heroStyle": {
+   "color": "#0F172A",
+   "font": "Inter, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+   "weight": "800",
+   "size": "60px",
+   "bgImg": "none"
+  },
+  "topBackgrounds": [
+   [
+    "#FFFFFF",
+    505544
+   ],
+   [
+    "#22C55E",
+    324
+   ],
+   [
+    "#10B981",
+    64
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#1D4ED8",
+    286
+   ],
+   [
+    "#1E293B",
+    231
+   ],
+   [
+    "#475569",
+    184
+   ],
+   [
+    "#0F172A",
+    171
+   ],
+   [
+    "#047857",
+    166
+   ],
+   [
+    "#64748B",
+    14
+   ]
+  ],
+  "topFonts": [
+   [
+    "Inter",
+    783
+   ],
+   [
+    "ui-monospace",
+    269
+   ]
+  ],
+  "buttons": [
+   [
+    "#FFFFFF / text #0F172A",
+    [
+     "立即询价购算",
+     "浏览模型市场"
+    ]
+   ]
+  ],
+  "gradients": [
+   "linear-gradient(135deg, rgb(29, 78, 216) 0%, rgb(5, 150, 105) 100%)",
+   "linear-gradient(to top, rgb(255, 255, 255), rgba(0, 0, 0, 0))"
+  ],
+  "cssVars": {
+   "--bg-dark": "#07090f",
+   "--glass-bg": "rgba(255, 255, 255, 0.02)",
+   "--brand-blue": "#2563eb",
+   "--brand-cyan": "#06b6d4",
+   "--brand-green": "#10b981"
+  },
+  "bodyTextSample": "词元现货交易网络实时在线 FathomPeak TECH 没有中间商赚差价的 绿色词元交易平台 让 AI 计算任务找到富余绿电，在发电侧将绿色余电转化成绿色词元， 实现更低成本、绿色低碳的 AI 计算 立即询价购算 浏览模型市场 实时词元交易看板 成交节点 模型 成交均价 减排效益 河北深州集中式光伏电站 GLM-5.3 ¥25.76 -4.51kg 天津分布式光伏电站 GLM-5.3-Flash ¥2.58 -3.72kg 广东汕头海上风电电站 DeepSeek-V4-Pro ¥12.42 -3.04kg 河北深州集中式光伏电站 MiniMax-M3 ¥7.73 -1.62kg 河北深州集中式光伏电站 DeepSeek-V4-Flash ¥4.14 -1.38kg 天津分布式光伏电站 DeepSeek-V4-Flash ¥4.14 -1.06kg 广东汕头海上风电电站 DeepSeek-V4-Pro ¥12.42 -1.22kg 江西水电电站 MiniMax-M3 ¥7.73 -4.91kg 广东汕头海上风电电站 GLM-5.3-Flash ¥2.58 -3.96kg 北京大兴区分布式光伏电站 GLM-5.3-Flash ¥2.58 -1.77kg 江西水电电站 Qwen3.8-Flash ¥2.48 -0.22kg 新疆集中式光伏电站 MiniMax-M3 ¥7.73 -4.21kg 河北深州集中式光伏电站 GLM-5.3 ¥25.76 -4.51kg 天津分布式光伏电站 GLM-5.3-Flash ¥2.58 -3.72kg 广东汕头海上风电电站 DeepSeek-V4-Pro ¥12.42 -3.04kg 河北深州集中式光伏电站 MiniMax-M3 ¥7.73 -1.62kg 河北深州集中式光伏电站 DeepSeek-V4-Flash ¥4.14 -1.38kg 天津分布式光伏电站 DeepSeek-V4-Flash ¥4.14 -1.06kg 广东汕头海上风电电站 DeepSeek-V4-Pro ¥12.42 -1.22kg 江西水电电站 MiniMax-M3 ¥7.73 -4.91kg 广东汕头海上风电电站 GLM-5.3-Flash ¥2.58 -3.96kg 北京大兴区分布式光伏电站 GLM-5.3-Flash ¥2.58 -1.77kg 江西水电电站 Qwen3.8-Flash ¥2.48 -0.22kg 新疆集中式光伏电站 MiniMax-M3 ¥7.73 -4.21kg 电厂直销词元 在发电侧、电站里部署分布式词元一体机，砍掉电网输配成本与云平台溢价，以源头底价供应。 峰谷时段套利 利用光伏大发时段（午间）及电网谷电时段，获得极致折价词元。 低碳可追踪 每一笔推理任务对应绿电消纳记录，支持导出符合 ESG 标准的减排凭证。 订单过程透明 无隐形加价，市场底价公开对比，词元消耗毫秒级计费展示。 操作成功",
+  "captured_at": "2026-10-12 13:20:57 +0800"
+ }
+}

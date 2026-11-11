@@ -1,0 +1,412 @@
+{
+ "tg_home": {
+  "url": "https://www.together.ai/",
+  "title": "Together AI | The AI Native Cloud",
+  "bodyFont": "\"The Future\"",
+  "counts": {
+   "video": 1,
+   "canvas": 0,
+   "svg": 178,
+   "img": 327,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 12,
+   "animatedNow": 9
+  },
+  "libs": [
+   "gsap",
+   "swiper"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Inference",
+   "Chat",
+   "Image",
+   "Code",
+   "Vision",
+   "Video",
+   "Show all",
+   "Compute",
+   "GB300",
+   "GB200",
+   "B200",
+   "H200",
+   "H100",
+   "Model Shaping",
+   "Research",
+   "FlashAttention",
+   "ATLAS",
+   "Kernel Collection"
+  ],
+  "ctas": [
+   "SIGN IN [#000000]",
+   "START BUILDING [#000000]",
+   "LEARN MORE [#000000]"
+  ],
+  "inputs": [],
+  "h1": "Build what's next on the AI Native Cloud",
+  "h2": [
+   "Get started with the most optimized open source models",
+   "The Together AI Platform",
+   "Grounded in cutting-edge research",
+   "AI natives build on Together AI",
+   "What’s new at Together AI",
+   "Start building on Together AI"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "White circular shape with uneven edges and three extended finger-like projections on a black background.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "OpenAI logo with a symmetrical abstract geometric knot design.",
+   "Abstract 3D shapes including a transparent blue circle, blue and purple intersecting discs, and an orange hexagon connected by a purple arrow labeled production inference.",
+   "Abstract 3D shapes including a red hexagon, a light blue circular disc with a notch, and a translucent blue propeller-like form.",
+   "Black logo with the word NOUS above a stylized face of a person in a rectangular frame.",
+   "Black logo with the word NOUS above a stylized face of a person in a rectangular frame."
+  ],
+  "bodyText": "SIGN IN Build what's next on the AI Native Cloud Full-stack AI platform, powered by cutting-edge research. START BUILDING CONTACT SALES The Together AI Platform Powering every step of the AI development journey —from experimentation to massive scale. Inference Compute Model shaping Serverless Inference The fastest way to run open-source models on demand. Powered by cutting-edge inference research. No infrastructure to manage, no long-term commitments. LEARN MORE Batch Inference Provisioned Throughput Dedicated Model Inference Dedicated Container Inference Grounded in cutting-edge research Foundational systems research for production AI. KERNELS To Infinity and Beyond: ThunderKittens Now on NVIDIA Vera Rubin NVL72! DYLAN LIM, XINYI LI, SONNY LI, PETER WU, DAN FU, SIMRAN ARORA READ MORE AGENTS ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale HAO KANG, ZIYANG LI, WEILI XU, XINYU YANG, YINFANG CHEN, JUNXIONG WANG, BEIDI CHEN, TUSHAR KRISHNA, CHENFENG XU, SIMRAN ARORA. READ MORE KERNELS Together AI at ICML 2026: frontier research across the full stack TOGETHER RESEARCH READ MORE RECOGNIZED BY AI natives build on Together AI See how Together AI powers customers building the next generation of AI products. How Cursor partnered with Together AI to deliver real-time, low-latency inference at scale INFERENCE, GPU CLUSTERS, RESEARCH • ENTERPRISE How Decagon Engineered Sub-Second Voice AI with Together AI INFERENCE, GPU CLUSTERS, RESEARCH 11x FASTER INFERENCE VIEW ALL STORIES What’s new at Together AI INFERENCE Together Link: frontier-quality open models in the harness you already use INFERENCE The Open Source AI Stack GPU CLUSTERS Together AI and Y Combinator partner to launch the first dedicated GPU cluster for the YC community ALL BLOG POSTS Start building on Together AI From optimized training and model shaping to large-scale production inference GET STARTED NOW PRODUCTS Accelerated Compute Together Link Serverless Inference Provisioned Throughput Dedicated Inference Fine-Tuning Sandbox Evaluations MODELS See all models DeepSeek Meta Qwen Google OpenAI Mistral AI Custom models DEVELOPERS Research Docs Open-source AI OSS ROI calculator PRICING Pricing overview Inference Fine-Tuning GPU Clusters RESOURCES Blog About us Careers Customer Stories Support Privacy Policy Terms of service Cookie Policy Consent Preferences © 2026 TOGETHER AI. ALL RIGHTS RESERVED.",
+  "captured_at": "2026-10-12 13:44:46 +0800"
+ },
+ "infini_home": {
+  "url": "https://www.infinigence-ai.com/",
+  "title": "无问芯穹_Infinigence-AI_通用人工智能基础设施服务商",
+  "bodyFont": "\"PingFang SC\"",
+  "counts": {
+   "video": 11,
+   "canvas": 0,
+   "svg": 77,
+   "img": 345,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 1,
+   "keyframes": 203,
+   "animatedNow": 9
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "了解更多",
+   "产品与服务",
+   "查看更多",
+   "解决方案",
+   "技术与研究",
+   "核心技术",
+   "新闻中心",
+   "关于我们",
+   "加入我们",
+   "WAIC 2026",
+   "EN",
+   "登录平台",
+   "Cache-to-Cache",
+   "Token工厂",
+   "RLinf",
+   "具身智能工具链",
+   "多元异构",
+   "软硬协同"
+  ],
+  "ctas": [
+   "确认 [#5D2BFE]"
+  ],
+  "inputs": [
+   "text:搜索相关问题"
+  ],
+  "h1": "通用人工智能 基础设施服务商",
+  "h2": [
+   "Agentic Infra自主式基础设施平台",
+   "Agentic MaaS大模型服务平台",
+   "助力AI时代各行各业的智能革命",
+   "全球领先 全栈贯通的自主式AI基础设施核心技术",
+   "精选无穹资讯 与AI共同进化",
+   "M 种模型 x N 种芯片技术新范式",
+   "全球领先 全栈贯通的 自主式人工智能基础设施核心技术",
+   "助力AI时代 各行各业的智能革命",
+   "精选无穹资讯 与AI共同进化",
+   "释放无穹智能，让AGI触手可及"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商",
+   "通用人工智能\n基础设施服务商"
+  ],
+  "bodyText": "5 分钟完成机器人纳管、10 秒启动跨集群任务，无问芯穹联合清华大学开源具身智能云原生平台 RLark 了解更多 EN 登录平台 AGI Infrastructure Service Provider 通用人工智能 基础设施服务商 释放无穹智能，让AGI触手可及 立即咨询 智能体体验区 Agentic MaaS 大模型服务平台 面向企业与开发者输出大规模AI智力的“Token工厂” 模型生态与兼容 统一接入与流量治理 推理执行与性能优化 灵活计费与订阅管理 智能服务运维 查看详情 全球领先 全栈贯通的 自主式人工智能基础设施核心技术 多元异构 统一调度不同架构的芯片，实现对多样化算力的高效整合与协同 了解更多 查看技术报道 软硬协同 通过跨越软件与硬件的深度优化与联合设计，极致挖潜芯片应用算力 查看技术报道 自主式AI 以AI深度赋能AI，结合基础设施智能体蜂群，让基础设施具备环境感知、决策行动与自进化能力 了解更多 查看技术报道 了解更多 无问芯穹与 AMD 共建云边端全链路开源生态，赋能“AI 生产力”新纪元 新闻动态 2026年05月 习近平总书记调研上海“模速空间”，无问芯穹首席执行官夏立雪向总书记作重点汇报 新闻动态 2025年04月 业务咨询： pre-sales@infini-ai.com 媒体垂询： pr@infini-ai.com 人力资源： hr@infini-ai.com 联系电话： 400-806-6058 公司地址： 上海市徐汇区龙台路180号模速空间（总部） 北京市海淀区原点大厦三层 产品与服务 Agentic Infra自主式基础设施平台 Agentic MaaS大模型服务平台 解决方案 技术与研究 新闻中心 关于我们 加入我们 WAIC 2026 ©2026 无问芯穹 All Rights Reserved 沪ICP备2024070257号-2 沪公网安备31010402336716号 隐私政策 | Cookie政策 | 免责声明 同意和偏好管理 我们将使用Cookie以便更好了解您对本网站的使用情况。这将有助于改善您今后访问本网站的体验，关于Cookie的使用，以及如何撤销或管理您的同意，详见我们的《隐私政策》，如你点击确认按钮，将视为您同意Cookie的使用。 必需Cookie无需同意，其他Cookie需您自主选择。您可随时在「Cookie设置」中撤回同意。 Cookie公告 免责声明 点击确认即表示您已阅读并同意《Cookie公告》与《隐私政策》。 确认 取消",
+  "captured_at": "2026-10-12 13:45:09 +0800"
+ },
+ "ds_pricing": {
+  "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
+  "title": "模型 & 价格 | DeepSeek API Docs",
+  "bodyFont": "Inter",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 18,
+   "img": 3,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 1,
+   "inputs": 1,
+   "keyframes": 5,
+   "animatedNow": 4
+  },
+  "libs": [],
+  "hasScrollReveal": false,
+  "nav": [
+   "DeepSeek API 文档",
+   "更多资源",
+   "实用集成",
+   "API 服务状态",
+   "常见问题",
+   "中文（中国）",
+   "English",
+   "开放平台",
+   "EN",
+   "快速开始",
+   "API 指南",
+   "API 文档",
+   "新闻",
+   "更新日志",
+   "首次调用 API",
+   "模型 & 价格",
+   "Token 用量计算",
+   "限速与隔离"
+  ],
+  "ctas": [
+   "模型 & 价格 [#E4EDFD]"
+  ],
+  "inputs": [
+   "text:搜索"
+  ],
+  "h1": "模型 & 价格",
+  "h2": [
+   "模型细节​",
+   "扣费规则​"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "DeepSeek API 文档 Logo",
+   "DeepSeek API 文档 Logo",
+   "WeChat QRcode"
+  ],
+  "bodyText": "跳到主要内容 DeepSeek API 文档 EN 快速开始 API 指南 API 文档 新闻 更新日志 本页目录 模型 & 价格 下表所列模型价格以“百万 tokens”为单位。Token 是模型用来表示自然语言文本的的最小单位，可以是一个词、一个数字或一个标点符号等。我们将根据模型输入和输出的总 token 数进行计量计费。 模型细节​ 模型 deepseek-flash(1) deepseek-v4-pro BASE URL (OpenAI 格式) https://api.deepseek.com BASE URL (Anthropic 格式) https://api.deepseek.com/anthropic 模型版本 DeepSeek-V4.1-Flash DeepSeek-V4-Pro-0813 思考模式 支持非思考与思考模式（默认） 切换方式详见思考模式 上下文长度 1M 输出长度 最大 384K 功能 Json Output 支持 支持 Tool Calls 支持 支持 Responses API 支持 支持 Anthropic API 支持 支持 对话前缀续写（Beta） 支持 支持 FIM 补全（Beta） 仅非思考模式支持 仅非思考模式支持 图像理解 支持 不支持 价格(2) 百万tokens输入 （缓存命中） 空闲时段 0.02元 0.15元 高峰时段 0.04元 0.30元 百万tokens输入 （缓存未命中） 空闲时段 1元 4.5元 高峰时段 2元 9.0元 百万tokens输出 空闲时段 4元 13.5元 高峰时段 8元 27.0元 并发限制(3) 2500 500 (1) 模型名请使用 deepseek-flash。旧模型名 deepseek-v4-flash、deepseek-v4-flash-vision-exp 仍可调用，但对应模型已下线，请求将由 DeepSeek-V4.1-Flash 模型提供服务，并按 Flash 价格计费。 (2) 空闲时段价格为高峰时段价格的一半。北京时间周一至周五（不含中国法定节假日）9:00 - 12:00、14:00 - 18:00 为高峰时段；其余时段，包括周末及中国法定节假日全天均为空闲时段。 (3) 更多并发限制细节，请参考限速与隔离。 扣费规则​ 扣减费用 = token 消耗量 × 模型单价，对应的费用将直接从充值余额或赠送余额中进行扣减。 当充值余额与赠送余额同时存在时，优先扣减赠送余额。 产品价格可能发生变动，DeepSeek 保留修改价格的权利。请您依据实际用量按需充值，定期查看此页面以获知最新价格信息。 上一页 首次调用 API 下一页 Token 用量计算 微信公众号 社区 邮箱 Discord Twitter 更多 GitHub Copyright © 2026 DeepSeek, Inc.",
+  "captured_at": "2026-10-12 13:45:24 +0800"
+ },
+ "moonshot_pricing": {
+  "url": "https://platform.kimi.com/docs/pricing/chat",
+  "title": "模型推理价格说明 - Kimi API 开放平台",
+  "bodyFont": "Inter",
+  "counts": {
+   "video": 0,
+   "canvas": 0,
+   "svg": 30,
+   "img": 4,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 2,
+   "inputs": 1,
+   "keyframes": 7,
+   "animatedNow": 0
+  },
+  "libs": [],
+  "hasScrollReveal": true,
+  "nav": [
+   "快来体验吧！",
+   "模型推理",
+   "托管智能体 Beta",
+   "API 参考",
+   "模型与定价",
+   "企业订阅",
+   "联系销售",
+   "用户中心",
+   "计费说明",
+   "批量推理定价",
+   "联网搜索定价",
+   "托管智能体定价",
+   "充值与限速",
+   "模型列表",
+   "Kimi K3 模型",
+   "Kimi K2.7 Code 模型",
+   "Kimi K2.6 模型",
+   "批量推理定价 下一页"
+  ],
+  "ctas": [
+   "复制页面 [#FFFFFF]"
+  ],
+  "inputs": [
+   "text:提出问题..."
+  ],
+  "h1": "模型推理价格说明",
+  "h2": [
+   "Documentation Index",
+   "​ 模型定价",
+   "​ 计费基本概念",
+   "​ 模型说明",
+   "在此页面"
+  ],
+  "priceHits": [
+   "¥20.00",
+   "¥40.00",
+   "¥2.00",
+   "¥20.00",
+   "¥100.00",
+   "¥1.30",
+   "¥6.50",
+   "¥27.00",
+   "¥2.60",
+   "¥13.00",
+   "¥54.00",
+   "¥1.10"
+  ],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "light logo",
+   "dark logo",
+   "light logo",
+   "dark logo"
+  ],
+  "bodyText": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. 跳转到主要内容 🎉 Kimi K3 旗舰模型已正式发布，快来体验吧！ Kimi API 开放平台 home page 搜索或提问... Navigation 模型推理定价 模型推理价格说明 模型推理定价 模型推理价格说明 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 复制页面 ​ 模型定价 ​ K3 系列模型 模型 计费单位 缓存写入（TTL 5min） 缓存写入（TTL 1h） 输入价格（缓存命中） 输入价格（缓存未命中） 输出价格 上下文窗口 kimi-k3 1M tokens ¥20.00 ¥40.00 ¥2.00 ¥20.00 ¥100.00 1,048,576 tokens 注：缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 模型 计费单位 输入价格（缓存命中） 输入价格（缓存未命中） 输出价格 上下文窗口 kimi-k2.7-code 1M tokens ¥1.30 ¥6.50 ¥27.00 262,144 tokens kimi-k2.7-code-highspeed 1M tokens ¥2.60 ¥13.00 ¥54.00 262,144 tokens kimi-k2.6 1M tokens ¥1.10 ¥6.50 ¥27.00 262,144 tokens 此处 1M = 1,000,000，表格中的价格代表每消耗 1M tokens 的价格。 ​ 计费基本概念 Kimi API 开放平台提供的模型推理服务是「按量计费」模式，不提供订阅制方案，请注意与 Kimi 会员、Kimi Code 等产品区分，查看产品差异。 ​ 计费单元 Token：代表常见的字符序列，每个汉字使用的 Token 数目可能是不同的。例如，单个汉字”夔”可能会被分解为若干 Token 的组合，而像”中国”这样短且常见的短语则可能会使用单个 Token。大致来说，对于一段通常的中文文本，1 个 Token 大约相当于 1.5-2 个汉字。具体每次调用实际产生的 Tokens 数量可以通过调用 计算 Token API 来获得。 ​ 计费逻辑 模型推理接口对 Input 和 Output 均实行按量计费。对于 K3 系列模型，缓存写入按 TTL（5min / 1h）单独计费；缓存命中的输入仅按缓存命中价格计费，不再重复收取缓存写入费用。如果您上传并抽取文档内容，并将抽取的文档内容作为 Input 传输给模型，那么文档内容也将按量计费。文件相关接口（文件内容抽取/文件存储）限时免费，即您只上传并抽取文档时，文件接口本身不产生费用。 ​ 模型说明 各模型的能力介绍与适用场景见对应的模型指南： Kimi K3 模型介绍 Kimi K2.7 Code 模型介绍 Kimi K2.6 模型介绍 此页面对您有帮助吗？ 是 否 批量推理定价 下一页 github website",
+  "captured_at": "2026-10-12 13:45:41 +0800"
+ },
+ "emerald_home": {
+  "url": "https://www.emeraldai.co/",
+  "title": "Emerald AI",
+  "bodyFont": "Satoshi",
+  "counts": {
+   "video": 2,
+   "canvas": 0,
+   "svg": 36,
+   "img": 98,
+   "lottie": 0,
+   "iframe": 0,
+   "tables": 0,
+   "inputs": 0,
+   "keyframes": 1,
+   "animatedNow": 0
+  },
+  "libs": [
+   "gsap"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "Home",
+   "Company",
+   "News",
+   "Careers"
+  ],
+  "ctas": [
+   "Contact [#438C36]"
+  ],
+  "inputs": [],
+  "h1": "Power for AI. Flexibility for the Grid.",
+  "h2": [
+   "Featured Updates",
+   "We Work with World Class Partners",
+   "What if the biggest new user of electricity–AI–could become the grid’s greatest ally?",
+   "What if the biggest new user of electricity–AI–could become the grid’s greatest ally?",
+   "Academic Rigor at Commercial Scale",
+   "The Infrastructure Behind the Infrastructure",
+   "Connecting the Ecosystem That's Powering the AI Revolution",
+   "Dive Deeper",
+   "Contact Us",
+   "Resources"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "Emerald AI",
+   "TECHCRUNCH: Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+   "Emerald AI Raises $150M Series A at $1.05B Valuation",
+   "Emerald AI Is Selected as a 2026 Technology Pioneer by the World Economic Forum",
+   "Silicon Valley Power and Emerald AI Launch Pilot to Demonstrate Flexible Data Centers in Santa Clara and Unlock Power Capacity for AI",
+   "WSJ: Nvidia, Emerald AI Partner With Power Companies on New AI Factories",
+   "The New York Times",
+   "The New York Times",
+   "TED",
+   "TED"
+  ],
+  "bodyText": "Home Company News Careers Contact Power for AI. Flexibility for the Grid. Emerald AI makes AI’s power demand flexible, transforming data centers into valuable grid partners, protecting energy affordability and reliability for local communities, and unlocking massive capacity on existing grid infrastructure to power the AI revolution today. Featured Updates All News TECHCRUNCH: Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers Grid software unicorn Emerald AI has formed a coalition with Google and Nvidia that will use the startup’s technology to secure space on the grid for more data centers. September 17, 2026 READ MORE The New York Times TED Bloomberg The Wall Street Journal Fortune Fortune Axios The Times Newsweek TIME 1 2 3 AI’s explosive growth is colliding with grid limits, delaying AI infrastructure by years and raising energy costs for everyone. Intelligent flexibility unlocks 100GW of capacity for AI data centers — speeding innovation, lowering rates, and avoiding blackouts. Emerald AI enables data centers to provide relief when the grid is stressed while assuring critical AI performance. / 3 We Work with World Class Partners Emerald AI's customers span the largest AI firms, global data center operators, and leading power utilities, and we partner with companies across the AI and energy value chain defining the intelligence era. “AI factories are the engines of the intelligence era, and like any great engine, every system must be designed together — energy, compute, networking and cooling as one architecture. NVIDIA and Emerald AI are working together to enable a future for AI where performance, efficiency and grid responsiveness can be tapped into immediately.” Jensen Huang Founder and CEO, NVIDIA What if the biggest new user of electricity–AI–could become the grid’s greatest ally? AI Flexibility Can Unlock 100GW to Power the AI Revolution Today Temporal AI flexibility Briefly slow or pause batchable AI workloads when the grid is stressed and resume post‑event, all within SLA guardrails. Spatial AI flexibility Shift workloads across regions on fiber to where power is abundant — within latency bounds. Resource flexibility Dispatch batteries and other onsite energy alongside compute orchestration for maximum, reliable flexibility. Academic Rigor at Commercial Scale Emerald AI has deployed power flexibility at commercial data centers around the world, validating the results with partners, customers, and top",
+  "captured_at": "2026-10-12 13:45:55 +0800"
+ },
+ "soluna_home": {
+  "url": "https://www.solunacomputing.com/",
+  "title": "Soluna",
+  "bodyFont": "\"Nunito Sans\"",
+  "counts": {
+   "video": 1,
+   "canvas": 0,
+   "svg": 14,
+   "img": 17,
+   "lottie": 0,
+   "iframe": 1,
+   "tables": 0,
+   "inputs": 8,
+   "keyframes": 40,
+   "animatedNow": 0
+  },
+  "libs": [
+   "swiper"
+  ],
+  "hasScrollReveal": true,
+  "nav": [
+   "For AI",
+   "For Bitcoin",
+   "For Investors",
+   "About Us",
+   "Company",
+   "Data Centers",
+   "News",
+   "Careers",
+   "Contact",
+   "Resources",
+   "Blog",
+   "Podcast",
+   "Video",
+   "Research",
+   "Media/Press"
+  ],
+  "ctas": [
+   "Reject All [#1863DC]",
+   "Accept All [#1863DC]"
+  ],
+  "inputs": [
+   "checkbox:ckySwitchfunctional",
+   "checkbox:ckySwitchanalytics",
+   "checkbox:ckySwitchperformance",
+   "checkbox:ckySwitchadvertisement",
+   "checkbox:ckySwitchother",
+   "email:Enter email",
+   "checkbox:consent",
+   "submit:"
+  ],
+  "h1": "Power AI & Bitcoin, sustain tomorrow: Renewable Computing",
+  "h2": [
+   "Our mission is to make Renewable Energy a Global Superpower",
+   "Reliable Infrastructure. Predictable Performance.",
+   "Sustainable. Scalable. AI.",
+   "Soluna Data Centers",
+   "Investors",
+   "Resources"
+  ],
+  "priceHits": [],
+  "perMillionMentions": 0,
+  "imgAlt": [
+   "Revisit consent button"
+  ],
+  "bodyText": "We value your privacy We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies. Customise Reject All Accept All Powered by Power AI & Bitcoin, sustain tomorrow: Renewable Computing Our mission is to make Renewable Energy a Global Superpower Soluna turns stranded renewable energy into powerful computing solutions for AI, Bitcoin, and more. By co-locating our data centers with wind, solar, and hydro plants, we transform surplus energy into high-performance computing. Our MaestroOS™ software ensures efficiency, sustainability, and profitability, redefining what’s possible with renewable power. LEARN ABOUT SOLUNA FOR BITCOIN Reliable Infrastructure. Predictable Performance. A smarter, more sustainable way to mine Bitcoin without sacrificing profitability. 4.5 EH/s COMPUTE POWER (NAMEPLATE) 25.7 J/TH COMPUTE POWER EFFICIENCY 105 MW ENERGIZED COMPUTE CAPACITY 123 MW AVAILABLE COMPUTE CAPACITY EXPLORE BITCOIN HOSTING SOLUTIONS FOR AI Sustainable. Scalable. AI. Soluna Cloud helps businesses who are new to Gen AI train and tune models rapidly, responsibly and sustainably. 2.8 GW POWER PIPELINE 166,151 MWhs CURTAILED ENERGY MONETIZED LEARN MORE ABOUT SOLUNA CLOUD Soluna Data Centers Soluna turns stranded renewable energy into powerful computing solutions for AI, Bitcoin, and more. By co-locating our data centers with wind, solar, and hydro plants, we transform surplus energy into high-performance computing. Our MaestroOS™ software ensures efficiency, sustainability, and profitability, redefining what’s possible with renewable power. EXPLORE OUR DATA CENTERS Investors Soluna is a publicly traded company (NASDAQ: SLNH) focused on delivering the future of digital infrastructure. Access our investor center for financial reports, corporate updates, SEC filings, and more. VIEW INVESTOR MATERIALS Financial Partners Resources FEATURED BLOG Speed-to-Power: Who Can Actually Deliver It? BLOG The AI Energy Wall and the End of Invisible Infrastructure BLOG Feeding AI’s Bottomless Energy Appetite VISIT OUR RESOURCE CENTER Email I have read and agree to the Terms and Conditions and the Privacy Policy About Us Company Data Centers News Careers Solutions AI Infrastructure Curtailment Solutions Investors Overview Latest News Company Updates Financial Info Resources Board of Directors Committees Resources Blog Podcast Video Research Media/Press Contact Shop LinkedIn Twitt",
+  "captured_at": "2026-10-12 13:46:13 +0800"
+ }
+}

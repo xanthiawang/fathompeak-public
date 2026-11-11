@@ -1,0 +1,363 @@
+{
+ "title": "Crusoe Impact | Energy-first approach to AI infrastructure",
+ "h": 9743,
+ "header": [],
+ "footer": [
+  {
+   "t": "Privacy Policy.",
+   "h": "https://legal.crusoe.ai/#website-privacy-notice",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(206, 235, 19)",
+   "r": "0px",
+   "y": 9279
+  },
+  {
+   "t": "Subscribe",
+   "h": "",
+   "tag": "button",
+   "bg": "rgb(207, 235, 18)",
+   "c": "rgb(24, 23, 23)",
+   "r": "4px",
+   "y": 9327
+  },
+  {
+   "t": "Overview",
+   "h": "/cloud",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9132
+  },
+  {
+   "t": "Managed Inference",
+   "h": "/cloud/managed-inference",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9152
+  },
+  {
+   "t": "Command Center",
+   "h": "/cloud/command-center",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9172
+  },
+  {
+   "t": "Pricing",
+   "h": "/cloud/pricing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9192
+  },
+  {
+   "t": "NVIDIA GB200",
+   "h": "/cloud/gpus/nvidia-gb200",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(156, 163, 175)",
+   "r": "0px",
+   "y": 9232
+  },
+  {
+   "t": "NVIDIA B200",
+   "h": "/cloud/gpus/nvidia-b200",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(156, 163, 175)",
+   "r": "0px",
+   "y": 9250
+  },
+  {
+   "t": "NVIDIA H200",
+   "h": "/cloud/gpus/nvidia-h200",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(156, 163, 175)",
+   "r": "0px",
+   "y": 9268
+  },
+  {
+   "t": "NVIDIA H100",
+   "h": "/cloud/gpus/nvidia-h100",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(156, 163, 175)",
+   "r": "0px",
+   "y": 9286
+  },
+  {
+   "t": "AMD MI355x",
+   "h": "/cloud/gpus/amd-mi355x",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(156, 163, 175)",
+   "r": "0px",
+   "y": 9304
+  },
+  {
+   "t": "AMD MI300x",
+   "h": "/cloud/gpus/amd-mi300x",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(156, 163, 175)",
+   "r": "0px",
+   "y": 9322
+  },
+  {
+   "t": "Data Centers",
+   "h": "/data-centers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9132
+  },
+  {
+   "t": "Manufacturing",
+   "h": "/manufacturing",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9152
+  },
+  {
+   "t": "Energy",
+   "h": "/energy",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9172
+  },
+  {
+   "t": "Documentation",
+   "h": "https://docs.crusoecloud.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9132
+  },
+  {
+   "t": "Github",
+   "h": "https://github.com/crusoecloud",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9152
+  },
+  {
+   "t": "Cookbook",
+   "h": "https://cookbook.crusoe.ai/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9172
+  },
+  {
+   "t": "Company",
+   "h": "/about/company",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9132
+  },
+  {
+   "t": "Leadership",
+   "h": "/about/leadership",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9152
+  },
+  {
+   "t": "Impact",
+   "h": "/about/impact",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9172
+  },
+  {
+   "t": "Careers",
+   "h": "/about/careers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9192
+  },
+  {
+   "t": "Trust Center",
+   "h": "https://trust.crusoe.ai/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9132
+  },
+  {
+   "t": "Legal Center",
+   "h": "https://legal.crusoe.ai/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9152
+  },
+  {
+   "t": "Report Abuse",
+   "h": "https://ironcladapp.com/public-launch/673f8d97a97bc4d653205e17",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9172
+  },
+  {
+   "t": "Ethics Helpline",
+   "h": "https://secure.ethicspoint.com/domain/media/en/gui/1002889/index.html",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9192
+  },
+  {
+   "t": "Blog",
+   "h": "/resources/blog",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9132
+  },
+  {
+   "t": "Newsroom",
+   "h": "/resources/newsroom",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9152
+  },
+  {
+   "t": "Customers",
+   "h": "/resources/customers",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9172
+  },
+  {
+   "t": "Support",
+   "h": "https://support.crusoecloud.com/hc/en-us?gclid=23423jhksjdf",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9192
+  },
+  {
+   "t": "Learning Hub",
+   "h": "/resources/learning-hub",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9212
+  },
+  {
+   "t": "Events & Webinars",
+   "h": "/resources/events",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9232
+  },
+  {
+   "t": "Privacy Policy",
+   "h": "https://legal.crusoe.ai/#website-privacy-notice",
+   "tag": "a",
+   "bg": "rgba(240, 240, 240, 0)",
+   "c": "rgb(107, 114, 128)",
+   "r": "0px",
+   "y": 9507
+  },
+  {
+   "t": "Do Not Sell or Share My Personal Information",
+   "h": "",
+   "tag": "button",
+   "bg": "rgba(240, 240, 240, 0)",
+   "c": "rgb(107, 114, 128)",
+   "r": "0px",
+   "y": 9535
+  },
+  {
+   "t": "Login",
+   "h": "https://console.crusoecloud.com/",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9479
+  },
+  {
+   "t": "Contact us",
+   "h": "/contact-us",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9505
+  },
+  {
+   "t": "Cloud Partnerships",
+   "h": "/partners",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(255, 255, 255)",
+   "r": "0px",
+   "y": 9531
+  }
+ ],
+ "top": [
+  {
+   "t": "close banner",
+   "h": "#",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(0, 0, 0)",
+   "r": "0px",
+   "y": 0
+  },
+  {
+   "t": "Learn more",
+   "h": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+   "tag": "a",
+   "bg": "rgba(0, 0, 0, 0)",
+   "c": "rgb(206, 235, 19)",
+   "r": "0px",
+   "y": 11
+  }
+ ],
+ "count": 39,
+ "lang": "en",
+ "url": "https://www.crusoe.ai/about/impact"
+}
