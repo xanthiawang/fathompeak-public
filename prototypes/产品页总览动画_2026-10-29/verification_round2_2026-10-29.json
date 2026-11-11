@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-29",
+  "syntax": "passed",
+  "dom_checks": "passed",
+  "event_sequence": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    2,
+    3,
+    0
+  ],
+  "checks": [
+    "four layers",
+    "ten pipe circles plus twelve circuit circles",
+    "SVG clock pauses and resumes",
+    "assets exist",
+    "0-1-2-3 cycle",
+    "hover selects and pauses",
+    "leave resumes",
+    "reduced motion stops timer",
+    "hidden page stops timer",
+    "destroy restores fallback"
+  ],
+  "browser_render": "Not verified by this DOM audit; see README second-round notes",
+  "note": "DOM test uses simulated image load and timers; PIL independently decodes and checks exported assets. Not a browser render acceptance."
+}

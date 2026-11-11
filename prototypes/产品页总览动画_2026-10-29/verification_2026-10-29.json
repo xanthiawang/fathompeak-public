@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-29",
+  "syntax": "passed",
+  "dom_checks": "passed",
+  "event_sequence": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    2,
+    3,
+    0
+  ],
+  "checks": [
+    "four layers",
+    "ten flow segments",
+    "assets exist",
+    "0-1-2-3 cycle",
+    "hover selects and pauses",
+    "leave resumes",
+    "reduced motion stops timer",
+    "hidden page stops timer",
+    "destroy restores fallback"
+  ],
+  "browser_render": "BLOCKED: macOS sandbox bootstrap_check_in Permission denied (1100); CUA host unavailable",
+  "note": "DOM test uses simulated image load and timers; PIL independently decodes and checks exported assets. Not a browser render acceptance."
+}

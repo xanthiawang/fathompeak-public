@@ -1,0 +1,140 @@
+{
+  "source": "engineering-stack_2026-10-14.png",
+  "source_sha256": "e37cce3a02ef26fc150a460471523f62c3394e737d88914cbf932efd67afabb9",
+  "source_mtime": 1793259178.8441713,
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "encoding": "near-lossless WebP 40, original size, exact source alpha, 12px downward overlapping ownership masks",
+  "layer_bytes": [
+    149748,
+    129882,
+    159458,
+    168876
+  ],
+  "total_bytes": 607964,
+  "original_owner_alpha_mismatches": 0,
+  "cut_mask_cycle_samples": 145,
+  "cut_mask_uncovered_pixels": 0,
+  "adjacent_motion_bound_px": 8,
+  "max_visible_rgb_channel_error": 4,
+  "mean_visible_rgb_channel_error": 0.8043925458525886,
+  "bleed_down_px": 12,
+  "boundaries": [
+    [
+      [
+        0,
+        246
+      ],
+      [
+        276,
+        246
+      ],
+      [
+        568,
+        397
+      ],
+      [
+        568,
+        456
+      ],
+      [
+        612,
+        456
+      ],
+      [
+        612,
+        420
+      ],
+      [
+        697,
+        465
+      ],
+      [
+        997,
+        305
+      ],
+      [
+        1254,
+        305
+      ]
+    ],
+    [
+      [
+        0,
+        504
+      ],
+      [
+        275,
+        504
+      ],
+      [
+        570,
+        660
+      ],
+      [
+        570,
+        698
+      ],
+      [
+        615,
+        717
+      ],
+      [
+        615,
+        684
+      ],
+      [
+        700,
+        715
+      ],
+      [
+        996,
+        557
+      ],
+      [
+        1254,
+        557
+      ]
+    ],
+    [
+      [
+        0,
+        744
+      ],
+      [
+        247,
+        744
+      ],
+      [
+        603,
+        928
+      ],
+      [
+        603,
+        993
+      ],
+      [
+        647,
+        982
+      ],
+      [
+        647,
+        952
+      ],
+      [
+        718,
+        988
+      ],
+      [
+        1008,
+        838
+      ],
+      [
+        1254,
+        838
+      ]
+    ]
+  ]
+}

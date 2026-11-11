@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>沐仞 · 产品总览动画</title>
+  <link rel="stylesheet" href="ov-anim.css">
+  <style>
+    body { margin:0; background:#F7F7F5; color:#4E3F66; font-family:system-ui,-apple-system,"PingFang SC",sans-serif; }
+    .ov-demo { max-width:1080px; min-height:100svh; box-sizing:border-box; padding:48px 28px; margin:auto; display:grid; grid-template-columns:minmax(280px,620px) minmax(240px,1fr); align-items:center; gap:64px; }
+    .ov-demo-copy { margin:0; padding:0; list-style:none; }
+    .ov-demo-copy li { padding:28px 0 28px 22px; border-left:2px solid #A9C3E833; color:#4E3F6680; transition:color .5s,border-color .5s; font-size:17px; line-height:1.65; }
+    .ov-demo-copy li[data-active] { color:#2F63B8; border-color:#5284D7; }
+    @media(max-width:720px) { .ov-demo { grid-template-columns:minmax(0,1fr); padding:28px 20px; gap:24px; } .ov-demo .ov-anim { margin:auto; } .ov-demo-copy li { padding:14px 0 14px 18px; font-size:15px; } }
+    @media(prefers-reduced-motion:reduce) { .ov-demo-copy li { transition:none; } }
+  </style>
+  <script src="ov-anim.js" defer></script>
+</head>
+<body>
+  <main class="ov-demo">
+    <div class="ov-anim" data-layer="0" role="img" aria-label="接入、调度、计算、电力四层基础设施">
+      <img class="ov-original" src="engineering-stack_2026-10-14.png" width="1254" height="1254" alt="" decoding="async">
+    </div>
+    <ol class="ov-demo-copy">
+      <li data-active>绿色 Token 交易平台</li>
+      <li>算电协同世界模型基座</li>
+      <li>FPTM 系列 Token 一体机</li>
+      <li>光伏、风电、水电场站</li>
+    </ol>
+  </main>
+  <script>
+    const overview = document.querySelector('.ov-anim');
+    const rows = [...document.querySelectorAll('.ov-demo-copy li')];
+    overview.addEventListener('ovlayer', ({ detail: { layer } }) => {
+      rows.forEach((row, i) => row.toggleAttribute('data-active', i === layer));
+    });
+  </script>
+</body>
+</html>
