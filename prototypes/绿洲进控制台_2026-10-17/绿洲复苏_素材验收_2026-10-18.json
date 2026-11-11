@@ -1,0 +1,52 @@
+[
+  {
+    "file": "oasis-region-start_etched_2026-10-18.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "bytes": 3690899,
+    "sha256": "c4dd7d3fbcc003f2e2d8eb9d33f998a153faae8a037defdc767381ba9dc90200"
+  },
+  {
+    "file": "oasis-region-revived_etched_2026-10-18.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "bytes": 4364320,
+    "sha256": "b0d2b513b9acc3f63ee4f089b116aff2baca374a6ef82eb1fe6e459201dfc619"
+  },
+  {
+    "file": "oasis-region-camp_etched_2026-10-18.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "bytes": 4207027,
+    "sha256": "29a3e1f8c6c1a2d8d16e8324d9523db35d4d49d7c5fbdc38209753ba4aafdae1"
+  },
+  {
+    "file": "oasis-bird_etched_2026-10-18.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "bytes": 1650215,
+    "sha256": "5bc60a2151ab94746eb46708cb2c978dd10d1b5b3d49ca15f3ad690226f22ba1"
+  },
+  {
+    "file": "oasis-growth_etched_2026-10-18.webp",
+    "size": [
+      2000,
+      800
+    ],
+    "mode": "RGBA",
+    "bytes": 352950,
+    "sha256": "92f756da2b98066035ffd63233e18b8b40ba62ae55f69663bf3bcc3d6614a8d6"
+  }
+]
