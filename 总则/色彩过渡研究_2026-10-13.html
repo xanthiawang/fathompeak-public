@@ -1,0 +1,155 @@
+<title>沐仞色彩过渡研究 · 定稿版</title>
+<style>
+/* 布局：单栏证据页。每家竞品一行：首屏裁切 + 两条从像素里取出的真实色带；末尾是沐仞定稿「晨昏蓝」的过渡配方与可见的 live 预览。
+*/
+:root{ --bg:#FFFFFF; --fg:#0F172A; --muted:#475569; --line:#CBD5E1; --card:#F5F8FC; --navy:#1A2B45; --accent:#2F63B8;
+  --sans:"PingFang SC","Hiragino Sans GB",-apple-system,"Noto Sans SC",sans-serif; --mono:"IBM Plex Mono","SF Mono",Menlo,monospace }
+*{box-sizing:border-box} body{background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.6}
+.wrap{max-width:1100px;margin:0 auto;padding-inline:16px;padding-block:32px 64px}
+h1,h2,h3{margin:0;line-height:1.3;text-wrap:balance;color:var(--navy)} h1{font-size:28px} h2{font-size:21px;margin-top:40px} h3{font-size:16px}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+.lead{color:var(--muted);max-width:70ch;margin:8px 0 0}
+.site{border-top:1px solid var(--line);padding-top:18px;margin-top:22px;page-break-inside:avoid}
+.site h3{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap} .site h3 small{font-size:12px;color:var(--muted);font-weight:400}
+.site h3 .tag{font:500 11px/1 var(--mono);letter-spacing:.06em;padding:3px 7px;border-radius:4px;background:#EEF3FB;color:var(--accent)}
+.site img{width:100%;height:auto;display:block;border:1px solid var(--line);border-radius:6px;margin-top:10px;background:#fff}
+.site p{font-size:14px;margin:8px 0 0;max-width:80ch} .site code,.note code{font:12px var(--mono);color:var(--accent);word-break:break-all}
+table{border-collapse:collapse;width:100%;font-size:14px;margin-top:12px} th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top} th{color:var(--muted);font-weight:500}
+.ramp{display:flex;margin-top:10px;border-radius:6px;overflow:hidden;border:1px solid var(--line)} .ramp span{flex:1;height:44px;position:relative}
+.ramp span i{position:absolute;left:4px;bottom:3px;font:10px var(--mono);color:#fff;font-style:normal} .ramp span.lt i{color:#1A2B45}
+.ramp.dense span i{font-size:9px;left:3px}
+.recipe{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin-top:14px}
+.prev{border:1px solid var(--line);border-radius:10px;overflow:hidden;min-width:0}
+.prev .hd{font:500 12px var(--mono);color:var(--muted);padding:8px 12px;background:var(--card);border-bottom:1px solid var(--line)}
+.prev .sc{height:220px;padding:26px 22px;position:relative;color:#1A2B45;overflow:hidden}
+.prev .sc b{display:block;font-size:22px;font-weight:900;line-height:1.25;max-width:14ch;position:relative}
+.prev .sc b em{font-style:normal}
+.prev .sc .btn{display:inline-block;margin-top:14px;padding:8px 16px;border-radius:999px;color:#fff;font-size:13px;position:relative;background:#000}
+/* 定稿首屏：地平线。原型 CSS 的圆半径是 100vw、弧顶 235px；这里按 300px 半径等比缩小（×0.21），色标顺序与原型一致 */
+.hz .sc{background:radial-gradient(circle at 50% 349px,#212021 0,#212021 299px,#3D314F 303px,#7A6071 307px,#A88E92 311px,#B7A8A3 314px,#D9C0B9 318px,#E9DCD8 321px,#CFD9E4 325px,#9DBBE4 330px,#6F9CE0 337px,#5284D7 348px,#4A7CD3 450px);color:#fff}
+.hz .sc b{font-family:Georgia,"Songti SC",serif;font-weight:400;font-size:21px;text-align:center;max-width:none;letter-spacing:-.01em}
+.hz .sc .sub{display:block;text-align:center;font-size:12px;opacity:.85;margin-top:6px;position:relative}
+.hz .sc .arc{position:absolute;left:-10%;right:-10%;bottom:-70px;height:120px;background:#F8F8F8;border-radius:50% 50% 0 0}
+.hz .sc .btn{position:absolute;left:50%;transform:translateX(-50%);bottom:14px;margin:0;z-index:1}
+/* 内页色雾（企业与出海页）：四团雾 + 向下淡出，原型 .fog 的等比版 */
+.fog .sc{background:#F8F8F8}
+.fog .sc:before{content:"";position:absolute;inset:0;background:radial-gradient(60% 55% at 20% 20%,#A9C3E8,transparent 70%),radial-gradient(50% 50% at 80% 25%,#EBCFC4,transparent 70%),radial-gradient(45% 45% at 55% 70%,#D6CBDD,transparent 72%),radial-gradient(70% 60% at 50% 100%,#E3ECF8,transparent 70%);filter:blur(10px);opacity:.9;-webkit-mask-image:linear-gradient(#000 40%,transparent);mask-image:linear-gradient(#000 40%,transparent)}
+.fog .sc b{font-family:Georgia,"Songti SC",serif;font-weight:400;font-size:21px}
+.fog .sc .btn{background:#000}
+pre{font:12px/1.5 var(--mono);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;overflow-x:auto;margin:10px 0 0;color:var(--fg);white-space:pre-wrap}
+.note{font-size:13px;color:var(--muted);margin-top:10px}
+@media print{ @page{size:1240px 1754px;margin:40px} .wrap{max-width:none;padding:0} h2{page-break-before:always} h2:first-of-type{page-break-before:auto}
+  .recipe{page-break-inside:avoid} }
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">沐仞科技 · 色彩过渡研究 · 取样 2026-10-12 · 定稿版 2026-10-13</p>
+  <h1>竞品首屏是怎么把颜色"揉"在一起的，以及沐仞定稿的做法</h1>
+  <p class="lead">方法：取 2026-10-12 抓的首屏截图，对导航以下的首屏区域逐列、逐行求平均色，得到两条真实的过渡色带（左到右、上到下），并统计主导色。同时列出从页面 CSS 里抓到的渐变声明。第三节是沐仞定稿方案「晨昏蓝」的过渡配方，色值与原型、规范页逐一对应。</p>
+
+  <h2>一、逐家取样</h2>
+
+  <div class="site"><h3>无问芯穹 <small>infini-ai.com · 黑底 + 紫光</small></h3>
+    <img src="gradient_study/infini.png" alt="无问芯穹首屏与色带">
+    <p>上到下：<code>#6438D0 → #1C103A → #0D0A13</code>。紫色不是一块色，而是从插画中心向外发光、逐渐没入黑色；左右方向也在 <code>#0A0416</code> 与 <code>#796F8F</code> 之间来回，说明光源在画面中部偏右。CSS 里没有渐变声明，过渡全在图片里。</p></div>
+
+  <div class="site"><h3>硅基流动 <small>siliconflow.cn · 淡紫到白的竖向渐变 + 模糊光斑</small></h3>
+    <img src="gradient_study/sf.png" alt="硅基流动首屏与色带">
+    <p>上到下：<code>#D6CEFE → #C7C4EB → #DCDCFD → #F1F0FD</code>，顶部最紫、底部接近白；横向在 <code>#E3DFFE</code> 附近几乎不变。画面里另有两三个大尺寸模糊紫色圆斑。CSS 抓到：<code>linear-gradient(to right, rgb(37,39,54), rgb(110,41,245))</code>（深色卡片用）。</p></div>
+
+  <div class="site"><h3>PPIO <small>ppio.com · 极浅蓝底 + 中央径向光 + 玻璃体</small></h3>
+    <img src="gradient_study/ppio.png" alt="PPIO 首屏与色带">
+    <p>上到下 <code>#E8F0FE → #C6D7FE → #DFEAFE</code>：中下部最蓝（玻璃方块所在），四边回到接近白。CSS 抓到四条渐变，主标题与按钮用 <code>linear-gradient(120deg, #3B82F6, #6366F1 50%, #8B5CF6)</code>，底部用 <code>linear-gradient(rgba(255,255,255,0), #fff)</code> 把插画淡出到白。</p></div>
+
+  <div class="site"><h3>Together <small>together.ai · 白到浅蓝的径向渐变 + 多色 3D 物体</small></h3>
+    <img src="gradient_study/tg.png" alt="Together 首屏与色带">
+    <p>CSS 抓到：<code>radial-gradient(circle, #F6FAFD 35%, #E5F3FF)</code> 与 <code>linear-gradient(#fff 15.93%, #F6FAFD 26.07%, #E5F3FF 73.05%)</code>。像素取样证实背景只在 <code>#FEFEFF</code> 到 <code>#DEE0EA</code> 之间变化，所有饱和色都在 3D 物体上（蓝 → 紫 → 橙的多段渐变）。</p></div>
+
+  <div class="site"><h3>智谱 BigModel <small>open.bigmodel.cn · 白底 + 模糊色斑 + 双色卡片</small></h3>
+    <img src="gradient_study/zhipu.png" alt="智谱首屏与色带">
+    <p>左到右 <code>#F7F8FA → #92D2F0 → #C4C8EC → #C8DBF8 → #F7F8FA</code>：三张卡片各自是一组双色渐变（青 → 蓝、淡紫 → 蓝、蓝 → 淡蓝），卡片之外全是白。搜索框后面另有一层低饱和的青紫色斑。</p></div>
+
+  <div class="site"><h3>DeepSeek 开放平台 <small>platform.deepseek.com · 竖向蓝灰到黑 + 照片</small></h3>
+    <img src="gradient_study/ds.png" alt="DeepSeek 平台首屏与色带">
+    <p>CSS 抓到左栏：<code>linear-gradient(#7594B7 0%, #4F6375 31%, #2D3B4D 56%, #121519 100%)</code> 叠在一张照片上，四段色标把蓝灰慢慢压到黑；右栏纯白。</p></div>
+
+  <div class="site"><h3>OpenRouter <small>openrouter.ai · 白底 + 网格淡出 + 极低饱和紫斑</small></h3>
+    <img src="gradient_study/or.png" alt="OpenRouter 首屏与色带">
+    <p>像素几乎全在 <code>#F8F9FB</code> 到 <code>#FCFCFE</code>，紫色只出现在按钮。CSS 抓到两条用于把背景网格淡出的渐变：<code>linear-gradient(to top in oklab, #FCFCFE 0%, transparent 50%, #FCFCFE 100%)</code>。</p></div>
+
+  <div class="site"><h3>Crusoe / Emerald / Soluna <small>实拍 + 暗角压黑</small></h3>
+    <img src="gradient_study/crusoe.png" alt="Crusoe 首屏与色带">
+    <p>三家都是照片打底，再用 <code>linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.5))</code>（Crusoe）或 <code>rgba(0,0,0,.28) → .37 → .8</code>（Emerald）从上到下压暗，让白字落在暗部。色带因此是从深灰绿或深棕慢慢变黑，而不是纯色块。</p></div>
+
+  <div class="site"><h3>Dia Early Birds <small>diabrowser.com/early-birds · 弧形地平线</small> <span class="tag">晨昏蓝的来源</span></h3>
+    <img src="gradient_study/earlybirds.png" alt="Dia Early Birds 首屏与色带">
+    <p>上到下 <code>#4A7DD5 → #88777B → #343233 → #222021</code>：天空蓝在最上，经一道很窄的霞色（藕灰）落到炭黑，下半屏全是黑，白字落在黑区。左右方向几乎不变（<code>#434A5A ↔ #474E5E</code>），说明它不是平行色带，而是一条以画面下方为圆心的<b>弧</b>：炭黑在圆内、霞光沿弧的外缘、天空在最外。主导色 59% 是炭黑 <code>#242424</code>，天空蓝只占 5%。沐仞的晨昏蓝就是从这页取的四个锚点（天空 <code>#5284D7</code>、霞 <code>#B7A8A3</code>、暮 <code>#3D314F</code>、炭 <code>#212021</code>），几何上也照抄了"大半径径向渐变"，只是把弧顶抬高、把霞光带加宽。</p></div>
+
+  <div class="site"><h3>沐仞定稿首屏 <small>原型 v26 · 1440×900 · 2026-10-13 取样</small> <span class="tag">定稿</span></h3>
+    <img src="gradient_study/fp_final.png" alt="沐仞定稿首屏与色带">
+    <p>上到下：顶端天空蓝，四分之一处 <code>#968FA1</code>（霞与暮之间），中段 <code>#AAAAAA</code>（半透明磨砂的产品窗压在黑区上），底部白弧回到纸白 <code>#F8F8F8</code>。左右方向 <code>#F8F8F8 → #ACAFBB → #A7A6AA → #B3B6C2 → #F8F8F8</code>，两侧比中间亮是因为白弧在两侧更高。主导色：纸白 27%、炭黑 22%、浅灰 12%、天空蓝 8%。和 Early Birds 相比，沐仞的霞光带更宽（约 130px 对 Dia 的约 60px）、弧顶更高（235px），黑区比例更小，整体更接近"白底 + 一道晨昏"而不是"黑底"。无头走查对首屏下方的留白区逐列测色差：相邻列 ΔE 最大 0.84、左侧通栏逐行最大 1.22，没有可见硬边。</p></div>
+
+
+  <div class="site"><h3>沐仞现网 <small>fathompeak.cn · 白底 + 渐变标题</small> <small>改版前</small></h3>
+    <img src="gradient_study/fp.png" alt="沐仞现网首屏与色带">
+    <p>背景几乎纯白（<code>#FCFCFC</code> 占 91%），唯一的过渡是标题文字 <code>linear-gradient(135deg, #1D4ED8, #059669)</code>。问题不在"有没有渐变"，而在蓝和绿两端都是别家的颜色。</p></div>
+
+  <h2>二、技法归纳</h2>
+  <table>
+    <tr><th>技法</th><th>谁在用</th><th>做法</th></tr>
+    <tr><td>弧形地平线（大半径径向渐变）</td><td>Dia Early Birds → <b>沐仞定稿</b></td><td>圆心放在首屏下方约一个屏宽处，圆内是炭黑，沿圆的外缘依次排暮紫、霞、近白、淡蓝，最外是天空蓝；白字落在黑区，底部再用一道白弧接回纸面。形状和颜色同样重要：是弧，不是平行色带。</td></tr>
+    <tr><td>大尺寸径向光斑 / 色雾</td><td>硅基流动、PPIO、智谱、Together、<b>沐仞内页</b></td><td>在白或极浅底上放 1–4 个直径 400–900px、边缘完全透明的品牌色光斑，不同色相的光斑分开放，中间留白，不让它们直接相混；沐仞企业页在此基础上整体模糊 18px 并向下淡出。</td></tr>
+    <tr><td>竖向线性渐变</td><td>硅基流动、DeepSeek、Together</td><td>顶部带色、往下回到白（或往下压到黑），3–4 个色标，中间色标偏向浅色端，避免中段发灰。</td></tr>
+    <tr><td>渐变文字</td><td>PPIO、沐仞现网（改版前）</td><td>只用于标题或强调词，两端取同一色相的深浅，或相邻色相；对比度按最浅一端算。定稿里首屏标题是纯白反白，不再用渐变文字。</td></tr>
+    <tr><td>双色渐变卡片</td><td>智谱</td><td>相邻色相（青 → 蓝、蓝 → 紫）做 120° 线性渐变，卡片之间靠白色间隔。</td></tr>
+    <tr><td>淡出遮罩</td><td>PPIO、OpenRouter、<b>沐仞定稿</b></td><td>用 透明 → 白 的线性渐变把插画或网格融进页面底色，消除硬边；沐仞的产品窗底部与色雾底部都用这一招。</td></tr>
+    <tr><td>照片压暗</td><td>Crusoe、Emerald、Soluna、DeepSeek</td><td>实拍上叠 透明 → 半透明黑 的渐变，文字落在暗部。</td></tr>
+    <tr><td>发光没入黑</td><td>无问芯穹</td><td>深色底，品牌色从画面主体向外发光，向四周逐渐没入黑色。</td></tr>
+  </table>
+  <p class="note">共同点：没有一家把两个饱和色直接贴在一起。要么同一色相走深浅，要么相邻色相（蓝 ↔ 紫、青 ↔ 蓝）做渐变，要么用白或黑当中间层。互补色只以分开的光斑出现，不做线性混合，因为中段会变成灰。晨昏蓝的地平线之所以能把蓝和暖霞放在一起，是因为中间隔了一层"藕灰 → 暮紫 → 炭"的低饱和过渡，蓝与霞从不直接相接。</p>
+
+  <h2>三、沐仞定稿的过渡配方：晨昏蓝（白底）</h2>
+  <p class="lead">定稿只有一个强调色（晨蓝 <code>#2F63B8</code> / 填充 <code>#5284D7</code>），暮紫 <code>#4E3F66</code> 只做"峰时 / 窗口 / 减排"状态色，不做装饰、不与蓝做线性混合。所有过渡只有三条：首屏的<b>地平线</b>，内页的<b>色雾</b>，以及组件里的<b>填充蓝 → 白</b>。下面的色值与 <code>demo/沐仞品牌色卡与字体_晨昏蓝_2026-10-12.html</code> 和原型 v26 的 27 个 token 一致。</p>
+
+  <h3 style="margin-top:18px">地平线：原型 CSS 的实际色标（由圆心向外，炭 → 暮 → 霞 → 近白 → 淡蓝 → 天空）</h3>
+  <div class="ramp dense"><span style="background:#212021"><i>#212021</i></span><span style="background:#3D314F"><i>#3D314F</i></span><span style="background:#7A6071"><i>#7A6071</i></span><span style="background:#A88E92"><i>#A88E92</i></span><span style="background:#B7A8A3"><i>#B7A8A3</i></span><span style="background:#D9C0B9" class="lt"><i>#D9C0B9</i></span><span style="background:#E9DCD8" class="lt"><i>#E9DCD8</i></span><span style="background:#CFD9E4" class="lt"><i>#CFD9E4</i></span><span style="background:#9DBBE4" class="lt"><i>#9DBBE4</i></span><span style="background:#6F9CE0"><i>#6F9CE0</i></span><span style="background:#5284D7"><i>#5284D7</i></span><span style="background:#4A7CD3"><i>#4A7CD3</i></span></div>
+  <p class="note">十二个色标分布在 0 → 230px 的弧外缘上（炭黑占到 100vw 处，之后 16 / 34 / 52 / 66 / 84 / 100 / 118 / 142 / 175 / 230px），霞光带约 130px；最外一段 <code>#5284D7 → #4A7CD3</code> 拉到 700px 让天空微微变深。四个锚点 token：<code>--hz-3</code> 炭、<code>--hz-2b</code> 暮、<code>--hz-2</code> 霞、<code>--hz-1</code> 天空；弧上另有一团霞光 <code>--hz-haze #E8D4CC</code>（模糊 36px、透明度 .9）。</p>
+
+  <h3 style="margin-top:18px">同一条地平线按 OKLab 等距插值（用于校验：相邻色差 ΔE 最大 12.2，没有跳变）</h3>
+  <div class="ramp dense"><span style="background:#5284D7"><i>#5284D7</i></span><span style="background:#6D8FCC"><i>#6D8FCC</i></span><span style="background:#8698BF"><i>#8698BF</i></span><span style="background:#9FA0B2"><i>#9FA0B2</i></span><span style="background:#B7A8A3"><i>#B7A8A3</i></span><span style="background:#96888E"><i>#96888E</i></span><span style="background:#776A79"><i>#776A79</i></span><span style="background:#594D64"><i>#594D64</i></span><span style="background:#3D314F"><i>#3D314F</i></span><span style="background:#362D43"><i>#362D43</i></span><span style="background:#2F2938"><i>#2F2938</i></span><span style="background:#28242C"><i>#28242C</i></span><span style="background:#212021"><i>#212021</i></span></div>
+
+  <h3 style="margin-top:18px">填充蓝 → 白（光斑、区块底、卡片、chip；相邻 ΔE 6.2–8.3）</h3>
+  <div class="ramp"><span style="background:#5284D7"><i>#5284D7</i></span><span style="background:#6E99DF"><i>#6E99DF</i></span><span style="background:#8AADE7"><i>#8AADE7</i></span><span style="background:#A7C2ED" class="lt"><i>#A7C2ED</i></span><span style="background:#C4D6F4" class="lt"><i>#C4D6F4</i></span><span style="background:#E1EBFA" class="lt"><i>#E1EBFA</i></span><span style="background:#FFFFFF" class="lt"><i>#FFFFFF</i></span></div>
+  <p class="note">规范页的几个浅色 token 都落在这条带上：雾 1 <code>#A9C3E8</code>（离带 ΔE 1.4）、晨蓝软 <code>#DCE7F7</code>（1.0）、雾 2 <code>#E3ECF8</code>（1.2）、晨蓝淡 <code>#EEF3FB</code>（3.6）。所以蓝色系的浅色之间可以任意衔接，不会出现第二种蓝。</p>
+
+  <h3 style="margin-top:18px">炭 → 暮紫 → 文字蓝（页脚、深色图板、标题渐变；相邻 ΔE 4.7–9.3）</h3>
+  <div class="ramp"><span style="background:#212021"><i>#212021</i></span><span style="background:#2A2630"><i>#2A2630</i></span><span style="background:#332B3F"><i>#332B3F</i></span><span style="background:#3D314F"><i>#3D314F</i></span><span style="background:#3D4270"><i>#3D4270</i></span><span style="background:#395294"><i>#395294</i></span><span style="background:#2F63B8"><i>#2F63B8</i></span></div>
+
+  <h3 style="margin-top:18px">内页色雾（企业与出海等浅色首屏）：四团雾分开放，整体模糊，向下淡出</h3>
+  <div class="ramp"><span style="background:#A9C3E8" class="lt"><i>雾 1 #A9C3E8</i></span><span style="background:#E3ECF8" class="lt"><i>雾 2 #E3ECF8</i></span><span style="background:#EBCFC4" class="lt"><i>雾 3 #EBCFC4</i></span><span style="background:#D6CBDD" class="lt"><i>雾 4 #D6CBDD</i></span><span style="background:#F8F8F8" class="lt"><i>纸白 #F8F8F8</i></span></div>
+  <p class="note">雾 3 霞粉与雾 4 淡紫是地平线霞色与暮色提亮后的版本（与 <code>#B7A8A3</code>、<code>#3D314F</code> 同色相），所以内页和首屏是同一套"晨昏"；它们与雾 1 浅蓝不相接，中间隔着纸白或雾 2。</p>
+
+  <h3 style="margin-top:22px">两块预览：定稿首屏 vs 定稿内页</h3>
+  <div class="recipe">
+    <div class="prev hz"><div class="hd">定稿首屏：弧形地平线 + 白弧 + 黑胶囊（等比缩小）</div><div class="sc"><b>主流模型 × 异构算力，<br>一站式大模型 API 平台。</b><span class="sub">低成本、高可用、全兼容。</span><div class="arc"></div><span class="btn">获取 API Key ↓</span></div></div>
+    <div class="prev fog"><div class="hd">定稿内页：纸白 + 四团色雾向下淡出</div><div class="sc"><b>给企业与出海客户</b><span class="btn">联系销售</span></div></div>
+  </div>
+  <pre>/* 首屏地平线（原型 v26 实际代码；圆心在首屏下方 100vw + 235px 处） */
+.hero .field{background:radial-gradient(circle at 50% calc(235px + 100vw),
+  var(--hz-3) 0, var(--hz-3) calc(100vw - 1px), var(--hz-2b) calc(100vw + 16px), #7A6071 calc(100vw + 34px),
+  #A88E92 calc(100vw + 52px), var(--hz-2) calc(100vw + 66px), #D9C0B9 calc(100vw + 84px), #E9DCD8 calc(100vw + 100px),
+  #CFD9E4 calc(100vw + 118px), #9DBBE4 calc(100vw + 142px), #6F9CE0 calc(100vw + 175px), var(--hz-1) calc(100vw + 230px), #4A7CD3 calc(100vw + 700px))}
+/* 手机端：半径 140vw，弧顶 150px，各色标间距按 0.75 缩 */
+/* 内页色雾：四团雾分开放，整体模糊 18px，40% 以下线性淡出到纸白 */
+.fog{background:radial-gradient(60% 55% at 20% 20%,var(--field-1),transparent 70%),
+  radial-gradient(50% 50% at 80% 25%,var(--field-3),transparent 70%),
+  radial-gradient(45% 45% at 55% 70%,var(--field-4),transparent 72%),
+  radial-gradient(70% 60% at 50% 100%,var(--field-2),transparent 70%);
+  filter:blur(18px);opacity:.9;mask-image:linear-gradient(#000 40%,transparent)}
+/* 产品窗：半透明磨砂，底部 58% 处开始渐隐；区块之间用 纸白 → 晨蓝淡 的线性渐变，不用硬边 */
+.window{background:rgba(255,255,255,.82);backdrop-filter:blur(22px);mask-image:linear-gradient(#000 58%,transparent)}
+.section-alt{background:linear-gradient(180deg,#F8F8F8 0%,#EEF3FB 100%)}
+/* 按钮不参与色彩过渡：纯黑胶囊，悬停 #424242，不抬升不加影 */</pre>
+  <p class="note">对比度（WCAG 2.1，规范页实算）：晨蓝文字 <code>#2F63B8</code> 在纸白 5.84（AA）、在晨蓝淡上 5.24；白字在填充蓝 <code>#5284D7</code> 上 3.72，只做大字与图形；暮紫 <code>#4E3F66</code> 在暮紫软上 7.57；首屏白字在炭上 16.24；墨 70% 在纸白 8.34；墨 50% 3.93，只做 11px 辅助标签。所有色雾与地平线中段颜色都不承载文字。全站只有浅色主题，系统深色模式下也保持白底。</p>
+
+</div>
