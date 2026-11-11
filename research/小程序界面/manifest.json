@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Kimi｜小程序首页",
+    "file": "screenshots/04-Kimi-小程序首页-历史资料20240408.jpg",
+    "type": "历史小程序截图 · 2024-04-08",
+    "source": "https://www.sohu.com/a/770009166_114819",
+    "note": "深色底、少量蓝色强调，底部输入框与示例问题构成使用入口。",
+    "collected": "2026-10-14",
+    "sha256": "d749da5e04e9e5bb1232e579e916f881d52cb697b8f68cb4bfa9304427ef82c4"
+  },
+  {
+    "title": "Kimi｜语音输入",
+    "file": "screenshots/05-Kimi-语音输入-历史资料20240408.jpg",
+    "type": "历史小程序截图 · 2024-04-08",
+    "source": "https://www.sohu.com/a/770009166_114819",
+    "note": "输入方式切换后，语音成为主要操作；保留示例任务卡。",
+    "collected": "2026-10-14",
+    "sha256": "d749da5e04e9e5bb1232e579e916f881d52cb697b8f68cb4bfa9304427ef82c4"
+  },
+  {
+    "title": "元宝｜小程序首页",
+    "file": "screenshots/08-元宝-小程序首页-历史资料20240918.png",
+    "type": "历史小程序截图 · 2024-09-18 报告第7页",
+    "source": "https://pdf.dfcfw.com/pdf/H301_AP202409181639926366_1.pdf",
+    "note": "浅底、圆角内容区，任务快捷入口位于底部输入框上方。",
+    "collected": "2026-10-14",
+    "sha256": "430502dc32f9925988441ea0da0a5be2dcc400a67cf016a36c39d499f6870dba"
+  },
+  {
+    "title": "元宝｜文件总结流程",
+    "file": "screenshots/07-元宝与Kimi-历史报告第8页.png",
+    "type": "历史公开报告 · 2024-09-18 第8页",
+    "source": "https://pdf.dfcfw.com/pdf/H301_AP202409181639926366_1.pdf",
+    "note": "保留原报告页面和来源；观察选文件、发送、阅读结果的步骤。",
+    "collected": "2026-10-14",
+    "sha256": "376cdbcaa53c0b1ca32ff792b6e532d2f0b644a30fe192acf9ce80cbcd01908c"
+  },
+  {
+    "title": "创客贴作图神器｜官方入口",
+    "file": "screenshots/03-创客贴-官方小程序入口.jpg",
+    "type": "官方网页实拍 · 2026-10-14；不是小程序内部界面",
+    "source": "https://www.chuangkit.com/clientpage",
+    "note": "已确认官方小程序名称和二维码；模板、编辑、会员页待微信内实拍。",
+    "collected": "2026-10-14",
+    "sha256": "b29cbd0141abb77628a7347f2d9859868fc4d815c4ef3604a76b3883ee120e61"
+  },
+  {
+    "title": "无问芯穹｜企业端补充",
+    "file": "screenshots/01-无问芯穹-Web首页.jpg",
+    "type": "官方 Web 实拍 · 2026-10-14",
+    "source": "https://cloud.infini-ai.com/platform/ai",
+    "note": "仅作为企业产品组织参考，未确认官方小程序入口。",
+    "collected": "2026-10-14",
+    "sha256": "0145e27c5d4fcb105ed795af784982c13b543b981891cba841876bf2cae502f4"
+  },
+  {
+    "title": "硅基流动｜企业端补充",
+    "file": "screenshots/02-硅基流动-Web首页.jpg",
+    "type": "官方 Web 实拍 · 2026-10-14",
+    "source": "https://www.siliconflow.cn/",
+    "note": "仅作为企业产品组织参考，未确认官方小程序入口。",
+    "collected": "2026-10-14",
+    "sha256": "341afca5b53bf206027d1d0394532a436eab62caf6baf3e565385472d83b8466"
+  }
+]
